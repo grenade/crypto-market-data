@@ -4,18 +4,18 @@ rank: 1844
 symbol: BENZ
 name: Benz
 marketCap:
-  BTC: "0.0622691150715"
   USD: "678.057330153"
+  BTC: "0.0622691150715"
 price:
   USD: "0.000113787701706"
   BTC: "1.04496466245e-08"
 volume:
-  BTC: "0.0334156149154"
   USD: "363.867426235"
+  BTC: "0.0334156149154"
 supply:
   BENZ: "5958968.5"
 change:
-  7d: "4.43"
-  24h: "-39.75"
   1h: "-0.24"
+  24h: "-39.75"
+  7d: "4.43"
 isMineable: false

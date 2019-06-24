@@ -4,18 +4,18 @@ rank: 376
 symbol: SLT
 name: Smartlands
 marketCap:
-  USD: "9160190.59309"
   BTC: "841.222322588"
+  USD: "9160190.59309"
 price:
   BTC: "0.000164916591185"
   USD: "1.79580042832"
 volume:
-  USD: "10464.6548314"
   BTC: "0.961017257545"
+  USD: "10464.6548314"
 supply:
   SLT: "5100895.65"
 change:
-  7d: "-19.75"
   1h: "-1.25"
+  7d: "-19.75"
   24h: "-3.72"
 isMineable: false

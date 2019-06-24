@@ -4,18 +4,18 @@ rank: 1614
 symbol: XGS
 name: GenesisX
 marketCap:
-  USD: "58485.4673071"
   BTC: "5.37098875243"
+  USD: "58485.4673071"
 price:
   BTC: "7.10157567571e-07"
   USD: "0.00773300766684"
 volume:
-  USD: "86.9956827584"
   BTC: "0.00798921262185"
+  USD: "86.9956827584"
 supply:
   XGS: "7563094.44226"
 change:
   1h: "0.08"
-  24h: "47.36"
   7d: "6.55"
+  24h: "47.36"
 isMineable: true

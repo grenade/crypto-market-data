@@ -4,8 +4,8 @@ rank: 2086
 symbol: WBL
 name: WIZBL
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
   USD: "0.00206939641789"
   BTC: "1.9004216597e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   WBL: "0"
 change:
-  1h: "0.08"
   24h: "-1.31"
+  1h: "0.08"
   7d: "5.93"
 isMineable: false

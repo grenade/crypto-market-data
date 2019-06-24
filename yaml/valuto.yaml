@@ -4,18 +4,18 @@ rank: 2148
 symbol: VLU
 name: Valuto
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "2.10046604493e-07"
   USD: "0.00228722761977"
+  BTC: "2.10046604493e-07"
 volume:
   BTC: "0.00030127054898"
   USD: "3.28057824269"
 supply:
   VLU: "0"
 change:
-  1h: "0.08"
   24h: "1.12"
+  1h: "0.08"
   7d: "37.93"
 isMineable: true

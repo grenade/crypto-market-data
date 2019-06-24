@@ -15,7 +15,7 @@ volume:
 supply:
   UTS: "0"
 change:
-  1h: "-0.24"
-  7d: "-81.90"
   24h: "-2.30"
+  7d: "-81.90"
+  1h: "-0.24"
 isMineable: false

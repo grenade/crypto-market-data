@@ -4,8 +4,8 @@
   "symbol": "OBX",
   "name": "OOOBTC TOKEN",
   "marketCap": {
-    "BTC": "",
-    "USD": ""
+    "USD": "",
+    "BTC": ""
   },
   "price": {
     "BTC": "7.79011546697e-07",
@@ -19,9 +19,9 @@
     "OBX": "0"
   },
   "change": {
-    "24h": "25.70",
     "1h": "11.56",
-    "7d": "26.78"
+    "7d": "26.78",
+    "24h": "25.70"
   },
   "isMineable": false
 }

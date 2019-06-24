@@ -4,18 +4,18 @@ rank: 1061
 symbol: GENE
 name: Parkgene
 marketCap:
-  BTC: "15.5373448389"
   USD: "169188.37769"
+  BTC: "15.5373448389"
 price:
-  BTC: "5.27116955084e-08"
   USD: "0.000573985216961"
+  BTC: "5.27116955084e-08"
 volume:
   BTC: "2.43467545978"
   USD: "26511.5304779"
 supply:
   GENE: "294760862.634"
 change:
-  24h: "-13.56"
-  7d: "-2.73"
   1h: "-0.23"
+  7d: "-2.73"
+  24h: "-13.56"
 isMineable: false

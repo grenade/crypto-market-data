@@ -4,18 +4,18 @@ rank: 327
 symbol: EMC
 name: Emercoin
 marketCap:
-  USD: "11029503.5339"
   BTC: "1012.66516813"
+  USD: "11029503.5339"
 price:
   USD: "0.250362751491"
   BTC: "2.29868585701e-05"
 volume:
-  USD: "41648.9884114"
   BTC: "3.82396902293"
+  USD: "41648.9884114"
 supply:
   EMC: "44054091.3863"
 change:
-  7d: "2.03"
   24h: "-3.75"
   1h: "-0.08"
+  7d: "2.03"
 isMineable: true

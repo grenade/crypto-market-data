@@ -4,8 +4,8 @@
   "symbol": "NEWOS",
   "name": "NewsToken",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "BTC": "8.89632077491e-08",
@@ -19,9 +19,9 @@
     "NEWOS": "0"
   },
   "change": {
-    "1h": "-6.79",
     "7d": "-1.60",
-    "24h": "24.51"
+    "24h": "24.51",
+    "1h": "-6.79"
   },
   "isMineable": false
 }

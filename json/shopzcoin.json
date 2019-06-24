@@ -4,8 +4,8 @@
   "symbol": "SZC",
   "name": "ShopZcoin",
   "marketCap": {
-    "BTC": "",
-    "USD": ""
+    "USD": "",
+    "BTC": ""
   },
   "price": {
     "BTC": "3.06780915235e-08",
@@ -19,9 +19,9 @@
     "SZC": "0"
   },
   "change": {
+    "7d": "-36.79",
     "24h": "-37.54",
-    "1h": "0.11",
-    "7d": "-36.79"
+    "1h": "0.11"
   },
   "isMineable": true
 }

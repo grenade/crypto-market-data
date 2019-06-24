@@ -4,8 +4,8 @@ rank: 2035
 symbol: HYT
 name: HoryouToken
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
   USD: "0.00959145639594"
   BTC: "8.80827439602e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   HYT: "0"
 change:
-  7d: "18.74"
   24h: "11.36"
+  7d: "18.74"
   1h: "-0.10"
 isMineable: false

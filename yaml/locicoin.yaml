@@ -4,8 +4,8 @@ rank: 1527
 symbol: LOCI
 name: LOCIcoin
 marketCap:
-  BTC: "10.9034919492"
   USD: "119565.559835"
+  BTC: "10.9034919492"
 price:
   BTC: "2.63450622616e-07"
   USD: "0.00288894799286"
@@ -15,7 +15,7 @@ volume:
 supply:
   LOCI: "41387231.6602"
 change:
-  7d: "-2.59"
   1h: "0.00"
+  7d: "-2.59"
   24h: "-0.84"
 isMineable: false

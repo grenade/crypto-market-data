@@ -4,8 +4,8 @@ rank: 808
 symbol: IQN
 name: IQeon
 marketCap:
-  BTC: "111.514113347"
   USD: "1214293.18344"
+  BTC: "111.514113347"
 price:
   USD: "0.437539475276"
   BTC: "4.01812571337e-05"
@@ -15,7 +15,7 @@ volume:
 supply:
   IQN: "2775276.86542"
 change:
-  1h: "-0.08"
-  24h: "-8.97"
   7d: "4.82"
+  24h: "-8.97"
+  1h: "-0.08"
 isMineable: false

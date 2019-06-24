@@ -4,8 +4,8 @@
   "symbol": "ALGO",
   "name": "Algorand",
   "marketCap": {
-    "BTC": "",
-    "USD": ""
+    "USD": "",
+    "BTC": ""
   },
   "price": {
     "BTC": "0.000125601308388",
@@ -19,8 +19,8 @@
     "ALGO": "0"
   },
   "change": {
-    "24h": "-26.82",
-    "1h": "1.50"
+    "1h": "1.50",
+    "24h": "-26.82"
   },
   "isMineable": true
 }

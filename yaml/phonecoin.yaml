@@ -4,18 +4,18 @@ rank: 1604
 symbol: PHON
 name: Phonecoin
 marketCap:
-  BTC: "5.50356505181"
   USD: "59929.1096569"
+  BTC: "5.50356505181"
 price:
-  BTC: "7.00155348309e-08"
   USD: "0.00076240920659"
+  BTC: "7.00155348309e-08"
 volume:
-  USD: "5.79862514084"
   BTC: "0.000532514346641"
+  USD: "5.79862514084"
 supply:
   PHON: "78604913.3967"
 change:
   24h: "15.19"
-  1h: "0.08"
   7d: "22.13"
+  1h: "0.08"
 isMineable: true

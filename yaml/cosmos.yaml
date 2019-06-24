@@ -4,8 +4,8 @@ rank: 16
 symbol: ATOM
 name: Cosmos
 marketCap:
-  BTC: "115155.255414"
   USD: "1253942101.95"
+  BTC: "115155.255414"
 price:
   BTC: "0.000603892170374"
   USD: "6.5758685068"
@@ -15,7 +15,7 @@ volume:
 supply:
   ATOM: "190688439.2"
 change:
-  24h: "-5.21"
-  7d: "-4.96"
   1h: "-0.27"
+  7d: "-4.96"
+  24h: "-5.21"
 isMineable: false

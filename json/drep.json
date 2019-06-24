@@ -4,8 +4,8 @@
   "symbol": "DREP",
   "name": "DREP",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "USD": "0.00341416278194",
@@ -19,9 +19,9 @@
     "DREP": "0"
   },
   "change": {
+    "7d": "11.58",
     "1h": "-0.48",
-    "24h": "-6.37",
-    "7d": "11.58"
+    "24h": "-6.37"
   },
   "isMineable": false
 }

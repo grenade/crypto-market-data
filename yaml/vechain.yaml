@@ -4,8 +4,8 @@ rank: 31
 symbol: VET
 name: VeChain
 marketCap:
-  BTC: "35429.1493675"
   USD: "385793091.842"
+  BTC: "35429.1493675"
 price:
   USD: "0.00695690085317"
   BTC: "6.38884118647e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   VET: "55454734800.0"
 change:
-  24h: "-3.19"
   7d: "-6.24"
+  24h: "-3.19"
   1h: "-1.13"
 isMineable: false

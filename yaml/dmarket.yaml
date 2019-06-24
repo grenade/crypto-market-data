@@ -4,8 +4,8 @@ rank: 336
 symbol: DMT
 name: DMarket
 marketCap:
-  BTC: "998.999852628"
   USD: "10878252.7601"
+  BTC: "998.999852628"
 price:
   BTC: "1.95580832803e-05"
   USD: "0.212970775588"
@@ -15,7 +15,7 @@ volume:
 supply:
   DMT: "51078617.3835"
 change:
+  1h: "0.48"
   24h: "1.87"
   7d: "-3.75"
-  1h: "0.48"
 isMineable: false

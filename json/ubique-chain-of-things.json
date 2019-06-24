@@ -4,8 +4,8 @@
   "symbol": "UCT",
   "name": "Ubique Chain Of Things",
   "marketCap": {
-    "BTC": "",
-    "USD": ""
+    "USD": "",
+    "BTC": ""
   },
   "price": {
     "BTC": "1.50709047488e-06",
@@ -19,9 +19,9 @@
     "UCT": "0"
   },
   "change": {
-    "7d": "0.30",
+    "1h": "-0.70",
     "24h": "-0.23",
-    "1h": "-0.70"
+    "7d": "0.30"
   },
   "isMineable": false
 }

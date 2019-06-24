@@ -4,18 +4,18 @@ rank: 1525
 symbol: XCLR
 name: ClearCoin
 marketCap:
-  BTC: "11.0930884306"
   USD: "120794.231872"
+  BTC: "11.0930884306"
 price:
   USD: "0.000228831677578"
   BTC: "2.10146626685e-08"
 volume:
-  BTC: "0.0354573061577"
   USD: "386.099695172"
+  BTC: "0.0354573061577"
 supply:
   XCLR: "527873733.0"
 change:
+  1h: "0.07"
   24h: "-43.26"
   7d: "-35.53"
-  1h: "0.07"
 isMineable: false

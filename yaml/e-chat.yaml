@@ -4,8 +4,8 @@ rank: 1130
 symbol: ECHT
 name: e-Chat
 marketCap:
-  USD: "45403.6049082"
   BTC: "4.16962131808"
+  USD: "45403.6049082"
 price:
   USD: "0.00247705327598"
   BTC: "2.27479165287e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   ECHT: "18329684.4474"
 change:
-  1h: "-0.65"
-  24h: "18.52"
   7d: "2.76"
+  24h: "18.52"
+  1h: "-0.65"
 isMineable: false

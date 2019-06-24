@@ -15,7 +15,7 @@ volume:
 supply:
   KLKS: "16056012.383"
 change:
-  1h: "0.82"
-  7d: "2.84"
   24h: "0.03"
+  7d: "2.84"
+  1h: "0.82"
 isMineable: true

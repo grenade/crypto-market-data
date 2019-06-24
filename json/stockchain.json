@@ -4,8 +4,8 @@
   "symbol": "SCC",
   "name": "StockChain",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "BTC": "4.91909143283e-08",
@@ -20,8 +20,8 @@
   },
   "change": {
     "7d": "-12.74",
-    "1h": "-0.02",
-    "24h": "4.27"
+    "24h": "4.27",
+    "1h": "-0.02"
   },
   "isMineable": false
 }

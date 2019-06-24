@@ -4,18 +4,18 @@ rank: 1694
 symbol: JIN
 name: Jin Coin
 marketCap:
-  BTC: "3.2876422852"
   USD: "30104.3780827"
+  BTC: "3.2876422852"
 price:
   BTC: "3.30071242253e-07"
   USD: "0.00302240590947"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   JIN: "9960402.07187"
 change:
-  7d: "0.00"
-  24h: "0.00"
   1h: "0.00"
+  24h: "0.00"
+  7d: "0.00"
 isMineable: true

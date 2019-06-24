@@ -4,18 +4,18 @@ rank: 1396
 symbol: BERRY
 name: Rentberry
 marketCap:
-  BTC: "27.1816513943"
   USD: "295984.902827"
+  BTC: "27.1816513943"
 price:
-  BTC: "9.01752763026e-08"
   USD: "0.000981931524567"
+  BTC: "9.01752763026e-08"
 volume:
-  USD: "84.8493120034"
   BTC: "0.00779210154941"
+  USD: "84.8493120034"
 supply:
   BERRY: "301431306.992"
 change:
-  24h: "-3.27"
-  7d: "31.36"
   1h: "-8.62"
+  7d: "31.36"
+  24h: "-3.27"
 isMineable: false

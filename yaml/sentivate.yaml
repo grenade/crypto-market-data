@@ -4,18 +4,18 @@ rank: 783
 symbol: SNTVT
 name: Sentivate
 marketCap:
-  BTC: "125.714584891"
   USD: "1368924.15597"
+  BTC: "125.714584891"
 price:
   USD: "0.00151897393316"
   BTC: "1.39494344251e-07"
 volume:
-  USD: "55543.5863697"
   BTC: "5.10082233069"
+  USD: "55543.5863697"
 supply:
   SNTVT: "901216358.023"
 change:
-  7d: "-14.21"
   1h: "-1.57"
   24h: "-8.98"
+  7d: "-14.21"
 isMineable: false

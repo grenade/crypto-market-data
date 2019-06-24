@@ -4,8 +4,8 @@ rank: 1420
 symbol: PHO
 name: Photon
 marketCap:
-  BTC: "21.3423069534"
   USD: "232451.018731"
+  BTC: "21.3423069534"
 price:
   BTC: "7.35216392571e-10"
   USD: "8.00765352189e-06"
@@ -15,7 +15,7 @@ volume:
 supply:
   PHO: "29028605957.4"
 change:
-  1h: "-5.09"
   7d: "-0.69"
   24h: "-18.41"
+  1h: "-5.09"
 isMineable: true

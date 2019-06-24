@@ -4,8 +4,8 @@ rank: 1125
 symbol: WIT
 name: WITChain
 marketCap:
-  USD: "52200.1463426"
   BTC: "4.79377889568"
+  USD: "52200.1463426"
 price:
   BTC: "2.85343981886e-09"
   USD: "3.10715156801e-05"
@@ -16,6 +16,6 @@ supply:
   WIT: "1680000000.0"
 change:
   1h: "-0.23"
-  24h: "-18.19"
   7d: "-3.06"
+  24h: "-18.19"
 isMineable: false

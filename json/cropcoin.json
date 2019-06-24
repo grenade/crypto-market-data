@@ -4,23 +4,23 @@
   "symbol": "CROP",
   "name": "Cropcoin",
   "marketCap": {
-    "BTC": "",
-    "USD": ""
+    "USD": "",
+    "BTC": ""
   },
   "price": {
     "BTC": "1.0001068762e-08",
     "USD": "9.24740130999e-05"
   },
   "volume": {
-    "BTC": "0",
-    "USD": "0"
+    "USD": "0",
+    "BTC": "0"
   },
   "supply": {
     "CROP": "0"
   },
   "change": {
-    "7d": "0.00",
     "24h": "0.00",
+    "7d": "0.00",
     "1h": "0.00"
   },
   "isMineable": true

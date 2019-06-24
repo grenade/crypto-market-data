@@ -10,12 +10,12 @@ price:
   USD: "0.0439800779777"
   BTC: "4.03889230992e-06"
 volume:
-  BTC: "0.0"
   USD: "0.0"
+  BTC: "0.0"
 supply:
   ALIS: "39387437.4379"
 change:
+  7d: "-18.44"
   1h: "0.07"
   24h: "-13.58"
-  7d: "-18.44"
 isMineable: false

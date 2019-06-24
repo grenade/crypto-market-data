@@ -4,18 +4,18 @@ rank: 1516
 symbol: TIG
 name: Tigereum
 marketCap:
-  USD: "128838.51975"
   BTC: "11.8318322879"
+  USD: "128838.51975"
 price:
-  BTC: "6.49572628009e-07"
   USD: "0.00707328956551"
+  BTC: "6.49572628009e-07"
 volume:
-  USD: "48.7539922553"
   BTC: "0.00447730275735"
+  USD: "48.7539922553"
 supply:
   TIG: "18214795.0479"
 change:
-  24h: "-54.67"
   7d: "-55.82"
+  24h: "-54.67"
   1h: "-0.23"
 isMineable: false

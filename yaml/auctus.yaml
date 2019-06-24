@@ -4,18 +4,18 @@ rank: 1026
 symbol: AUC
 name: Auctus
 marketCap:
-  USD: "267745.255164"
   BTC: "24.588275006"
+  USD: "267745.255164"
 price:
-  USD: "0.00897666260784"
   BTC: "8.24368105805e-07"
+  USD: "0.00897666260784"
 volume:
   USD: "8978.49634987"
   BTC: "0.824536506747"
 supply:
   AUC: "29826815.027"
 change:
-  7d: "12.86"
   1h: "0.24"
+  7d: "12.86"
   24h: "3.28"
 isMineable: false

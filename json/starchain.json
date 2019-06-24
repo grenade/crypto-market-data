@@ -4,8 +4,8 @@
   "symbol": "STC",
   "name": "StarChain",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "BTC": "3.61301121419e-07",
@@ -19,8 +19,8 @@
     "STC": "0"
   },
   "change": {
-    "7d": "-23.63",
     "24h": "-6.55",
+    "7d": "-23.63",
     "1h": "-0.99"
   },
   "isMineable": false

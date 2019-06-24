@@ -4,8 +4,8 @@
   "symbol": "BLACK",
   "name": "eosBLACK",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "BTC": "2.61584425697e-07",
@@ -19,9 +19,9 @@
     "BLACK": "0"
   },
   "change": {
+    "7d": "7.46",
     "1h": "0.04",
-    "24h": "0.79",
-    "7d": "7.46"
+    "24h": "0.79"
   },
   "isMineable": false
 }

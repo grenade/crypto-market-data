@@ -4,11 +4,11 @@ rank: 1801
 symbol: URALS
 name: UralsCoin
 marketCap:
-  BTC: "0.692296532832"
   USD: "7538.51629637"
+  BTC: "0.692296532832"
 price:
-  USD: "0.000547306351551"
   BTC: "5.02616529141e-08"
+  USD: "0.000547306351551"
 volume:
   BTC: "0.000660167767179"
   USD: "7.18866155642"
@@ -16,6 +16,6 @@ supply:
   URALS: "13773851.2901"
 change:
   1h: "-9.72"
-  24h: "-0.50"
   7d: "-6.74"
+  24h: "-0.50"
 isMineable: true

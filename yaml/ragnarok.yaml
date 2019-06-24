@@ -4,18 +4,18 @@ rank: 1776
 symbol: RAGNA
 name: Ragnarok
 marketCap:
-  USD: "11118.8670509"
   BTC: "1.02109656672"
+  USD: "11118.8670509"
 price:
-  BTC: "8.00177540925e-08"
   USD: "0.000871324807531"
+  BTC: "8.00177540925e-08"
 volume:
-  USD: "99.3090024814"
   BTC: "0.00912000125675"
+  USD: "99.3090024814"
 supply:
   RAGNA: "12760875.112"
 change:
-  24h: "-11.10"
   1h: "0.08"
+  24h: "-11.10"
   7d: "-14.66"
 isMineable: true

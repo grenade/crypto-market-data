@@ -4,18 +4,18 @@ rank: 476
 symbol: MGO
 name: MobileGo
 marketCap:
-  BTC: "541.481220936"
   USD: "5896266.72187"
+  BTC: "541.481220936"
 price:
-  BTC: "5.41498131923e-06"
   USD: "0.0589645086803"
+  BTC: "5.41498131923e-06"
 volume:
-  USD: "99635.5359152"
   BTC: "9.14998831988"
+  USD: "99635.5359152"
 supply:
   MGO: "99996877.0"
 change:
   24h: "-6.04"
-  7d: "-20.40"
   1h: "0.26"
+  7d: "-20.40"
 isMineable: false

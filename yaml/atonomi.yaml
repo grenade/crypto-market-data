@@ -4,18 +4,18 @@ rank: 1011
 symbol: ATMI
 name: Atonomi
 marketCap:
-  USD: "304145.388752"
   BTC: "27.9310662512"
+  USD: "304145.388752"
 price:
   USD: "0.000620902232685"
   BTC: "5.70203002841e-08"
 volume:
-  BTC: "2.43260599441"
   USD: "26488.9957725"
+  BTC: "2.43260599441"
 supply:
   ATMI: "489844250.417"
 change:
   24h: "-4.66"
-  7d: "-2.87"
   1h: "-0.46"
+  7d: "-2.87"
 isMineable: false

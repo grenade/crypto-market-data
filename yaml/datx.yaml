@@ -4,18 +4,18 @@ rank: 798
 symbol: DATX
 name: DATx
 marketCap:
-  USD: "1281618.44075"
   BTC: "117.696900565"
+  USD: "1281618.44075"
 price:
   BTC: "8.4594756513e-08"
   USD: "0.000921164443727"
 volume:
-  USD: "339586.202616"
   BTC: "31.1857587655"
+  USD: "339586.202616"
 supply:
   DATX: "1391302551.33"
 change:
-  7d: "15.20"
   1h: "-0.31"
+  7d: "15.20"
   24h: "2.08"
 isMineable: false

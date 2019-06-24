@@ -15,7 +15,7 @@ volume:
 supply:
   LPT: "0"
 change:
+  7d: "6.16"
   24h: "-5.93"
   1h: "-4.11"
-  7d: "6.16"
 isMineable: false

@@ -4,18 +4,18 @@ rank: 964
 symbol: CCL
 name: CYCLEAN
 marketCap:
-  BTC: "42.3318004906"
   USD: "460957.050511"
+  BTC: "42.3318004906"
 price:
-  BTC: "6.23947548352e-08"
   USD: "0.000679425439571"
+  BTC: "6.23947548352e-08"
 volume:
   BTC: "0.0686395905979"
   USD: "747.426352377"
 supply:
   CCL: "678451267.297"
 change:
+  1h: "6.15"
   7d: "-8.52"
   24h: "40.59"
-  1h: "6.15"
 isMineable: false

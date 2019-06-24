@@ -4,8 +4,8 @@ rank: 2212
 symbol: BSN
 name: Bastonet
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
   BTC: "3.08269058491e-10"
   USD: "2.87973153717e-06"
@@ -15,7 +15,7 @@ volume:
 supply:
   BSN: "0"
 change:
-  24h: "0.00"
-  1h: "0.00"
   7d: "0.34"
+  1h: "0.00"
+  24h: "0.00"
 isMineable: false

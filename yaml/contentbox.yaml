@@ -4,8 +4,8 @@ rank: 283
 symbol: BOX
 name: ContentBox
 marketCap:
-  USD: "14214903.0641"
   BTC: "1305.41975622"
+  USD: "14214903.0641"
 price:
   BTC: "1.41328276094e-06"
   USD: "0.0153894388018"
@@ -16,6 +16,6 @@ supply:
   BOX: "923679105.34"
 change:
   7d: "137.90"
-  1h: "-0.18"
   24h: "-11.26"
+  1h: "-0.18"
 isMineable: false

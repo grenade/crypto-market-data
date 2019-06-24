@@ -4,18 +4,18 @@ rank: 200
 symbol: LTO
 name: LTO Network
 marketCap:
-  USD: "24222740.9156"
   BTC: "2224.48541493"
+  USD: "24222740.9156"
 price:
   BTC: "1.21765095122e-05"
   USD: "0.13259175951"
 volume:
-  BTC: "227.38239572"
   USD: "2475999.53828"
+  BTC: "227.38239572"
 supply:
   LTO: "182686624.004"
 change:
+  24h: "3.50"
   1h: "1.15"
   7d: "-11.85"
-  24h: "3.50"
 isMineable: false

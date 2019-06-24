@@ -4,8 +4,8 @@ rank: 302
 symbol: LXT
 name: Litex
 marketCap:
-  USD: "12824041.8907"
   BTC: "1177.69059439"
+  USD: "12824041.8907"
 price:
   USD: "0.0156390758198"
   BTC: "1.43620807346e-06"
@@ -16,6 +16,6 @@ supply:
   LXT: "819999982.0"
 change:
   7d: "42.37"
-  1h: "1.09"
   24h: "7.81"
+  1h: "1.09"
 isMineable: false

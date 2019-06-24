@@ -15,7 +15,7 @@ volume:
 supply:
   NAM: "0"
 change:
-  7d: "7.21"
-  24h: "-14.17"
   1h: "-0.10"
+  24h: "-14.17"
+  7d: "7.21"
 isMineable: false

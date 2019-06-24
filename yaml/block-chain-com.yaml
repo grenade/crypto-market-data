@@ -4,18 +4,18 @@ rank: 1251
 symbol: BC
 name: Block-Chain.com
 marketCap:
-  USD: "1082036.49111"
   BTC: "99.3683745902"
+  USD: "1082036.49111"
 price:
-  BTC: "4.79920391077e-07"
   USD: "0.00522592201103"
+  BTC: "4.79920391077e-07"
 volume:
-  BTC: "0.000288291388202"
   USD: "3.13924629836"
+  BTC: "0.000288291388202"
 supply:
   BC: "207051787.0"
 change:
+  1h: "-0.24"
   24h: "69.12"
   7d: "12.67"
-  1h: "-0.24"
 isMineable: false

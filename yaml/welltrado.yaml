@@ -4,8 +4,8 @@ rank: 906
 symbol: WTL
 name: Welltrado
 marketCap:
-  USD: "714593.760712"
   BTC: "65.624423093"
+  USD: "714593.760712"
 price:
   BTC: "1.63520791116e-06"
   USD: "0.0178060136106"
@@ -15,7 +15,7 @@ volume:
 supply:
   WTL: "40132158.5134"
 change:
-  24h: "5.95"
-  1h: "10.68"
   7d: "12.06"
+  1h: "10.68"
+  24h: "5.95"
 isMineable: false

@@ -4,8 +4,8 @@ rank: 706
 symbol: LIF
 name: Winding Tree
 marketCap:
-  USD: "1970354.74955"
   BTC: "180.946715234"
+  USD: "1970354.74955"
 price:
   BTC: "8.47211032554e-06"
   USD: "0.0922540251537"
@@ -15,7 +15,7 @@ volume:
 supply:
   LIF: "21357927.1611"
 change:
-  7d: "-5.07"
   24h: "2.13"
   1h: "-0.23"
+  7d: "-5.07"
 isMineable: false

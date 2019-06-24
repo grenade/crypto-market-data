@@ -4,18 +4,18 @@ rank: 1545
 symbol: ELLA
 name: Ellaism
 marketCap:
-  BTC: "9.68418586"
   USD: "105452.489591"
+  BTC: "9.68418586"
 price:
-  USD: "0.00544578004707"
   BTC: "5.00110963078e-07"
+  USD: "0.00544578004707"
 volume:
   USD: "125.795616234"
   BTC: "0.0115523884994"
 supply:
   ELLA: "19364074.3254"
 change:
+  7d: "-11.08"
   1h: "0.07"
   24h: "-3.24"
-  7d: "-11.08"
 isMineable: true

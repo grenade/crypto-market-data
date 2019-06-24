@@ -15,7 +15,7 @@ volume:
 supply:
   TIOX: "85583590.1536"
 change:
-  24h: "3.76"
-  7d: "-7.05"
   1h: "0.30"
+  7d: "-7.05"
+  24h: "3.76"
 isMineable: false

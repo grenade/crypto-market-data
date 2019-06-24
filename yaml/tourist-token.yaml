@@ -4,18 +4,18 @@ rank: 1147
 symbol: TOTO
 name: Tourist Token
 marketCap:
-  BTC: "2.17324850703"
   USD: "23664.8148725"
+  BTC: "2.17324850703"
 price:
   USD: "6.33880617404e-06"
   BTC: "5.82121648884e-10"
 volume:
-  BTC: "3.08892816828"
   USD: "33635.7821114"
+  BTC: "3.08892816828"
 supply:
   TOTO: "3733323629.52"
 change:
-  7d: "-3.49"
-  1h: "-8.10"
   24h: "-3.53"
+  1h: "-8.10"
+  7d: "-3.49"
 isMineable: false

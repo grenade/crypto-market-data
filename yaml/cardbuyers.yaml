@@ -4,8 +4,8 @@ rank: 2182
 symbol: BCARD
 name: CARDbuyers
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
   BTC: "1.00022192616e-08"
   USD: "0.000108915600941"
@@ -16,6 +16,6 @@ supply:
   BCARD: "0"
 change:
   24h: "-1.31"
-  7d: "-39.12"
   1h: "0.08"
+  7d: "-39.12"
 isMineable: true

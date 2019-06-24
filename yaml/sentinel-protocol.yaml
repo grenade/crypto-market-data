@@ -4,8 +4,8 @@ rank: 384
 symbol: UPP
 name: Sentinel Protocol
 marketCap:
-  BTC: "823.021870993"
   USD: "8962003.26377"
+  BTC: "823.021870993"
 price:
   BTC: "2.78182006303e-06"
   USD: "0.0302916378808"
@@ -15,7 +15,7 @@ volume:
 supply:
   UPP: "295857335.25"
 change:
+  1h: "-0.40"
   7d: "9.22"
   24h: "3.13"
-  1h: "-0.40"
 isMineable: false

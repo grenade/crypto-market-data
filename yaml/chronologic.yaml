@@ -4,8 +4,8 @@ rank: 1494
 symbol: DAY
 name: Chronologic
 marketCap:
-  USD: "150943.817992"
   BTC: "13.8587876014"
+  USD: "150943.817992"
 price:
   BTC: "1.5823998863e-05"
   USD: "0.172348034546"
@@ -15,7 +15,7 @@ volume:
 supply:
   DAY: "875808.177274"
 change:
-  7d: "19.76"
   1h: "0.19"
   24h: "3.24"
+  7d: "19.76"
 isMineable: false

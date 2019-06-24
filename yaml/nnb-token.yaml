@@ -7,15 +7,15 @@ marketCap:
   USD: ""
   BTC: ""
 price:
-  USD: "0.00217707090692"
   BTC: "1.99930408231e-07"
+  USD: "0.00217707090692"
 volume:
-  USD: "381879.550918"
   BTC: "35.0697509518"
+  USD: "381879.550918"
 supply:
   NNB: "0"
 change:
+  1h: "-1.50"
   7d: "-7.78"
   24h: "-4.94"
-  1h: "-1.50"
 isMineable: false

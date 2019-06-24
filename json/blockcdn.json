@@ -4,8 +4,8 @@
   "symbol": "BCDN",
   "name": "BlockCDN",
   "marketCap": {
-    "BTC": "",
-    "USD": ""
+    "USD": "",
+    "BTC": ""
   },
   "price": {
     "USD": "0.0121144817959",
@@ -19,9 +19,9 @@
     "BCDN": "0"
   },
   "change": {
+    "1h": "-0.13",
     "7d": "-16.46",
-    "24h": "-3.57",
-    "1h": "-0.13"
+    "24h": "-3.57"
   },
   "isMineable": false
 }

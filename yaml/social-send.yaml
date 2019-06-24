@@ -4,18 +4,18 @@ rank: 1349
 symbol: SEND
 name: Social Send
 marketCap:
-  USD: "399355.572803"
   BTC: "36.6746542092"
+  USD: "399355.572803"
 price:
-  BTC: "9.48210385996e-07"
   USD: "0.0103251989692"
+  BTC: "9.48210385996e-07"
 volume:
-  USD: "234.286791422"
   BTC: "0.021515630797"
+  USD: "234.286791422"
 supply:
   SEND: "38677760.4959"
 change:
+  24h: "133.02"
   1h: "0.07"
   7d: "35.41"
-  24h: "133.02"
 isMineable: false

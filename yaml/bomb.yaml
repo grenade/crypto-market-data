@@ -4,18 +4,18 @@ rank: 372
 symbol: BOMB
 name: BOMB
 marketCap:
-  USD: "9344550.63988"
   BTC: "858.152951395"
+  USD: "9344550.63988"
 price:
-  USD: "9.7284144159"
   BTC: "0.00089340492284"
+  USD: "9.7284144159"
 volume:
   USD: "136292.935595"
   BTC: "12.5164054905"
 supply:
   BOMB: "960542.0"
 change:
+  24h: "-4.11"
   1h: "0.84"
   7d: "-15.50"
-  24h: "-4.11"
 isMineable: false

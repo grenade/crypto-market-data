@@ -4,18 +4,18 @@ rank: 1092
 symbol: BZX
 name: Bitcoin Zero
 marketCap:
-  USD: "113014.033248"
   BTC: "10.378597101"
+  USD: "113014.033248"
 price:
   BTC: "5.87911884003e-07"
   USD: "0.00640185687519"
 volume:
-  USD: "770.843538607"
   BTC: "0.0707900982308"
+  USD: "770.843538607"
 supply:
   BZX: "17653320.8179"
 change:
-  24h: "10.75"
-  7d: "8.29"
   1h: "0.45"
+  7d: "8.29"
+  24h: "10.75"
 isMineable: true

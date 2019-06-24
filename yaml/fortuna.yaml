@@ -4,8 +4,8 @@ rank: 535
 symbol: FOTA
 name: Fortuna
 marketCap:
-  BTC: "411.150509538"
   USD: "4477076.9019"
+  BTC: "411.150509538"
 price:
   USD: "0.00932730152936"
   BTC: "8.5656888645e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   FOTA: "479997016.051"
 change:
-  1h: "-3.48"
   24h: "-7.94"
+  1h: "-3.48"
   7d: "-9.30"
 isMineable: false

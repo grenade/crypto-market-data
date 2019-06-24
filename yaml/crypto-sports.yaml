@@ -4,18 +4,18 @@ rank: 866
 symbol: CSPN
 name: Crypto Sports
 marketCap:
-  USD: "887739.207952"
   BTC: "81.5251637807"
+  USD: "887739.207952"
 price:
-  BTC: "5.75012250448e-05"
   USD: "0.626139091421"
+  BTC: "5.75012250448e-05"
 volume:
-  USD: "1217.30862021"
   BTC: "0.111791034737"
+  USD: "1217.30862021"
 supply:
   CSPN: "1417798.72893"
 change:
-  1h: "0.21"
-  7d: "27.14"
   24h: "16.84"
+  7d: "27.14"
+  1h: "0.21"
 isMineable: true

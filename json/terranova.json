@@ -4,8 +4,8 @@
   "symbol": "TER",
   "name": "TerraNova",
   "marketCap": {
-    "BTC": "",
-    "USD": ""
+    "USD": "",
+    "BTC": ""
   },
   "price": {
     "USD": "0.0905160922254",
@@ -19,9 +19,9 @@
     "TER": "0"
   },
   "change": {
-    "24h": "4.86",
+    "7d": "12.82",
     "1h": "-0.42",
-    "7d": "12.82"
+    "24h": "4.86"
   },
   "isMineable": true
 }

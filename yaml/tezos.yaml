@@ -4,8 +4,8 @@ rank: 22
 symbol: XTZ
 name: Tezos
 marketCap:
-  BTC: "69134.0658996"
   USD: "752810764.899"
+  BTC: "69134.0658996"
 price:
   USD: "1.14039648688"
   BTC: "0.000104727840716"
@@ -15,7 +15,7 @@ volume:
 supply:
   XTZ: "660130729.584"
 change:
-  24h: "-4.73"
   7d: "-13.68"
+  24h: "-4.73"
   1h: "-0.19"
 isMineable: false

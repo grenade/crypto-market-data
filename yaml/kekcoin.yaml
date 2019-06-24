@@ -4,18 +4,18 @@ rank: 884
 symbol: KEK
 name: KekCoin
 marketCap:
-  USD: "789077.711179"
   BTC: "72.4485477157"
+  USD: "789077.711179"
 price:
   BTC: "6.76053983905e-06"
   USD: "0.0736328259258"
 volume:
-  USD: "4063.08461899"
   BTC: "0.373048909786"
+  USD: "4063.08461899"
 supply:
   KEK: "10716384.9989"
 change:
   7d: "11.43"
-  24h: "-12.55"
   1h: "0.05"
+  24h: "-12.55"
 isMineable: false

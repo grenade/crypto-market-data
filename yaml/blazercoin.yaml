@@ -4,8 +4,8 @@ rank: 2160
 symbol: BLAZR
 name: BlazerCoin
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
   USD: "0.000108924298707"
   BTC: "1.00007985785e-08"
@@ -15,7 +15,7 @@ volume:
 supply:
   BLAZR: "0"
 change:
-  7d: "-41.38"
   1h: "0.03"
   24h: "-50.65"
+  7d: "-41.38"
 isMineable: true

@@ -10,12 +10,12 @@ price:
   USD: "0.000915803090359"
   BTC: "9.99786489441e-08"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   RNS: "33356076.8072"
 change:
-  24h: "0.00"
-  7d: "0.00"
   1h: "0.00"
+  7d: "0.00"
+  24h: "0.00"
 isMineable: false

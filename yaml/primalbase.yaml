@@ -4,8 +4,8 @@ rank: 410
 symbol: PBT
 name: Primalbase Token
 marketCap:
-  BTC: "750.061130984"
   USD: "8169335.8824"
+  BTC: "750.061130984"
 price:
   BTC: "0.600048904787"
   USD: "6535.46870592"
@@ -15,7 +15,7 @@ volume:
 supply:
   PBT: "1250.0"
 change:
-  24h: "-11.67"
-  7d: "5.53"
   1h: "0.05"
+  7d: "5.53"
+  24h: "-11.67"
 isMineable: false

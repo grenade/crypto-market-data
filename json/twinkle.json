@@ -4,8 +4,8 @@
   "symbol": "TKT",
   "name": "Twinkle",
   "marketCap": {
-    "BTC": "",
-    "USD": ""
+    "USD": "",
+    "BTC": ""
   },
   "price": {
     "USD": "0.00468337084048",
@@ -19,9 +19,9 @@
     "TKT": "0"
   },
   "change": {
+    "1h": "0.08",
     "7d": "-2.53",
-    "24h": "-1.27",
-    "1h": "0.08"
+    "24h": "-1.27"
   },
   "isMineable": false
 }

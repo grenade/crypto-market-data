@@ -4,8 +4,8 @@
   "symbol": "HYT",
   "name": "HoryouToken",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "USD": "0.00959145639594",
@@ -19,8 +19,8 @@
     "HYT": "0"
   },
   "change": {
-    "7d": "18.74",
     "24h": "11.36",
+    "7d": "18.74",
     "1h": "-0.10"
   },
   "isMineable": false

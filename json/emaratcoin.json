@@ -4,8 +4,8 @@
   "symbol": "AEC",
   "name": "EmaratCoin",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "USD": "0.00389559921748",
@@ -19,9 +19,9 @@
     "AEC": "0"
   },
   "change": {
+    "24h": "-1.95",
     "7d": "-45.21",
-    "1h": "0.00",
-    "24h": "-1.95"
+    "1h": "0.00"
   },
   "isMineable": true
 }

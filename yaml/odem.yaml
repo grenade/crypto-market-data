@@ -4,11 +4,11 @@ rank: 98
 symbol: ODE
 name: ODEM
 marketCap:
-  USD: "70635753.312"
   BTC: "6486.80525311"
+  USD: "70635753.312"
 price:
-  USD: "0.307207466625"
   BTC: "2.8212270909e-05"
+  USD: "0.307207466625"
 volume:
   BTC: "492.920060274"
   USD: "5367477.27448"
@@ -16,6 +16,6 @@ supply:
   ODE: "229928504.304"
 change:
   1h: "0.99"
-  7d: "9.64"
   24h: "4.84"
+  7d: "9.64"
 isMineable: false

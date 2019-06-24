@@ -4,24 +4,24 @@
   "symbol": "BUBO",
   "name": "Budbo",
   "marketCap": {
-    "BTC": "",
-    "USD": ""
+    "USD": "",
+    "BTC": ""
   },
   "price": {
     "USD": "0.00121798611346",
     "BTC": "1.13646231557e-07"
   },
   "volume": {
-    "USD": "0.0",
-    "BTC": "0.0"
+    "BTC": "0.0",
+    "USD": "0.0"
   },
   "supply": {
     "BUBO": "0"
   },
   "change": {
-    "7d": "-35.01",
     "24h": "0.00",
-    "1h": "0.00"
+    "1h": "0.00",
+    "7d": "-35.01"
   },
   "isMineable": false
 }

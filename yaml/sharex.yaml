@@ -4,18 +4,18 @@ rank: 999
 symbol: SEXC
 name: ShareX
 marketCap:
-  USD: "335296.978863"
   BTC: "30.7918596725"
+  USD: "335296.978863"
 price:
-  USD: "0.000519425481571"
   BTC: "4.77012247264e-08"
+  USD: "0.000519425481571"
 volume:
-  USD: "749.487405692"
   BTC: "0.0688288665785"
+  USD: "749.487405692"
 supply:
   SEXC: "645515075.327"
 change:
+  1h: "-0.23"
   7d: "-14.47"
   24h: "-28.22"
-  1h: "-0.23"
 isMineable: false

@@ -4,18 +4,18 @@ rank: 1582
 symbol: BUL
 name: Bulleon
 marketCap:
-  USD: "73078.8649076"
   BTC: "6.71116739817"
+  USD: "73078.8649076"
 price:
-  BTC: "6.12135818807e-06"
   USD: "0.0666563477762"
+  BTC: "6.12135818807e-06"
 volume:
-  USD: "32.1888227081"
   BTC: "0.00295604724865"
+  USD: "32.1888227081"
 supply:
   BUL: "1096352.67076"
 change:
-  24h: "-10.22"
   1h: "8.60"
+  24h: "-10.22"
   7d: "-10.45"
 isMineable: false

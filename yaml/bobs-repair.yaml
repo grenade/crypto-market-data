@@ -4,18 +4,18 @@ rank: 955
 symbol: BOB
 name: "Bob's Repair"
 marketCap:
-  BTC: "44.205089992"
   USD: "481355.568724"
+  BTC: "44.205089992"
 price:
-  BTC: "2.40715026622e-07"
   USD: "0.00262118046951"
+  BTC: "2.40715026622e-07"
 volume:
-  BTC: "25.3369753848"
   USD: "275897.961033"
+  BTC: "25.3369753848"
 supply:
   BOB: "183640758.171"
 change:
   24h: "-2.88"
-  7d: "11.94"
   1h: "0.42"
+  7d: "11.94"
 isMineable: false

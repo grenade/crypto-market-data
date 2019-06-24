@@ -4,18 +4,18 @@ rank: 959
 symbol: EGEM
 name: EtherGem
 marketCap:
-  BTC: "43.6986849875"
   USD: "475841.251955"
+  BTC: "43.6986849875"
 price:
-  BTC: "2.24290044125e-06"
   USD: "0.0244232647797"
+  BTC: "2.24290044125e-06"
 volume:
-  USD: "12369.58616"
   BTC: "1.13595583991"
+  USD: "12369.58616"
 supply:
   EGEM: "19483114.0"
 change:
   7d: "9.07"
-  1h: "-0.01"
   24h: "19.02"
+  1h: "-0.01"
 isMineable: true

@@ -4,18 +4,18 @@ rank: 890
 symbol: VLD
 name: Vetri
 marketCap:
-  BTC: "70.7279518979"
   USD: "770166.81827"
+  BTC: "70.7279518979"
 price:
-  USD: "0.00306643777368"
   BTC: "2.81605047387e-07"
+  USD: "0.00306643777368"
 volume:
   USD: "644.674365475"
   BTC: "0.0592034042878"
 supply:
   VLD: "251160100.127"
 change:
+  24h: "-2.27"
   7d: "13.55"
   1h: "-0.23"
-  24h: "-2.27"
 isMineable: false

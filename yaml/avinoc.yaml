@@ -4,18 +4,18 @@ rank: 1263
 symbol: AVINOC
 name: AVINOC
 marketCap:
-  USD: "951662.998504"
   BTC: "87.3955787041"
+  USD: "951662.998504"
 price:
-  BTC: "2.24526190986e-07"
   USD: "0.00244489791503"
+  BTC: "2.24526190986e-07"
 volume:
-  BTC: "0.00330877864899"
   USD: "36.0297655463"
+  BTC: "0.00330877864899"
 supply:
   AVINOC: "389244472.194"
 change:
   1h: "-0.24"
-  7d: "12.00"
   24h: "-2.29"
+  7d: "12.00"
 isMineable: false

@@ -10,12 +10,12 @@ price:
   BTC: "2.00196035347e-07"
   USD: "0.001862826911"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   SRC: "10333890.95"
 change:
   7d: "0.00"
-  1h: "0.00"
   24h: "0.00"
+  1h: "0.00"
 isMineable: true

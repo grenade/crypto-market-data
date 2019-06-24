@@ -4,18 +4,18 @@ rank: 1753
 symbol: MILO
 name: MiloCoin
 marketCap:
-  BTC: "1.40280599895"
   USD: "15278.745838"
+  BTC: "1.40280599895"
 price:
   USD: "0.00141601588319"
   BTC: "1.3001038152e-07"
 volume:
-  USD: "1.14359621212"
   BTC: "0.000104998384275"
+  USD: "1.14359621212"
 supply:
   MILO: "10789953.7141"
 change:
-  7d: "96.68"
   1h: "16.66"
   24h: "16.66"
+  7d: "96.68"
 isMineable: true

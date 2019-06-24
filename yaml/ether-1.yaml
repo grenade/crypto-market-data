@@ -4,18 +4,18 @@ rank: 1087
 symbol: ETHO
 name: Ether-1
 marketCap:
-  BTC: "11.4734773081"
   USD: "124936.340948"
+  BTC: "11.4734773081"
 price:
   BTC: "5.64932810928e-07"
   USD: "0.00615163445079"
 volume:
-  USD: "74405.1076659"
   BTC: "6.83296235453"
+  USD: "74405.1076659"
 supply:
   ETHO: "20309454.6575"
 change:
+  1h: "3.06"
   7d: "-25.31"
   24h: "1.60"
-  1h: "3.06"
 isMineable: true

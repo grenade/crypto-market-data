@@ -4,8 +4,8 @@ rank: 1134
 symbol: AKA
 name: Akroma
 marketCap:
-  BTC: "3.76168232376"
   USD: "40961.4986564"
+  BTC: "3.76168232376"
 price:
   BTC: "1.96150972026e-07"
   USD: "0.0021359160837"
@@ -15,7 +15,7 @@ volume:
 supply:
   AKA: "19177485.0"
 change:
+  7d: "-1.33"
   24h: "-1.33"
   1h: "1.50"
-  7d: "-1.33"
 isMineable: true

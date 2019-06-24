@@ -7,8 +7,8 @@ marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.00461301493403"
   BTC: "4.23634322615e-07"
+  USD: "0.00461301493403"
 volume:
   USD: "1551.61584623"
   BTC: "0.142492000866"
@@ -16,6 +16,6 @@ supply:
   BOC: "0"
 change:
   1h: "-0.24"
-  7d: "14.23"
   24h: "-2.29"
+  7d: "14.23"
 isMineable: false

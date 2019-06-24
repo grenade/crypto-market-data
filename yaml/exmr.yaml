@@ -4,18 +4,18 @@ rank: 1074
 symbol: EXMR
 name: EXMR
 marketCap:
-  BTC: "13.4747109881"
   USD: "146728.061683"
+  BTC: "13.4747109881"
 price:
-  USD: "0.0124806480598"
   BTC: "1.14615516365e-06"
+  USD: "0.0124806480598"
 volume:
   USD: "561.195897231"
   BTC: "0.0515371936093"
 supply:
   EXMR: "11756445.7374"
 change:
-  24h: "-4.35"
-  7d: "-54.75"
   1h: "-0.02"
+  7d: "-54.75"
+  24h: "-4.35"
 isMineable: false

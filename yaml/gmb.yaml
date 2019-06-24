@@ -4,8 +4,8 @@ rank: 772
 symbol: GMB
 name: GMB
 marketCap:
-  BTC: "132.048029498"
   USD: "1437889.9432"
+  BTC: "132.048029498"
 price:
   USD: "0.0027792998334"
   BTC: "2.55235853147e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   GMB: "517356899.0"
 change:
-  1h: "-0.05"
   24h: "-0.19"
   7d: "-12.15"
+  1h: "-0.05"
 isMineable: false

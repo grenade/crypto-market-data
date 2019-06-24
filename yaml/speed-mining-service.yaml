@@ -4,8 +4,8 @@ rank: 1444
 symbol: SMS
 name: Speed Mining Service
 marketCap:
-  USD: "205406.224315"
   BTC: "21.988293895"
+  USD: "205406.224315"
 price:
   BTC: "0.000210052308182"
   USD: "1.96222825374"
@@ -15,7 +15,7 @@ volume:
 supply:
   SMS: "104680.087"
 change:
-  1h: "0.00"
   24h: "0.00"
   7d: "2.02"
+  1h: "0.00"
 isMineable: false

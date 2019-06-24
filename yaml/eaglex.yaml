@@ -4,18 +4,18 @@ rank: 1700
 symbol: EGX
 name: EagleX
 marketCap:
-  USD: "29262.1366737"
   BTC: "2.68727624457"
+  USD: "29262.1366737"
 price:
-  BTC: "8.00177540925e-08"
   USD: "0.000871324807531"
+  BTC: "8.00177540925e-08"
 volume:
-  USD: "429.873947169"
   BTC: "0.0394772965237"
+  USD: "429.873947169"
 supply:
   EGX: "33583500.0"
 change:
   1h: "0.08"
-  24h: "12.79"
   7d: "-17.18"
+  24h: "12.79"
 isMineable: false

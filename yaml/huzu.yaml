@@ -4,8 +4,8 @@ rank: 1450
 symbol: HUZU
 name: HUZU
 marketCap:
-  BTC: "18.1743188049"
   USD: "197902.765634"
+  BTC: "18.1743188049"
 price:
   USD: "0.0461802147992"
   BTC: "4.2409409669e-06"
@@ -16,6 +16,6 @@ supply:
   HUZU: "4285444.89224"
 change:
   7d: "-4.16"
-  1h: "4.18"
   24h: "-16.14"
+  1h: "4.18"
 isMineable: true

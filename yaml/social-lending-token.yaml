@@ -15,7 +15,7 @@ volume:
 supply:
   SLT: "0"
 change:
-  1h: "0.34"
-  7d: "13.35"
   24h: "-1.51"
+  7d: "13.35"
+  1h: "0.34"
 isMineable: false

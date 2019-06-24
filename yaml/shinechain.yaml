@@ -4,18 +4,18 @@ rank: 1884
 symbol: SHE
 name: ShineChain
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
   USD: "0.00365629686924"
   BTC: "3.35774513985e-07"
 volume:
-  BTC: "181.431292037"
   USD: "1975631.37591"
+  BTC: "181.431292037"
 supply:
   SHE: "0"
 change:
   24h: "-3.71"
-  1h: "-0.10"
   7d: "-7.73"
+  1h: "-0.10"
 isMineable: false

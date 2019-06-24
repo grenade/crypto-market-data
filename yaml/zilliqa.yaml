@@ -4,8 +4,8 @@ rank: 55
 symbol: ZIL
 name: Zilliqa
 marketCap:
-  BTC: "15954.075995"
   USD: "173726223.053"
+  BTC: "15954.075995"
 price:
   BTC: "1.83646998494e-06"
   USD: "0.0199975852148"
@@ -15,7 +15,7 @@ volume:
 supply:
   ZIL: "8687360058.09"
 change:
-  1h: "-0.66"
-  24h: "-0.98"
   7d: "-21.62"
+  24h: "-0.98"
+  1h: "-0.66"
 isMineable: false

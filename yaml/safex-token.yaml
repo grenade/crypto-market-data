@@ -4,8 +4,8 @@ rank: 473
 symbol: SFT
 name: Safex Token
 marketCap:
-  USD: "5937002.70476"
   BTC: "545.101220894"
+  USD: "5937002.70476"
 price:
   USD: "0.00620868502629"
   BTC: "5.70045518973e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   SFT: "956241568.0"
 change:
-  1h: "0.03"
   24h: "4.19"
+  1h: "0.03"
   7d: "21.49"
 isMineable: false

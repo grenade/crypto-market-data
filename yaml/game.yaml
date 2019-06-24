@@ -4,8 +4,8 @@ rank: 361
 symbol: GTC
 name: Game.com
 marketCap:
-  USD: "9671434.16694"
   BTC: "888.172165197"
+  USD: "9671434.16694"
 price:
   USD: "0.0127014353737"
   BTC: "1.1664310755e-06"
@@ -15,7 +15,7 @@ volume:
 supply:
   GTC: "761444189.762"
 change:
-  24h: "4.23"
   1h: "-0.09"
+  24h: "4.23"
   7d: "4.77"
 isMineable: false

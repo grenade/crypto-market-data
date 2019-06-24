@@ -4,8 +4,8 @@
   "symbol": "WBL",
   "name": "WIZBL",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "USD": "0.00206939641789",
@@ -19,8 +19,8 @@
     "WBL": "0"
   },
   "change": {
-    "1h": "0.08",
     "24h": "-1.31",
+    "1h": "0.08",
     "7d": "5.93"
   },
   "isMineable": false

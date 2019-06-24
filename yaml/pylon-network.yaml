@@ -15,7 +15,7 @@ volume:
 supply:
   PYLNT: "422010.410846"
 change:
-  24h: "-0.02"
-  7d: "6.31"
   1h: "1.04"
+  7d: "6.31"
+  24h: "-0.02"
 isMineable: false

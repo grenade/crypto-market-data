@@ -4,8 +4,8 @@ rank: 2102
 symbol: SCC
 name: StakeCubeCoin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
   USD: "0.135893398802"
   BTC: "1.2479714194e-05"
@@ -15,7 +15,7 @@ volume:
 supply:
   SCC: "0"
 change:
+  1h: "5.16"
   24h: "-32.20"
   7d: "15.01"
-  1h: "5.16"
 isMineable: true

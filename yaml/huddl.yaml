@@ -4,8 +4,8 @@ rank: 2197
 symbol: HUDDL
 name: HUDDL
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
   BTC: "1.13904651072e-06"
   USD: "0.0123784785151"
@@ -15,6 +15,6 @@ volume:
 supply:
   HUDDL: "0"
 change:
-  24h: "23.36"
   1h: "0.00"
+  24h: "23.36"
 isMineable: false

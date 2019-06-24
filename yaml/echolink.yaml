@@ -4,8 +4,8 @@ rank: 689
 symbol: EKO
 name: EchoLink
 marketCap:
-  BTC: "190.733956377"
   USD: "2076929.42291"
+  BTC: "190.733956377"
 price:
   USD: "0.00415385884582"
   BTC: "3.81467912754e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   EKO: "500000000.0"
 change:
+  24h: "-6.30"
   1h: "-1.05"
   7d: "8.40"
-  24h: "-6.30"
 isMineable: false

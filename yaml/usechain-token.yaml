@@ -4,8 +4,8 @@ rank: 2019
 symbol: USE
 name: Usechain Token
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
   USD: "0.00209464754044"
   BTC: "1.92361092388e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   USE: "0"
 change:
-  7d: "9.87"
   1h: "-2.25"
   24h: "3.11"
+  7d: "9.87"
 isMineable: false

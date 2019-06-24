@@ -4,18 +4,18 @@ rank: 2108
 symbol: BZKY
 name: BIZKEY
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "6.21755475544e-08"
   USD: "0.000677038460032"
+  BTC: "6.21755475544e-08"
 volume:
   BTC: "0.0252136753043"
   USD: "274.555328762"
 supply:
   BZKY: "0"
 change:
-  24h: "45.64"
   7d: "-18.29"
   1h: "-0.24"
+  24h: "45.64"
 isMineable: false

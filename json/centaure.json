@@ -4,8 +4,8 @@
   "symbol": "CEN",
   "name": "Centaure",
   "marketCap": {
-    "BTC": "",
-    "USD": ""
+    "USD": "",
+    "BTC": ""
   },
   "price": {
     "BTC": "1.00022192616e-08",
@@ -19,9 +19,9 @@
     "CEN": "0"
   },
   "change": {
+    "1h": "0.08",
     "24h": "-1.27",
-    "7d": "-5.22",
-    "1h": "0.08"
+    "7d": "-5.22"
   },
   "isMineable": false
 }

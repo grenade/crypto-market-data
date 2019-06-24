@@ -4,8 +4,8 @@ rank: 1062
 symbol: ELY
 name: Elysian
 marketCap:
-  BTC: "15.4660735648"
   USD: "168412.294559"
+  BTC: "15.4660735648"
 price:
   USD: "0.00191451120157"
   BTC: "1.75818346052e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   ELY: "87966210.0806"
 change:
+  1h: "-4.59"
   24h: "-14.31"
   7d: "-1.16"
-  1h: "-4.59"
 isMineable: false

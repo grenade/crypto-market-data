@@ -4,8 +4,8 @@ rank: 729
 symbol: SNET
 name: Snetwork
 marketCap:
-  BTC: "166.232167287"
   USD: "1810125.9253"
+  BTC: "166.232167287"
 price:
   USD: "0.0119477313592"
   BTC: "1.09721497839e-06"
@@ -15,7 +15,7 @@ volume:
 supply:
   SNET: "151503734.967"
 change:
-  7d: "-1.98"
   24h: "-2.37"
+  7d: "-1.98"
   1h: "0.44"
 isMineable: false

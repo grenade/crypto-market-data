@@ -4,8 +4,8 @@ rank: 375
 symbol: SPND
 name: Spendcoin
 marketCap:
-  USD: "9241225.01243"
   BTC: "848.664085042"
+  USD: "9241225.01243"
 price:
   USD: "0.0262448254704"
   BTC: "2.41018271549e-06"
@@ -15,7 +15,7 @@ volume:
 supply:
   SPND: "352116078.0"
 change:
-  1h: "-2.36"
-  24h: "-4.24"
   7d: "-26.69"
+  24h: "-4.24"
+  1h: "-2.36"
 isMineable: false

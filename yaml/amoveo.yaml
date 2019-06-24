@@ -15,7 +15,7 @@ volume:
 supply:
   VEO: "64120.6451613"
 change:
-  24h: "-1.28"
-  7d: "-7.64"
   1h: "0.08"
+  7d: "-7.64"
+  24h: "-1.28"
 isMineable: true

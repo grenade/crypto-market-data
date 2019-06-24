@@ -4,8 +4,8 @@ rank: 765
 symbol: 0xBTC
 name: 0xBitcoin
 marketCap:
-  USD: "1461241.48313"
   BTC: "134.19250853"
+  USD: "1461241.48313"
 price:
   BTC: "2.93240043115e-05"
   USD: "0.319313291188"
@@ -16,6 +16,6 @@ supply:
   0xBTC: "4576200.0"
 change:
   1h: "7.91"
-  7d: "41.99"
   24h: "13.54"
+  7d: "41.99"
 isMineable: true

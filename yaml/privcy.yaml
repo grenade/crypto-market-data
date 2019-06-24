@@ -4,8 +4,8 @@ rank: 1540
 symbol: PRIV
 name: PRiVCY
 marketCap:
-  USD: "107884.86202"
   BTC: "9.9075617781"
+  USD: "107884.86202"
 price:
   USD: "0.00653493605649"
   BTC: "6.00133155694e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   PRIV: "16508939.1981"
 change:
-  24h: "-1.74"
   1h: "0.07"
   7d: "10.95"
+  24h: "-1.74"
 isMineable: false

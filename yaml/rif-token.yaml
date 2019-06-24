@@ -4,8 +4,8 @@ rank: 168
 symbol: RIF
 name: RIF Token
 marketCap:
-  USD: "32553421.323"
   BTC: "2989.53001197"
+  USD: "32553421.323"
 price:
   BTC: "6.67366430705e-06"
   USD: "0.0726704883662"
@@ -15,7 +15,7 @@ volume:
 supply:
   RIF: "447959303.08"
 change:
-  7d: "6.28"
   24h: "-1.86"
   1h: "-0.03"
+  7d: "6.28"
 isMineable: false

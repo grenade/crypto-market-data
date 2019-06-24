@@ -4,8 +4,8 @@ rank: 309
 symbol: WGR
 name: Wagerr
 marketCap:
-  USD: "12421646.5131"
   BTC: "1140.4836778"
+  USD: "12421646.5131"
 price:
   USD: "0.0679189648738"
   BTC: "6.23592619301e-06"
@@ -15,7 +15,7 @@ volume:
 supply:
   WGR: "182889220.061"
 change:
+  24h: "-11.40"
   7d: "-6.69"
   1h: "0.05"
-  24h: "-11.40"
 isMineable: false

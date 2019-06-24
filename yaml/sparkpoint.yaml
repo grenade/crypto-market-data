@@ -4,18 +4,18 @@ rank: 1075
 symbol: SRK
 name: Sparkpoint
 marketCap:
-  USD: "145409.884456"
   BTC: "13.3536567264"
+  USD: "145409.884456"
 price:
   BTC: "5.90130936432e-09"
   USD: "6.42602045554e-05"
 volume:
-  BTC: "6.71138740194"
   USD: "73081.26056"
+  BTC: "6.71138740194"
 supply:
   SRK: "2262829467.5"
 change:
+  24h: "29.39"
   7d: "-17.28"
   1h: "-1.59"
-  24h: "29.39"
 isMineable: false

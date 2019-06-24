@@ -4,18 +4,18 @@ rank: 1509
 symbol: TIT
 name: TittieCoin
 marketCap:
-  USD: "137224.621573"
   BTC: "12.5991704023"
+  USD: "137224.621573"
 price:
-  BTC: "1.00007985785e-08"
   USD: "0.000108924298707"
+  BTC: "1.00007985785e-08"
 volume:
   USD: "0.01653993691"
   BTC: "1.51860126254e-06"
 supply:
   TIT: "1259816434.0"
 change:
-  7d: "17.25"
   1h: "0.02"
   24h: "-1.30"
+  7d: "17.25"
 isMineable: false

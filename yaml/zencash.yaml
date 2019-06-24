@@ -4,18 +4,18 @@ rank: 100
 symbol: ZEN
 name: Horizen
 marketCap:
-  USD: "68688299.8847"
   BTC: "6307.96167134"
+  USD: "68688299.8847"
 price:
-  BTC: "0.000935763991313"
   USD: "10.1896683914"
+  BTC: "0.000935763991313"
 volume:
   BTC: "64.8929819724"
   USD: "706628.993385"
 supply:
   ZEN: "6740975.0"
 change:
-  7d: "-2.31"
   1h: "0.00"
   24h: "-5.78"
+  7d: "-2.31"
 isMineable: true

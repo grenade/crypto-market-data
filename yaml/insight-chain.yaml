@@ -4,18 +4,18 @@ rank: 70
 symbol: INB
 name: Insight Chain
 marketCap:
-  BTC: "11965.8278807"
   USD: "130297616.99"
+  BTC: "11965.8278807"
 price:
-  BTC: "3.41975876553e-05"
   USD: "0.372382439619"
+  BTC: "3.41975876553e-05"
 volume:
-  BTC: "0.210849128581"
   USD: "2295.96641973"
+  BTC: "0.210849128581"
 supply:
   INB: "349902689.082"
 change:
-  24h: "-1.67"
-  7d: "73.58"
   1h: "-0.51"
+  7d: "73.58"
+  24h: "-1.67"
 isMineable: false

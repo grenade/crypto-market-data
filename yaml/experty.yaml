@@ -4,18 +4,18 @@ rank: 920
 symbol: EXY
 name: Experty
 marketCap:
-  USD: "639462.236247"
   BTC: "58.7247505512"
+  USD: "639462.236247"
 price:
-  BTC: "2.16789675262e-06"
   USD: "0.0236065388507"
+  BTC: "2.16789675262e-06"
 volume:
   BTC: "0.106407414708"
   USD: "1158.68560911"
 supply:
   EXY: "27088352.0999"
 change:
+  7d: "2.49"
   24h: "5.48"
   1h: "-2.06"
-  7d: "2.49"
 isMineable: false

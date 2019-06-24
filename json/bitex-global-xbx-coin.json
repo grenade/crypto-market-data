@@ -4,8 +4,8 @@
   "symbol": "XBX",
   "name": "Bitex Global XBX Coin",
   "marketCap": {
-    "BTC": "",
-    "USD": ""
+    "USD": "",
+    "BTC": ""
   },
   "price": {
     "USD": "0.0453176873675",
@@ -19,9 +19,9 @@
     "XBX": "0"
   },
   "change": {
-    "7d": "18.19",
     "1h": "2.07",
-    "24h": "14.06"
+    "24h": "14.06",
+    "7d": "18.19"
   },
   "isMineable": false
 }

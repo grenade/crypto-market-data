@@ -15,7 +15,7 @@ volume:
 supply:
   NYC: "1.3402458876e+11"
 change:
-  24h: "29.93"
-  7d: "28.73"
   1h: "-3.19"
+  7d: "28.73"
+  24h: "29.93"
 isMineable: true

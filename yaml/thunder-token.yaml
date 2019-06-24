@@ -4,8 +4,8 @@ rank: 123
 symbol: TT
 name: Thunder Token
 marketCap:
-  USD: "51265944.861"
   BTC: "4707.98688818"
+  USD: "51265944.861"
 price:
   USD: "0.0176662181725"
   BTC: "1.62236985479e-06"
@@ -16,6 +16,6 @@ supply:
   TT: "2901919605.0"
 change:
   24h: "-1.10"
-  7d: "-10.97"
   1h: "-0.19"
+  7d: "-10.97"
 isMineable: false

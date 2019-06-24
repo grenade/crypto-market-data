@@ -4,8 +4,8 @@ rank: 892
 symbol: DYN
 name: Dynamic
 marketCap:
-  USD: "761635.490941"
   BTC: "69.9289619079"
+  USD: "761635.490941"
 price:
   BTC: "1.10964684401e-05"
   USD: "0.120857852848"
@@ -16,6 +16,6 @@ supply:
   DYN: "6301911.48521"
 change:
   24h: "-7.52"
-  7d: "-19.15"
   1h: "0.06"
+  7d: "-19.15"
 isMineable: true

@@ -4,8 +4,8 @@ rank: 2157
 symbol: CEN
 name: Centaure
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
   BTC: "1.00022192616e-08"
   USD: "0.000108915600941"
@@ -15,7 +15,7 @@ volume:
 supply:
   CEN: "0"
 change:
+  1h: "0.08"
   24h: "-1.27"
   7d: "-5.22"
-  1h: "0.08"
 isMineable: false

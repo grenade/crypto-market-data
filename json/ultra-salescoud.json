@@ -4,8 +4,8 @@
   "symbol": "UST",
   "name": "Ultra Salescloud",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "BTC": "1.09756285438e-07",
@@ -19,9 +19,9 @@
     "UST": "0"
   },
   "change": {
-    "1h": "0.00",
+    "24h": "0.00",
     "7d": "0.00",
-    "24h": "0.00"
+    "1h": "0.00"
   },
   "isMineable": false
 }

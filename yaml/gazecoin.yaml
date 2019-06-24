@@ -15,7 +15,7 @@ volume:
 supply:
   GZE: "0"
 change:
-  24h: "-5.54"
-  1h: "0.04"
   7d: "-26.96"
+  1h: "0.04"
+  24h: "-5.54"
 isMineable: false

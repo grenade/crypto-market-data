@@ -4,8 +4,8 @@ rank: 1391
 symbol: KST
 name: StarCoin
 marketCap:
-  BTC: "28.8536631777"
   USD: "314191.679084"
+  BTC: "28.8536631777"
 price:
   USD: "0.00020784944413"
   BTC: "1.90877679195e-08"
@@ -15,7 +15,7 @@ volume:
 supply:
   KST: "1511631077.0"
 change:
+  1h: "-11.57"
   24h: "-19.68"
   7d: "-29.03"
-  1h: "-11.57"
 isMineable: false

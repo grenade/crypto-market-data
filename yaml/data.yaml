@@ -4,18 +4,18 @@ rank: 300
 symbol: DTA
 name: DATA
 marketCap:
-  USD: "13203111.8562"
   BTC: "1212.50232822"
+  USD: "13203111.8562"
 price:
-  USD: "0.00148141618131"
   BTC: "1.36045243611e-07"
+  USD: "0.00148141618131"
 volume:
   USD: "1457482.65294"
   BTC: "133.84731791"
 supply:
   DTA: "8912493344.4"
 change:
-  7d: "0.04"
   24h: "-0.57"
   1h: "-0.13"
+  7d: "0.04"
 isMineable: false

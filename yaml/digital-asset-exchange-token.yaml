@@ -15,7 +15,7 @@ volume:
 supply:
   DAXT: "0"
 change:
-  7d: "-11.74"
-  24h: "146.72"
   1h: "-0.24"
+  24h: "146.72"
+  7d: "-11.74"
 isMineable: false

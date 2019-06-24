@@ -4,8 +4,8 @@
   "symbol": "BITC",
   "name": "BitCash",
   "marketCap": {
-    "BTC": "",
-    "USD": ""
+    "USD": "",
+    "BTC": ""
   },
   "price": {
     "BTC": "6.52144695854e-06",
@@ -19,9 +19,9 @@
     "BITC": "0"
   },
   "change": {
+    "1h": "-0.01",
     "24h": "-3.78",
-    "7d": "12.89",
-    "1h": "-0.01"
+    "7d": "12.89"
   },
   "isMineable": false
 }

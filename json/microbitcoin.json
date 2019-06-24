@@ -4,8 +4,8 @@
   "symbol": "MBC",
   "name": "MicroBitcoin",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "BTC": "6.93218739379e-09",
@@ -19,8 +19,8 @@
     "MBC": "0"
   },
   "change": {
-    "1h": "-9.20",
     "24h": "-26.10",
+    "1h": "-9.20",
     "7d": "-26.40"
   },
   "isMineable": true

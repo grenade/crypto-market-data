@@ -4,11 +4,11 @@ rank: 1490
 symbol: ARCT
 name: ArbitrageCT
 marketCap:
-  BTC: "14.003923661"
   USD: "152490.734426"
+  BTC: "14.003923661"
 price:
-  BTC: "1.3369002104e-07"
   USD: "0.00145576982475"
+  BTC: "1.3369002104e-07"
 volume:
   BTC: "0.0412364794229"
   USD: "449.029942216"
@@ -16,6 +16,6 @@ supply:
   ARCT: "104749206.8"
 change:
   24h: "45.26"
-  1h: "23.00"
   7d: "123.54"
+  1h: "23.00"
 isMineable: false

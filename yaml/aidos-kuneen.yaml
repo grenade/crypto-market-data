@@ -15,7 +15,7 @@ volume:
 supply:
   ADK: "0"
 change:
-  1h: "-0.33"
-  24h: "-12.60"
   7d: "-23.79"
+  24h: "-12.60"
+  1h: "-0.33"
 isMineable: false

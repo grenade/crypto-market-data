@@ -4,18 +4,18 @@ rank: 53
 symbol: MONA
 name: MonaCoin
 marketCap:
-  BTC: "16442.796349"
   USD: "179087704.55"
+  BTC: "16442.796349"
 price:
-  BTC: "0.000250157883501"
   USD: "2.72460962117"
+  BTC: "0.000250157883501"
 volume:
-  USD: "15227321.2086"
   BTC: "1398.08448716"
+  USD: "15227321.2086"
 supply:
   MONA: "65729674.8712"
 change:
-  7d: "21.25"
   1h: "0.97"
+  7d: "21.25"
   24h: "3.62"
 isMineable: true

@@ -4,18 +4,18 @@ rank: 78
 symbol: ENJ
 name: Enjin Coin
 marketCap:
-  USD: "105491439.752"
   BTC: "9687.76283192"
+  USD: "105491439.752"
 price:
   BTC: "1.25541229272e-05"
   USD: "0.136703646176"
 volume:
-  USD: "6215029.63755"
   BTC: "570.75468174"
+  USD: "6215029.63755"
 supply:
   ENJ: "771679781.064"
 change:
   24h: "0.51"
-  7d: "-6.85"
   1h: "0.43"
+  7d: "-6.85"
 isMineable: false

@@ -4,8 +4,8 @@ rank: 1530
 symbol: NXC
 name: Nexium
 marketCap:
-  USD: "115912.042559"
   BTC: "10.6423727691"
+  USD: "115912.042559"
 price:
   USD: "0.00174278877931"
   BTC: "1.60012777256e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   NXC: "66509518.5"
 change:
-  24h: "-1.30"
   7d: "13.66"
   1h: "-0.02"
+  24h: "-1.30"
 isMineable: false

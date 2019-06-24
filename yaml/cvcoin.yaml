@@ -4,8 +4,8 @@ rank: 652
 symbol: CVN
 name: CVCoin
 marketCap:
-  USD: "2607620.58281"
   BTC: "239.416627212"
+  USD: "2607620.58281"
 price:
   USD: "0.210616569795"
   BTC: "1.9337594245e-05"
@@ -15,7 +15,7 @@ volume:
 supply:
   CVN: "12380890.0"
 change:
-  1h: "-0.28"
   7d: "-7.59"
   24h: "-8.61"
+  1h: "-0.28"
 isMineable: false

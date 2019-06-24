@@ -4,11 +4,11 @@ rank: 12
 symbol: XLM
 name: Stellar
 marketCap:
-  BTC: "225133.136942"
   USD: "2451507036.66"
+  BTC: "225133.136942"
 price:
-  BTC: "1.15976567164e-05"
   USD: "0.126288548346"
+  BTC: "1.15976567164e-05"
 volume:
   BTC: "35903.2889977"
   USD: "390956066.319"
@@ -16,6 +16,6 @@ supply:
   XLM: "19411950400.6"
 change:
   1h: "-0.27"
-  7d: "-2.93"
   24h: "-3.11"
+  7d: "-2.93"
 isMineable: false

@@ -4,8 +4,8 @@ rank: 1346
 symbol: DP
 name: DigitalPrice
 marketCap:
-  USD: "406682.554048"
   BTC: "43.5509241097"
+  USD: "406682.554048"
 price:
   BTC: "2.20169060517e-06"
   USD: "0.0205595903379"
@@ -15,7 +15,7 @@ volume:
 supply:
   DP: "19780674.0"
 change:
-  1h: "0.00"
   24h: "0.00"
   7d: "0.67"
+  1h: "0.00"
 isMineable: false

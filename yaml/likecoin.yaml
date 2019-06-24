@@ -4,8 +4,8 @@ rank: 1226
 symbol: LIKE
 name: LikeCoin
 marketCap:
-  BTC: "166.224747454"
   USD: "1810045.12967"
+  BTC: "166.224747454"
 price:
   BTC: "3.50997045769e-07"
   USD: "0.00382205720239"
@@ -15,7 +15,7 @@ volume:
 supply:
   LIKE: "473578765.0"
 change:
-  24h: "-7.23"
   7d: "6.73"
+  24h: "-7.23"
   1h: "-0.40"
 isMineable: false

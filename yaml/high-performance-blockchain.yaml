@@ -4,8 +4,8 @@ rank: 217
 symbol: HPB
 name: High Performance Blockchain
 marketCap:
-  BTC: "1980.60313469"
   USD: "21567071.7668"
+  BTC: "1980.60313469"
 price:
   USD: "0.494431381459"
   BTC: "4.54059018579e-05"
@@ -16,6 +16,6 @@ supply:
   HPB: "43619949.2499"
 change:
   1h: "-0.16"
-  7d: "-5.88"
   24h: "-2.42"
+  7d: "-5.88"
 isMineable: false

@@ -4,8 +4,8 @@ rank: 1559
 symbol: TALK
 name: BTCtalkcoin
 marketCap:
-  USD: "89300.410383"
   BTC: "9.1393749137"
+  USD: "89300.410383"
 price:
   BTC: "1.39979875384e-07"
   USD: "0.00136773690052"
@@ -16,6 +16,6 @@ supply:
   TALK: "65290634.7332"
 change:
   1h: "0.00"
-  24h: "0.00"
   7d: "6.69"
+  24h: "0.00"
 isMineable: true

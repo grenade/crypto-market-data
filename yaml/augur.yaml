@@ -4,18 +4,18 @@ rank: 44
 symbol: REP
 name: Augur
 marketCap:
-  BTC: "18020.8036556"
   USD: "196231117.142"
+  BTC: "18020.8036556"
 price:
   USD: "17.8391924675"
   BTC: "0.00163825487778"
 volume:
-  BTC: "594.160236127"
   USD: "6469896.07816"
+  BTC: "594.160236127"
 supply:
   REP: "11000000.0"
 change:
-  7d: "-4.68"
   1h: "-1.34"
+  7d: "-4.68"
   24h: "-2.67"
 isMineable: false

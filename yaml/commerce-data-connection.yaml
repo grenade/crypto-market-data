@@ -15,7 +15,7 @@ volume:
 supply:
   CDC: "0"
 change:
+  24h: "-9.33"
   1h: "-12.69"
   7d: "633.15"
-  24h: "-9.33"
 isMineable: false

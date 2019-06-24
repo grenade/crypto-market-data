@@ -4,8 +4,8 @@ rank: 188
 symbol: BTU
 name: BTU Protocol
 marketCap:
-  BTC: "2446.7171119"
   USD: "26642653.7559"
+  BTC: "2446.7171119"
 price:
   USD: "0.380551109689"
   BTC: "3.49477540999e-05"
@@ -15,7 +15,7 @@ volume:
 supply:
   BTU: "70010710.9861"
 change:
+  1h: "0.08"
   24h: "0.22"
   7d: "11.74"
-  1h: "0.08"
 isMineable: false

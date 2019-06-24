@@ -4,18 +4,18 @@ rank: 1278
 symbol: PIX
 name: Lampix
 marketCap:
-  USD: "825660.786497"
   BTC: "75.824217567"
+  USD: "825660.786497"
 price:
-  BTC: "5.60324323033e-07"
   USD: "0.00610145196474"
+  BTC: "5.60324323033e-07"
 volume:
-  USD: "121.474909392"
   BTC: "0.0111555981697"
+  USD: "121.474909392"
 supply:
   PIX: "135322017.0"
 change:
-  1h: "0.07"
   7d: "-4.73"
+  1h: "0.07"
   24h: "-11.61"
 isMineable: false

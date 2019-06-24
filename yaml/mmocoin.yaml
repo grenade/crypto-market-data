@@ -4,8 +4,8 @@ rank: 1067
 symbol: MMO
 name: MMOCoin
 marketCap:
-  BTC: "14.7494226538"
   USD: "160608.579943"
+  BTC: "14.7494226538"
 price:
   USD: "0.0027364931697"
   BTC: "2.51304720853e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   MMO: "58691387.1088"
 change:
-  24h: "-69.89"
   7d: "-19.04"
+  24h: "-69.89"
   1h: "-1.21"
 isMineable: true

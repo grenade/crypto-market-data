@@ -4,18 +4,18 @@ rank: 985
 symbol: MFG
 name: SyncFab
 marketCap:
-  USD: "386043.848966"
   BTC: "35.4521775443"
+  USD: "386043.848966"
 price:
-  BTC: "1.94773314322e-07"
   USD: "0.00212091457126"
+  BTC: "1.94773314322e-07"
 volume:
   BTC: "39.3751726273"
   USD: "428761.905406"
 supply:
   MFG: "182017632.486"
 change:
+  1h: "-0.19"
   24h: "-0.24"
   7d: "6.62"
-  1h: "-0.19"
 isMineable: false

@@ -4,18 +4,18 @@ rank: 1282
 symbol: WAB
 name: WABnetwork
 marketCap:
-  USD: "778215.356573"
   BTC: "71.4670860912"
+  USD: "778215.356573"
 price:
-  BTC: "7.42045892255e-09"
   USD: "8.08024421057e-05"
+  BTC: "7.42045892255e-09"
 volume:
   USD: "11.7018432932"
   BTC: "0.00107463394933"
 supply:
   WAB: "9631087084.65"
 change:
-  7d: "35.93"
   1h: "-5.39"
   24h: "26.77"
+  7d: "35.93"
 isMineable: false

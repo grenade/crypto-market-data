@@ -4,8 +4,8 @@ rank: 1247
 symbol: TTV
 name: TV-TWO
 marketCap:
-  BTC: "111.441793924"
   USD: "1213505.68687"
+  BTC: "111.441793924"
 price:
   BTC: "2.65764785939e-07"
   USD: "0.00289395089356"
@@ -15,7 +15,7 @@ volume:
 supply:
   TTV: "419324906.158"
 change:
-  1h: "-28.19"
-  7d: "-58.74"
   24h: "-29.80"
+  7d: "-58.74"
+  1h: "-28.19"
 isMineable: false

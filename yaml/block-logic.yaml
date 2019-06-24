@@ -4,8 +4,8 @@ rank: 1403
 symbol: BLTG
 name: Block-Logic
 marketCap:
-  USD: "276844.453691"
   BTC: "25.4238961473"
+  USD: "276844.453691"
 price:
   USD: "0.0120896317045"
   BTC: "1.11024633803e-06"
@@ -15,7 +15,7 @@ volume:
 supply:
   BLTG: "22899328.9835"
 change:
+  24h: "-1.27"
   1h: "0.08"
   7d: "5.97"
-  24h: "-1.27"
 isMineable: false

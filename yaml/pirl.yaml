@@ -4,18 +4,18 @@ rank: 880
 symbol: PIRL
 name: Pirl
 marketCap:
-  BTC: "73.8755824083"
   USD: "804441.818609"
+  BTC: "73.8755824083"
 price:
-  BTC: "1.56070433078e-06"
   USD: "0.016994733432"
+  BTC: "1.56070433078e-06"
 volume:
-  USD: "3277.26390583"
   BTC: "0.300966178222"
+  USD: "3277.26390583"
 supply:
   PIRL: "47334771.2"
 change:
-  1h: "7.12"
   7d: "-22.00"
   24h: "-5.03"
+  1h: "7.12"
 isMineable: true

@@ -4,8 +4,8 @@ rank: 1155
 symbol: DIN
 name: Dinero
 marketCap:
-  BTC: "1.40181605368"
   USD: "15264.5761809"
+  BTC: "1.40181605368"
 price:
   USD: "0.00170593402951"
   BTC: "1.56663747539e-07"
@@ -16,6 +16,6 @@ supply:
   DIN: "8947928.76911"
 change:
   1h: "-6.66"
-  7d: "13.90"
   24h: "-4.14"
+  7d: "13.90"
 isMineable: true

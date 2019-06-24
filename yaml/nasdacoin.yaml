@@ -4,11 +4,11 @@ rank: 688
 symbol: NSD
 name: Nasdacoin
 marketCap:
-  BTC: "191.795586133"
   USD: "2088489.66168"
+  BTC: "191.795586133"
 price:
-  USD: "0.103852666441"
   BTC: "9.53726676123e-06"
+  USD: "0.103852666441"
 volume:
   BTC: "34.7359023018"
   USD: "378244.225058"
@@ -16,6 +16,6 @@ supply:
   NSD: "20110120.7437"
 change:
   7d: "-9.40"
-  24h: "-4.05"
   1h: "0.28"
+  24h: "-4.05"
 isMineable: true

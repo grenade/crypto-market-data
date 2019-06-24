@@ -4,18 +4,18 @@ rank: 971
 symbol: SNPC
 name: SnapCoin
 marketCap:
-  BTC: "40.2213861064"
   USD: "437976.445417"
+  BTC: "40.2213861064"
 price:
   USD: "0.00100749012196"
   BTC: "9.25224395462e-08"
 volume:
-  BTC: "3.76398497266"
   USD: "40986.5725307"
+  BTC: "3.76398497266"
 supply:
   SNPC: "434720337.073"
 change:
-  24h: "-9.91"
   7d: "-22.77"
   1h: "-0.34"
+  24h: "-9.91"
 isMineable: false

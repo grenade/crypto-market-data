@@ -4,8 +4,8 @@
   "symbol": "ALLN",
   "name": "Airline & Life Networking Token",
   "marketCap": {
-    "BTC": "",
-    "USD": ""
+    "USD": "",
+    "BTC": ""
   },
   "price": {
     "USD": "0.498420971615",
@@ -19,9 +19,9 @@
     "ALLN": "0"
   },
   "change": {
-    "1h": "-0.12",
     "24h": "2.13",
-    "7d": "-6.61"
+    "7d": "-6.61",
+    "1h": "-0.12"
   },
   "isMineable": false
 }

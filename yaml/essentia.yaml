@@ -4,8 +4,8 @@ rank: 775
 symbol: ESS
 name: Essentia
 marketCap:
-  BTC: "130.833089121"
   USD: "1424660.28309"
+  BTC: "130.833089121"
 price:
   USD: "0.00172384891856"
   BTC: "1.5830895398e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   ESS: "826441498.294"
 change:
-  24h: "-1.80"
   1h: "-0.12"
+  24h: "-1.80"
   7d: "10.97"
 isMineable: false

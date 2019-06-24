@@ -15,7 +15,7 @@ volume:
 supply:
   USDC: "345065935.512"
 change:
-  7d: "0.02"
   24h: "-0.12"
+  7d: "0.02"
   1h: "-0.06"
 isMineable: false

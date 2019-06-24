@@ -4,8 +4,8 @@ rank: 1982
 symbol: BUD
 name: BUDDY
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
   BTC: "6.21980549497e-09"
   USD: "6.7728354629e-05"
@@ -15,7 +15,7 @@ volume:
 supply:
   BUD: "0"
 change:
-  7d: "-0.48"
-  1h: "-7.89"
   24h: "13.18"
+  1h: "-7.89"
+  7d: "-0.48"
 isMineable: false

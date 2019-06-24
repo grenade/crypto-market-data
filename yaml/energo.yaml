@@ -4,18 +4,18 @@ rank: 827
 symbol: TSL
 name: Energo
 marketCap:
-  USD: "1112048.97181"
   BTC: "102.124558369"
+  USD: "1112048.97181"
 price:
   BTC: "1.69535412049e-07"
   USD: "0.00184609543156"
 volume:
-  USD: "39611.6863289"
   BTC: "3.63772286575"
+  USD: "39611.6863289"
 supply:
   TSL: "602378919.746"
 change:
+  24h: "0.45"
   7d: "-2.08"
   1h: "4.07"
-  24h: "0.45"
 isMineable: false

@@ -4,18 +4,18 @@ rank: 942
 symbol: MAO
 name: Mao Zedong
 marketCap:
-  BTC: "50.0730814844"
   USD: "545373.976087"
+  BTC: "50.0730814844"
 price:
-  USD: "0.0859412716797"
   BTC: "7.89063007841e-06"
+  USD: "0.0859412716797"
 volume:
-  USD: "576.586418233"
   BTC: "0.0529388272432"
+  USD: "576.586418233"
 supply:
   MAO: "6345891.39104"
 change:
+  1h: "0.05"
   7d: "2.85"
   24h: "-6.07"
-  1h: "0.05"
 isMineable: true

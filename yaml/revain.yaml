@@ -4,8 +4,8 @@ rank: 124
 symbol: R
 name: Revain
 marketCap:
-  USD: "51148230.0568"
   BTC: "4697.17659772"
+  USD: "51148230.0568"
 price:
   BTC: "9.69589554696e-06"
   USD: "0.105579998053"
@@ -15,7 +15,7 @@ volume:
 supply:
   R: "484450000.0"
 change:
-  7d: "-10.05"
   24h: "-4.45"
+  7d: "-10.05"
   1h: "-1.07"
 isMineable: false

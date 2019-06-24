@@ -4,8 +4,8 @@ rank: 693
 symbol: SEN
 name: Consensus
 marketCap:
-  BTC: "188.796611902"
   USD: "2055833.40091"
+  BTC: "188.796611902"
 price:
   USD: "0.00126337652435"
   BTC: "1.16021661701e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   SEN: "1627253127.85"
 change:
-  7d: "-4.95"
   24h: "-8.01"
   1h: "-0.23"
+  7d: "-4.95"
 isMineable: false

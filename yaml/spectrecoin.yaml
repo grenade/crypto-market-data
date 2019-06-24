@@ -4,18 +4,18 @@ rank: 305
 symbol: XSPEC
 name: Spectrecoin
 marketCap:
-  BTC: "1165.05686461"
   USD: "12689286.854"
+  BTC: "1165.05686461"
 price:
   USD: "0.565338903095"
   BTC: "5.19061455116e-05"
 volume:
-  BTC: "1.37715887208"
   USD: "14999.4086145"
+  BTC: "1.37715887208"
 supply:
   XSPEC: "22445451.3646"
 change:
-  24h: "-4.79"
-  7d: "-16.64"
   1h: "-1.86"
+  7d: "-16.64"
+  24h: "-4.79"
 isMineable: false

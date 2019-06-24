@@ -4,18 +4,18 @@ rank: 1133
 symbol: HAVY
 name: Havy
 marketCap:
-  BTC: "3.86961417053"
   USD: "42136.7840249"
+  BTC: "3.86961417053"
 price:
-  BTC: "4.99555617756e-10"
   USD: "5.43973281216e-06"
+  BTC: "4.99555617756e-10"
 volume:
-  USD: "15930.8710116"
   BTC: "1.46300496448"
+  USD: "15930.8710116"
 supply:
   HAVY: "7746112811.04"
 change:
+  7d: "7.67"
   24h: "-2.75"
   1h: "-0.32"
-  7d: "7.67"
 isMineable: false

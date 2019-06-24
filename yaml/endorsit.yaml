@@ -15,7 +15,7 @@ volume:
 supply:
   EDS: "0"
 change:
-  1h: "-0.19"
-  24h: "-2.26"
   7d: "-3.45"
+  24h: "-2.26"
+  1h: "-0.19"
 isMineable: false

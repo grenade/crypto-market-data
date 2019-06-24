@@ -4,18 +4,18 @@ rank: 810
 symbol: PXG
 name: PlayGame
 marketCap:
-  BTC: "111.003488184"
   USD: "1208732.91277"
+  BTC: "111.003488184"
 price:
-  BTC: "1.30127252305e-07"
   USD: "0.0014169743247"
+  BTC: "1.30127252305e-07"
 volume:
-  BTC: "4.12931625067"
   USD: "44964.717245"
+  BTC: "4.12931625067"
 supply:
   PXG: "853037977.961"
 change:
+  1h: "20.32"
   7d: "3.84"
   24h: "15.88"
-  1h: "20.32"
 isMineable: false

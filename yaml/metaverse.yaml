@@ -4,18 +4,18 @@ rank: 67
 symbol: ETP
 name: Metaverse ETP
 marketCap:
-  USD: "135259536.066"
   BTC: "12418.7476263"
+  USD: "135259536.066"
 price:
-  USD: "1.88744627004"
   BTC: "0.000173294390677"
+  USD: "1.88744627004"
 volume:
   BTC: "2750.06619881"
   USD: "29952511.2672"
 supply:
   ETP: "71662721.325"
 change:
-  24h: "0.72"
   1h: "-0.23"
   7d: "0.05"
+  24h: "0.72"
 isMineable: true

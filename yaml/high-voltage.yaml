@@ -4,18 +4,18 @@ rank: 1730
 symbol: HVCO
 name: High Voltage
 marketCap:
-  BTC: "1.88280545251"
   USD: "20506.6887316"
+  BTC: "1.88280545251"
 price:
-  USD: "0.0137244616371"
   BTC: "1.26010062089e-06"
+  USD: "0.0137244616371"
 volume:
-  USD: "9.86211492922"
   BTC: "0.000905482304093"
+  USD: "9.86211492922"
 supply:
   HVCO: "1494170.72042"
 change:
-  1h: "0.03"
   7d: "79.80"
   24h: "-0.51"
+  1h: "0.03"
 isMineable: false

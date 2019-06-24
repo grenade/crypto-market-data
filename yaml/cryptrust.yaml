@@ -4,8 +4,8 @@ rank: 1157
 symbol: CTRT
 name: Cryptrust
 marketCap:
-  USD: "13071.8058468"
   BTC: "1.20044389504"
+  USD: "13071.8058468"
 price:
   USD: "2.33726089991e-06"
   BTC: "2.14641390125e-10"
@@ -16,6 +16,6 @@ supply:
   CTRT: "5592788484.74"
 change:
   24h: "-12.32"
-  7d: "-1.34"
   1h: "-0.98"
+  7d: "-1.34"
 isMineable: false

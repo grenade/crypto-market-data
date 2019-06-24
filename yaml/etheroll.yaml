@@ -15,7 +15,7 @@ volume:
 supply:
   DICE: "7001622.64879"
 change:
+  1h: "0.05"
   24h: "-0.91"
   7d: "5.22"
-  1h: "0.05"
 isMineable: false

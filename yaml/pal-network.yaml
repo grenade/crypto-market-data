@@ -4,18 +4,18 @@ rank: 794
 symbol: PAL
 name: PAL Network
 marketCap:
-  USD: "1294142.80623"
   BTC: "118.847070501"
+  USD: "1294142.80623"
 price:
-  BTC: "2.71016083384e-07"
   USD: "0.00295113302505"
+  BTC: "2.71016083384e-07"
 volume:
-  USD: "74036.0244486"
   BTC: "6.7990677496"
+  USD: "74036.0244486"
 supply:
   PAL: "438524050.0"
 change:
-  24h: "-1.69"
   7d: "-16.46"
+  24h: "-1.69"
   1h: "-0.29"
 isMineable: false

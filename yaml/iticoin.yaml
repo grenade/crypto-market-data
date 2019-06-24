@@ -4,18 +4,18 @@ rank: 1554
 symbol: ITI
 name: iTicoin
 marketCap:
-  BTC: "9.12040827802"
   USD: "99335.4748432"
+  BTC: "9.12040827802"
 price:
   BTC: "0.000285012758688"
   USD: "3.10423358885"
 volume:
-  BTC: "0.0297836393545"
   USD: "324.390297852"
+  BTC: "0.0297836393545"
 supply:
   ITI: "32000.0"
 change:
+  7d: "-10.46"
   1h: "1.74"
   24h: "-7.11"
-  7d: "-10.46"
 isMineable: false

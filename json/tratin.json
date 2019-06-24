@@ -4,8 +4,8 @@
   "symbol": "TRAT",
   "name": "Tratin",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "USD": "0.00108915600941",
@@ -19,9 +19,9 @@
     "TRAT": "0"
   },
   "change": {
-    "7d": "-58.77",
     "24h": "-1.31",
-    "1h": "0.08"
+    "1h": "0.08",
+    "7d": "-58.77"
   },
   "isMineable": false
 }

@@ -4,18 +4,18 @@ rank: 1103
 symbol: TBX
 name: Tokenbox
 marketCap:
-  USD: "93311.7839371"
   BTC: "8.56924916687"
+  USD: "93311.7839371"
 price:
   BTC: "7.52092134082e-07"
   USD: "0.00818963917954"
 volume:
-  USD: "15557.0664545"
   BTC: "1.42867677724"
+  USD: "15557.0664545"
 supply:
   TBX: "11393882.1835"
 change:
+  1h: "0.15"
   7d: "12.32"
   24h: "-32.46"
-  1h: "0.15"
 isMineable: false

@@ -4,18 +4,18 @@ rank: 733
 symbol: PAYX
 name: Paypex
 marketCap:
-  BTC: "162.221064313"
   USD: "1766448.44938"
+  BTC: "162.221064313"
 price:
   USD: "0.025814412469"
   BTC: "2.37065591515e-06"
 volume:
-  BTC: "4.91303844445"
   USD: "53498.7806838"
+  BTC: "4.91303844445"
 supply:
   PAYX: "68428768.29"
 change:
+  7d: "10.66"
   24h: "12.07"
   1h: "5.69"
-  7d: "10.66"
 isMineable: false

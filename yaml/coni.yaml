@@ -4,8 +4,8 @@ rank: 1874
 symbol: CONI
 name: Coni
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
   USD: "0.0313307422757"
   BTC: "2.87724578628e-06"
@@ -15,7 +15,7 @@ volume:
 supply:
   CONI: "0"
 change:
-  1h: "-0.14"
-  7d: "-3.35"
   24h: "-0.53"
+  7d: "-3.35"
+  1h: "-0.14"
 isMineable: false
