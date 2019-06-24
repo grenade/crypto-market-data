@@ -1,11 +1,11 @@
 ---
 id: netko
-rank: 1387
+rank: 1388
 symbol: NETKO
 name: Netko
 marketCap:
-  USD: "325837.673517"
-  BTC: "29.9285768764"
+  USD: "325842.750268"
+  BTC: "29.929043182"
 price:
   USD: "0.0406140100285"
   BTC: "3.73044500434e-06"
@@ -13,9 +13,9 @@ volume:
   USD: "0.0"
   BTC: "0.0"
 supply:
-  NETKO: "8022790.0"
+  NETKO: "8022915.0"
 change:
-  1h: "0.00"
-  24h: "-1.36"
+  24h: "-1.32"
   7d: "35.53"
+  1h: "0.00"
 isMineable: true

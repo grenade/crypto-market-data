@@ -1,27 +1,27 @@
 {
   "id": "thingsoperatingsystem",
-  "rank": 1924,
+  "rank": 1925,
   "symbol": "TOS",
   "name": "ThingsOperatingSystem",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
-    "BTC": "4.63572411462e-07",
-    "USD": "0.00502915795128"
+    "BTC": "4.64907657833e-07",
+    "USD": "0.00505970311198"
   },
   "volume": {
-    "USD": "457195.033854",
-    "BTC": "42.1428410889"
+    "BTC": "42.1133932466",
+    "USD": "458330.301245"
   },
   "supply": {
     "TOS": "0"
   },
   "change": {
-    "24h": "1.02",
-    "7d": "-15.34",
-    "1h": "-3.15"
+    "24h": "1.87",
+    "7d": "-14.82",
+    "1h": "-2.67"
   },
   "isMineable": false
 }

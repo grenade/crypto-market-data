@@ -1,21 +1,21 @@
 ---
 id: bridge-protocol
-rank: 1029
+rank: 1028
 symbol: BRDG
 name: Bridge Protocol
 marketCap:
-  BTC: "24.3286710525"
-  USD: "263934.450029"
+  BTC: "24.2925881337"
+  USD: "264382.144941"
 price:
-  USD: "0.00117781471884"
-  BTC: "1.08567361526e-07"
+  BTC: "1.08406340512e-07"
+  USD: "0.00117981256966"
 volume:
-  USD: "701.463112275"
-  BTC: "0.0646587261046"
+  USD: "702.650521819"
+  BTC: "0.0645626039996"
 supply:
   BRDG: "224088259.22"
 change:
-  7d: "67.51"
-  24h: "23.96"
-  1h: "-0.01"
+  1h: "-0.02"
+  24h: "25.08"
+  7d: "68.81"
 isMineable: false

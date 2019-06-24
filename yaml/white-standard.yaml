@@ -4,8 +4,8 @@ rank: 1339
 symbol: WSD
 name: White Standard
 marketCap:
-  USD: "443185.099077"
   BTC: "47.442010294"
+  USD: "443185.099077"
 price:
   BTC: "0.000107969491022"
   USD: "1.00860965375"
@@ -15,7 +15,7 @@ volume:
 supply:
   WSD: "439402.0"
 change:
-  24h: "0.00"
   1h: "0.00"
-  7d: "-0.02"
+  7d: "-0.01"
+  24h: "0.00"
 isMineable: false

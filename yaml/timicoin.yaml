@@ -1,21 +1,21 @@
 ---
 id: timicoin
-rank: 1292
+rank: 1290
 symbol: TMC
 name: Timicoin
 marketCap:
-  BTC: "77.9855342151"
   USD: "728236.12545"
+  BTC: "77.9855342151"
 price:
   BTC: "2.45895135958e-07"
   USD: "0.00229619150371"
 volume:
-  BTC: "0"
   USD: "0"
+  BTC: "0"
 supply:
   TMC: "317149560.162"
 change:
-  7d: "0.00"
-  24h: "0.00"
   1h: "0.00"
+  7d: "0.03"
+  24h: "0.00"
 isMineable: false

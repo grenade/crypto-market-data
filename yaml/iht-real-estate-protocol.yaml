@@ -1,21 +1,21 @@
 ---
 id: iht-real-estate-protocol
-rank: 341
+rank: 349
 symbol: IHT
 name: IHT Real Estate Protocol
 marketCap:
-  BTC: "975.553850412"
-  USD: "10583490.9119"
+  BTC: "951.501798146"
+  USD: "10355425.4872"
 price:
-  BTC: "1.44138779343e-06"
-  USD: "0.0156371835402"
+  BTC: "1.40585071413e-06"
+  USD: "0.0153002152436"
 volume:
-  USD: "531735.590733"
-  BTC: "49.0137618353"
+  BTC: "47.1914115765"
+  USD: "513595.609771"
 supply:
   IHT: "676815673.657"
 change:
-  24h: "-1.78"
-  1h: "1.00"
-  7d: "-6.76"
+  7d: "-8.78"
+  24h: "-3.76"
+  1h: "-1.11"
 isMineable: false

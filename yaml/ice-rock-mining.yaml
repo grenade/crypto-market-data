@@ -1,21 +1,21 @@
 ---
 id: ice-rock-mining
-rank: 610
+rank: 612
 symbol: ROCK2
 name: ICE ROCK MINING
 marketCap:
-  USD: "3164477.90662"
-  BTC: "291.691903177"
+  BTC: "287.722542462"
+  USD: "3131354.4076"
 price:
-  BTC: "1.85504233949e-05"
-  USD: "0.201247975526"
+  USD: "0.199141455172"
+  BTC: "1.82979881334e-05"
 volume:
-  BTC: "28.2938043297"
-  USD: "306950.990824"
+  USD: "308609.177607"
+  BTC: "28.3563613856"
 supply:
   ROCK2: "15724272.0"
 change:
-  7d: "-1.59"
-  24h: "-3.44"
-  1h: "0.43"
+  24h: "-4.37"
+  7d: "-2.59"
+  1h: "-1.08"
 isMineable: false

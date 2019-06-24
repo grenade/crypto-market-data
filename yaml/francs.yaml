@@ -1,21 +1,21 @@
 ---
 id: francs
-rank: 2140
+rank: 2139
 symbol: FRN
 name: Francs
 marketCap:
   USD: ""
   BTC: ""
 price:
-  USD: "0.00357619722751"
-  BTC: "3.29969610113e-07"
+  USD: "0.00359207601965"
+  BTC: "3.30055659808e-07"
 volume:
-  BTC: "0.00245946348576"
-  USD: "26.6555653289"
+  USD: "26.7739195902"
+  BTC: "0.00246010486628"
 supply:
   FRN: "0"
 change:
-  24h: "-1.31"
-  7d: "9.80"
-  1h: "-0.59"
+  24h: "-0.88"
+  7d: "10.28"
+  1h: "-0.39"
 isMineable: true

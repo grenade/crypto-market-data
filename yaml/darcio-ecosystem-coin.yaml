@@ -1,21 +1,21 @@
 ---
 id: darcio-ecosystem-coin
-rank: 435
+rank: 436
 symbol: DEC
 name: Darico Ecosystem Coin
 marketCap:
-  USD: "7020470.72838"
-  BTC: "647.125538049"
+  USD: "7029026.68554"
+  BTC: "645.857723446"
 price:
-  BTC: "1.25548650931e-05"
-  USD: "0.136203963068"
+  BTC: "1.25302682562e-05"
+  USD: "0.136369956962"
 volume:
-  USD: "7000.07914199"
-  BTC: "0.645245903928"
+  USD: "7008.61024761"
+  BTC: "0.64398177181"
 supply:
   DEC: "51543806.5842"
 change:
-  1h: "1.54"
-  7d: "61.20"
-  24h: "9.26"
+  24h: "9.00"
+  7d: "61.30"
+  1h: "1.31"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: thrive-token
-rank: 845
+rank: 844
 symbol: THRT
 name: Thrive Token
 marketCap:
-  USD: "979609.451094"
-  BTC: "90.297405636"
+  BTC: "90.4021361032"
+  USD: "983868.434222"
 price:
-  BTC: "8.7482000068e-07"
-  USD: "0.00949065961127"
+  BTC: "8.75834651176e-07"
+  USD: "0.00953192152347"
 volume:
-  BTC: "1.47601303045"
-  USD: "16012.8223439"
+  BTC: "1.47772496817"
+  USD: "16082.4402311"
 supply:
   THRT: "103218268.405"
 change:
-  7d: "16.96"
-  1h: "-0.55"
-  24h: "7.15"
+  7d: "19.41"
+  24h: "7.66"
+  1h: "-0.31"
 isMineable: false

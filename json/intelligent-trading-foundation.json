@@ -1,11 +1,11 @@
 {
   "id": "intelligent-trading-foundation",
-  "rank": 1601,
+  "rank": 1602,
   "symbol": "ITT",
   "name": "Intelligent Trading Foundation",
   "marketCap": {
-    "BTC": "5.58897690916",
-    "USD": "60793.9995893"
+    "USD": "60793.9995893",
+    "BTC": "5.58897690916"
   },
   "price": {
     "BTC": "5.69438037725e-07",
@@ -19,9 +19,9 @@
     "ITT": "9814899.14424"
   },
   "change": {
+    "7d": "0.64",
     "1h": "0.00",
-    "24h": "-1.81",
-    "7d": "-0.10"
+    "24h": "-1.74"
   },
   "isMineable": false
 }

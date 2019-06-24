@@ -1,21 +1,21 @@
 ---
 id: noir
-rank: 1305
+rank: 1304
 symbol: NOR
 name: Noir
 marketCap:
-  BTC: "59.7632955203"
-  USD: "646142.095768"
+  BTC: "59.7633225501"
+  USD: "646142.388005"
 price:
-  BTC: "3.07156474078e-06"
   USD: "0.0332087991737"
+  BTC: "3.07156474078e-06"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
-  NOR: "19456954.5375"
+  NOR: "19456963.3375"
 change:
-  24h: "-2.01"
-  7d: "14.90"
+  7d: "14.92"
   1h: "0.00"
+  24h: "-1.97"
 isMineable: true

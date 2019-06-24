@@ -1,21 +1,21 @@
 ---
 id: adamant-messenger
-rank: 669
+rank: 671
 symbol: ADM
 name: ADAMANT Messenger
 marketCap:
-  USD: "2309326.91699"
-  BTC: "212.86669819"
+  USD: "2305346.04861"
+  BTC: "211.825280701"
 price:
-  USD: "0.0282493847239"
-  BTC: "2.60394195721e-06"
+  BTC: "2.59119914948e-06"
+  USD: "0.0282006505582"
 volume:
-  USD: "29553.9930069"
-  BTC: "2.72419676201"
+  USD: "28890.3659951"
+  BTC: "2.65457322129"
 supply:
-  ADM: "81747866.0"
+  ADM: "81747974.0"
 change:
-  1h: "6.06"
-  24h: "2.35"
-  7d: "3.76"
+  24h: "2.28"
+  1h: "3.60"
+  7d: "3.64"
 isMineable: true

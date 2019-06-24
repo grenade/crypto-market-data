@@ -4,11 +4,11 @@ rank: 1705
 symbol: ACOIN
 name: Acoin
 marketCap:
-  USD: "28089.2605291"
   BTC: "2.63543411832"
+  USD: "28089.2605291"
 price:
-  BTC: "2.16004148231e-06"
   USD: "0.0230223808398"
+  BTC: "2.16004148231e-06"
 volume:
   USD: "0.0"
   BTC: "0.0"
@@ -16,6 +16,6 @@ supply:
   ACOIN: "1220084.95666"
 change:
   1h: "0.00"
-  7d: "5.22"
-  24h: "-3.44"
+  24h: "-3.43"
+  7d: "5.19"
 isMineable: true

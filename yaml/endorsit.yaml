@@ -4,18 +4,18 @@ rank: 2006
 symbol: EDS
 name: Endorsit
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "1.58214433036e-08"
-  USD: "0.000171642089615"
+  USD: "0.000171657600676"
+  BTC: "1.57726513421e-08"
 volume:
-  BTC: "4.5583391464"
-  USD: "49452.0532196"
+  USD: "49458.3367877"
+  BTC: "4.54444836139"
 supply:
   EDS: "0"
 change:
-  7d: "-3.55"
-  24h: "-2.37"
-  1h: "-0.33"
+  24h: "-2.33"
+  1h: "-0.37"
+  7d: "-3.52"
 isMineable: false

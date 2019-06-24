@@ -1,21 +1,21 @@
 ---
 id: midasprotocol
-rank: 695
+rank: 697
 symbol: MAS
 name: MidasProtocol
 marketCap:
-  USD: "2034517.95288"
-  BTC: "187.53564766"
+  BTC: "185.835436517"
+  USD: "2022492.25328"
 price:
-  BTC: "6.35175775308e-07"
-  USD: "0.00689083133913"
+  BTC: "6.2941722783e-07"
+  USD: "0.00685010077318"
 volume:
-  BTC: "7.86391402277"
-  USD: "85313.2428894"
+  BTC: "7.81599581282"
+  USD: "85063.3833858"
 supply:
   MAS: "295250000.0"
 change:
-  7d: "-11.53"
-  24h: "-6.89"
-  1h: "-0.48"
+  1h: "-1.20"
+  7d: "-12.02"
+  24h: "-7.42"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: waykichain
-rank: 118
+rank: 119
 symbol: WICC
 name: WaykiChain
 marketCap:
-  USD: "53970629.5731"
-  BTC: "4974.84770644"
+  USD: "53975182.7337"
+  BTC: "4959.47592784"
 price:
-  USD: "0.28555888663"
-  BTC: "2.63219455367e-05"
+  USD: "0.285582977427"
+  BTC: "2.62406133748e-05"
 volume:
-  USD: "2156274.31351"
-  BTC: "198.758776911"
+  USD: "2171150.31375"
+  BTC: "199.494789483"
 supply:
   WICC: "189000000.0"
 change:
-  7d: "-1.71"
-  1h: "-0.21"
-  24h: "0.61"
+  1h: "-0.20"
+  7d: "-1.74"
+  24h: "0.55"
 isMineable: false

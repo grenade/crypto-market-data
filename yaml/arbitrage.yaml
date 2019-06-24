@@ -4,18 +4,18 @@ rank: 1300
 symbol: ARB
 name: ARBITRAGE
 marketCap:
-  USD: "673491.525388"
-  BTC: "62.080390703"
+  USD: "664800.4321"
+  BTC: "61.0847721647"
 price:
-  USD: "0.138874788828"
-  BTC: "1.28010536499e-05"
+  USD: "0.1370826746"
+  BTC: "1.2595755871e-05"
 volume:
-  USD: "0.0"
   BTC: "0.0"
+  USD: "0.0"
 supply:
   ARB: "4849631.31949"
 change:
-  7d: "-31.90"
-  24h: "3.12"
-  1h: "4.08"
+  24h: "2.84"
+  7d: "-32.91"
+  1h: "3.99"
 isMineable: false

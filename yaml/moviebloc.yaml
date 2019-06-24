@@ -4,17 +4,17 @@ rank: 1857
 symbol: MBL
 name: MovieBloc
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "4.03652398566e-07"
-  USD: "0.00437910371629"
+  BTC: "3.9851799331e-07"
+  USD: "0.00433716824611"
 volume:
-  BTC: "1734.05969509"
-  USD: "18812293.1562"
+  USD: "18640159.9566"
+  BTC: "1712.73944642"
 supply:
   MBL: "0"
 change:
-  1h: "-0.33"
-  24h: "12.20"
+  24h: "11.18"
+  1h: "-1.27"
 isMineable: false

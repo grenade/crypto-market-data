@@ -1,21 +1,21 @@
 ---
 id: callisto-network
-rank: 500
+rank: 499
 symbol: CLO
 name: Callisto Network
 marketCap:
-  USD: "5099804.84624"
-  BTC: "470.084426351"
+  USD: "5215312.83899"
+  BTC: "479.205760335"
 price:
-  BTC: "2.66347196888e-07"
-  USD: "0.00288952079527"
+  USD: "0.00295493354536"
+  BTC: "2.71512221809e-07"
 volume:
-  USD: "42485.8418567"
-  BTC: "3.91621507084"
+  BTC: "3.90342161683"
+  USD: "42481.8868204"
 supply:
-  CLO: "1764931006.76"
+  CLO: "1764950974.0"
 change:
-  7d: "2.74"
-  24h: "-5.77"
-  1h: "-0.54"
+  7d: "4.97"
+  24h: "-3.37"
+  1h: "1.50"
 isMineable: true

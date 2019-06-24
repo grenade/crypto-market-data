@@ -1,21 +1,21 @@
 ---
 id: elixir
-rank: 1486
+rank: 1487
 symbol: ELIX
 name: Elixir
 marketCap:
-  USD: "152999.363499"
-  BTC: "14.1030137801"
+  USD: "152953.027229"
+  BTC: "14.0539933023"
 price:
-  USD: "0.00432278014773"
-  BTC: "3.98460664133e-07"
+  USD: "0.00432147098209"
+  BTC: "3.97075660017e-07"
 volume:
   USD: "0.0"
   BTC: "0.0"
 supply:
   ELIX: "35393741.5899"
 change:
-  1h: "-0.56"
-  7d: "-5.98"
-  24h: "-12.98"
+  1h: "-0.73"
+  7d: "-5.54"
+  24h: "-12.97"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: pareto-rewards
-rank: 980
+rank: 979
 symbol: PARETO
 name: PARETO Rewards
 marketCap:
-  USD: "414974.017731"
-  BTC: "38.251036845"
+  BTC: "37.9972602158"
+  USD: "413533.424371"
 price:
-  BTC: "8.46550899566e-08"
-  USD: "0.000918397661822"
+  USD: "0.000915209419867"
+  BTC: "8.40934454851e-08"
 volume:
-  BTC: "5.26074341905"
-  USD: "57072.2263478"
+  BTC: "5.24481544031"
+  USD: "57080.6020463"
 supply:
   PARETO: "451845681.867"
 change:
-  7d: "-50.34"
-  24h: "-3.37"
-  1h: "-2.95"
+  1h: "-3.18"
+  24h: "-3.73"
+  7d: "-50.66"
 isMineable: false

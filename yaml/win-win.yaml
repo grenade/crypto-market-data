@@ -1,21 +1,21 @@
 ---
 id: win-win
-rank: 1231
+rank: 1230
 symbol: TWINS
 name: win.win
 marketCap:
-  USD: "1700699.91594"
   BTC: "158.816395914"
+  USD: "1700699.91594"
 price:
-  USD: "0.000963762814474"
   BTC: "8.99990264457e-08"
+  USD: "0.000963762814474"
 volume:
-  USD: "0.0"
   BTC: "0.0"
+  USD: "0.0"
 supply:
   TWINS: "1764645709.92"
 change:
-  1h: "0.00"
-  7d: "44.31"
   24h: "0.00"
+  7d: "44.28"
+  1h: "0.00"
 isMineable: false

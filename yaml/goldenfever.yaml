@@ -1,21 +1,21 @@
 ---
 id: goldenfever
-rank: 2139
+rank: 2138
 symbol: GFR
 name: GoldenFever
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.703383563068"
-  BTC: "6.483574739e-05"
+  USD: "0.706441617198"
+  BTC: "6.49109464289e-05"
 volume:
-  USD: "30.1237606237"
-  BTC: "0.00277671619979"
+  USD: "30.2547277026"
+  BTC: "0.00277993674398"
 supply:
   GFR: "0"
 change:
-  7d: "-53.48"
-  1h: "-0.55"
-  24h: "-33.94"
+  7d: "-53.23"
+  1h: "-0.31"
+  24h: "-32.76"
 isMineable: false

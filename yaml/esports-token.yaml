@@ -1,21 +1,21 @@
 ---
 id: esports-token
-rank: 2013
+rank: 2010
 symbol: EST
 name: Esports Token
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "1.23560092092e-07"
-  USD: "0.0013404663527"
+  BTC: "1.22753635076e-07"
+  USD: "0.00133595766586"
 volume:
-  USD: "39583.2074553"
-  BTC: "3.64865910182"
+  BTC: "3.75084461798"
+  USD: "40821.3542332"
 supply:
   EST: "0"
 change:
-  24h: "-16.54"
-  1h: "-0.39"
-  7d: "-24.06"
+  7d: "-24.32"
+  1h: "-0.75"
+  24h: "-16.98"
 isMineable: false

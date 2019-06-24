@@ -4,18 +4,18 @@ rank: 2034
 symbol: ALV
 name: ALLUVA
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.0092908737841"
-  BTC: "8.56404353651e-07"
+  USD: "0.00965494937487"
+  BTC: "8.87138988402e-07"
 volume:
-  BTC: "2.12042985471"
-  USD: "23003.9070495"
+  USD: "24554.6289631"
+  BTC: "2.2561867342"
 supply:
   ALV: "0"
 change:
-  1h: "5.40"
-  7d: "19.17"
-  24h: "1.22"
+  24h: "5.27"
+  1h: "1.12"
+  7d: "23.97"
 isMineable: false

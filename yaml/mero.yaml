@@ -1,21 +1,21 @@
 ---
 id: mero
-rank: 1644
+rank: 1646
 symbol: MERO
 name: Mero
 marketCap:
-  USD: "43632.6462576"
   BTC: "4.76749503965"
+  USD: "43632.6462576"
 price:
-  USD: "0.00728431770469"
   BTC: "7.95916624432e-07"
+  USD: "0.00728431770469"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   MERO: "5989942.78208"
 change:
+  24h: "0.00"
   1h: "0.00"
   7d: "0.00"
-  24h: "0.00"
 isMineable: true

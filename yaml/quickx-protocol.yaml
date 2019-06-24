@@ -4,18 +4,18 @@ rank: 1882
 symbol: QCX
 name: QuickX Protocol
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "7.74403533362e-06"
-  USD: "0.0840127149722"
+  BTC: "7.74345020661e-06"
+  USD: "0.0842738519094"
 volume:
-  USD: "2057183.84211"
-  BTC: "189.624920065"
+  USD: "2055380.47612"
+  BTC: "188.857350315"
 supply:
   QCX: "0"
 change:
-  7d: "-10.17"
-  24h: "-5.77"
-  1h: "-0.61"
+  1h: "-0.36"
+  7d: "-9.89"
+  24h: "-5.43"
 isMineable: false

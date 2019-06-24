@@ -4,8 +4,8 @@ rank: 2161
 symbol: WINK
 name: Wink
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
   USD: "0.000179499515711"
   BTC: "2.00060561368e-08"
@@ -15,7 +15,7 @@ volume:
 supply:
   WINK: "0"
 change:
-  24h: "0.00"
   1h: "0.00"
+  24h: "0.00"
   7d: "0.00"
 isMineable: false

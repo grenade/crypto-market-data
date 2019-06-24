@@ -1,21 +1,21 @@
 ---
 id: micromines
-rank: 1145
+rank: 1144
 symbol: MICRO
 name: Micromines
 marketCap:
-  USD: "27837.2748514"
-  BTC: "2.56595492851"
+  BTC: "2.56092785123"
+  USD: "27871.2006568"
 price:
-  USD: "1.68711905903e-06"
-  BTC: "1.55513479233e-10"
+  USD: "1.68917518245e-06"
+  BTC: "1.55208805807e-10"
 volume:
-  BTC: "1.13168267976"
-  USD: "12277.2857196"
+  USD: "12290.3583044"
+  BTC: "1.12929189061"
 supply:
   MICRO: "16499887605.7"
 change:
-  24h: "-8.81"
   1h: "-0.55"
-  7d: "13.19"
+  7d: "13.38"
+  24h: "-8.52"
 isMineable: false

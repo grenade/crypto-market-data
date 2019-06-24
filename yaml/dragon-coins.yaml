@@ -4,18 +4,18 @@ rank: 2063
 symbol: DRG
 name: Dragon Coins
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "4.66220293061e-06"
-  USD: "0.05057884024"
+  BTC: "4.65349013239e-06"
+  USD: "0.0506450649019"
 volume:
-  USD: "6334.27692154"
-  BTC: "0.583874289857"
+  BTC: "0.58276392385"
+  USD: "6342.36151926"
 supply:
   DRG: "0"
 change:
-  7d: "-3.32"
-  1h: "-1.16"
-  24h: "-1.93"
+  1h: "-1.01"
+  7d: "-3.11"
+  24h: "-1.74"
 isMineable: false

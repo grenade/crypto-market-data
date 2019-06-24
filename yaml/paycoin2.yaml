@@ -1,6 +1,6 @@
 ---
 id: paycoin2
-rank: 1465
+rank: 1466
 symbol: XPY
 name: PayCoin
 marketCap:
@@ -15,7 +15,7 @@ volume:
 supply:
   XPY: "11995342.4784"
 change:
+  7d: "20.31"
   1h: "0.00"
-  7d: "20.29"
-  24h: "-1.02"
+  24h: "-1.00"
 isMineable: true

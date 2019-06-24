@@ -4,18 +4,18 @@ rank: 2104
 symbol: TKT
 name: Twinkle
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "4.29574289333e-07"
-  USD: "0.0046603225288"
+  BTC: "4.30072526416e-07"
+  USD: "0.00468058390439"
 volume:
-  BTC: "0.0289463238125"
-  USD: "314.02997884"
+  BTC: "0.0289798968925"
+  USD: "315.39526618"
 supply:
   TKT: "0"
 change:
-  24h: "-1.82"
-  1h: "-0.55"
-  7d: "-3.01"
+  7d: "-2.57"
+  1h: "-0.31"
+  24h: "-1.36"
 isMineable: false

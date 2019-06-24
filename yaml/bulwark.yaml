@@ -1,21 +1,21 @@
 ---
 id: bulwark
-rank: 1267
+rank: 1266
 symbol: BWK
 name: Bulwark
 marketCap:
-  USD: "920535.553987"
-  BTC: "98.5413483417"
+  BTC: "98.4871816506"
+  USD: "920029.549494"
 price:
-  BTC: "5.2410556396e-06"
   USD: "0.0489599354775"
+  BTC: "5.2410556396e-06"
 volume:
   BTC: "0"
   USD: "0"
 supply:
-  BWK: "18801813.0541"
+  BWK: "18791477.9814"
 change:
-  24h: "0.00"
+  7d: "-0.27"
   1h: "0.00"
-  7d: "-0.33"
+  24h: "0.00"
 isMineable: true

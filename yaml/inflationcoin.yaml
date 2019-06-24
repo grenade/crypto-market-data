@@ -1,21 +1,21 @@
 ---
 id: inflationcoin
-rank: 1548
+rank: 1550
 symbol: IFLT
 name: InflationCoin
 marketCap:
-  BTC: "9.33872834368"
-  USD: "101313.060793"
+  USD: "101311.892472"
+  BTC: "9.30897991392"
 price:
-  BTC: "2.08499869558e-10"
-  USD: "2.26195250387e-06"
+  USD: "2.26192641949e-06"
+  BTC: "2.07835695219e-10"
 volume:
-  USD: "109.659346116"
-  BTC: "0.0101080634195"
+  USD: "109.658224948"
+  BTC: "0.0100758774565"
 supply:
   IFLT: "44790092020.1"
 change:
-  1h: "-2.19"
-  24h: "0.68"
-  7d: "2.99"
+  7d: "3.23"
+  1h: "-0.86"
+  24h: "0.76"
 isMineable: false

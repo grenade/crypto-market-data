@@ -1,21 +1,21 @@
 ---
 id: cryptocarbon
-rank: 1319
+rank: 1318
 symbol: CCRB
 name: CryptoCarbon
 marketCap:
-  USD: "540545.93754"
-  BTC: "49.8258726806"
+  USD: "545583.637436"
+  BTC: "50.130611504"
 price:
-  BTC: "2.01800014989e-06"
-  USD: "0.021892677926"
+  USD: "0.0220967100603"
+  BTC: "2.03034239215e-06"
 volume:
-  BTC: "0.0304097446489"
-  USD: "329.90619225"
+  USD: "337.400145086"
+  BTC: "0.0310018014364"
 supply:
   CCRB: "24690718.0276"
 change:
-  1h: "-0.58"
-  7d: "13.79"
-  24h: "-0.84"
+  1h: "0.10"
+  7d: "14.86"
+  24h: "0.12"
 isMineable: false

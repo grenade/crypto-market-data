@@ -1,21 +1,21 @@
 ---
 id: unlimitedip
-rank: 1915
+rank: 1910
 symbol: UIP
 name: UnlimitedIP
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "1.50329817608e-06"
-  USD: "0.0163088306993"
+  BTC: "1.71663350421e-06"
+  USD: "0.0186825399346"
 volume:
-  BTC: "54.160993076"
-  USD: "587576.357529"
+  BTC: "62.4659272613"
+  USD: "679831.878936"
 supply:
   UIP: "0"
 change:
-  1h: "-3.11"
-  7d: "1.94"
-  24h: "-5.72"
+  1h: "10.62"
+  7d: "16.77"
+  24h: "8.18"
 isMineable: false

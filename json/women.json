@@ -1,6 +1,6 @@
 {
   "id": "women",
-  "rank": 1498,
+  "rank": 1497,
   "symbol": "WOMEN",
   "name": "WomenCoin",
   "marketCap": {
@@ -12,16 +12,16 @@
     "BTC": "3.27785481406e-10"
   },
   "volume": {
-    "BTC": "0",
-    "USD": "0"
+    "USD": "0",
+    "BTC": "0"
   },
   "supply": {
     "WOMEN": "48459472454.0"
   },
   "change": {
-    "24h": "0.00",
     "1h": "0.00",
-    "7d": "10.70"
+    "24h": "0.00",
+    "7d": "9.98"
   },
   "isMineable": true
 }

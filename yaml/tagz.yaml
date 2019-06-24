@@ -4,18 +4,18 @@ rank: 2088
 symbol: TAGZ
 name: TAGZ
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "2.80369051136e-07"
-  USD: "0.00304163968336"
+  USD: "0.00304630302795"
+  BTC: "2.79907649606e-07"
 volume:
-  BTC: "0.098537884902"
-  USD: "1069.00793728"
+  USD: "1077.00275581"
+  BTC: "0.0989597250283"
 supply:
   TAGZ: "0"
 change:
-  7d: "-86.52"
-  1h: "-31.22"
-  24h: "-46.00"
+  1h: "-28.37"
+  7d: "-86.61"
+  24h: "-45.88"
 isMineable: false

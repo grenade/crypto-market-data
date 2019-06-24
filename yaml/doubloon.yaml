@@ -4,18 +4,18 @@ rank: 1680
 symbol: BOAT
 name: BOAT
 marketCap:
-  BTC: "3.64003131688"
-  USD: "34003.7791364"
+  USD: "34003.7864365"
+  BTC: "3.64003209834"
 price:
-  USD: "0.000467174956846"
   BTC: "5.00100728969e-08"
+  USD: "0.000467174956846"
 volume:
   BTC: "0"
   USD: "0"
 supply:
-  BOAT: "72785963.0277"
+  BOAT: "72785978.6536"
 change:
   7d: "0.39"
-  24h: "0.00"
   1h: "0.00"
+  24h: "0.00"
 isMineable: true

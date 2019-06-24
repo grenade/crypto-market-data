@@ -1,21 +1,21 @@
 ---
 id: sopay
-rank: 1911
+rank: 1912
 symbol: SOP
 name: SoPay
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.00194385018368"
-  BTC: "1.79178169764e-07"
+  USD: "0.00194053082149"
+  BTC: "1.78304461587e-07"
 volume:
-  BTC: "61.2854375377"
-  USD: "664867.317101"
+  BTC: "60.9791254566"
+  USD: "663650.653284"
 supply:
   SOP: "0"
 change:
-  24h: "-10.34"
-  1h: "0.81"
-  7d: "-37.74"
+  7d: "-37.86"
+  1h: "0.43"
+  24h: "-10.25"
 isMineable: false

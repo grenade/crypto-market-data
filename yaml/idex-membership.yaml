@@ -1,21 +1,21 @@
 ---
 id: idex-membership
-rank: 906
+rank: 905
 symbol: IDXM
 name: IDEX Membership
 marketCap:
-  USD: "711704.83404"
-  BTC: "65.6027767194"
+  USD: "712572.19982"
+  BTC: "65.4742511812"
 price:
-  USD: "355.85241702"
-  BTC: "0.0328013883597"
+  USD: "356.28609991"
+  BTC: "0.0327371255906"
 volume:
-  USD: "2554.10437454"
-  BTC: "0.235429536216"
+  BTC: "0.234968294949"
+  USD: "2557.21710137"
 supply:
   IDXM: "2000.0"
 change:
-  7d: "-16.91"
-  24h: "-6.41"
-  1h: "-6.43"
+  7d: "-16.57"
+  1h: "-6.39"
+  24h: "-6.09"
 isMineable: false

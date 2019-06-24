@@ -1,21 +1,21 @@
 ---
 id: oraclechain
-rank: 806
+rank: 805
 symbol: OCT
 name: OracleChain
 marketCap:
-  BTC: "113.663974876"
-  USD: "1233106.34734"
+  BTC: "112.594713552"
+  USD: "1225395.65213"
 price:
-  BTC: "3.78879916255e-06"
-  USD: "0.0411035449113"
+  USD: "0.0408465217377"
+  BTC: "3.7531571184e-06"
 volume:
-  USD: "7722.39426588"
-  BTC: "0.711826704742"
+  USD: "7659.79708934"
+  BTC: "0.703815667733"
 supply:
   OCT: "30000000.0"
 change:
-  7d: "-6.26"
-  1h: "0.69"
-  24h: "9.04"
+  1h: "-0.17"
+  7d: "-6.82"
+  24h: "8.36"
 isMineable: false

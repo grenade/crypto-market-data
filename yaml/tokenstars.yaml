@@ -1,21 +1,21 @@
 ---
 id: tokenstars
-rank: 1032
+rank: 1031
 symbol: TEAM
 name: TEAM (TokenStars)
 marketCap:
-  BTC: "22.9151513006"
-  USD: "248599.598507"
+  BTC: "22.9010036157"
+  USD: "249237.192181"
 price:
-  BTC: "1.94377494137e-06"
-  USD: "0.0210874309174"
+  BTC: "1.94257486571e-06"
+  USD: "0.0211415147238"
 volume:
-  USD: "18549.873276"
-  BTC: "1.70987063245"
+  USD: "18585.7987261"
+  BTC: "1.70774449873"
 supply:
   TEAM: "11788994.0923"
 change:
-  24h: "-3.81"
-  1h: "-1.46"
-  7d: "23.06"
+  1h: "-0.78"
+  7d: "23.36"
+  24h: "-3.53"
 isMineable: false

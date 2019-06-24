@@ -4,24 +4,24 @@
   "symbol": "MINEX",
   "name": "Minex",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "BTC": "7.20145049716e-07",
     "USD": "0.00672731937858"
   },
   "volume": {
-    "USD": "0",
-    "BTC": "0"
+    "BTC": "0",
+    "USD": "0"
   },
   "supply": {
     "MINEX": "0"
   },
   "change": {
+    "7d": "0.60",
     "1h": "0.00",
-    "24h": "0.00",
-    "7d": "0.62"
+    "24h": "0.00"
   },
   "isMineable": false
 }

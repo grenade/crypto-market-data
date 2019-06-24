@@ -1,21 +1,21 @@
 ---
 id: newton-coin-project
-rank: 1373
+rank: 1372
 symbol: NCP
 name: Newton Coin Project
 marketCap:
-  BTC: "33.2597163633"
-  USD: "360824.679963"
+  USD: "361550.160534"
+  BTC: "33.2208105108"
 price:
-  USD: "2.01248076035e-06"
-  BTC: "1.85504326596e-10"
+  USD: "2.0165253144e-06"
+  BTC: "1.85287168068e-10"
 volume:
-  BTC: "0.000355334217797"
-  USD: "3.85491427578"
+  BTC: "0.000354717936287"
+  USD: "3.86048157276"
 supply:
-  NCP: "1.792934805e+11"
+  NCP: "1.79293638395e+11"
 change:
-  7d: "49.78"
-  1h: "-6.59"
-  24h: "-18.04"
+  1h: "-5.86"
+  24h: "-17.28"
+  7d: "50.13"
 isMineable: true

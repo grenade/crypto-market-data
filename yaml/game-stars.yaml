@@ -1,21 +1,21 @@
 ---
 id: game-stars
-rank: 1931
+rank: 1930
 symbol: GST
 name: Game Stars
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.000758657155851"
-  BTC: "6.99306982635e-08"
+  USD: "0.00076195551932"
+  BTC: "7.00118066259e-08"
 volume:
-  USD: "403228.499683"
-  BTC: "37.1683708841"
+  USD: "407182.059155"
+  BTC: "37.4136689929"
 supply:
   GST: "0"
 change:
-  1h: "-0.51"
-  7d: "104.17"
-  24h: "-1.82"
+  7d: "105.08"
+  24h: "-1.36"
+  1h: "-0.31"
 isMineable: false

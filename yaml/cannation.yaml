@@ -4,8 +4,8 @@ rank: 1821
 symbol: CNNC
 name: Cannation
 marketCap:
-  BTC: "0.519914422072"
   USD: "4634.99886487"
+  BTC: "0.519914422072"
 price:
   BTC: "2.09905910755e-07"
   USD: "0.00187129576864"
@@ -15,7 +15,7 @@ volume:
 supply:
   CNNC: "2476892.71923"
 change:
-  7d: "0.00"
   1h: "0.00"
+  7d: "0.00"
   24h: "0.00"
 isMineable: true

@@ -1,21 +1,21 @@
 ---
 id: safe
-rank: 1938
+rank: 1941
 symbol: SAFE
 name: Safe
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.000170830705758"
-  USD: "1.85329105215"
+  BTC: "0.000148024962581"
+  USD: "1.61099166942"
 volume:
-  USD: "309383.534091"
-  BTC: "28.5180287345"
+  USD: "272216.060767"
+  BTC: "25.0124025926"
 supply:
   SAFE: "0"
 change:
-  1h: "7.01"
-  7d: "5.73"
-  24h: "5.59"
+  1h: "-6.78"
+  7d: "-8.10"
+  24h: "-8.45"
 isMineable: false

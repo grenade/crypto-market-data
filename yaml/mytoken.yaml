@@ -4,18 +4,18 @@ rank: 1922
 symbol: MT
 name: MyToken
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.00312978716205"
-  BTC: "2.88494216354e-07"
+  BTC: "2.89559878032e-07"
+  USD: "0.00315135057747"
 volume:
-  USD: "501589.373044"
-  BTC: "46.2349756118"
+  BTC: "46.355830847"
+  USD: "504501.781468"
 supply:
   MT: "0"
 change:
-  1h: "-0.38"
-  24h: "-9.66"
-  7d: "-3.31"
+  24h: "-8.98"
+  7d: "-2.71"
+  1h: "0.19"
 isMineable: false

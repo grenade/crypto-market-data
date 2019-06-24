@@ -1,21 +1,21 @@
 ---
 id: key
-rank: 1964
+rank: 1963
 symbol: KEY
 name: KEY
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.00241753341319"
-  BTC: "2.22840842344e-07"
+  USD: "0.00242156677611"
+  BTC: "2.22504149602e-07"
 volume:
-  BTC: "12.7047915501"
-  USD: "137830.4702"
+  BTC: "12.6857406683"
+  USD: "138062.001036"
 supply:
   KEY: "0"
 change:
-  7d: "-4.03"
-  24h: "2.99"
-  1h: "-0.57"
+  24h: "3.13"
+  7d: "-3.86"
+  1h: "-0.51"
 isMineable: false

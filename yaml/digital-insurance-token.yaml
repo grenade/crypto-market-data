@@ -1,21 +1,21 @@
 ---
 id: digital-insurance-token
-rank: 1255
+rank: 1254
 symbol: DIT
 name: Digital Insurance Token
 marketCap:
-  USD: "1058505.38912"
-  BTC: "97.5697921073"
+  BTC: "97.5202065962"
+  USD: "1061336.12661"
 price:
-  BTC: "4.34329690946e-07"
-  USD: "0.00471191245357"
+  BTC: "4.34108962181e-07"
+  USD: "0.00472451341653"
 volume:
-  BTC: "0.00476471714302"
-  USD: "51.6909861609"
+  BTC: "0.00476219825308"
+  USD: "51.8281618187"
 supply:
   DIT: "224644536.492"
 change:
-  7d: "12.75"
-  24h: "0.65"
-  1h: "-0.56"
+  7d: "13.06"
+  1h: "-0.44"
+  24h: "0.99"
 isMineable: false

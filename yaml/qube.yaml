@@ -1,21 +1,21 @@
 ---
 id: qube
-rank: 2010
+rank: 2011
 symbol: QUBE
 name: Qube
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.000885534476934"
-  BTC: "8.16258619994e-08"
+  USD: "0.000886132568421"
+  BTC: "8.14217371646e-08"
 volume:
-  BTC: "3.7420328292"
-  USD: "40596.1909976"
+  BTC: "3.73227768834"
+  USD: "40619.2858222"
 supply:
   QUBE: "0"
 change:
-  1h: "-0.03"
-  7d: "-6.33"
-  24h: "-7.81"
+  24h: "-7.72"
+  1h: "-0.11"
+  7d: "-6.09"
 isMineable: false

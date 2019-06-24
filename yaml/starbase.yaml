@@ -1,11 +1,11 @@
 ---
 id: starbase
-rank: 1517
+rank: 1516
 symbol: STAR
 name: Starbase
 marketCap:
-  BTC: "11.8007737622"
   USD: "128182.551454"
+  BTC: "11.8007737622"
 price:
   BTC: "6.2937460065e-08"
   USD: "0.000683640274419"
@@ -16,6 +16,6 @@ supply:
   STAR: "187500000.0"
 change:
   1h: "0.00"
-  7d: "-61.00"
-  24h: "-66.12"
+  7d: "-60.99"
+  24h: "-66.09"
 isMineable: false

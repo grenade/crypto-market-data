@@ -1,21 +1,21 @@
 ---
 id: startercoin
-rank: 1513
+rank: 1521
 symbol: STAC
 name: StarterCoin
 marketCap:
-  USD: "130466.567876"
-  BTC: "12.026009537"
+  USD: "123091.629058"
+  BTC: "11.3101973966"
 price:
-  BTC: "3.51630314399e-08"
-  USD: "0.000381473173952"
+  BTC: "3.30700574802e-08"
+  USD: "0.000359909478638"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   STAC: "342007188.931"
 change:
-  7d: "-50.84"
-  24h: "-62.69"
-  1h: "-18.42"
+  1h: "-23.89"
+  7d: "-53.56"
+  24h: "-64.78"
 isMineable: false

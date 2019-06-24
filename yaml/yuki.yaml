@@ -4,18 +4,18 @@ rank: 2176
 symbol: YUKI
 name: YUKI
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "9.20228617417e-06"
-  BTC: "8.48238618481e-10"
+  BTC: "8.46576793625e-10"
+  USD: "9.21350114384e-06"
 volume:
-  BTC: "0.0"
   USD: "0.0"
+  BTC: "0.0"
 supply:
   YUKI: "0"
 change:
-  24h: "-59.81"
-  7d: "-57.00"
-  1h: "-20.19"
+  1h: "-0.55"
+  7d: "-57.23"
+  24h: "-59.76"
 isMineable: false

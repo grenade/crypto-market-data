@@ -1,21 +1,21 @@
 ---
 id: ergo
-rank: 1289
+rank: 1287
 symbol: EFYT
 name: Ergo
 marketCap:
   BTC: "80.8852380965"
   USD: "755598.930943"
 price:
-  USD: "1.90183471166"
   BTC: "0.000203587309581"
+  USD: "1.90183471166"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   EFYT: "397300.0"
 change:
+  7d: "0.82"
   24h: "0.00"
-  7d: "0.84"
   1h: "0.00"
 isMineable: false

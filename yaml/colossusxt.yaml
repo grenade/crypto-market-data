@@ -1,21 +1,21 @@
 ---
 id: colossusxt
-rank: 1198
+rank: 1197
 symbol: COLX
 name: ColossusXT
 marketCap:
-  USD: "3674173.74652"
-  BTC: "338.674108132"
+  USD: "3690156.08444"
+  BTC: "339.067685254"
 price:
-  USD: "0.000325138781079"
-  BTC: "2.99702992558e-08"
+  USD: "0.000326552365423"
+  BTC: "3.00050599825e-08"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
-  COLX: "11300324539.3"
+  COLX: "11300350189.3"
 change:
-  7d: "-20.02"
-  24h: "-1.82"
-  1h: "-0.56"
+  7d: "-19.92"
+  24h: "-1.36"
+  1h: "-0.33"
 isMineable: true

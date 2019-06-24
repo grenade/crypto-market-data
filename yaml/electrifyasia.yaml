@@ -1,21 +1,21 @@
 ---
 id: electrifyasia
-rank: 766
+rank: 765
 symbol: ELEC
 name: Electrify.Asia
 marketCap:
-  BTC: "134.043880215"
-  USD: "1454201.82335"
+  USD: "1454730.25447"
+  BTC: "133.66698014"
 price:
-  USD: "0.00274589172429"
-  BTC: "2.53107908038e-07"
+  USD: "0.00274688953258"
+  BTC: "2.52396227734e-07"
 volume:
-  USD: "25718.8453052"
-  BTC: "2.3706845666"
+  USD: "25728.2893212"
+  BTC: "2.3640277826"
 supply:
   ELEC: "529591830.037"
 change:
-  7d: "-4.22"
-  24h: "-1.97"
-  1h: "-0.54"
+  24h: "-1.92"
+  7d: "-4.20"
+  1h: "-0.43"
 isMineable: false

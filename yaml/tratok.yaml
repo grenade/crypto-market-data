@@ -1,21 +1,21 @@
 ---
 id: tratok
-rank: 1901
+rank: 1900
 symbol: TRAT
 name: Tratok
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "6.98826928261e-08"
-  USD: "0.000758136359269"
+  USD: "0.000741002548868"
+  BTC: "6.80865560328e-08"
 volume:
-  USD: "1155832.86163"
-  BTC: "106.541141102"
+  USD: "1163536.54681"
+  BTC: "106.910828325"
 supply:
   TRAT: "0"
 change:
-  1h: "-5.48"
-  7d: "2.99"
-  24h: "38.28"
+  24h: "35.24"
+  7d: "0.75"
+  1h: "-7.17"
 isMineable: false

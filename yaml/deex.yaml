@@ -1,21 +1,21 @@
 ---
 id: deex
-rank: 1294
+rank: 1292
 symbol: DEEX
 name: DEEX
 marketCap:
+  BTC: "64.9263036506"
   USD: "706608.753576"
-  BTC: "65.1330355954"
 price:
-  BTC: "1.15221180154e-06"
+  BTC: "1.14855468677e-06"
   USD: "0.0125"
 volume:
+  BTC: "0.0132801661123"
   USD: "144.531277715"
-  BTC: "0.01332245151"
 supply:
   DEEX: "56528700.2861"
 change:
-  24h: "-1.36"
+  7d: "16.19"
   1h: "0.00"
-  7d: "16.10"
+  24h: "-1.32"
 isMineable: false

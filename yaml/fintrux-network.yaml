@@ -1,21 +1,21 @@
 ---
 id: fintrux-network
-rank: 602
+rank: 604
 symbol: FTX
 name: FintruX Network
 marketCap:
-  USD: "3228961.66146"
-  BTC: "297.635818643"
+  USD: "3232901.31173"
+  BTC: "297.053116276"
 price:
-  USD: "0.0339890701206"
-  BTC: "3.1330086173e-06"
+  BTC: "3.12687490817e-06"
+  USD: "0.0340305401235"
 volume:
-  BTC: "0.65077700222"
-  USD: "7060.08436721"
+  BTC: "0.649503184012"
+  USD: "7068.70111948"
 supply:
   FTX: "95000000.0"
 change:
-  24h: "10.45"
-  7d: "-0.61"
-  1h: "-4.74"
+  1h: "-5.18"
+  7d: "-0.42"
+  24h: "10.63"
 isMineable: false

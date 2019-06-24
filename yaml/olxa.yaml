@@ -1,21 +1,21 @@
 ---
 id: olxa
-rank: 1223
+rank: 1220
 symbol: OLXA
 name: OLXA
 marketCap:
-  USD: "1987463.34829"
-  BTC: "183.198298002"
+  BTC: "196.651361643"
+  USD: "2140204.59701"
 price:
-  BTC: "1.39732649084e-07"
-  USD: "0.00151591756934"
+  USD: "0.0016324194121"
+  BTC: "1.49993837323e-07"
 volume:
-  BTC: "0.0"
   USD: "0.0"
+  BTC: "0.0"
 supply:
   OLXA: "1311062942.0"
 change:
-  1h: "-24.05"
-  7d: "-46.34"
-  24h: "-48.47"
+  7d: "-42.35"
+  1h: "1.43"
+  24h: "-44.51"
 isMineable: false
