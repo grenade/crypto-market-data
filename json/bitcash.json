@@ -1,0 +1,27 @@
+{
+  "id": "bitcash",
+  "rank": 2080,
+  "symbol": "BITC",
+  "name": "BitCash",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "6.52144695854e-06",
+    "USD": "0.0710129718138"
+  },
+  "volume": {
+    "BTC": "0.168045084221",
+    "USD": "1829.86703796"
+  },
+  "supply": {
+    "BITC": "0"
+  },
+  "change": {
+    "24h": "-3.78",
+    "7d": "12.89",
+    "1h": "-0.01"
+  },
+  "isMineable": false
+}

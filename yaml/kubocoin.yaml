@@ -1,0 +1,21 @@
+---
+id: kubocoin
+rank: 945
+symbol: KUBO
+name: KuboCoin
+marketCap:
+  USD: "528550.422953"
+  BTC: "48.5392099522"
+price:
+  USD: "9.36094357305e-06"
+  BTC: "8.59658389647e-10"
+volume:
+  BTC: "0.183158030241"
+  USD: "1994.434076"
+supply:
+  KUBO: "56463370260.5"
+change:
+  7d: "4.02"
+  1h: "-2.55"
+  24h: "-0.07"
+isMineable: false

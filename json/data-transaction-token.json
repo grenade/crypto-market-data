@@ -1,0 +1,27 @@
+{
+  "id": "data-transaction-token",
+  "rank": 262,
+  "symbol": "XD",
+  "name": "Data Transaction Token",
+  "marketCap": {
+    "USD": "16069136.6227",
+    "BTC": "1475.70252981"
+  },
+  "price": {
+    "BTC": "7.66618905243e-06",
+    "USD": "0.0834782327543"
+  },
+  "volume": {
+    "BTC": "13.2658319437",
+    "USD": "144453.547793"
+  },
+  "supply": {
+    "XD": "192494930.625"
+  },
+  "change": {
+    "24h": "-1.04",
+    "7d": "4.17",
+    "1h": "-1.31"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,21 @@
+---
+id: bolenum
+rank: 1667
+symbol: BLN
+name: Bolenum
+marketCap:
+  USD: "36573.66709"
+  BTC: "3.35798239865"
+price:
+  BTC: "1.34319295946e-10"
+  USD: "1.4629466836e-06"
+volume:
+  BTC: "0.0"
+  USD: "0.0"
+supply:
+  BLN: "25000000000.0"
+change:
+  24h: "-1.48"
+  1h: "-0.42"
+  7d: "29.36"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: local-coin-swap
+rank: 872
+symbol: LCS
+name: LocalCoinSwap
+marketCap:
+  USD: "857949.588835"
+  BTC: "78.7894464035"
+price:
+  BTC: "1.50033288923e-06"
+  USD: "0.0163373401412"
+volume:
+  BTC: "8.07207260257"
+  USD: "87897.9569795"
+supply:
+  LCS: "52514643.2296"
+change:
+  7d: "-24.82"
+  1h: "0.65"
+  24h: "-15.55"
+isMineable: false

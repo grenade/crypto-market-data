@@ -1,0 +1,21 @@
+---
+id: dynamiccoin
+rank: 2204
+symbol: DMC
+name: DynamicCoin
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  USD: "9.14782068189e-05"
+  BTC: "9.99726850284e-09"
+volume:
+  BTC: "0"
+  USD: "0"
+supply:
+  DMC: "0"
+change:
+  24h: "0.00"
+  7d: "0.00"
+  1h: "0.00"
+isMineable: true

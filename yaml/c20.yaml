@@ -1,0 +1,21 @@
+---
+id: c20
+rank: 162
+symbol: C20
+name: CRYPTO20
+marketCap:
+  USD: "34939576.3863"
+  BTC: "3208.66157741"
+price:
+  BTC: "7.92936974749e-05"
+  USD: "0.863440451115"
+volume:
+  BTC: "1.70361603306"
+  USD: "18550.9194672"
+supply:
+  C20: "40465531.0522"
+change:
+  7d: "-4.31"
+  24h: "-3.00"
+  1h: "-0.17"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: x-cash
+rank: 828
+symbol: XCASH
+name: X-CASH
+marketCap:
+  USD: "1093370.25308"
+  BTC: "100.409205943"
+price:
+  USD: "2.84841534288e-05"
+  BTC: "2.61583047435e-09"
+volume:
+  USD: "9543.76210056"
+  BTC: "0.876447453669"
+supply:
+  XCASH: "38385211476.0"
+change:
+  7d: "-17.22"
+  1h: "0.93"
+  24h: "-3.33"
+isMineable: true

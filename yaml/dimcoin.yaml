@@ -1,0 +1,21 @@
+---
+id: dimcoin
+rank: 830
+symbol: DIM
+name: DIMCOIN
+marketCap:
+  USD: "1089972.14802"
+  BTC: "100.097142367"
+price:
+  USD: "0.000518421316621"
+  BTC: "4.76090076526e-08"
+volume:
+  BTC: "0.0570618133587"
+  USD: "621.354274512"
+supply:
+  DIM: "2102483275.81"
+change:
+  1h: "-2.31"
+  24h: "-20.55"
+  7d: "-50.49"
+isMineable: false

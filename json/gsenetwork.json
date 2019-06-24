@@ -1,0 +1,27 @@
+{
+  "id": "gsenetwork",
+  "rank": 1999,
+  "symbol": "GSE",
+  "name": "GSENetwork",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "3.15711208344e-08",
+    "USD": "0.000343782465487"
+  },
+  "volume": {
+    "BTC": "5.40402973107",
+    "USD": "58845.2552652"
+  },
+  "supply": {
+    "GSE": "0"
+  },
+  "change": {
+    "24h": "-1.59",
+    "7d": "3.92",
+    "1h": "-0.46"
+  },
+  "isMineable": false
+}

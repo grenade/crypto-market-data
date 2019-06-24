@@ -1,0 +1,21 @@
+---
+id: iethereum
+rank: 850
+symbol: IETH
+name: iEthereum
+marketCap:
+  USD: "960305.470761"
+  BTC: "88.1892565767"
+price:
+  USD: "0.0534037076388"
+  BTC: "4.9043074506e-06"
+volume:
+  USD: "1474.90886889"
+  BTC: "0.13544764726"
+supply:
+  IETH: "17982000.0"
+change:
+  7d: "14.72"
+  1h: "8.21"
+  24h: "13.74"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: nimiq
+rank: 485
+symbol: NIM
+name: Nimiq
+marketCap:
+  USD: "5748475.32937"
+  BTC: "527.908859403"
+price:
+  USD: "0.00140651892853"
+  BTC: "1.29167085313e-07"
+volume:
+  BTC: "50.6832773196"
+  USD: "551897.480208"
+supply:
+  NIM: "4087023084.27"
+change:
+  24h: "-3.65"
+  1h: "-0.39"
+  7d: "-10.69"
+isMineable: true

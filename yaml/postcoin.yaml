@@ -1,0 +1,21 @@
+---
+id: postcoin
+rank: 1708
+symbol: POST
+name: PostCoin
+marketCap:
+  USD: "27654.9778921"
+  BTC: "2.53911998402"
+price:
+  USD: "0.00174278877931"
+  BTC: "1.60012777256e-07"
+volume:
+  BTC: "0.0266073953452"
+  USD: "289.796045351"
+supply:
+  POST: "15868232.6972"
+change:
+  1h: "0.03"
+  24h: "3.68"
+  7d: "0.75"
+isMineable: false

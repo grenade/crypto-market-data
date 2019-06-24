@@ -1,0 +1,21 @@
+---
+id: energitoken
+rank: 811
+symbol: ETK
+name: EnergiToken
+marketCap:
+  BTC: "109.904406797"
+  USD: "1196764.85782"
+price:
+  USD: "0.000646147772212"
+  BTC: "5.93387139874e-08"
+volume:
+  USD: "4600.70876789"
+  BTC: "0.422504190927"
+supply:
+  ETK: "1852153500.0"
+change:
+  7d: "27.40"
+  24h: "-27.95"
+  1h: "0.07"
+isMineable: false

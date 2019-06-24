@@ -1,0 +1,21 @@
+---
+id: lambda
+rank: 89
+symbol: LAMB
+name: Lambda
+marketCap:
+  BTC: "8028.4122798"
+  USD: "87422533.459"
+price:
+  BTC: "1.60568245596e-05"
+  USD: "0.174845066918"
+volume:
+  USD: "50813480.6233"
+  BTC: "4666.43502165"
+supply:
+  LAMB: "500000000.0"
+change:
+  24h: "23.16"
+  7d: "83.59"
+  1h: "-0.91"
+isMineable: false

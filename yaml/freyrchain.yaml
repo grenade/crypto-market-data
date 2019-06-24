@@ -1,0 +1,21 @@
+---
+id: freyrchain
+rank: 1093
+symbol: FREC
+name: Freyrchain
+marketCap:
+  BTC: "9.85473400515"
+  USD: "107309.612819"
+price:
+  USD: "0.000214619225638"
+  BTC: "1.97094680103e-08"
+volume:
+  BTC: "0.150488245313"
+  USD: "1638.68809954"
+supply:
+  FREC: "500000000.0"
+change:
+  24h: "0.60"
+  1h: "33.60"
+  7d: "-12.89"
+isMineable: false

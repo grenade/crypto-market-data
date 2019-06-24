@@ -1,0 +1,27 @@
+{
+  "id": "endor-protocol",
+  "rank": 272,
+  "symbol": "EDR",
+  "name": "Endor Protocol",
+  "marketCap": {
+    "USD": "15201086.0137",
+    "BTC": "1395.98546038"
+  },
+  "price": {
+    "BTC": "1.84198993015e-06",
+    "USD": "0.0200576926904"
+  },
+  "volume": {
+    "USD": "2238414.76834",
+    "BTC": "205.563896427"
+  },
+  "supply": {
+    "EDR": "757868128.12"
+  },
+  "change": {
+    "24h": "2.43",
+    "1h": "1.00",
+    "7d": "-7.70"
+  },
+  "isMineable": false
+}

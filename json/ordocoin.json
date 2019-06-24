@@ -1,0 +1,27 @@
+{
+  "id": "ordocoin",
+  "rank": 2154,
+  "symbol": "RDC",
+  "name": "Ordocoin",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "USD": "1.08915600941e-05",
+    "BTC": "1.00022192616e-09"
+  },
+  "volume": {
+    "USD": "0.0816050902463",
+    "BTC": "7.49416978328e-06"
+  },
+  "supply": {
+    "RDC": "0"
+  },
+  "change": {
+    "1h": "0.07",
+    "7d": "146.66",
+    "24h": "-1.27"
+  },
+  "isMineable": false
+}

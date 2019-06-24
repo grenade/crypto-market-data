@@ -1,0 +1,21 @@
+---
+id: swarm-fund
+rank: 321
+symbol: SWM
+name: Swarm
+marketCap:
+  BTC: "1077.97352439"
+  USD: "11738208.4052"
+price:
+  USD: "0.137408540276"
+  BTC: "1.2618856586e-05"
+volume:
+  BTC: "171.752267886"
+  USD: "1870235.0929"
+supply:
+  SWM: "85425610.2396"
+change:
+  1h: "12.30"
+  24h: "15.07"
+  7d: "3.19"
+isMineable: false

@@ -1,0 +1,27 @@
+{
+  "id": "fundtoken",
+  "rank": 2027,
+  "symbol": "FUNDZ",
+  "name": "FundToken",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "USD": "0.00675276725837",
+    "BTC": "6.20137594217e-07"
+  },
+  "volume": {
+    "USD": "28295.8043971",
+    "BTC": "2.59853351876"
+  },
+  "supply": {
+    "FUNDZ": "0"
+  },
+  "change": {
+    "1h": "0.08",
+    "7d": "-22.77",
+    "24h": "-11.50"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,21 @@
+---
+id: quantstamp
+rank: 266
+symbol: QSP
+name: Quantstamp
+marketCap:
+  BTC: "1430.35998614"
+  USD: "15575395.1577"
+price:
+  BTC: "2.3170697414e-06"
+  USD: "0.025230904933"
+volume:
+  USD: "3804198.09848"
+  BTC: "349.356962332"
+supply:
+  QSP: "617314170.819"
+change:
+  7d: "-5.91"
+  24h: "10.93"
+  1h: "-2.40"
+isMineable: false

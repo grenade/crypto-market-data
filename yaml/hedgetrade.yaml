@@ -1,0 +1,21 @@
+---
+id: hedgetrade
+rank: 54
+symbol: HEDG
+name: HedgeTrade
+marketCap:
+  USD: "178488908.818"
+  BTC: "16391.4552766"
+price:
+  USD: "0.620688421786"
+  BTC: "5.70006650485e-05"
+volume:
+  BTC: "39.8993993113"
+  USD: "434470.284999"
+supply:
+  HEDG: "287566035.635"
+change:
+  7d: "66.00"
+  24h: "9.93"
+  1h: "2.44"
+isMineable: false

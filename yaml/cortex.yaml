@@ -1,0 +1,21 @@
+---
+id: cortex
+rank: 121
+symbol: CTXC
+name: Cortex
+marketCap:
+  BTC: "4860.73065437"
+  USD: "52929193.651"
+price:
+  BTC: "3.24497689621e-05"
+  USD: "0.353350191042"
+volume:
+  USD: "17785477.6301"
+  BTC: "1633.32199786"
+supply:
+  CTXC: "149792458.0"
+change:
+  7d: "42.89"
+  1h: "-0.09"
+  24h: "2.97"
+isMineable: false

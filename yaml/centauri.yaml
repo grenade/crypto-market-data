@@ -1,0 +1,21 @@
+---
+id: centauri
+rank: 1428
+symbol: CTX
+name: Centauri
+marketCap:
+  USD: "227115.113362"
+  BTC: "20.8570227023"
+price:
+  BTC: "5.20115401601e-07"
+  USD: "0.00566361124895"
+volume:
+  BTC: "0.020220617442"
+  USD: "220.185205154"
+supply:
+  CTX: "40100759.6354"
+change:
+  7d: "8.92"
+  1h: "0.08"
+  24h: "-1.10"
+isMineable: true

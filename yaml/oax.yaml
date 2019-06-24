@@ -1,0 +1,21 @@
+---
+id: oax
+rank: 268
+symbol: OAX
+name: OAX
+marketCap:
+  BTC: "1423.37267963"
+  USD: "15499309.3744"
+price:
+  BTC: "2.10464432103e-05"
+  USD: "0.229177740458"
+volume:
+  BTC: "145.038852235"
+  USD: "1579348.87628"
+supply:
+  OAX: "67630081.9768"
+change:
+  7d: "-4.75"
+  1h: "1.46"
+  24h: "5.94"
+isMineable: false

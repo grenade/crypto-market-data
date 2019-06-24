@@ -1,0 +1,21 @@
+---
+id: dach-coin
+rank: 1569
+symbol: DACHX
+name: Dach Coin
+marketCap:
+  BTC: "7.43506966828"
+  USD: "80961.5406129"
+price:
+  BTC: "4.00088770462e-07"
+  USD: "0.00435662403766"
+volume:
+  BTC: "0.010371732265"
+  USD: "112.939281064"
+supply:
+  DACHX: "18583549.9949"
+change:
+  24h: "19.68"
+  1h: "3.78"
+  7d: "50.36"
+isMineable: true

@@ -1,0 +1,21 @@
+---
+id: pylon-network
+rank: 926
+symbol: PYLNT
+name: Pylon Network
+marketCap:
+  BTC: "55.0845806122"
+  USD: "599823.903388"
+price:
+  USD: "1.42134859229"
+  BTC: "0.000130528961363"
+volume:
+  BTC: "7.1551120942"
+  USD: "77913.0424123"
+supply:
+  PYLNT: "422010.410846"
+change:
+  24h: "-0.02"
+  7d: "6.31"
+  1h: "1.04"
+isMineable: false

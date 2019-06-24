@@ -1,0 +1,21 @@
+---
+id: beetle-coin
+rank: 708
+symbol: BEET
+name: Beetle Coin
+marketCap:
+  BTC: "178.615691601"
+  USD: "1944971.89871"
+price:
+  USD: "0.0102085594667"
+  BTC: "9.37498845413e-07"
+volume:
+  BTC: "6.54201819163"
+  USD: "71236.9749231"
+supply:
+  BEET: "190523639.016"
+change:
+  24h: "10.80"
+  7d: "25.49"
+  1h: "3.63"
+isMineable: true

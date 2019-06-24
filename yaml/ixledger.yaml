@@ -1,0 +1,21 @@
+---
+id: ixledger
+rank: 1022
+symbol: IXT
+name: IXT
+marketCap:
+  USD: "275316.017596"
+  BTC: "25.2779230171"
+price:
+  BTC: "7.06504747229e-07"
+  USD: "0.00769493891124"
+volume:
+  BTC: "0.152134420645"
+  USD: "1656.98118484"
+supply:
+  IXT: "35778843.8312"
+change:
+  1h: "-0.02"
+  24h: "-26.12"
+  7d: "-37.70"
+isMineable: false

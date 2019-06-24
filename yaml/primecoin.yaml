@@ -1,0 +1,21 @@
+---
+id: primecoin
+rank: 439
+symbol: XPM
+name: Primecoin
+marketCap:
+  BTC: "634.541840849"
+  USD: "6911150.59185"
+price:
+  USD: "0.24633336979"
+  BTC: "2.26169040671e-05"
+volume:
+  BTC: "28.8871340504"
+  USD: "314625.956457"
+supply:
+  XPM: "28056087.5603"
+change:
+  7d: "3.44"
+  24h: "-5.29"
+  1h: "-3.88"
+isMineable: true

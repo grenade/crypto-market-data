@@ -1,0 +1,27 @@
+{
+  "id": "aunite",
+  "rank": 2000,
+  "symbol": "AUNIT",
+  "name": "Aunite",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "USD": "0.0353367316007",
+    "BTC": "3.24513416262e-06"
+  },
+  "volume": {
+    "USD": "58517.1788971",
+    "BTC": "5.37390097321"
+  },
+  "supply": {
+    "AUNIT": "0"
+  },
+  "change": {
+    "7d": "-15.06",
+    "24h": "-11.84",
+    "1h": "18.13"
+  },
+  "isMineable": false
+}

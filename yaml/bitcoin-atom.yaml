@@ -1,0 +1,21 @@
+---
+id: bitcoin-atom
+rank: 533
+symbol: BCA
+name: Bitcoin Atom
+marketCap:
+  USD: "4480735.33641"
+  BTC: "411.486480361"
+price:
+  USD: "0.243267933171"
+  BTC: "2.23404102429e-05"
+volume:
+  BTC: "0.0585510747792"
+  USD: "637.571055841"
+supply:
+  BCA: "18418931.25"
+change:
+  7d: "29.44"
+  24h: "17.92"
+  1h: "7.76"
+isMineable: true

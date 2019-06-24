@@ -1,0 +1,21 @@
+---
+id: mib-coin
+rank: 844
+symbol: MIB
+name: MIB Coin
+marketCap:
+  USD: "987944.725952"
+  BTC: "90.7274961701"
+price:
+  USD: "0.0101395964281"
+  BTC: "9.31165653231e-07"
+volume:
+  USD: "25170.1652628"
+  BTC: "2.31149173886"
+supply:
+  MIB: "97434324.2315"
+change:
+  7d: "-27.44"
+  1h: "-0.11"
+  24h: "-0.09"
+isMineable: false

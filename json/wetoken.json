@@ -1,0 +1,27 @@
+{
+  "id": "wetoken",
+  "rank": 2139,
+  "symbol": "WT",
+  "name": "WeToken",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "BTC": "6.00133155694e-08",
+    "USD": "0.000653493605649"
+  },
+  "volume": {
+    "BTC": "0.00278901879889",
+    "USD": "30.3700259487"
+  },
+  "supply": {
+    "WT": "0"
+  },
+  "change": {
+    "24h": "-8.97",
+    "7d": "-29.72",
+    "1h": "0.07"
+  },
+  "isMineable": false
+}

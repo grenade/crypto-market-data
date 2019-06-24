@@ -1,0 +1,21 @@
+---
+id: fetch
+rank: 291
+symbol: FET
+name: Fetch
+marketCap:
+  BTC: "1268.64736705"
+  USD: "13814483.2414"
+price:
+  USD: "0.169414943818"
+  BTC: "1.55581514457e-05"
+volume:
+  BTC: "2973.81268569"
+  USD: "32382273.1016"
+supply:
+  FET: "81542294.4991"
+change:
+  1h: "1.08"
+  24h: "-5.57"
+  7d: "-16.57"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: ino-coin
+rank: 193
+symbol: INO
+name: INO COIN
+marketCap:
+  USD: "26101110.7048"
+  BTC: "2396.9847293"
+price:
+  BTC: "0.000119849236465"
+  USD: "1.30505553524"
+volume:
+  BTC: "2.92602458992"
+  USD: "31861.9016687"
+supply:
+  INO: "20000000.0"
+change:
+  7d: "-5.92"
+  24h: "-0.47"
+  1h: "-0.26"
+isMineable: false

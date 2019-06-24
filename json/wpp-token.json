@@ -1,0 +1,27 @@
+{
+  "id": "wpp-token",
+  "rank": 2047,
+  "symbol": "WPP",
+  "name": "WPP TOKEN",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "USD": "0.000842331442029",
+    "BTC": "7.73551603375e-08"
+  },
+  "volume": {
+    "USD": "10832.9231971",
+    "BTC": "0.994837030916"
+  },
+  "supply": {
+    "WPP": "0"
+  },
+  "change": {
+    "24h": "-2.15",
+    "7d": "-23.02",
+    "1h": "-0.12"
+  },
+  "isMineable": false
+}

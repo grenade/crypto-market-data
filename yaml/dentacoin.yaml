@@ -1,0 +1,21 @@
+---
+id: dentacoin
+rank: 286
+symbol: DCN
+name: Dentacoin
+marketCap:
+  USD: "14009217.6685"
+  BTC: "1286.24527133"
+price:
+  USD: "4.30804274269e-05"
+  BTC: "3.95539546718e-09"
+volume:
+  USD: "198548.496743"
+  BTC: "18.2295736356"
+supply:
+  DCN: "3.25187527265e+11"
+change:
+  24h: "1.42"
+  7d: "-7.28"
+  1h: "-0.23"
+isMineable: false

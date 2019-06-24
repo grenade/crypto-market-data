@@ -1,0 +1,27 @@
+{
+  "id": "constellation",
+  "rank": 474,
+  "symbol": "DAG",
+  "name": "Constellation",
+  "marketCap": {
+    "USD": "5908113.50513",
+    "BTC": "542.569165387"
+  },
+  "price": {
+    "BTC": "4.1517170429e-07",
+    "USD": "0.00452086426864"
+  },
+  "volume": {
+    "USD": "192150.463652",
+    "BTC": "17.6460585264"
+  },
+  "supply": {
+    "DAG": "1306854874.21"
+  },
+  "change": {
+    "24h": "-3.63",
+    "7d": "-1.94",
+    "1h": "-0.44"
+  },
+  "isMineable": false
+}

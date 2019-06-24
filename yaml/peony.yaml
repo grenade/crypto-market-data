@@ -1,0 +1,21 @@
+---
+id: peony
+rank: 1824
+symbol: PNY
+name: Peony
+marketCap:
+  BTC: "0.337833605317"
+  USD: "3678.71861025"
+price:
+  BTC: "7.65171820753e-07"
+  USD: "0.00833206576475"
+volume:
+  USD: "35.9434768577"
+  BTC: "0.00330085436288"
+supply:
+  PNY: "441513.39105"
+change:
+  1h: "0.08"
+  24h: "-21.86"
+  7d: "-1.45"
+isMineable: true

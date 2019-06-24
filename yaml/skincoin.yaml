@@ -1,0 +1,21 @@
+---
+id: skincoin
+rank: 1099
+symbol: SKIN
+name: SkinCoin
+marketCap:
+  BTC: "9.03473211965"
+  USD: "98402.3278153"
+price:
+  BTC: "1.02453790804e-07"
+  USD: "0.00111588161941"
+volume:
+  USD: "3403.37784279"
+  BTC: "0.312478452432"
+supply:
+  SKIN: "88183483.0"
+change:
+  24h: "-1.60"
+  1h: "-1.23"
+  7d: "4.13"
+isMineable: false

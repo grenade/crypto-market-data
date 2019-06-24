@@ -1,0 +1,27 @@
+{
+  "id": "ondori",
+  "rank": 1205,
+  "symbol": "RSTR",
+  "name": "Ondori",
+  "marketCap": {
+    "USD": "3525677.7758",
+    "BTC": "377.558672533"
+  },
+  "price": {
+    "BTC": "1.00076845689e-08",
+    "USD": "9.3452683354e-05"
+  },
+  "volume": {
+    "USD": "0",
+    "BTC": "0"
+  },
+  "supply": {
+    "RSTR": "37726875775.7"
+  },
+  "change": {
+    "24h": "0.00",
+    "1h": "0.00",
+    "7d": "0.40"
+  },
+  "isMineable": true
+}

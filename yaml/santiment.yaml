@@ -1,0 +1,21 @@
+---
+id: santiment
+rank: 96
+symbol: SAN
+name: Santiment Network Token
+marketCap:
+  USD: "72301530.1389"
+  BTC: "6639.78118053"
+price:
+  USD: "1.1538637425"
+  BTC: "0.000105964600578"
+volume:
+  BTC: "5.54807925062"
+  USD: "60413.8311558"
+supply:
+  SAN: "62660370.957"
+change:
+  24h: "-4.65"
+  7d: "8.46"
+  1h: "0.35"
+isMineable: false

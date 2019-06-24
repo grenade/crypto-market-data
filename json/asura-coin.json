@@ -1,0 +1,27 @@
+{
+  "id": "asura-coin",
+  "rank": 2144,
+  "symbol": "ASA",
+  "name": "Asura Coin",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "USD": "0.000303349578223",
+    "BTC": "2.78579833198e-08"
+  },
+  "volume": {
+    "USD": "10.9166280441",
+    "BTC": "0.00100252403099"
+  },
+  "supply": {
+    "ASA": "0"
+  },
+  "change": {
+    "1h": "-1.48",
+    "7d": "20.02",
+    "24h": "-8.51"
+  },
+  "isMineable": false
+}

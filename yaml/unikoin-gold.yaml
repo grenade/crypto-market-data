@@ -1,0 +1,21 @@
+---
+id: unikoin-gold
+rank: 606
+symbol: UKG
+name: Unikoin Gold
+marketCap:
+  BTC: "293.421268661"
+  USD: "3195106.30286"
+price:
+  BTC: "2.04016430759e-06"
+  USD: "0.022215641926"
+volume:
+  USD: "7312.14144281"
+  BTC: "0.671507491583"
+supply:
+  UKG: "143822371.35"
+change:
+  7d: "-8.46"
+  24h: "-5.60"
+  1h: "0.06"
+isMineable: false

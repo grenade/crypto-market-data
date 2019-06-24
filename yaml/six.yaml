@@ -1,0 +1,21 @@
+---
+id: six
+rank: 572
+symbol: SIX
+name: SIX
+marketCap:
+  USD: "3770591.07162"
+  BTC: "346.27067489"
+price:
+  BTC: "1.26479282725e-06"
+  USD: "0.0137725106043"
+volume:
+  BTC: "17.3478335738"
+  USD: "188903.049345"
+supply:
+  SIX: "273776596.0"
+change:
+  1h: "-0.02"
+  7d: "-2.95"
+  24h: "1.47"
+isMineable: false

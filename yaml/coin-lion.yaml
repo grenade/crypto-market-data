@@ -1,0 +1,21 @@
+---
+id: coin-lion
+rank: 888
+symbol: LION
+name: Coin Lion
+marketCap:
+  USD: "775462.321182"
+  BTC: "71.2142622225"
+price:
+  USD: "0.0240631791447"
+  BTC: "2.20983212557e-06"
+volume:
+  BTC: "0.163283826692"
+  USD: "1778.02102144"
+supply:
+  LION: "32226096.0"
+change:
+  7d: "2.28"
+  1h: "-0.24"
+  24h: "0.75"
+isMineable: false

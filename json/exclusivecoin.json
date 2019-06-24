@@ -1,0 +1,27 @@
+{
+  "id": "exclusivecoin",
+  "rank": 802,
+  "symbol": "EXCL",
+  "name": "ExclusiveCoin",
+  "marketCap": {
+    "USD": "1253964.559",
+    "BTC": "115.131766997"
+  },
+  "price": {
+    "USD": "0.225274250227",
+    "BTC": "2.06833776135e-05"
+  },
+  "volume": {
+    "BTC": "2.4534759028",
+    "USD": "26722.1802348"
+  },
+  "supply": {
+    "EXCL": "5566391.0"
+  },
+  "change": {
+    "24h": "-9.64",
+    "1h": "0.02",
+    "7d": "17.31"
+  },
+  "isMineable": true
+}

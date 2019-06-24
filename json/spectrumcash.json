@@ -1,0 +1,27 @@
+{
+  "id": "spectrumcash",
+  "rank": 2087,
+  "symbol": "XSM",
+  "name": "SpectrumCash",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "BTC": "9.9872260018e-09",
+    "USD": "0.000108752337184"
+  },
+  "volume": {
+    "BTC": "0.10561314634",
+    "USD": "1150.03670687"
+  },
+  "supply": {
+    "XSM": "0"
+  },
+  "change": {
+    "1h": "0.08",
+    "7d": "-22.81",
+    "24h": "-1.44"
+  },
+  "isMineable": true
+}

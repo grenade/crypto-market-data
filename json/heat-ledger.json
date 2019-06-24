@@ -1,0 +1,27 @@
+{
+  "id": "heat-ledger",
+  "rank": 1245,
+  "symbol": "HEAT",
+  "name": "HEAT",
+  "marketCap": {
+    "USD": "1305033.41324",
+    "BTC": "139.753747917"
+  },
+  "price": {
+    "BTC": "3.39260506887e-06",
+    "USD": "0.031680459657"
+  },
+  "volume": {
+    "BTC": "0",
+    "USD": "0"
+  },
+  "supply": {
+    "HEAT": "41193638.8351"
+  },
+  "change": {
+    "1h": "0.00",
+    "24h": "0.00",
+    "7d": "10.17"
+  },
+  "isMineable": false
+}

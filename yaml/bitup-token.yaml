@@ -1,0 +1,21 @@
+---
+id: bitup-token
+rank: 1908
+symbol: BUT
+name: BitUP Token
+marketCap:
+  USD: ""
+  BTC: ""
+price:
+  BTC: "8.2379189877e-07"
+  USD: "0.00897038820675"
+volume:
+  BTC: "75.0927420486"
+  USD: "817695.644606"
+supply:
+  BUT: "0"
+change:
+  1h: "0.85"
+  24h: "-5.68"
+  7d: "9.33"
+isMineable: false

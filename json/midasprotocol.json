@@ -1,0 +1,27 @@
+{
+  "id": "midasprotocol",
+  "rank": 695,
+  "symbol": "MAS",
+  "name": "MidasProtocol",
+  "marketCap": {
+    "BTC": "187.337032627",
+    "USD": "2039939.8327"
+  },
+  "price": {
+    "BTC": "6.34503074095e-07",
+    "USD": "0.00690919503033"
+  },
+  "volume": {
+    "USD": "86177.9273898",
+    "BTC": "7.91411439508"
+  },
+  "supply": {
+    "MAS": "295250000.0"
+  },
+  "change": {
+    "1h": "-0.32",
+    "7d": "-11.32",
+    "24h": "-6.59"
+  },
+  "isMineable": false
+}

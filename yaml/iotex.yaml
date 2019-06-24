@@ -1,0 +1,21 @@
+---
+id: iotex
+rank: 164
+symbol: IOTX
+name: IoTeX
+marketCap:
+  BTC: "3120.42901961"
+  USD: "33978799.4023"
+price:
+  BTC: "8.91540958147e-07"
+  USD: "0.00970811743687"
+volume:
+  USD: "1427150.28551"
+  BTC: "131.061757466"
+supply:
+  IOTX: "3500040005.0"
+change:
+  1h: "0.47"
+  7d: "-15.49"
+  24h: "-2.47"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: contents-protocol
+rank: 206
+symbol: CPT
+name: Contents Protocol
+marketCap:
+  BTC: "2086.59482192"
+  USD: "22721230.4598"
+price:
+  USD: "0.00879896910617"
+  BTC: "8.08049696415e-07"
+volume:
+  USD: "4008030.19352"
+  BTC: "368.075798655"
+supply:
+  CPT: "2582260510.93"
+change:
+  7d: "-8.03"
+  1h: "-0.04"
+  24h: "5.95"
+isMineable: false

@@ -1,0 +1,20 @@
+---
+id: bitcoin-bep2
+rank: 1974
+symbol: BTCB
+name: Bitcoin BEP2
+marketCap:
+  USD: ""
+  BTC: ""
+price:
+  USD: "10891.6620198"
+  BTC: "1.00023128646"
+volume:
+  BTC: "10.168466188"
+  USD: "110725.887581"
+supply:
+  BTCB: "0"
+change:
+  24h: "-0.87"
+  1h: "0.16"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: chatcoin
+rank: 538
+symbol: CHAT
+name: ChatCoin
+marketCap:
+  BTC: "406.655688892"
+  USD: "4428132.15485"
+price:
+  USD: "0.00641757688058"
+  BTC: "5.8935552421e-07"
+volume:
+  USD: "910020.866499"
+  BTC: "83.5713906974"
+supply:
+  CHAT: "690000640.0"
+change:
+  7d: "4.74"
+  1h: "-2.32"
+  24h: "12.40"
+isMineable: false

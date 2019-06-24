@@ -1,0 +1,21 @@
+---
+id: bean-cash
+rank: 539
+symbol: BITB
+name: Bean Cash
+marketCap:
+  BTC: "405.138205048"
+  USD: "4412587.1067"
+price:
+  USD: "0.00141603354985"
+  BTC: "1.30012003571e-07"
+volume:
+  USD: "28206.18254"
+  BTC: "2.58972840403"
+supply:
+  BITB: "3116160000.0"
+change:
+  24h: "-7.66"
+  1h: "-7.24"
+  7d: "-8.11"
+isMineable: true

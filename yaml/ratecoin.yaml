@@ -1,0 +1,21 @@
+---
+id: ratecoin
+rank: 1512
+symbol: XRA
+name: Ratecoin
+marketCap:
+  BTC: "12.2458940318"
+  USD: "133376.890754"
+price:
+  USD: "0.00108924298707"
+  BTC: "1.00007985785e-07"
+volume:
+  USD: "12.1621604207"
+  BTC: "0.00111665916688"
+supply:
+  XRA: "122449161.792"
+change:
+  7d: "55.04"
+  24h: "9.67"
+  1h: "0.03"
+isMineable: false

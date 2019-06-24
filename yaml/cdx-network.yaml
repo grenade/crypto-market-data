@@ -1,0 +1,21 @@
+---
+id: cdx-network
+rank: 1510
+symbol: CDX
+name: CDX Network
+marketCap:
+  USD: "134717.706804"
+  BTC: "12.3717450046"
+price:
+  USD: "0.00413879283577"
+  BTC: "3.80084331939e-07"
+volume:
+  USD: "251.629413439"
+  BTC: "0.0231082833324"
+supply:
+  CDX: "32550000.0"
+change:
+  24h: "-0.58"
+  7d: "-20.52"
+  1h: "0.07"
+isMineable: false

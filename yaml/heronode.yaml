@@ -1,0 +1,21 @@
+---
+id: heronode
+rank: 1001
+symbol: HER
+name: HeroNode
+marketCap:
+  USD: "326275.698086"
+  BTC: "29.9633940754"
+price:
+  BTC: "2.867838619e-08"
+  USD: "0.000312283062812"
+volume:
+  BTC: "0.158385656012"
+  USD: "1724.68413799"
+supply:
+  HER: "1044807538.22"
+change:
+  1h: "-0.17"
+  7d: "13.14"
+  24h: "-2.35"
+isMineable: false

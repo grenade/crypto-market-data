@@ -1,0 +1,27 @@
+{
+  "id": "sealblock-token",
+  "rank": 2075,
+  "symbol": "SKT",
+  "name": "SealBlock Token",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "USD": "0.000679650866947",
+    "BTC": "6.24154568652e-08"
+  },
+  "volume": {
+    "USD": "2608.26826932",
+    "BTC": "0.239529240046"
+  },
+  "supply": {
+    "SKT": "0"
+  },
+  "change": {
+    "1h": "-1.26",
+    "7d": "53.31",
+    "24h": "-2.13"
+  },
+  "isMineable": false
+}

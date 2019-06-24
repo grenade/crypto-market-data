@@ -1,0 +1,21 @@
+---
+id: lobstex
+rank: 1002
+symbol: LOBS
+name: Lobstex
+marketCap:
+  BTC: "29.5424340926"
+  USD: "321691.804423"
+price:
+  USD: "0.0193869170583"
+  BTC: "1.78038952681e-06"
+volume:
+  BTC: "0.279335388074"
+  USD: "3041.72312771"
+supply:
+  LOBS: "16593241.8989"
+change:
+  1h: "0.08"
+  7d: "23.21"
+  24h: "-1.82"
+isMineable: true

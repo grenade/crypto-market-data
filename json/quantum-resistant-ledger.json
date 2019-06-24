@@ -1,0 +1,27 @@
+{
+  "id": "quantum-resistant-ledger",
+  "rank": 215,
+  "symbol": "QRL",
+  "name": "Quantum Resistant Ledger",
+  "marketCap": {
+    "USD": "21972478.7497",
+    "BTC": "2017.38580697"
+  },
+  "price": {
+    "USD": "0.321435605484",
+    "BTC": "2.95123566051e-05"
+  },
+  "volume": {
+    "BTC": "2.5135839672",
+    "USD": "27376.8508304"
+  },
+  "supply": {
+    "QRL": "68357326.8637"
+  },
+  "change": {
+    "24h": "0.03",
+    "7d": "-10.49",
+    "1h": "0.05"
+  },
+  "isMineable": true
+}

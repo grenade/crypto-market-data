@@ -1,0 +1,21 @@
+---
+id: energycoin
+rank: 972
+symbol: ENRG
+name: Energycoin
+marketCap:
+  USD: "437175.679168"
+  BTC: "40.1389401875"
+price:
+  USD: "0.00357387358918"
+  BTC: "3.28132384919e-07"
+volume:
+  USD: "2956.18116695"
+  BTC: "0.271419442339"
+supply:
+  ENRG: "122325445.559"
+change:
+  7d: "-43.65"
+  24h: "-1.62"
+  1h: "-1.77"
+isMineable: true

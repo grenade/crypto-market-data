@@ -1,0 +1,21 @@
+---
+id: ourcoin
+rank: 1832
+symbol: OUR
+name: Ourcoin
+marketCap:
+  USD: "2539.91842442"
+  BTC: "0.27199542603"
+price:
+  BTC: "4.40338121034e-07"
+  USD: "0.00411191806758"
+volume:
+  BTC: "0"
+  USD: "0"
+supply:
+  OUR: "617696.749468"
+change:
+  7d: "0.40"
+  1h: "0.00"
+  24h: "0.00"
+isMineable: true

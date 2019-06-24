@@ -1,0 +1,21 @@
+---
+id: x12-coin
+rank: 2231
+symbol: X12
+name: X12 Coin
+marketCap:
+  USD: ""
+  BTC: ""
+price:
+  USD: "0.00308157049659"
+  BTC: "3.29809041712e-07"
+volume:
+  BTC: "0"
+  USD: "0"
+supply:
+  X12: "0"
+change:
+  24h: "0.00"
+  1h: "0.00"
+  7d: "0.36"
+isMineable: false

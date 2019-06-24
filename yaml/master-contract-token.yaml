@@ -1,0 +1,21 @@
+---
+id: master-contract-token
+rank: 1996
+symbol: MCT
+name: Master Contract Token
+marketCap:
+  USD: ""
+  BTC: ""
+price:
+  USD: "0.00111272384062"
+  BTC: "1.02186534668e-07"
+volume:
+  BTC: "6.15196461853"
+  USD: "66989.6255896"
+supply:
+  MCT: "0"
+change:
+  1h: "-0.18"
+  24h: "14.82"
+  7d: "-1.48"
+isMineable: false

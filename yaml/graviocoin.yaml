@@ -1,0 +1,21 @@
+---
+id: graviocoin
+rank: 912
+symbol: GIO
+name: Graviocoin
+marketCap:
+  BTC: "63.2241463846"
+  USD: "688456.803177"
+price:
+  BTC: "7.00136421325e-08"
+  USD: "0.000762388596725"
+volume:
+  USD: "2531.54554619"
+  BTC: "0.232483440432"
+supply:
+  GIO: "903026102.613"
+change:
+  1h: "-1.91"
+  7d: "-11.68"
+  24h: "-6.48"
+isMineable: true

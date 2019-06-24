@@ -1,0 +1,27 @@
+{
+  "id": "britcoin",
+  "rank": 1612,
+  "symbol": "BRIT",
+  "name": "BritCoin",
+  "marketCap": {
+    "BTC": "6.37496382455",
+    "USD": "58697.110304"
+  },
+  "price": {
+    "BTC": "2.99743097724e-07",
+    "USD": "0.00275986721716"
+  },
+  "volume": {
+    "USD": "0",
+    "BTC": "0"
+  },
+  "supply": {
+    "BRIT": "21268092.1528"
+  },
+  "change": {
+    "7d": "-0.10",
+    "24h": "0.00",
+    "1h": "0.00"
+  },
+  "isMineable": true
+}

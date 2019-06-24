@@ -1,0 +1,27 @@
+{
+  "id": "goldenfever",
+  "rank": 2140,
+  "symbol": "GFR",
+  "name": "GoldenFever",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "USD": "0.70686225011",
+    "BTC": "6.49144030075e-05"
+  },
+  "volume": {
+    "BTC": "0.00278008477864",
+    "USD": "30.27274212"
+  },
+  "supply": {
+    "GFR": "0"
+  },
+  "change": {
+    "24h": "-34.96",
+    "1h": "0.08",
+    "7d": "-53.28"
+  },
+  "isMineable": false
+}

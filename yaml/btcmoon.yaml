@@ -1,0 +1,21 @@
+---
+id: btcmoon
+rank: 2152
+symbol: BTCM
+name: BTCMoon
+marketCap:
+  USD: ""
+  BTC: ""
+price:
+  USD: "0.00185508333952"
+  BTC: "1.70360812867e-07"
+volume:
+  USD: "1.19037233422"
+  BTC: "0.000109317352031"
+supply:
+  BTCM: "0"
+change:
+  1h: "0.06"
+  7d: "42.65"
+  24h: "-2.02"
+isMineable: false

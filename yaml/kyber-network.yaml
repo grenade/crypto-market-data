@@ -1,0 +1,21 @@
+---
+id: kyber-network
+rank: 132
+symbol: KNC
+name: Kyber Network
+marketCap:
+  BTC: "4162.1576862"
+  USD: "45322332.3495"
+price:
+  USD: "0.272549898848"
+  BTC: "2.50295074758e-05"
+volume:
+  USD: "2982977.42046"
+  BTC: "273.940500294"
+supply:
+  KNC: "166290035.48"
+change:
+  24h: "1.23"
+  1h: "-0.08"
+  7d: "-0.19"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: zeitcoin
+rank: 1232
+symbol: ZEIT
+name: Zeitcoin
+marketCap:
+  BTC: "150.755636942"
+  USD: "1641964.07928"
+price:
+  USD: "4.44119363501e-05"
+  BTC: "4.07764690882e-09"
+volume:
+  USD: "259.256527805"
+  BTC: "0.0238034336279"
+supply:
+  ZEIT: "36971233731.8"
+change:
+  1h: "-0.15"
+  7d: "880.70"
+  24h: "78.35"
+isMineable: true

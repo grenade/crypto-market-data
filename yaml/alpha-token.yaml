@@ -1,0 +1,21 @@
+---
+id: alpha-token
+rank: 558
+symbol: A
+name: Alpha Token
+marketCap:
+  BTC: "360.501187283"
+  USD: "3925549.16327"
+price:
+  BTC: "1.41211440872e-05"
+  USD: "0.153767164468"
+volume:
+  USD: "1764.78241729"
+  BTC: "0.162068064943"
+supply:
+  A: "25529177.0311"
+change:
+  1h: "-0.24"
+  24h: "414.20"
+  7d: "722.29"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: stronghold-token
+rank: 988
+symbol: SHX
+name: Stronghold Token
+marketCap:
+  BTC: "35.0755042559"
+  USD: "381942.199471"
+price:
+  USD: "0.00036992751819"
+  BTC: "3.3972140959e-08"
+volume:
+  BTC: "0.2172353888"
+  USD: "2365.50732374"
+supply:
+  SHX: "1032478474.0"
+change:
+  1h: "-13.24"
+  24h: "1.84"
+  7d: "-10.21"
+isMineable: false

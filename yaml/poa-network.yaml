@@ -1,0 +1,21 @@
+---
+id: poa-network
+rank: 357
+symbol: POA
+name: POA Network
+marketCap:
+  BTC: "898.676642391"
+  USD: "9785818.92661"
+price:
+  BTC: "3.71317274683e-06"
+  USD: "0.0404332709116"
+volume:
+  USD: "926381.181633"
+  BTC: "85.0738334856"
+supply:
+  POA: "242023925.0"
+change:
+  1h: "-0.21"
+  24h: "9.38"
+  7d: "11.32"
+isMineable: false

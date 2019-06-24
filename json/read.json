@@ -1,0 +1,27 @@
+{
+  "id": "read",
+  "rank": 2013,
+  "symbol": "READ",
+  "name": "Read",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "BTC": "3.14127849161e-07",
+    "USD": "0.00342058322949"
+  },
+  "volume": {
+    "USD": "39057.0918959",
+    "BTC": "3.58679191489"
+  },
+  "supply": {
+    "READ": "0"
+  },
+  "change": {
+    "7d": "3.04",
+    "24h": "-3.24",
+    "1h": "0.15"
+  },
+  "isMineable": false
+}

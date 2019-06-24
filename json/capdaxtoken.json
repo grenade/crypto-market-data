@@ -1,0 +1,27 @@
+{
+  "id": "capdaxtoken",
+  "rank": 2113,
+  "symbol": "XCD",
+  "name": "CapdaxToken",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "BTC": "9.88480086101e-08",
+    "USD": "0.00107637015127"
+  },
+  "volume": {
+    "USD": "179.19184854",
+    "BTC": "0.0164560094558"
+  },
+  "supply": {
+    "XCD": "0"
+  },
+  "change": {
+    "24h": "-2.29",
+    "1h": "-0.24",
+    "7d": "76.99"
+  },
+  "isMineable": false
+}

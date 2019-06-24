@@ -1,0 +1,21 @@
+---
+id: sphere
+rank: 450
+symbol: SPHR
+name: Sphere
+marketCap:
+  BTC: "600.108045172"
+  USD: "6536112.83696"
+price:
+  USD: "0.523544756406"
+  BTC: "4.80688488959e-05"
+volume:
+  BTC: "2.9369406651"
+  USD: "31987.8657468"
+supply:
+  SPHR: "12484343.9973"
+change:
+  7d: "-2.36"
+  24h: "-7.28"
+  1h: "-0.46"
+isMineable: false

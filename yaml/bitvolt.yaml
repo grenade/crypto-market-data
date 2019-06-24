@@ -1,0 +1,21 @@
+---
+id: bitvolt
+rank: 1817
+symbol: VOLT
+name: Bitvolt
+marketCap:
+  BTC: "0.49768140858"
+  USD: "5420.52696929"
+price:
+  USD: "0.00032677289612"
+  BTC: "3.00023957354e-08"
+volume:
+  BTC: "0.000565755176383"
+  USD: "6.16195650214"
+supply:
+  VOLT: "16588055.5996"
+change:
+  7d: "29.60"
+  24h: "-1.30"
+  1h: "0.05"
+isMineable: false

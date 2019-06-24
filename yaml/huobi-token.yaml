@@ -1,0 +1,21 @@
+---
+id: huobi-token
+rank: 49
+symbol: HT
+name: Huobi Token
+marketCap:
+  BTC: "17150.4874628"
+  USD: "186754119.221"
+price:
+  BTC: "0.000343008377222"
+  USD: "3.73506744415"
+volume:
+  USD: "56572363.6792"
+  BTC: "5195.29967032"
+supply:
+  HT: "50000200.0"
+change:
+  1h: "-0.11"
+  24h: "0.11"
+  7d: "6.04"
+isMineable: false

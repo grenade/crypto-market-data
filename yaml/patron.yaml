@@ -1,0 +1,21 @@
+---
+id: patron
+rank: 1014
+symbol: PAT
+name: Patron
+marketCap:
+  USD: "299844.246152"
+  BTC: "27.5360725956"
+price:
+  USD: "0.00123759764213"
+  BTC: "1.13654268692e-07"
+volume:
+  BTC: "0.306009832604"
+  USD: "3332.1849822"
+supply:
+  PAT: "242279264.233"
+change:
+  1h: "-3.51"
+  24h: "-3.26"
+  7d: "-18.38"
+isMineable: false

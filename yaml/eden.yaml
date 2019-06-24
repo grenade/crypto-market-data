@@ -1,0 +1,21 @@
+---
+id: eden
+rank: 563
+symbol: EDN
+name: Eden
+marketCap:
+  USD: "3881861.21123"
+  BTC: "356.489122238"
+price:
+  BTC: "5.94148537063e-07"
+  USD: "0.00646976868538"
+volume:
+  BTC: "33.4541086021"
+  USD: "364286.589513"
+supply:
+  EDN: "600000000.0"
+change:
+  1h: "-0.13"
+  24h: "6.25"
+  7d: "15.41"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: starchain
+rank: 1906
+symbol: STC
+name: StarChain
+marketCap:
+  USD: ""
+  BTC: ""
+price:
+  BTC: "3.61301121419e-07"
+  USD: "0.00393425976087"
+volume:
+  USD: "935118.056274"
+  BTC: "85.8761807624"
+supply:
+  STC: "0"
+change:
+  7d: "-23.63"
+  24h: "-6.55"
+  1h: "-0.99"
+isMineable: false

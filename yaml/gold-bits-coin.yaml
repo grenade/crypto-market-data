@@ -1,0 +1,21 @@
+---
+id: gold-bits-coin
+rank: 189
+symbol: GBC
+name: Gold Bits Coin
+marketCap:
+  USD: "26578113.4801"
+  BTC: "2440.79008231"
+price:
+  BTC: "2.30331422498e-05"
+  USD: "0.250811191407"
+volume:
+  USD: "821.535372954"
+  BTC: "0.0754453619168"
+supply:
+  GBC: "105968610.615"
+change:
+  7d: "17.78"
+  24h: "4.01"
+  1h: "-0.28"
+isMineable: false

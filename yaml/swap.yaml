@@ -1,0 +1,21 @@
+---
+id: swap
+rank: 958
+symbol: XWP
+name: Swap
+marketCap:
+  BTC: "43.8991858347"
+  USD: "478024.534455"
+price:
+  BTC: "9.10201952802e-06"
+  USD: "0.0991131968567"
+volume:
+  USD: "69126.316823"
+  BTC: "6.3481867761"
+supply:
+  XWP: "4823016.00206"
+change:
+  24h: "37.09"
+  1h: "6.06"
+  7d: "64.62"
+isMineable: false

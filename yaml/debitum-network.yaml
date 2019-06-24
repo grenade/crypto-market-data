@@ -1,0 +1,21 @@
+---
+id: debitum-network
+rank: 933
+symbol: DEB
+name: Debitum
+marketCap:
+  BTC: "53.91982217"
+  USD: "587140.681555"
+price:
+  USD: "0.00294091299667"
+  BTC: "2.70077531296e-07"
+volume:
+  BTC: "0.150629755395"
+  USD: "1640.22902313"
+supply:
+  DEB: "199645716.218"
+change:
+  24h: "-8.89"
+  1h: "-0.80"
+  7d: "17.02"
+isMineable: false

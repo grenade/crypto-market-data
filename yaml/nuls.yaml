@@ -1,0 +1,21 @@
+---
+id: nuls
+rank: 102
+symbol: NULS
+name: NULS
+marketCap:
+  USD: "67059429.3704"
+  BTC: "6158.37501992"
+price:
+  BTC: "8.66331719119e-05"
+  USD: "0.943361041535"
+volume:
+  USD: "10126716.4026"
+  BTC: "929.982821404"
+supply:
+  NULS: "71085646.3409"
+change:
+  24h: "0.65"
+  1h: "0.63"
+  7d: "-6.84"
+isMineable: true

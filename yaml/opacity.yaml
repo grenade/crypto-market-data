@@ -1,0 +1,21 @@
+---
+id: opacity
+rank: 514
+symbol: OPQ
+name: Opacity
+marketCap:
+  USD: "4899521.41192"
+  BTC: "449.945526767"
+price:
+  USD: "0.0401024048169"
+  BTC: "3.68278779557e-06"
+volume:
+  USD: "16524.6110478"
+  BTC: "1.51753083565"
+supply:
+  OPQ: "122175251.94"
+change:
+  1h: "-1.75"
+  7d: "-20.68"
+  24h: "1.16"
+isMineable: false

@@ -1,0 +1,27 @@
+{
+  "id": "blockmason",
+  "rank": 443,
+  "symbol": "BCPT",
+  "name": "BlockMason Credit Protocol",
+  "marketCap": {
+    "USD": "6854541.8998",
+    "BTC": "629.484026408"
+  },
+  "price": {
+    "USD": "0.0590101632261",
+    "BTC": "5.4191739856e-06"
+  },
+  "volume": {
+    "USD": "940345.92165",
+    "BTC": "86.3562796216"
+  },
+  "supply": {
+    "BCPT": "116158667.0"
+  },
+  "change": {
+    "24h": "2.63",
+    "7d": "7.71",
+    "1h": "0.62"
+  },
+  "isMineable": false
+}

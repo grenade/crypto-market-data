@@ -1,0 +1,21 @@
+---
+id: quant
+rank: 99
+symbol: QNT
+name: Quant
+marketCap:
+  USD: "69908212.1963"
+  BTC: "6419.99181502"
+price:
+  USD: "7.15009981761"
+  BTC: "0.000656626465811"
+volume:
+  BTC: "662.715666431"
+  USD: "7216405.99702"
+supply:
+  QNT: "9777235.84"
+change:
+  7d: "86.54"
+  1h: "-0.51"
+  24h: "15.57"
+isMineable: false

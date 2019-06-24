@@ -1,0 +1,27 @@
+{
+  "id": "ethereum-classic",
+  "rank": 19,
+  "symbol": "ETC",
+  "name": "Ethereum Classic",
+  "marketCap": {
+    "BTC": "94282.7868778",
+    "USD": "1026658796.68"
+  },
+  "price": {
+    "USD": "9.21113247117",
+    "BTC": "0.000845900548935"
+  },
+  "volume": {
+    "USD": "819692776.359",
+    "BTC": "75276.147819"
+  },
+  "supply": {
+    "ETC": "111458477.0"
+  },
+  "change": {
+    "7d": "5.10",
+    "1h": "-0.11",
+    "24h": "-2.00"
+  },
+  "isMineable": true
+}

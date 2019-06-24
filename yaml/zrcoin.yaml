@@ -1,0 +1,21 @@
+---
+id: zrcoin
+rank: 316
+symbol: ZRC
+name: ZrCoin
+marketCap:
+  BTC: "1095.64490686"
+  USD: "11930634.625"
+price:
+  USD: "2.62180000291"
+  BTC: "0.000240771921216"
+volume:
+  USD: "73385.9745187"
+  BTC: "6.73937068257"
+supply:
+  ZRC: "4550551.0"
+change:
+  1h: "-0.37"
+  7d: "23.80"
+  24h: "10.02"
+isMineable: false

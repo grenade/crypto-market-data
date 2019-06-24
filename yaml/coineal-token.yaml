@@ -1,0 +1,21 @@
+---
+id: coineal-token
+rank: 1968
+symbol: NEAL
+name: Coineal Token
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  USD: "0.00783418083185"
+  BTC: "7.19448763423e-07"
+volume:
+  USD: "131924.313316"
+  BTC: "12.1152148665"
+supply:
+  NEAL: "0"
+change:
+  1h: "-1.32"
+  24h: "-1.09"
+  7d: "-19.56"
+isMineable: false

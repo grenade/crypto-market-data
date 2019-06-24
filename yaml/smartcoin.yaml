@@ -1,0 +1,21 @@
+---
+id: smartcoin
+rank: 1692
+symbol: SMC
+name: SmartCoin
+marketCap:
+  BTC: "3.30318782997"
+  USD: "30152.720353"
+price:
+  BTC: "1.3e-07"
+  USD: "0.00118668808668"
+volume:
+  USD: "0.0"
+  BTC: "0.0"
+supply:
+  SMC: "25409137.1536"
+change:
+  1h: "0.00"
+  7d: "0.00"
+  24h: "0.00"
+isMineable: true

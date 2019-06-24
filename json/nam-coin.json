@@ -1,0 +1,27 @@
+{
+  "id": "nam-coin",
+  "rank": 2129,
+  "symbol": "NAM",
+  "name": "NAM COIN",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "USD": "0.00012555130657",
+    "BTC": "1.15299524222e-08"
+  },
+  "volume": {
+    "USD": "57.9158273219",
+    "BTC": "0.00531867609948"
+  },
+  "supply": {
+    "NAM": "0"
+  },
+  "change": {
+    "7d": "7.21",
+    "24h": "-14.17",
+    "1h": "-0.10"
+  },
+  "isMineable": false
+}

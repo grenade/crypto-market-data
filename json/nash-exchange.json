@@ -1,0 +1,27 @@
+{
+  "id": "nash-exchange",
+  "rank": 84,
+  "symbol": "NEX",
+  "name": "Nash Exchange",
+  "marketCap": {
+    "USD": "96047935.6955",
+    "BTC": "8820.52253435"
+  },
+  "price": {
+    "USD": "2.65350139854",
+    "BTC": "0.0002436832058"
+  },
+  "volume": {
+    "BTC": "185.163841597",
+    "USD": "2016275.64371"
+  },
+  "supply": {
+    "NEX": "36196678.0"
+  },
+  "change": {
+    "24h": "-7.07",
+    "1h": "-2.05",
+    "7d": "17.96"
+  },
+  "isMineable": false
+}

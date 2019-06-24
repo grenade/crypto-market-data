@@ -1,0 +1,27 @@
+{
+  "id": "lemochain",
+  "rank": 2028,
+  "symbol": "LEMO",
+  "name": "LemoChain",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "9.21624604556e-07",
+    "USD": "0.0100357025799"
+  },
+  "volume": {
+    "BTC": "2.53395488923",
+    "USD": "27592.5984326"
+  },
+  "supply": {
+    "LEMO": "0"
+  },
+  "change": {
+    "7d": "51.87",
+    "24h": "8.31",
+    "1h": "14.12"
+  },
+  "isMineable": false
+}

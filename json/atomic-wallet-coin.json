@@ -1,0 +1,27 @@
+{
+  "id": "atomic-wallet-coin",
+  "rank": 1952,
+  "symbol": "AWC",
+  "name": "Atomic Wallet Coin",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "BTC": "1.47796127909e-05",
+    "USD": "0.160937324678"
+  },
+  "volume": {
+    "USD": "189816.677301",
+    "BTC": "17.4317362201"
+  },
+  "supply": {
+    "AWC": "0"
+  },
+  "change": {
+    "7d": "12.91",
+    "1h": "0.07",
+    "24h": "-1.39"
+  },
+  "isMineable": false
+}

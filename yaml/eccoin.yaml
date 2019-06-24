@@ -1,0 +1,21 @@
+---
+id: eccoin
+rank: 1181
+symbol: ECC
+name: ECC
+marketCap:
+  USD: "5446213.6852"
+  BTC: "500.039814142"
+price:
+  USD: "0.000217848547408"
+  BTC: "2.00015925657e-08"
+volume:
+  BTC: "0.0"
+  USD: "0.0"
+supply:
+  ECC: "25000000000.0"
+change:
+  1h: "0.01"
+  24h: "2.59"
+  7d: "17.25"
+isMineable: false

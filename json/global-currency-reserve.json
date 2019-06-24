@@ -1,0 +1,27 @@
+{
+  "id": "global-currency-reserve",
+  "rank": 669,
+  "symbol": "GCR",
+  "name": "Global Currency Reserve",
+  "marketCap": {
+    "BTC": "213.084291404",
+    "USD": "2320820.36495"
+  },
+  "price": {
+    "BTC": "2.01016051427e-06",
+    "USD": "0.0218937840401"
+  },
+  "volume": {
+    "BTC": "0.437980973425",
+    "USD": "4770.29609215"
+  },
+  "supply": {
+    "GCR": "106003620.055"
+  },
+  "change": {
+    "7d": "-15.57",
+    "1h": "0.03",
+    "24h": "17.04"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,21 @@
+---
+id: rate3
+rank: 679
+symbol: RTE
+name: Rate3
+marketCap:
+  BTC: "199.787317931"
+  USD: "2175512.7761"
+price:
+  BTC: "2.24636017794e-07"
+  USD: "0.00244609383491"
+volume:
+  BTC: "29.1917325326"
+  USD: "317872.964805"
+supply:
+  RTE: "889382387.974"
+change:
+  24h: "-1.41"
+  7d: "-3.65"
+  1h: "-2.49"
+isMineable: false

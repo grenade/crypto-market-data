@@ -1,0 +1,21 @@
+---
+id: dether
+rank: 1315
+symbol: DTH
+name: Dether
+marketCap:
+  USD: "553207.90217"
+  BTC: "50.8036193796"
+price:
+  USD: "0.00650832826082"
+  BTC: "5.9768963976e-07"
+volume:
+  USD: "269.56842336"
+  BTC: "0.0247557049049"
+supply:
+  DTH: "85000000.0"
+change:
+  1h: "-0.02"
+  24h: "-9.64"
+  7d: "-26.73"
+isMineable: false

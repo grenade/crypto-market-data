@@ -1,0 +1,21 @@
+---
+id: paxos-standard-token
+rank: 63
+symbol: PAX
+name: Paxos Standard Token
+marketCap:
+  BTC: "13942.1551046"
+  USD: "151818127.75"
+price:
+  BTC: "9.18385428581e-05"
+  USD: "1.00004307278"
+volume:
+  BTC: "12822.8858715"
+  USD: "139630244.446"
+supply:
+  PAX: "151811588.803"
+change:
+  24h: "-0.19"
+  7d: "-0.43"
+  1h: "-0.07"
+isMineable: false

@@ -1,0 +1,27 @@
+{
+  "id": "qusd",
+  "rank": 2238,
+  "symbol": "QUSD",
+  "name": "QUSD",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "USD": "0.100142212865",
+    "BTC": "1.07240545955e-05"
+  },
+  "volume": {
+    "BTC": "0",
+    "USD": "0"
+  },
+  "supply": {
+    "QUSD": "0"
+  },
+  "change": {
+    "7d": "0.01",
+    "1h": "0.00",
+    "24h": "0.00"
+  },
+  "isMineable": false
+}

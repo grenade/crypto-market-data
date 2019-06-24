@@ -1,0 +1,21 @@
+---
+id: bitstation
+rank: 1625
+symbol: BSTN
+name: BitStation
+marketCap:
+  BTC: "4.95556481001"
+  USD: "53961.8563814"
+price:
+  BTC: "1.0534373489e-09"
+  USD: "1.14710304693e-05"
+volume:
+  BTC: "0.000158042854759"
+  USD: "1.72095132595"
+supply:
+  BSTN: "4704185602.67"
+change:
+  1h: "-0.23"
+  7d: "-3.74"
+  24h: "-4.35"
+isMineable: false

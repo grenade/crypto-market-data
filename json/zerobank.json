@@ -1,0 +1,27 @@
+{
+  "id": "zerobank",
+  "rank": 1959,
+  "symbol": "ZB",
+  "name": "Zerobank",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "USD": "0.0341291364133",
+    "BTC": "3.13423515698e-06"
+  },
+  "volume": {
+    "USD": "155813.488291",
+    "BTC": "14.3090673909"
+  },
+  "supply": {
+    "ZB": "0"
+  },
+  "change": {
+    "1h": "-2.69",
+    "7d": "1.88",
+    "24h": "-8.89"
+  },
+  "isMineable": false
+}

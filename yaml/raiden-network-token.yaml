@@ -1,0 +1,21 @@
+---
+id: raiden-network-token
+rank: 222
+symbol: RDN
+name: Raiden Network Token
+marketCap:
+  USD: "20531342.6637"
+  BTC: "1885.48737997"
+price:
+  USD: "0.405806392761"
+  BTC: "3.72670625976e-05"
+volume:
+  USD: "389191.615219"
+  BTC: "35.7412513592"
+supply:
+  RDN: "50593936.0"
+change:
+  1h: "0.39"
+  7d: "2.97"
+  24h: "-0.62"
+isMineable: false

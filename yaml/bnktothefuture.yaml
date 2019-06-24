@@ -1,0 +1,21 @@
+---
+id: bnktothefuture
+rank: 220
+symbol: BFT
+name: BnkToTheFuture
+marketCap:
+  USD: "20956436.3627"
+  BTC: "1924.52568437"
+price:
+  USD: "0.0287078403569"
+  BTC: "2.63637267107e-06"
+volume:
+  USD: "263557.815393"
+  BTC: "24.2037232029"
+supply:
+  BFT: "729989999.325"
+change:
+  1h: "0.01"
+  7d: "-10.34"
+  24h: "-0.06"
+isMineable: false

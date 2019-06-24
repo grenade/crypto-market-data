@@ -1,0 +1,21 @@
+---
+id: uptoken
+rank: 684
+symbol: UP
+name: UpToken
+marketCap:
+  USD: "2122720.10989"
+  BTC: "194.939125218"
+price:
+  BTC: "1.33029516179e-06"
+  USD: "0.0144857749252"
+volume:
+  BTC: "7.75969649191"
+  USD: "84496.4486819"
+supply:
+  UP: "146538250.17"
+change:
+  1h: "-0.94"
+  24h: "-9.45"
+  7d: "-10.18"
+isMineable: false

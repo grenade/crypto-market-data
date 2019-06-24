@@ -1,0 +1,27 @@
+{
+  "id": "otcbtc-token",
+  "rank": 2042,
+  "symbol": "OTB",
+  "name": "OTCBTC Token",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "USD": "0.0299616452097",
+    "BTC": "2.75151532227e-06"
+  },
+  "volume": {
+    "USD": "14802.074956",
+    "BTC": "1.35934244457"
+  },
+  "supply": {
+    "OTB": "0"
+  },
+  "change": {
+    "1h": "9.98",
+    "24h": "17.59",
+    "7d": "17.95"
+  },
+  "isMineable": false
+}

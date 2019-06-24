@@ -1,0 +1,21 @@
+---
+id: nitro
+rank: 1096
+symbol: NOX
+name: Nitro
+marketCap:
+  BTC: "9.26662535857"
+  USD: "100905.613368"
+price:
+  BTC: "2.88899553163e-07"
+  USD: "0.0031458686939"
+volume:
+  USD: "559.366746391"
+  BTC: "0.0513692142968"
+supply:
+  NOX: "32075596.0233"
+change:
+  7d: "45.79"
+  24h: "-4.51"
+  1h: "0.33"
+isMineable: false

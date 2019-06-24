@@ -1,0 +1,21 @@
+---
+id: elastos
+rank: 107
+symbol: ELA
+name: Elastos
+marketCap:
+  USD: "61740721.1447"
+  BTC: "5669.93364513"
+price:
+  BTC: "0.000363278887414"
+  USD: "3.95579593861"
+volume:
+  BTC: "652.679295659"
+  USD: "7107118.51538"
+supply:
+  ELA: "15607660.785"
+change:
+  1h: "-1.88"
+  24h: "-3.76"
+  7d: "0.87"
+isMineable: true

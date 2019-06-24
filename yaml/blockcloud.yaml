@@ -1,0 +1,21 @@
+---
+id: blockcloud
+rank: 1862
+symbol: BLOC
+name: Blockcloud
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "1.74606460573e-06"
+  USD: "0.0190131480667"
+volume:
+  USD: "10429877.7179"
+  BTC: "957.823515674"
+supply:
+  BLOC: "0"
+change:
+  7d: "2.17"
+  24h: "3.39"
+  1h: "-1.38"
+isMineable: false

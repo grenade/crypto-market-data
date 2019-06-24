@@ -1,0 +1,21 @@
+---
+id: adcoin
+rank: 1520
+symbol: ACC
+name: AdCoin
+marketCap:
+  USD: "123664.110079"
+  BTC: "11.3541227345"
+price:
+  USD: "0.00784254950689"
+  BTC: "7.2005749765e-07"
+volume:
+  USD: "0.399970024851"
+  BTC: "3.67229323801e-05"
+supply:
+  ACC: "15768355.6821"
+change:
+  7d: "-36.22"
+  24h: "-42.50"
+  1h: "0.05"
+isMineable: true

@@ -1,0 +1,21 @@
+---
+id: feathercoin
+rank: 459
+symbol: FTC
+name: Feathercoin
+marketCap:
+  USD: "6230746.89215"
+  BTC: "572.071111785"
+price:
+  BTC: "2.36638617081e-06"
+  USD: "0.0257736371854"
+volume:
+  USD: "7439.76229901"
+  BTC: "0.683075907832"
+supply:
+  FTC: "241748840.0"
+change:
+  24h: "-4.22"
+  7d: "-7.10"
+  1h: "-0.01"
+isMineable: true

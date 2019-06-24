@@ -1,0 +1,21 @@
+---
+id: semux
+rank: 741
+symbol: SEM
+name: Semux
+marketCap:
+  BTC: "153.953481366"
+  USD: "1676421.55222"
+price:
+  BTC: "1.40636794272e-05"
+  USD: "0.153141423539"
+volume:
+  BTC: "10.1640953198"
+  USD: "110678.29257"
+supply:
+  SEM: "10946885.0"
+change:
+  7d: "-3.15"
+  1h: "-4.17"
+  24h: "0.91"
+isMineable: true

@@ -1,0 +1,27 @@
+{
+  "id": "hiveterminal-token",
+  "rank": 633,
+  "symbol": "HVN",
+  "name": "Hiveterminal Token",
+  "marketCap": {
+    "BTC": "256.017200023",
+    "USD": "2787808.03166"
+  },
+  "price": {
+    "BTC": "6.23993601063e-07",
+    "USD": "0.00679475587028"
+  },
+  "volume": {
+    "BTC": "5.09925853781",
+    "USD": "55526.5580045"
+  },
+  "supply": {
+    "HVN": "410288181.781"
+  },
+  "change": {
+    "1h": "1.67",
+    "7d": "-7.91",
+    "24h": "5.16"
+  },
+  "isMineable": false
+}

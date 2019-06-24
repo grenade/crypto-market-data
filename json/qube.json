@@ -1,0 +1,27 @@
+{
+  "id": "qube",
+  "rank": 2010,
+  "symbol": "QUBE",
+  "name": "Qube",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "8.1552337565e-08",
+    "USD": "0.00088803510719"
+  },
+  "volume": {
+    "BTC": "3.74046572361",
+    "USD": "40730.4680526"
+  },
+  "supply": {
+    "QUBE": "0"
+  },
+  "change": {
+    "7d": "-6.18",
+    "24h": "-7.50",
+    "1h": "0.13"
+  },
+  "isMineable": false
+}

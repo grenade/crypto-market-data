@@ -1,0 +1,21 @@
+---
+id: playercoin
+rank: 1810
+symbol: PLACO
+name: PlayerCoin
+marketCap:
+  BTC: "0.701993548266"
+  USD: "6559.07611236"
+price:
+  BTC: "1.99884267704e-08"
+  USD: "0.000186761848278"
+volume:
+  BTC: "0"
+  USD: "0"
+supply:
+  PLACO: "35120000.0045"
+change:
+  7d: "0.36"
+  24h: "0.00"
+  1h: "0.00"
+isMineable: true

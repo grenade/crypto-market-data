@@ -1,0 +1,27 @@
+{
+  "id": "digital-money-bits",
+  "rank": 1682,
+  "symbol": "DMB",
+  "name": "Digital Money Bits",
+  "marketCap": {
+    "BTC": "2.99046704319",
+    "USD": "32570.8515104"
+  },
+  "price": {
+    "USD": "0.00032677289612",
+    "BTC": "3.00023957354e-08"
+  },
+  "volume": {
+    "BTC": "1.13109031923e-05",
+    "USD": "0.123193381837"
+  },
+  "supply": {
+    "DMB": "99674275.0"
+  },
+  "change": {
+    "7d": "8.56",
+    "24h": "-1.30",
+    "1h": "0.05"
+  },
+  "isMineable": true
+}

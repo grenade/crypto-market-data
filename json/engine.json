@@ -1,0 +1,27 @@
+{
+  "id": "engine",
+  "rank": 1967,
+  "symbol": "EGCC",
+  "name": "Engine",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "USD": "0.000748918158646",
+    "BTC": "6.87765900109e-08"
+  },
+  "volume": {
+    "USD": "134782.168662",
+    "BTC": "12.3776648327"
+  },
+  "supply": {
+    "EGCC": "0"
+  },
+  "change": {
+    "7d": "7.79",
+    "1h": "-1.30",
+    "24h": "-5.88"
+  },
+  "isMineable": false
+}

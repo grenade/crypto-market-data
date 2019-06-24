@@ -1,0 +1,21 @@
+---
+id: mixin
+rank: 76
+symbol: XIN
+name: Mixin
+marketCap:
+  BTC: "9973.44773638"
+  USD: "108602303.675"
+price:
+  BTC: "0.0221107994825"
+  USD: "240.76766865"
+volume:
+  USD: "670076.908619"
+  BTC: "61.5362363535"
+supply:
+  XIN: "451066.807615"
+change:
+  1h: "0.02"
+  24h: "-0.33"
+  7d: "11.90"
+isMineable: false

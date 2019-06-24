@@ -1,0 +1,21 @@
+---
+id: siacashcoin
+rank: 976
+symbol: SCC
+name: SiaCashCoin
+marketCap:
+  BTC: "38.8552560293"
+  USD: "423100.458958"
+price:
+  USD: "5.27393992081e-05"
+  BTC: "4.84330096003e-09"
+volume:
+  BTC: "3.44749951607"
+  USD: "37540.3169756"
+supply:
+  SCC: "8022474000.68"
+change:
+  1h: "-0.37"
+  24h: "-12.41"
+  7d: "-6.42"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: mooncoin
+rank: 1186
+symbol: MOON
+name: Mooncoin
+marketCap:
+  USD: "5028044.30587"
+  BTC: "461.645922385"
+price:
+  BTC: "2.04494269507e-09"
+  USD: "2.22726162524e-05"
+volume:
+  BTC: "0.0134456636135"
+  USD: "146.444253252"
+supply:
+  MOON: "2.25750053289e+11"
+change:
+  7d: "17.54"
+  24h: "46.14"
+  1h: "-0.98"
+isMineable: true

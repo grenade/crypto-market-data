@@ -1,0 +1,21 @@
+---
+id: primas
+rank: 467
+symbol: PST
+name: Primas
+marketCap:
+  BTC: "563.090529394"
+  USD: "6131573.58275"
+price:
+  BTC: "1.06863374753e-05"
+  USD: "0.116365062347"
+volume:
+  USD: "1931176.58475"
+  BTC: "177.348804638"
+supply:
+  PST: "52692564.7534"
+change:
+  24h: "-1.30"
+  1h: "-3.21"
+  7d: "16.98"
+isMineable: false

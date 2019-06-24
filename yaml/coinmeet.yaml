@@ -1,0 +1,21 @@
+---
+id: coinmeet
+rank: 1934
+symbol: MEET
+name: CoinMeet
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  USD: "0.0115549756911"
+  BTC: "1.06114642371e-06"
+volume:
+  BTC: "33.5701798384"
+  USD: "365550.505863"
+supply:
+  MEET: "0"
+change:
+  24h: "24.57"
+  1h: "0.34"
+  7d: "30.38"
+isMineable: false

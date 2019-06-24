@@ -1,0 +1,21 @@
+---
+id: burst
+rank: 264
+symbol: BURST
+name: Burst
+marketCap:
+  USD: "15835161.3409"
+  BTC: "1453.89284951"
+price:
+  BTC: "7.10056699071e-07"
+  USD: "0.00773362520819"
+volume:
+  USD: "772678.919228"
+  BTC: "70.9429055663"
+supply:
+  BURST: "2047572893.0"
+change:
+  24h: "19.37"
+  1h: "-5.49"
+  7d: "64.52"
+isMineable: true

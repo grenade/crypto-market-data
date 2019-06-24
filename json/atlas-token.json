@@ -1,0 +1,27 @@
+{
+  "id": "atlas-token",
+  "rank": 2060,
+  "symbol": "ATLS",
+  "name": "Atlas Token",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "BTC": "4.21826816171e-06",
+    "USD": "0.0459333273698"
+  },
+  "volume": {
+    "USD": "6829.69162356",
+    "BTC": "0.627201911546"
+  },
+  "supply": {
+    "ATLS": "0"
+  },
+  "change": {
+    "1h": "-0.24",
+    "7d": "0.30",
+    "24h": "-2.65"
+  },
+  "isMineable": false
+}

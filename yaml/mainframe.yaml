@@ -1,0 +1,21 @@
+---
+id: mainframe
+rank: 199
+symbol: MFT
+name: Mainframe
+marketCap:
+  USD: "24229808.6497"
+  BTC: "2225.13447739"
+price:
+  BTC: "2.72098543133e-07"
+  USD: "0.0029629200846"
+volume:
+  BTC: "237.472848622"
+  USD: "2585875.92799"
+supply:
+  MFT: "8177678762.13"
+change:
+  7d: "-11.15"
+  24h: "-0.52"
+  1h: "-1.28"
+isMineable: false

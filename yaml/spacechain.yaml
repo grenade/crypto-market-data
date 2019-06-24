@@ -1,0 +1,21 @@
+---
+id: spacechain
+rank: 592
+symbol: SPC
+name: SpaceChain
+marketCap:
+  USD: "3353974.02005"
+  BTC: "308.010819903"
+price:
+  USD: "0.00650091322128"
+  BTC: "5.97008682665e-07"
+volume:
+  USD: "325868.037758"
+  BTC: "29.9259567575"
+supply:
+  SPC: "515923518.111"
+change:
+  7d: "-7.63"
+  24h: "-4.91"
+  1h: "-1.40"
+isMineable: false

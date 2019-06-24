@@ -1,0 +1,21 @@
+---
+id: bethereum
+rank: 978
+symbol: BETHER
+name: Bethereum
+marketCap:
+  USD: "411995.205462"
+  BTC: "37.8354096577"
+price:
+  USD: "0.000900844999245"
+  BTC: "8.27287287151e-08"
+volume:
+  USD: "17568.2263095"
+  BTC: "1.61337081249"
+supply:
+  BETHER: "457343056.582"
+change:
+  24h: "-14.07"
+  1h: "-1.81"
+  7d: "-22.18"
+isMineable: false

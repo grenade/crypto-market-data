@@ -1,0 +1,21 @@
+---
+id: abbc-coin
+rank: 75
+symbol: ABBC
+name: ABBC Coin
+marketCap:
+  USD: "111900092.399"
+  BTC: "10276.2988029"
+price:
+  USD: "0.221548980373"
+  BTC: "2.03458591764e-05"
+volume:
+  BTC: "5452.9038336"
+  USD: "59377452.3814"
+supply:
+  ABBC: "505080602.09"
+change:
+  1h: "-0.19"
+  7d: "20.75"
+  24h: "-4.56"
+isMineable: true

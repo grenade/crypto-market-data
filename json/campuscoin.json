@@ -1,0 +1,27 @@
+{
+  "id": "campuscoin",
+  "rank": 1633,
+  "symbol": "CC",
+  "name": "CampusCoin",
+  "marketCap": {
+    "USD": "47620.6395454",
+    "BTC": "5.0966601321"
+  },
+  "price": {
+    "BTC": "9.99421338522e-09",
+    "USD": "9.3380924139e-05"
+  },
+  "volume": {
+    "BTC": "0",
+    "USD": "0"
+  },
+  "supply": {
+    "CC": "509961108.058"
+  },
+  "change": {
+    "7d": "-27.27",
+    "24h": "0.00",
+    "1h": "0.00"
+  },
+  "isMineable": true
+}

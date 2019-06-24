@@ -1,0 +1,21 @@
+---
+id: aurora
+rank: 52
+symbol: AOA
+name: Aurora
+marketCap:
+  BTC: "16757.1672326"
+  USD: "182471198.79"
+price:
+  USD: "0.0278908576389"
+  BTC: "2.56134540034e-06"
+volume:
+  USD: "4129012.6033"
+  BTC: "379.186168327"
+supply:
+  AOA: "6542330148.21"
+change:
+  7d: "-4.72"
+  1h: "0.72"
+  24h: "2.31"
+isMineable: false

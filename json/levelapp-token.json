@@ -1,0 +1,27 @@
+{
+  "id": "levelapp-token",
+  "rank": 2093,
+  "symbol": "LVL",
+  "name": "LevelApp Token",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "USD": "0.000975713335082",
+    "BTC": "8.96042314375e-08"
+  },
+  "volume": {
+    "BTC": "0.0727739209747",
+    "USD": "792.445669161"
+  },
+  "supply": {
+    "LVL": "0"
+  },
+  "change": {
+    "24h": "29.08",
+    "7d": "-0.55",
+    "1h": "-0.94"
+  },
+  "isMineable": false
+}

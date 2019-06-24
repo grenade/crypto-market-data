@@ -1,0 +1,21 @@
+---
+id: digiwage
+rank: 1617
+symbol: WAGE
+name: Digiwage
+marketCap:
+  USD: "56384.0150424"
+  BTC: "5.17800275097"
+price:
+  BTC: "1.10024411877e-07"
+  USD: "0.00119807161036"
+volume:
+  USD: "0.0050089195717"
+  BTC: "4.5999206162e-07"
+supply:
+  WAGE: "47062307.9246"
+change:
+  1h: "0.08"
+  24h: "55.09"
+  7d: "73.89"
+isMineable: true

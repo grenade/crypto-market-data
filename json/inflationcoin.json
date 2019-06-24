@@ -1,0 +1,27 @@
+{
+  "id": "inflationcoin",
+  "rank": 1550,
+  "symbol": "IFLT",
+  "name": "InflationCoin",
+  "marketCap": {
+    "BTC": "9.30100412284",
+    "USD": "101302.44534"
+  },
+  "price": {
+    "BTC": "2.07657624786e-10",
+    "USD": "2.26171549936e-06"
+  },
+  "volume": {
+    "USD": "110.043367391",
+    "BTC": "0.0101035449871"
+  },
+  "supply": {
+    "IFLT": "44790092020.1"
+  },
+  "change": {
+    "1h": "-3.49",
+    "7d": "2.73",
+    "24h": "0.58"
+  },
+  "isMineable": false
+}

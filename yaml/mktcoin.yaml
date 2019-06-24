@@ -1,0 +1,21 @@
+---
+id: mktcoin
+rank: 831
+symbol: MLM
+name: MktCoin
+marketCap:
+  BTC: "99.0317987371"
+  USD: "1078371.46834"
+price:
+  BTC: "8.18762717331e-08"
+  USD: "0.000891562472833"
+volume:
+  USD: "15190.9171845"
+  BTC: "1.39505161015"
+supply:
+  MLM: "1209529899.7"
+change:
+  24h: "-4.77"
+  7d: "-23.41"
+  1h: "0.04"
+isMineable: true

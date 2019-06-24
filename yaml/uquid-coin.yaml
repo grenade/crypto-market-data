@@ -1,0 +1,21 @@
+---
+id: uquid-coin
+rank: 819
+symbol: UQC
+name: Uquid Coin
+marketCap:
+  USD: "1154252.87273"
+  BTC: "106.000336192"
+price:
+  BTC: "1.06000336192e-05"
+  USD: "0.115425287273"
+volume:
+  USD: "317455.493448"
+  BTC: "29.1533942228"
+supply:
+  UQC: "10000000.0"
+change:
+  24h: "-2.35"
+  1h: "0.07"
+  7d: "20.79"
+isMineable: false

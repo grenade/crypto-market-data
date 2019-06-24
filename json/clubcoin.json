@@ -1,0 +1,27 @@
+{
+  "id": "clubcoin",
+  "rank": 2026,
+  "symbol": "CLUB",
+  "name": "ClubCoin",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "USD": "0.0967247772517",
+    "BTC": "8.88070913768e-06"
+  },
+  "volume": {
+    "USD": "28596.7675339",
+    "BTC": "2.62558965719"
+  },
+  "supply": {
+    "CLUB": "0"
+  },
+  "change": {
+    "1h": "0.03",
+    "24h": "4.83",
+    "7d": "-46.75"
+  },
+  "isMineable": false
+}

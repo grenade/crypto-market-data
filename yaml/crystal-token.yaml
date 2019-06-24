@@ -1,0 +1,21 @@
+---
+id: crystal-token
+rank: 1152
+symbol: CYL
+name: Crystal Token
+marketCap:
+  USD: "17870.8131299"
+  BTC: "1.64115874827"
+price:
+  USD: "0.0316646507817"
+  BTC: "2.90791013612e-06"
+volume:
+  BTC: "4.15461300129"
+  USD: "45240.1771929"
+supply:
+  CYL: "564377.395258"
+change:
+  24h: "6.74"
+  1h: "-5.59"
+  7d: "65.16"
+isMineable: false

@@ -1,0 +1,27 @@
+{
+  "id": "javascript-token",
+  "rank": 1771,
+  "symbol": "JS",
+  "name": "JavaScript Token",
+  "marketCap": {
+    "USD": "11315.8896118",
+    "BTC": "1.03919005228"
+  },
+  "price": {
+    "USD": "0.00141590281224",
+    "BTC": "1.300288504e-07"
+  },
+  "volume": {
+    "BTC": "0.0242683699808",
+    "USD": "264.261763436"
+  },
+  "supply": {
+    "JS": "7991996.0"
+  },
+  "change": {
+    "1h": "0.07",
+    "24h": "-1.31",
+    "7d": "4.02"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": "baer-chain",
+  "rank": 1878,
+  "symbol": "BRC",
+  "name": "Baer Chain",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "0.00120264814999",
+    "USD": "13.0958082954"
+  },
+  "volume": {
+    "USD": "2451974.68367",
+    "BTC": "225.176083113"
+  },
+  "supply": {
+    "BRC": "0"
+  },
+  "change": {
+    "7d": "59.76",
+    "24h": "9.19",
+    "1h": "0.84"
+  },
+  "isMineable": false
+}

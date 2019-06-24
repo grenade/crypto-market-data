@@ -1,0 +1,21 @@
+---
+id: wepower
+rank: 402
+symbol: WPR
+name: WePower
+marketCap:
+  BTC: "772.615229472"
+  USD: "8413118.11046"
+price:
+  USD: "0.013840860301"
+  BTC: "1.27106969344e-06"
+volume:
+  USD: "974786.89533"
+  BTC: "89.5191522253"
+supply:
+  WPR: "607846472.51"
+change:
+  7d: "-0.63"
+  1h: "1.61"
+  24h: "4.42"
+isMineable: false

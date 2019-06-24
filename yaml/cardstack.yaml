@@ -1,0 +1,21 @@
+---
+id: cardstack
+rank: 707
+symbol: CARD
+name: Cardstack
+marketCap:
+  USD: "1964791.62287"
+  BTC: "180.435827791"
+price:
+  USD: "0.000827513734309"
+  BTC: "7.59943822645e-08"
+volume:
+  USD: "124481.251257"
+  BTC: "11.4316843341"
+supply:
+  CARD: "2374331133.62"
+change:
+  7d: "8.66"
+  24h: "-8.55"
+  1h: "-2.80"
+isMineable: false

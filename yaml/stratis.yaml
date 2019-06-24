@@ -1,0 +1,21 @@
+---
+id: stratis
+rank: 85
+symbol: STRAT
+name: Stratis
+marketCap:
+  USD: "95428574.1588"
+  BTC: "8761.69927302"
+price:
+  USD: "0.960237725484"
+  BTC: "8.81634694373e-05"
+volume:
+  USD: "2047522.49268"
+  BTC: "187.991662809"
+supply:
+  STRAT: "99380155.1701"
+change:
+  7d: "-3.64"
+  24h: "0.05"
+  1h: "-0.02"
+isMineable: false

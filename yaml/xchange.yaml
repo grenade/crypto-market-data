@@ -1,0 +1,21 @@
+---
+id: xchange
+rank: 1834
+symbol: XCG
+name: Xchange
+marketCap:
+  BTC: "0.195120294272"
+  USD: "2124.69288573"
+price:
+  BTC: "2.00044385231e-08"
+  USD: "0.000217831201883"
+volume:
+  BTC: "2.26850332852e-05"
+  USD: "0.247020582935"
+supply:
+  XCG: "9753850.07916"
+change:
+  7d: "-36.69"
+  1h: "0.08"
+  24h: "-72.33"
+isMineable: true

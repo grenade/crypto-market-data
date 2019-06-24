@@ -1,0 +1,27 @@
+{
+  "id": "jinbi-token",
+  "rank": 2097,
+  "symbol": "JNB",
+  "name": "Jinbi Token",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "BTC": "0.00127142938225",
+    "USD": "13.8447770041"
+  },
+  "volume": {
+    "USD": "566.331747537",
+    "BTC": "0.0520088423025"
+  },
+  "supply": {
+    "JNB": "0"
+  },
+  "change": {
+    "1h": "-4.33",
+    "24h": "-9.15",
+    "7d": "-12.11"
+  },
+  "isMineable": false
+}

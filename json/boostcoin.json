@@ -1,0 +1,27 @@
+{
+  "id": "boostcoin",
+  "rank": 1639,
+  "symbol": "BOST",
+  "name": "BoostCoin",
+  "marketCap": {
+    "USD": "45205.5142728",
+    "BTC": "4.14764966327"
+  },
+  "price": {
+    "USD": "0.00381304569196",
+    "BTC": "3.49850630719e-07"
+  },
+  "volume": {
+    "BTC": "0.0",
+    "USD": "0.0"
+  },
+  "supply": {
+    "BOST": "11855487.1682"
+  },
+  "change": {
+    "7d": "14.16",
+    "1h": "0.00",
+    "24h": "-1.29"
+  },
+  "isMineable": true
+}

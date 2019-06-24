@@ -1,0 +1,27 @@
+{
+  "id": "valuto",
+  "rank": 2148,
+  "symbol": "VLU",
+  "name": "Valuto",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "2.10046604493e-07",
+    "USD": "0.00228722761977"
+  },
+  "volume": {
+    "BTC": "0.00030127054898",
+    "USD": "3.28057824269"
+  },
+  "supply": {
+    "VLU": "0"
+  },
+  "change": {
+    "1h": "0.08",
+    "24h": "1.12",
+    "7d": "37.93"
+  },
+  "isMineable": true
+}

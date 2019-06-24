@@ -1,0 +1,21 @@
+---
+id: ripio-credit-network
+rank: 255
+symbol: RCN
+name: Ripio Credit Network
+marketCap:
+  USD: "16775641.6492"
+  BTC: "1540.58412733"
+price:
+  USD: "0.0335103609307"
+  BTC: "3.07741016591e-06"
+volume:
+  USD: "1441295.88496"
+  BTC: "132.360812754"
+supply:
+  RCN: "500610592.761"
+change:
+  24h: "-0.67"
+  7d: "3.37"
+  1h: "-0.91"
+isMineable: false

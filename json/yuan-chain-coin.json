@@ -1,0 +1,27 @@
+{
+  "id": "yuan-chain-coin",
+  "rank": 1904,
+  "symbol": "YCC",
+  "name": "Yuan Chain Coin",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "USD": "0.0156645478365",
+    "BTC": "1.4385472856e-06"
+  },
+  "volume": {
+    "BTC": "92.621487288",
+    "USD": "1008568.66704"
+  },
+  "supply": {
+    "YCC": "0"
+  },
+  "change": {
+    "24h": "-0.84",
+    "7d": "93.20",
+    "1h": "0.46"
+  },
+  "isMineable": false
+}

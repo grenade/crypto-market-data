@@ -1,0 +1,21 @@
+---
+id: bitcoinhd
+rank: 1879
+symbol: BHD
+name: BitcoinHD
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  USD: "39.1373239501"
+  BTC: "0.00359415999247"
+volume:
+  BTC: "223.405583128"
+  USD: "2432695.45525"
+supply:
+  BHD: "0"
+change:
+  24h: "5.56"
+  1h: "-0.18"
+  7d: "20.63"
+isMineable: false

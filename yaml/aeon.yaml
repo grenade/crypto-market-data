@@ -1,0 +1,21 @@
+---
+id: aeon
+rank: 257
+symbol: AEON
+name: Aeon
+marketCap:
+  BTC: "1532.02705649"
+  USD: "16686164.7516"
+price:
+  USD: "1.05398778619"
+  BTC: "9.67710573218e-05"
+volume:
+  BTC: "1.95428682478"
+  USD: "21285.2323932"
+supply:
+  AEON: "15831459.3112"
+change:
+  24h: "3.24"
+  1h: "-0.20"
+  7d: "16.30"
+isMineable: true

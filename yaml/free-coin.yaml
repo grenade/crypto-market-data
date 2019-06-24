@@ -1,0 +1,21 @@
+---
+id: free-coin
+rank: 833
+symbol: FREE
+name: FREE Coin
+marketCap:
+  BTC: "97.3156628743"
+  USD: "1059684.21865"
+price:
+  USD: "1.21799975424e-07"
+  BTC: "1.11854504746e-11"
+volume:
+  BTC: "0.886340107147"
+  USD: "9651.48462396"
+supply:
+  FREE: "8.70020059499e+12"
+change:
+  7d: "-44.20"
+  24h: "-38.13"
+  1h: "5.23"
+isMineable: false

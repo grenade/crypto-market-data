@@ -1,0 +1,21 @@
+---
+id: vinchain
+rank: 548
+symbol: VIN
+name: VINchain
+marketCap:
+  USD: "4115122.27018"
+  BTC: "377.910555317"
+price:
+  BTC: "7.87135074e-07"
+  USD: "0.00857122678127"
+volume:
+  USD: "351523.068281"
+  BTC: "32.2819758974"
+supply:
+  VIN: "480108901.0"
+change:
+  1h: "2.59"
+  7d: "9.09"
+  24h: "16.43"
+isMineable: false

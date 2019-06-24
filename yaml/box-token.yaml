@@ -1,0 +1,21 @@
+---
+id: box-token
+rank: 319
+symbol: BOX
+name: BOX Token
+marketCap:
+  USD: "11822006.389"
+  BTC: "1085.66907764"
+price:
+  USD: "0.118606557374"
+  BTC: "1.0892184246e-05"
+volume:
+  BTC: "3.11645080217"
+  USD: "33935.4800217"
+supply:
+  BOX: "99674138.1819"
+change:
+  24h: "-1.23"
+  7d: "11.21"
+  1h: "-0.43"
+isMineable: false

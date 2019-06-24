@@ -1,0 +1,27 @@
+{
+  "id": "venjocoin",
+  "rank": 2048,
+  "symbol": "VJC",
+  "name": "VENJOCOIN",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "BTC": "0.000820181979448",
+    "USD": "8.9310792772"
+  },
+  "volume": {
+    "USD": "10681.5708155",
+    "BTC": "0.98093764742"
+  },
+  "supply": {
+    "VJC": "0"
+  },
+  "change": {
+    "24h": "-3.66",
+    "7d": "13.10",
+    "1h": "0.08"
+  },
+  "isMineable": false
+}

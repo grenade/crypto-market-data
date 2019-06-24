@@ -1,0 +1,21 @@
+---
+id: shipchain
+rank: 737
+symbol: SHIP
+name: ShipChain
+marketCap:
+  USD: "1697860.02807"
+  BTC: "155.922274948"
+price:
+  BTC: "6.38274808958e-07"
+  USD: "0.00695026599253"
+volume:
+  USD: "3575.29333062"
+  BTC: "0.328335587447"
+supply:
+  SHIP: "244287057.487"
+change:
+  7d: "-19.07"
+  24h: "-29.08"
+  1h: "-0.23"
+isMineable: false

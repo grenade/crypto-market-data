@@ -1,0 +1,21 @@
+---
+id: pinkcoin
+rank: 829
+symbol: PINK
+name: Pinkcoin
+marketCap:
+  BTC: "100.19108562"
+  USD: "1091237.22993"
+price:
+  BTC: "2.45235850778e-07"
+  USD: "0.00267100100599"
+volume:
+  BTC: "0.359969115281"
+  USD: "3920.62525112"
+supply:
+  PINK: "408549913.491"
+change:
+  7d: "48.87"
+  1h: "3.62"
+  24h: "0.31"
+isMineable: true

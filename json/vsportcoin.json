@@ -1,0 +1,27 @@
+{
+  "id": "vsportcoin",
+  "rank": 2040,
+  "symbol": "VSC",
+  "name": "vSportCoin",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "USD": "0.00196821970518",
+    "BTC": "1.80750644316e-07"
+  },
+  "volume": {
+    "BTC": "1.44253272317",
+    "USD": "15707.9458381"
+  },
+  "supply": {
+    "VSC": "0"
+  },
+  "change": {
+    "24h": "4.23",
+    "1h": "-0.24",
+    "7d": "55.43"
+  },
+  "isMineable": false
+}

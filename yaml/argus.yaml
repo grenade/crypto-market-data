@@ -1,0 +1,21 @@
+---
+id: argus
+rank: 1841
+symbol: ARGUS
+name: Argus
+marketCap:
+  BTC: "0.114841575069"
+  USD: "1250.80391617"
+price:
+  BTC: "1.00007985785e-07"
+  USD: "0.00108924298707"
+volume:
+  BTC: "0.00013001038152"
+  USD: "1.41601588319"
+supply:
+  ARGUS: "1148324.048"
+change:
+  1h: "0.05"
+  7d: "-6.03"
+  24h: "9.67"
+isMineable: true

@@ -1,0 +1,21 @@
+---
+id: gulden
+rank: 444
+symbol: NLG
+name: Gulden
+marketCap:
+  USD: "6795806.6004"
+  BTC: "623.951623243"
+price:
+  BTC: "1.452264863e-06"
+  USD: "0.015817430028"
+volume:
+  BTC: "1.84639378986"
+  USD: "20110.1089197"
+supply:
+  NLG: "429640377.0"
+change:
+  1h: "-0.58"
+  7d: "-6.06"
+  24h: "1.32"
+isMineable: true

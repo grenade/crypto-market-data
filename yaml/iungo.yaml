@@ -1,0 +1,21 @@
+---
+id: iungo
+rank: 1054
+symbol: ING
+name: Iungo
+marketCap:
+  BTC: "16.526836048"
+  USD: "179963.089466"
+price:
+  BTC: "4.13170901199e-07"
+  USD: "0.00449907723665"
+volume:
+  USD: "4957.64726314"
+  BTC: "0.455283490324"
+supply:
+  ING: "40000000.0"
+change:
+  7d: "-3.43"
+  1h: "-0.28"
+  24h: "5.12"
+isMineable: false

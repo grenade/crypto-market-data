@@ -1,0 +1,27 @@
+{
+  "id": "bankera",
+  "rank": 2014,
+  "symbol": "BNK",
+  "name": "Bankera",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "USD": "0.00272409046339",
+    "BTC": "2.50165723438e-07"
+  },
+  "volume": {
+    "USD": "38807.1821956",
+    "BTC": "3.5638415607"
+  },
+  "supply": {
+    "BNK": "0"
+  },
+  "change": {
+    "24h": "-4.57",
+    "1h": "2.25",
+    "7d": "-0.10"
+  },
+  "isMineable": false
+}

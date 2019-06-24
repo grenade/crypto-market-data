@@ -1,0 +1,27 @@
+{
+  "id": "cryptojacks",
+  "rank": 1642,
+  "symbol": "CJ",
+  "name": "Cryptojacks",
+  "marketCap": {
+    "BTC": "4.06601048601",
+    "USD": "44285.1975517"
+  },
+  "price": {
+    "BTC": "1.00007985785e-08",
+    "USD": "0.000108924298707"
+  },
+  "volume": {
+    "BTC": "0.0",
+    "USD": "0.0"
+  },
+  "supply": {
+    "CJ": "406568580.908"
+  },
+  "change": {
+    "24h": "-1.30",
+    "7d": "17.69",
+    "1h": "-1.23"
+  },
+  "isMineable": true
+}

@@ -1,0 +1,21 @@
+---
+id: digitalnote
+rank: 342
+symbol: XDN
+name: DigitalNote
+marketCap:
+  BTC: "970.112607336"
+  USD: "10566039.7609"
+price:
+  BTC: "1.40011180099e-07"
+  USD: "0.0015249401819"
+volume:
+  USD: "37378.905615"
+  BTC: "3.43191473875"
+supply:
+  XDN: "6928822445.82"
+change:
+  24h: "-10.09"
+  7d: "-11.28"
+  1h: "-9.27"
+isMineable: true

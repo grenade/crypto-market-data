@@ -1,0 +1,27 @@
+{
+  "id": "pepe-cash",
+  "rank": 330,
+  "symbol": "PEPECASH",
+  "name": "Pepe Cash",
+  "marketCap": {
+    "USD": "10991856.9845",
+    "BTC": "1009.20867988"
+  },
+  "price": {
+    "BTC": "1.43785677824e-06",
+    "USD": "0.015660503507"
+  },
+  "volume": {
+    "BTC": "0.631948377264",
+    "USD": "6882.90372737"
+  },
+  "supply": {
+    "PEPECASH": "701884009.0"
+  },
+  "change": {
+    "24h": "-9.79",
+    "7d": "1.80",
+    "1h": "-0.46"
+  },
+  "isMineable": false
+}

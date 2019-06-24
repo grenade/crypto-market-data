@@ -1,0 +1,27 @@
+{
+  "id": "bitcoin-interest",
+  "rank": 745,
+  "symbol": "BCI",
+  "name": "Bitcoin Interest",
+  "marketCap": {
+    "BTC": "150.321441932",
+    "USD": "1636871.75358"
+  },
+  "price": {
+    "BTC": "8.20223341923e-06",
+    "USD": "0.0893152967912"
+  },
+  "volume": {
+    "BTC": "2.42048318083",
+    "USD": "26356.9887156"
+  },
+  "supply": {
+    "BCI": "18326891.5"
+  },
+  "change": {
+    "24h": "-4.74",
+    "7d": "-6.29",
+    "1h": "-0.91"
+  },
+  "isMineable": true
+}

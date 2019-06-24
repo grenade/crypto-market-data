@@ -1,0 +1,21 @@
+---
+id: orbitcoin
+rank: 1292
+symbol: ORB
+name: Orbitcoin
+marketCap:
+  USD: "722609.416698"
+  BTC: "67.6345380633"
+price:
+  BTC: "2.10004956193e-05"
+  USD: "0.224369919931"
+volume:
+  USD: "0.0"
+  BTC: "0.0"
+supply:
+  ORB: "3220616.27923"
+change:
+  7d: "-33.08"
+  1h: "0.00"
+  24h: "0.00"
+isMineable: true

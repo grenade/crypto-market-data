@@ -1,0 +1,21 @@
+---
+id: stableusd
+rank: 512
+symbol: USDS
+name: StableUSD
+marketCap:
+  BTC: "452.53736419"
+  USD: "4927744.30157"
+price:
+  USD: "0.997075114709"
+  BTC: "9.15659816533e-05"
+volume:
+  BTC: "92.8708935594"
+  USD: "1011284.48772"
+supply:
+  USDS: "4942199.66868"
+change:
+  7d: "-0.16"
+  24h: "-0.12"
+  1h: "0.01"
+isMineable: false

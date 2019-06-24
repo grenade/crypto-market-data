@@ -1,0 +1,21 @@
+---
+id: myriad
+rank: 613
+symbol: XMY
+name: Myriad
+marketCap:
+  BTC: "285.338672213"
+  USD: "3107783.29559"
+price:
+  USD: "0.00185171307802"
+  BTC: "1.70013575834e-07"
+volume:
+  BTC: "0.248218620622"
+  USD: "2703.48802299"
+supply:
+  XMY: "1678328750.0"
+change:
+  7d: "-2.87"
+  24h: "-2.24"
+  1h: "10.89"
+isMineable: true

@@ -1,0 +1,21 @@
+---
+id: kcash
+rank: 380
+symbol: KCASH
+name: Kcash
+marketCap:
+  USD: "9102396.34733"
+  BTC: "835.914811879"
+price:
+  USD: "0.020431908133"
+  BTC: "1.87635585088e-06"
+volume:
+  BTC: "458.219253757"
+  USD: "4989615.21246"
+supply:
+  KCASH: "445499083.496"
+change:
+  1h: "-0.27"
+  24h: "7.71"
+  7d: "-14.09"
+isMineable: false

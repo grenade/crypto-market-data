@@ -1,0 +1,27 @@
+{
+  "id": "bridge-protocol",
+  "rank": 1028,
+  "symbol": "BRDG",
+  "name": "Bridge Protocol",
+  "marketCap": {
+    "BTC": "24.31302422",
+    "USD": "264748.009855"
+  },
+  "price": {
+    "USD": "0.00118144525187",
+    "BTC": "1.08497537107e-07"
+  },
+  "volume": {
+    "BTC": "0.0645992942335",
+    "USD": "703.430985449"
+  },
+  "supply": {
+    "BRDG": "224088259.22"
+  },
+  "change": {
+    "1h": "0.39",
+    "24h": "22.18",
+    "7d": "67.42"
+  },
+  "isMineable": false
+}

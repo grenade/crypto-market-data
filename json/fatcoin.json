@@ -1,0 +1,27 @@
+{
+  "id": "fatcoin",
+  "rank": 1858,
+  "symbol": "FAT",
+  "name": "Fatcoin",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "USD": "0.0268525379149",
+    "BTC": "2.46599173702e-06"
+  },
+  "volume": {
+    "BTC": "1554.31576361",
+    "USD": "16925167.4073"
+  },
+  "supply": {
+    "FAT": "0"
+  },
+  "change": {
+    "24h": "10.18",
+    "1h": "-0.76",
+    "7d": "-7.42"
+  },
+  "isMineable": false
+}

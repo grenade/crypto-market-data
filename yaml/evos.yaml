@@ -1,0 +1,21 @@
+---
+id: evos
+rank: 1153
+symbol: EVOS
+name: EVOS
+marketCap:
+  BTC: "1.54483332225"
+  USD: "16821.9117425"
+price:
+  USD: "0.001851565216"
+  BTC: "1.70037727447e-07"
+volume:
+  BTC: "0.0519742011204"
+  USD: "565.954534734"
+supply:
+  EVOS: "9085238.58469"
+change:
+  24h: "-34.84"
+  1h: "-5.48"
+  7d: "-8.46"
+isMineable: false

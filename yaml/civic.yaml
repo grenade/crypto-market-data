@@ -1,0 +1,21 @@
+---
+id: civic
+rank: 180
+symbol: CVC
+name: Civic
+marketCap:
+  BTC: "2598.60066809"
+  USD: "28296535.5958"
+price:
+  BTC: "7.5827278742e-06"
+  USD: "0.0825694120072"
+volume:
+  USD: "4106923.44489"
+  BTC: "377.15761958"
+supply:
+  CVC: "342699977.0"
+change:
+  7d: "-3.92"
+  24h: "-0.06"
+  1h: "0.14"
+isMineable: false

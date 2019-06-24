@@ -1,0 +1,21 @@
+---
+id: petrodollar
+rank: 1236
+symbol: XPD
+name: PetroDollar
+marketCap:
+  BTC: "142.07641526"
+  USD: "1547433.81477"
+price:
+  USD: "0.0241811943129"
+  BTC: "2.22017728442e-06"
+volume:
+  USD: "7.06297830105"
+  BTC: "0.000648481782224"
+supply:
+  XPD: "63993274.8873"
+change:
+  24h: "12.36"
+  7d: "15.96"
+  1h: "0.01"
+isMineable: true

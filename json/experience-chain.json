@@ -1,0 +1,27 @@
+{
+  "id": "experience-chain",
+  "rank": 748,
+  "symbol": "XPC",
+  "name": "eXPerience Chain",
+  "marketCap": {
+    "USD": "1615405.80845",
+    "BTC": "148.35012572"
+  },
+  "price": {
+    "BTC": "1.62859587746e-09",
+    "USD": "1.77340142268e-05"
+  },
+  "volume": {
+    "BTC": "2.79953942239",
+    "USD": "30484.5865277"
+  },
+  "supply": {
+    "XPC": "91090814961.0"
+  },
+  "change": {
+    "7d": "-9.82",
+    "1h": "-1.09",
+    "24h": "-1.35"
+  },
+  "isMineable": true
+}

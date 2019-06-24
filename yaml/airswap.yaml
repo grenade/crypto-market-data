@@ -1,0 +1,21 @@
+---
+id: airswap
+rank: 392
+symbol: AST
+name: AirSwap
+marketCap:
+  BTC: "804.694059717"
+  USD: "8762429.09661"
+price:
+  BTC: "5.36462706478e-06"
+  USD: "0.0584161939774"
+volume:
+  USD: "2105510.12467"
+  BTC: "193.358653327"
+supply:
+  AST: "150000000.0"
+change:
+  24h: "-9.44"
+  1h: "-0.28"
+  7d: "21.30"
+isMineable: false

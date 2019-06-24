@@ -1,0 +1,21 @@
+---
+id: pascal-coin
+rank: 495
+symbol: PASC
+name: Pascal Coin
+marketCap:
+  BTC: "504.080262841"
+  USD: "5490220.47501"
+price:
+  USD: "0.2043792917"
+  BTC: "1.87649234759e-05"
+volume:
+  USD: "113639.191779"
+  BTC: "10.4336927673"
+supply:
+  PASC: "26862900.0"
+change:
+  7d: "-5.02"
+  24h: "-9.18"
+  1h: "0.16"
+isMineable: true

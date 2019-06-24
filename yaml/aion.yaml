@@ -1,0 +1,21 @@
+---
+id: aion
+rank: 131
+symbol: AION
+name: Aion
+marketCap:
+  BTC: "4194.16507266"
+  USD: "45670865.3741"
+price:
+  USD: "0.143419258455"
+  BTC: "1.31708484092e-05"
+volume:
+  USD: "2296318.06696"
+  BTC: "210.881421959"
+supply:
+  AION: "318443045.0"
+change:
+  1h: "0.20"
+  24h: "0.24"
+  7d: "-15.86"
+isMineable: true

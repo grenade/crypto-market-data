@@ -1,0 +1,21 @@
+---
+id: joincoin
+rank: 1665
+symbol: J
+name: Joincoin
+marketCap:
+  USD: "37610.258095"
+  BTC: "3.45315618424"
+price:
+  BTC: "1.04344552436e-06"
+  USD: "0.0113647496335"
+volume:
+  BTC: "0.000159596748427"
+  USD: "1.73825757632"
+supply:
+  J: "3309378.5"
+change:
+  7d: "1.13"
+  1h: "-0.19"
+  24h: "-0.94"
+isMineable: true

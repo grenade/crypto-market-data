@@ -1,0 +1,21 @@
+---
+id: ankr-network
+rank: 231
+symbol: ANKR
+name: Ankr Network
+marketCap:
+  BTC: "1784.30786563"
+  USD: "19429584.412"
+price:
+  USD: "0.00865038960573"
+  BTC: "7.94404959313e-07"
+volume:
+  BTC: "252.548710822"
+  USD: "2750039.15499"
+supply:
+  ANKR: "2246093563.12"
+change:
+  7d: "-11.34"
+  1h: "0.06"
+  24h: "-1.79"
+isMineable: false

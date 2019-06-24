@@ -1,0 +1,21 @@
+---
+id: iocoin
+rank: 623
+symbol: IOC
+name: I/O Coin
+marketCap:
+  BTC: "269.378732323"
+  USD: "2933954.65118"
+price:
+  BTC: "1.53812282137e-05"
+  USD: "0.167525571411"
+volume:
+  USD: "6390.4539747"
+  BTC: "0.586734491612"
+supply:
+  IOC: "17513473.4743"
+change:
+  24h: "-12.40"
+  1h: "0.82"
+  7d: "-23.76"
+isMineable: false

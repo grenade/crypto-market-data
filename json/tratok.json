@@ -1,0 +1,27 @@
+{
+  "id": "tratok",
+  "rank": 1900,
+  "symbol": "TRAT",
+  "name": "Tratok",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "USD": "0.00076658119811",
+    "BTC": "7.03986679503e-08"
+  },
+  "volume": {
+    "BTC": "105.967491059",
+    "USD": "1153895.21736"
+  },
+  "supply": {
+    "TRAT": "0"
+  },
+  "change": {
+    "7d": "4.00",
+    "1h": "-4.45",
+    "24h": "39.78"
+  },
+  "isMineable": false
+}

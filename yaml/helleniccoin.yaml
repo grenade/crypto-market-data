@@ -1,0 +1,21 @@
+---
+id: helleniccoin
+rank: 1456
+symbol: HNC
+name: Helleniccoin
+marketCap:
+  BTC: "17.3763605354"
+  USD: "189255.674988"
+price:
+  USD: "0.00272310746767"
+  BTC: "2.50019964462e-07"
+volume:
+  USD: "274.128082567"
+  BTC: "0.0251688536993"
+supply:
+  HNC: "69499892.0296"
+change:
+  24h: "-14.59"
+  7d: "7.85"
+  1h: "-1.28"
+isMineable: true

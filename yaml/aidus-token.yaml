@@ -1,0 +1,21 @@
+---
+id: aidus-token
+rank: 699
+symbol: AID
+name: AIDUS TOKEN
+marketCap:
+  USD: "2001339.63259"
+  BTC: "183.792199179"
+price:
+  BTC: "1.14870124487e-06"
+  USD: "0.0125083727037"
+volume:
+  USD: "37207.9611913"
+  BTC: "3.41697775979"
+supply:
+  AID: "160000000.0"
+change:
+  1h: "-4.89"
+  7d: "-47.49"
+  24h: "-25.97"
+isMineable: false

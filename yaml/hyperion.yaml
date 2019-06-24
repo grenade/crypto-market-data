@@ -1,0 +1,21 @@
+---
+id: hyperion
+rank: 176
+symbol: HYN
+name: Hyperion
+marketCap:
+  USD: "29558295.0353"
+  BTC: "2714.47382547"
+price:
+  USD: "0.0933127379275"
+  BTC: "8.56933677618e-06"
+volume:
+  BTC: "58.144963828"
+  USD: "633148.855413"
+supply:
+  HYN: "316765917.406"
+change:
+  24h: "-2.32"
+  7d: "14.30"
+  1h: "-0.02"
+isMineable: false

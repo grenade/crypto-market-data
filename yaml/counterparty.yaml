@@ -1,0 +1,21 @@
+---
+id: counterparty
+rank: 456
+symbol: XCP
+name: Counterparty
+marketCap:
+  BTC: "580.547812843"
+  USD: "6323071.39111"
+price:
+  USD: "2.41750417022"
+  BTC: "0.000221961238732"
+volume:
+  BTC: "0.43446166733"
+  USD: "4731.96535832"
+supply:
+  XCP: "2615536.91158"
+change:
+  24h: "-30.74"
+  1h: "-0.35"
+  7d: "7.81"
+isMineable: false

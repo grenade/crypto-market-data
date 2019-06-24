@@ -1,0 +1,21 @@
+---
+id: kuai-token
+rank: 784
+symbol: KT
+name: Kuai Token
+marketCap:
+  BTC: "124.734501338"
+  USD: "1358251.88552"
+price:
+  USD: "0.142780756529"
+  BTC: "1.31122118483e-05"
+volume:
+  BTC: "886.866705595"
+  USD: "9657218.83003"
+supply:
+  KT: "9512849.76027"
+change:
+  24h: "-0.65"
+  1h: "-0.20"
+  7d: "0.92"
+isMineable: false

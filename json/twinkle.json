@@ -1,0 +1,27 @@
+{
+  "id": "twinkle",
+  "rank": 2104,
+  "symbol": "TKT",
+  "name": "Twinkle",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "USD": "0.00468337084048",
+    "BTC": "4.30095428247e-07"
+  },
+  "volume": {
+    "BTC": "0.0289814401035",
+    "USD": "315.583060367"
+  },
+  "supply": {
+    "TKT": "0"
+  },
+  "change": {
+    "7d": "-2.53",
+    "24h": "-1.27",
+    "1h": "0.08"
+  },
+  "isMineable": false
+}

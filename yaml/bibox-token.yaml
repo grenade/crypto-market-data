@@ -1,0 +1,21 @@
+---
+id: bibox-token
+rank: 181
+symbol: BIX
+name: Bibox Token
+marketCap:
+  BTC: "2589.14801502"
+  USD: "28193604.3"
+price:
+  BTC: "2.36604285572e-05"
+  USD: "0.257641802029"
+volume:
+  BTC: "731.823739786"
+  USD: "7968933.72537"
+supply:
+  BIX: "109429464.0"
+change:
+  1h: "-1.33"
+  24h: "-2.67"
+  7d: "-1.91"
+isMineable: false

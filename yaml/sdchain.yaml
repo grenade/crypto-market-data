@@ -1,0 +1,21 @@
+---
+id: sdchain
+rank: 433
+symbol: SDA
+name: SDChain
+marketCap:
+  USD: "7130274.28675"
+  BTC: "654.805796366"
+price:
+  BTC: "4.3653720412e-07"
+  USD: "0.00475351626241"
+volume:
+  BTC: "12.9747124537"
+  USD: "141283.505888"
+supply:
+  SDA: "1499999977.52"
+change:
+  24h: "5.89"
+  7d: "1.00"
+  1h: "-0.08"
+isMineable: false

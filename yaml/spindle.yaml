@@ -1,0 +1,21 @@
+---
+id: spindle
+rank: 465
+symbol: SPD
+name: SPINDLE
+marketCap:
+  BTC: "564.446391895"
+  USD: "6146337.76414"
+price:
+  USD: "0.00194489826085"
+  BTC: "1.786089291e-07"
+volume:
+  USD: "75151.103641"
+  BTC: "6.90147058703"
+supply:
+  SPD: "3160236135.67"
+change:
+  1h: "-0.22"
+  24h: "28.63"
+  7d: "80.44"
+isMineable: false

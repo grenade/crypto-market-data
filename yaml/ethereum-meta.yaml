@@ -1,0 +1,21 @@
+---
+id: ethereum-meta
+rank: 1094
+symbol: ETHM
+name: Ethereum Meta
+marketCap:
+  BTC: "9.79457796344"
+  USD: "106654.565048"
+price:
+  BTC: "1.11501273671e-07"
+  USD: "0.00121415337037"
+volume:
+  BTC: "0.0546676725263"
+  USD: "595.284131408"
+supply:
+  ETHM: "87842745.1182"
+change:
+  7d: "16.15"
+  1h: "-0.24"
+  24h: "-24.51"
+isMineable: false

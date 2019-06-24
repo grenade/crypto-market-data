@@ -1,0 +1,21 @@
+---
+id: cotrader
+rank: 871
+symbol: COT
+name: CoTrader
+marketCap:
+  USD: "862906.068257"
+  BTC: "79.2446226458"
+price:
+  USD: "5.4864124282e-05"
+  BTC: "5.0384242103e-09"
+volume:
+  USD: "72944.4983665"
+  BTC: "6.69882790233"
+supply:
+  COT: "15728056896.0"
+change:
+  1h: "0.12"
+  24h: "3.53"
+  7d: "-16.16"
+isMineable: false

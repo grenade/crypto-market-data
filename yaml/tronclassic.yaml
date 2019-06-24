@@ -1,0 +1,21 @@
+---
+id: tronclassic
+rank: 163
+symbol: TRXC
+name: TRONCLASSIC
+marketCap:
+  BTC: "3201.74589152"
+  USD: "34864270.4901"
+price:
+  BTC: "6.88388392021e-09"
+  USD: "7.49595999022e-05"
+volume:
+  BTC: "0.183075065494"
+  USD: "1993.53066097"
+supply:
+  TRXC: "4.6510747837e+11"
+change:
+  7d: "317.36"
+  1h: "-1.32"
+  24h: "3747.89"
+isMineable: false

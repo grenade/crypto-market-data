@@ -1,0 +1,27 @@
+{
+  "id": "bitcoin-w-spectrum",
+  "rank": 1664,
+  "symbol": "BWS",
+  "name": "Bitcoin W Spectrum",
+  "marketCap": {
+    "BTC": "3.459810729",
+    "USD": "37674.3755399"
+  },
+  "price": {
+    "BTC": "6.00133155694e-08",
+    "USD": "0.000653493605649"
+  },
+  "volume": {
+    "BTC": "0.033068739327",
+    "USD": "360.090248173"
+  },
+  "supply": {
+    "BWS": "57650717.9477"
+  },
+  "change": {
+    "1h": "0.07",
+    "24h": "18.48",
+    "7d": "-3.88"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ors-group",
+  "rank": 2096,
+  "symbol": "ORS",
+  "name": "ORS Group",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "USD": "0.0193100665772",
+    "BTC": "1.7733319946e-06"
+  },
+  "volume": {
+    "USD": "626.05055437",
+    "BTC": "0.0574930942813"
+  },
+  "supply": {
+    "ORS": "0"
+  },
+  "change": {
+    "1h": "-0.05",
+    "7d": "-3.28",
+    "24h": "-0.68"
+  },
+  "isMineable": false
+}

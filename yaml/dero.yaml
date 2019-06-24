@@ -1,0 +1,21 @@
+---
+id: dero
+rank: 466
+symbol: DERO
+name: Dero
+marketCap:
+  USD: "6141438.51101"
+  BTC: "563.996471007"
+price:
+  USD: "0.807207981524"
+  BTC: "7.4129611838e-05"
+volume:
+  USD: "782719.305952"
+  BTC: "71.8807044236"
+supply:
+  DERO: "7608248.0"
+change:
+  24h: "-3.15"
+  7d: "-9.84"
+  1h: "0.37"
+isMineable: true

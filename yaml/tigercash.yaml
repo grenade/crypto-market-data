@@ -1,0 +1,21 @@
+---
+id: tigercash
+rank: 1855
+symbol: TCH
+name: TigerCash
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "3.02520448986e-06"
+  USD: "0.0329418858323"
+volume:
+  USD: "35380224.8861"
+  BTC: "3249.12835053"
+supply:
+  TCH: "0"
+change:
+  7d: "-4.43"
+  1h: "-0.02"
+  24h: "-0.63"
+isMineable: false

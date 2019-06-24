@@ -1,0 +1,21 @@
+---
+id: aidcoin
+rank: 749
+symbol: AID
+name: AidCoin
+marketCap:
+  USD: "1609002.90494"
+  BTC: "147.762117718"
+price:
+  USD: "0.0352483576736"
+  BTC: "3.23701837949e-06"
+volume:
+  BTC: "1.21255814252"
+  USD: "13203.7196261"
+supply:
+  AID: "45647599.2396"
+change:
+  1h: "0.60"
+  7d: "-1.60"
+  24h: "-8.18"
+isMineable: false

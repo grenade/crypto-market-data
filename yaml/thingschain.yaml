@@ -1,0 +1,21 @@
+---
+id: thingschain
+rank: 1135
+symbol: TIC
+name: Thingschain
+marketCap:
+  USD: "40706.693234"
+  BTC: "3.73828237296"
+price:
+  USD: "3.55672286885e-06"
+  BTC: "3.26630176755e-10"
+volume:
+  USD: "18798.0253118"
+  BTC: "1.72630889631"
+supply:
+  TIC: "11445000000.0"
+change:
+  1h: "-0.23"
+  24h: "-2.97"
+  7d: "12.16"
+isMineable: false

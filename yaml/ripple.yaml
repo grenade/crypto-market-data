@@ -1,0 +1,21 @@
+---
+id: ripple
+rank: 3
+symbol: XRP
+name: XRP
+marketCap:
+  USD: "19571840125.5"
+  BTC: "1797371.86037"
+price:
+  USD: "0.459793403398"
+  BTC: "4.22249374383e-05"
+volume:
+  USD: "1809541486.89"
+  BTC: "166178.495627"
+supply:
+  XRP: "42566596173.0"
+change:
+  24h: "-4.03"
+  7d: "4.56"
+  1h: "-0.04"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: etherinc
+rank: 1098
+symbol: ETI
+name: EtherInc
+marketCap:
+  USD: "98726.0308869"
+  BTC: "9.06646430097"
+price:
+  USD: "0.000315853216821"
+  BTC: "2.900624981e-08"
+volume:
+  USD: "1682.45895022"
+  BTC: "0.15450792332"
+supply:
+  ETI: "312569338.0"
+change:
+  7d: "13.93"
+  24h: "32.56"
+  1h: "5.55"
+isMineable: true

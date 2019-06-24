@@ -1,0 +1,27 @@
+{
+  "id": "ela-coin",
+  "rank": 1936,
+  "symbol": "ELAC",
+  "name": "ELA Coin",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "USD": "0.0350348114918",
+    "BTC": "3.21740745402e-06"
+  },
+  "volume": {
+    "USD": "329845.880552",
+    "BTC": "30.2912603088"
+  },
+  "supply": {
+    "ELAC": "0"
+  },
+  "change": {
+    "1h": "-0.06",
+    "7d": "-8.19",
+    "24h": "-8.02"
+  },
+  "isMineable": false
+}

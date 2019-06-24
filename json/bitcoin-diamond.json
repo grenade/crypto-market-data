@@ -1,0 +1,27 @@
+{
+  "id": "bitcoin-diamond",
+  "rank": 38,
+  "symbol": "BCD",
+  "name": "Bitcoin Diamond",
+  "marketCap": {
+    "USD": "243173332.693",
+    "BTC": "22331.722647"
+  },
+  "price": {
+    "USD": "1.30392811395",
+    "BTC": "0.000119745700196"
+  },
+  "volume": {
+    "USD": "7640862.92965",
+    "BTC": "701.69549366"
+  },
+  "supply": {
+    "BCD": "186492897.953"
+  },
+  "change": {
+    "24h": "-2.28",
+    "7d": "-4.52",
+    "1h": "0.46"
+  },
+  "isMineable": true
+}

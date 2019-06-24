@@ -1,0 +1,21 @@
+---
+id: dent
+rank: 50
+symbol: DENT
+name: Dent
+marketCap:
+  USD: "183922557.907"
+  BTC: "16890.4521982"
+price:
+  USD: "0.00254226864274"
+  BTC: "2.33468191579e-07"
+volume:
+  USD: "2730546.44153"
+  BTC: "250.758605525"
+supply:
+  DENT: "72345838994.0"
+change:
+  24h: "-1.37"
+  7d: "36.18"
+  1h: "0.09"
+isMineable: false

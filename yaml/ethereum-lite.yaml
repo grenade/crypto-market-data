@@ -1,0 +1,21 @@
+---
+id: ethereum-lite
+rank: 2150
+symbol: ELITE
+name: Ethereum Lite
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  USD: "0.0927960920021"
+  BTC: "8.52189081085e-06"
+volume:
+  BTC: "0.000279482010606"
+  USD: "3.04331972151"
+supply:
+  ELITE: "0"
+change:
+  1h: "0.07"
+  7d: "10.18"
+  24h: "-3.39"
+isMineable: false

@@ -1,0 +1,27 @@
+{
+  "id": "steem-dollars",
+  "rank": 374,
+  "symbol": "SBD",
+  "name": "Steem Dollars",
+  "marketCap": {
+    "USD": "9245732.99184",
+    "BTC": "848.889682647"
+  },
+  "price": {
+    "BTC": "9.43856097451e-05",
+    "USD": "1.02800654056"
+  },
+  "volume": {
+    "BTC": "7.12645925385",
+    "USD": "77618.2592217"
+  },
+  "supply": {
+    "SBD": "8993846.466"
+  },
+  "change": {
+    "24h": "-0.34",
+    "1h": "0.01",
+    "7d": "0.37"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,21 @@
+---
+id: inmax
+rank: 547
+symbol: INX
+name: INMAX
+marketCap:
+  USD: "4183138.80224"
+  BTC: "384.156825469"
+price:
+  BTC: "0.000112273873072"
+  USD: "1.22256631612"
+volume:
+  BTC: "3.90938345673"
+  USD: "42569.8374896"
+supply:
+  INX: "3421604.82183"
+change:
+  1h: "0.00"
+  24h: "-4.81"
+  7d: "-9.35"
+isMineable: false

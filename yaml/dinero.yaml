@@ -1,0 +1,21 @@
+---
+id: dinero
+rank: 1155
+symbol: DIN
+name: Dinero
+marketCap:
+  BTC: "1.40181605368"
+  USD: "15264.5761809"
+price:
+  USD: "0.00170593402951"
+  BTC: "1.56663747539e-07"
+volume:
+  BTC: "0.265905754867"
+  USD: "2895.48592445"
+supply:
+  DIN: "8947928.76911"
+change:
+  1h: "-6.66"
+  7d: "13.90"
+  24h: "-4.14"
+isMineable: true

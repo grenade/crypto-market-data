@@ -1,0 +1,21 @@
+---
+id: lrm-coin
+rank: 1797
+symbol: LRM
+name: LRM Coin
+marketCap:
+  BTC: "0.742618476411"
+  USD: "8086.47916159"
+price:
+  USD: "0.00103469820894"
+  BTC: "9.50210829848e-08"
+volume:
+  USD: "8.78515801611"
+  BTC: "0.00080678136066"
+supply:
+  LRM: "7815302.17383"
+change:
+  7d: "-39.93"
+  24h: "-21.84"
+  1h: "0.08"
+isMineable: true

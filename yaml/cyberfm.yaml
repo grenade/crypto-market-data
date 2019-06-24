@@ -1,0 +1,21 @@
+---
+id: cyberfm
+rank: 1109
+symbol: CYFM
+name: CyberFM
+marketCap:
+  BTC: "7.46582208456"
+  USD: "81296.4080865"
+price:
+  USD: "1.58782047044e-06"
+  BTC: "1.45816837589e-10"
+volume:
+  BTC: "0.0832545404592"
+  USD: "906.570638784"
+supply:
+  CYFM: "51200000000.0"
+change:
+  24h: "-55.47"
+  7d: "23.94"
+  1h: "-2.14"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: susd
+rank: 607
+symbol: SUSD
+name: sUSD
+marketCap:
+  BTC: "292.761103509"
+  USD: "3187917.66978"
+price:
+  USD: "0.790152612042"
+  BTC: "7.25633390206e-05"
+volume:
+  BTC: "6.67237288478"
+  USD: "72656.4258838"
+supply:
+  SUSD: "4034559.42712"
+change:
+  24h: "-19.58"
+  1h: "-15.72"
+  7d: "-17.07"
+isMineable: false

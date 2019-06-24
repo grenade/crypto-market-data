@@ -1,0 +1,21 @@
+---
+id: happycoin
+rank: 1348
+symbol: HPC
+name: Happycoin
+marketCap:
+  USD: "399561.29135"
+  BTC: "36.685404836"
+price:
+  BTC: "1.83014613986e-06"
+  USD: "0.0199331466634"
+volume:
+  USD: "0.0"
+  BTC: "0.0"
+supply:
+  HPC: "20045068.5533"
+change:
+  24h: "-82.12"
+  7d: "-67.88"
+  1h: "-81.92"
+isMineable: true

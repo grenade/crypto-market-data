@@ -1,0 +1,21 @@
+---
+id: eventchain
+rank: 1039
+symbol: EVC
+name: EventChain
+marketCap:
+  BTC: "19.153929626"
+  USD: "208569.888447"
+price:
+  BTC: "6.12916000216e-07"
+  USD: "0.00667413028493"
+volume:
+  USD: "5969.78950812"
+  BTC: "0.548233155668"
+supply:
+  EVC: "31250497.0"
+change:
+  24h: "-0.10"
+  7d: "-5.94"
+  1h: "1.92"
+isMineable: false

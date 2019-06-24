@@ -1,0 +1,21 @@
+---
+id: paypie
+rank: 223
+symbol: PPP
+name: PayPie
+marketCap:
+  BTC: "1882.6309297"
+  USD: "20500238.3668"
+price:
+  BTC: "2.28197688448e-05"
+  USD: "0.24848773778"
+volume:
+  USD: "10652.0977968"
+  BTC: "0.97823100491"
+supply:
+  PPP: "82500000.0"
+change:
+  24h: "-3.83"
+  7d: "-17.21"
+  1h: "-0.22"
+isMineable: false

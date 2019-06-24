@@ -1,0 +1,27 @@
+{
+  "id": "scriv-network",
+  "rank": 1648,
+  "symbol": "SCRIV",
+  "name": "SCRIV NETWORK",
+  "marketCap": {
+    "USD": "42581.4333407",
+    "BTC": "3.91044835692"
+  },
+  "price": {
+    "USD": "0.0017208539816",
+    "BTC": "1.58033915181e-07"
+  },
+  "volume": {
+    "USD": "217.611044896",
+    "BTC": "0.0199842204971"
+  },
+  "supply": {
+    "SCRIV": "24744361.6925"
+  },
+  "change": {
+    "24h": "21.77",
+    "1h": "9.68",
+    "7d": "-1.47"
+  },
+  "isMineable": true
+}

@@ -1,0 +1,27 @@
+{
+  "id": "comsa-eth",
+  "rank": 2021,
+  "symbol": "CMS",
+  "name": "COMSA [ETH]",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "USD": "0.182094081345",
+    "BTC": "1.67225348077e-05"
+  },
+  "volume": {
+    "USD": "33154.0323968",
+    "BTC": "3.04468688206"
+  },
+  "supply": {
+    "CMS": "0"
+  },
+  "change": {
+    "7d": "1.80",
+    "1h": "-2.07",
+    "24h": "-0.92"
+  },
+  "isMineable": false
+}

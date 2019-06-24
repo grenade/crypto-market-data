@@ -1,0 +1,21 @@
+---
+id: superedge
+rank: 2111
+symbol: ECT
+name: SuperEdge
+marketCap:
+  USD: ""
+  BTC: ""
+price:
+  USD: "7.32678828274e-05"
+  BTC: "6.72852578084e-09"
+volume:
+  BTC: "0.0201389419303"
+  USD: "219.295828786"
+supply:
+  ECT: "0"
+change:
+  1h: "-0.12"
+  24h: "-2.11"
+  7d: "-24.25"
+isMineable: false

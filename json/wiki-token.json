@@ -1,0 +1,27 @@
+{
+  "id": "wiki-token",
+  "rank": 2153,
+  "symbol": "WIKI",
+  "name": "Wiki Token",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "0.000110466213426",
+    "USD": "1.20288245082"
+  },
+  "volume": {
+    "USD": "0.731782366128",
+    "BTC": "6.72029315772e-05"
+  },
+  "supply": {
+    "WIKI": "0"
+  },
+  "change": {
+    "24h": "-2.56",
+    "1h": "-0.09",
+    "7d": "12.38"
+  },
+  "isMineable": false
+}

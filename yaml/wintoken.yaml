@@ -1,0 +1,21 @@
+---
+id: wintoken
+rank: 1876
+symbol: WIN
+name: WinToken
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "8.9448819676e-08"
+  USD: "0.000974021034107"
+volume:
+  USD: "2939953.2237"
+  BTC: "269.989390941"
+supply:
+  WIN: "0"
+change:
+  24h: "1.39"
+  7d: "-4.43"
+  1h: "-0.57"
+isMineable: false

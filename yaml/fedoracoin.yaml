@@ -1,0 +1,21 @@
+---
+id: fedoracoin
+rank: 858
+symbol: TIPS
+name: FedoraCoin
+marketCap:
+  BTC: "83.9053512714"
+  USD: "913860.175592"
+price:
+  USD: "4.30518092487e-06"
+  BTC: "3.95276791172e-10"
+volume:
+  USD: "3817.05590954"
+  BTC: "0.350459977868"
+supply:
+  TIPS: "2.12269865434e+11"
+change:
+  1h: "-0.21"
+  24h: "-4.92"
+  7d: "-1.79"
+isMineable: true

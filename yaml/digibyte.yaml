@@ -1,0 +1,21 @@
+---
+id: digibyte
+rank: 57
+symbol: DGB
+name: DigiByte
+marketCap:
+  USD: "168261078.235"
+  BTC: "15448.7581926"
+price:
+  BTC: "1.29260689078e-06"
+  USD: "0.0140785056291"
+volume:
+  USD: "1233595.82526"
+  BTC: "113.261627774"
+supply:
+  DGB: "11951629147.9"
+change:
+  1h: "1.09"
+  24h: "0.22"
+  7d: "10.10"
+isMineable: true

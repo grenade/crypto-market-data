@@ -1,0 +1,21 @@
+---
+id: mojocoin
+rank: 1712
+symbol: MOJO
+name: MojoCoin
+marketCap:
+  BTC: "2.33278777653"
+  USD: "25407.698255"
+price:
+  BTC: "1.90015172991e-07"
+  USD: "0.00206956167543"
+volume:
+  USD: "303.001362561"
+  BTC: "0.02781983113"
+supply:
+  MOJO: "12276850.0"
+change:
+  7d: "31.05"
+  1h: "-9.50"
+  24h: "0.16"
+isMineable: false

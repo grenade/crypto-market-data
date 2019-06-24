@@ -1,0 +1,21 @@
+---
+id: bitblocks
+rank: 1018
+symbol: BBK
+name: Bitblocks
+marketCap:
+  BTC: "26.3395128371"
+  USD: "286814.735225"
+price:
+  BTC: "2.23715380717e-07"
+  USD: "0.00243606888566"
+volume:
+  USD: "2453.01426766"
+  BTC: "0.225271552879"
+supply:
+  BBK: "117736709.71"
+change:
+  1h: "-1.71"
+  7d: "698.41"
+  24h: "-12.50"
+isMineable: true

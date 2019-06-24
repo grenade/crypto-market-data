@@ -1,0 +1,27 @@
+{
+  "id": "carlive-chain",
+  "rank": 2052,
+  "symbol": "IOV",
+  "name": "Carlive Chain",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "BTC": "4.34276076719e-08",
+    "USD": "0.000472889452165"
+  },
+  "volume": {
+    "USD": "10307.096822",
+    "BTC": "0.946547982775"
+  },
+  "supply": {
+    "IOV": "0"
+  },
+  "change": {
+    "7d": "2.31",
+    "1h": "-2.92",
+    "24h": "-4.78"
+  },
+  "isMineable": false
+}

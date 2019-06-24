@@ -1,0 +1,27 @@
+{
+  "id": "skrumble-network",
+  "rank": 477,
+  "symbol": "SKM",
+  "name": "Skrumble Network",
+  "marketCap": {
+    "BTC": "541.139419776",
+    "USD": "5892544.79998"
+  },
+  "price": {
+    "USD": "0.00585953915653",
+    "BTC": "5.38108360131e-07"
+  },
+  "volume": {
+    "USD": "1829777.64592",
+    "BTC": "168.036874939"
+  },
+  "supply": {
+    "SKM": "1005632805.34"
+  },
+  "change": {
+    "1h": "0.53",
+    "24h": "14.47",
+    "7d": "6.24"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,21 @@
+---
+id: innova
+rank: 1600
+symbol: INN
+name: Innova
+marketCap:
+  USD: "61049.2298644"
+  BTC: "5.60643082876"
+price:
+  BTC: "1.11024633803e-06"
+  USD: "0.0120896317045"
+volume:
+  BTC: "0.00124759355621"
+  USD: "13.5852252737"
+supply:
+  INN: "5049717.92"
+change:
+  7d: "-21.68"
+  1h: "-0.82"
+  24h: "-0.88"
+isMineable: true

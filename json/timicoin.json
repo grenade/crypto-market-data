@@ -1,0 +1,27 @@
+{
+  "id": "timicoin",
+  "rank": 1291,
+  "symbol": "TMC",
+  "name": "Timicoin",
+  "marketCap": {
+    "BTC": "77.9855342151",
+    "USD": "728236.12545"
+  },
+  "price": {
+    "USD": "0.00229619150371",
+    "BTC": "2.45895135958e-07"
+  },
+  "volume": {
+    "USD": "0",
+    "BTC": "0"
+  },
+  "supply": {
+    "TMC": "317149560.162"
+  },
+  "change": {
+    "24h": "0.00",
+    "7d": "-0.03",
+    "1h": "0.00"
+  },
+  "isMineable": false
+}

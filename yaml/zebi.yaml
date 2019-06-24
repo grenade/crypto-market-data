@@ -1,0 +1,21 @@
+---
+id: zebi
+rank: 498
+symbol: ZCO
+name: Zebi
+marketCap:
+  USD: "5464327.22888"
+  BTC: "501.814235864"
+price:
+  USD: "0.0087429235662"
+  BTC: "8.02902777383e-07"
+volume:
+  BTC: "113.878857925"
+  USD: "1240043.22652"
+supply:
+  ZCO: "625000000.0"
+change:
+  7d: "-0.89"
+  24h: "0.40"
+  1h: "0.79"
+isMineable: false

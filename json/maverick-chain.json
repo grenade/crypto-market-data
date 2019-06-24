@@ -1,0 +1,27 @@
+{
+  "id": "maverick-chain",
+  "rank": 853,
+  "symbol": "MVC",
+  "name": "Maverick Chain",
+  "marketCap": {
+    "USD": "932869.00415",
+    "BTC": "85.6696399889"
+  },
+  "price": {
+    "BTC": "8.01128291018e-07",
+    "USD": "0.00872360092952"
+  },
+  "volume": {
+    "BTC": "21.5954505308",
+    "USD": "235155.959958"
+  },
+  "supply": {
+    "MVC": "106936231.0"
+  },
+  "change": {
+    "7d": "19.76",
+    "24h": "-5.08",
+    "1h": "5.11"
+  },
+  "isMineable": false
+}

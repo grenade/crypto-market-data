@@ -1,0 +1,27 @@
+{
+  "id": "rocket-pool",
+  "rank": 2070,
+  "symbol": "RPL",
+  "name": "Rocket Pool",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "USD": "0.722646641657",
+    "BTC": "6.63639560908e-05"
+  },
+  "volume": {
+    "USD": "3801.49602153",
+    "BTC": "0.34910881821"
+  },
+  "supply": {
+    "RPL": "0"
+  },
+  "change": {
+    "24h": "68.47",
+    "7d": "38.86",
+    "1h": "24.79"
+  },
+  "isMineable": false
+}

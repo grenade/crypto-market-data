@@ -1,0 +1,27 @@
+{
+  "id": "flexacoin",
+  "rank": 2001,
+  "symbol": "FXC",
+  "name": "Flexacoin",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "BTC": "4.21109349335e-07",
+    "USD": "0.00458552013763"
+  },
+  "volume": {
+    "USD": "57744.0050549",
+    "BTC": "5.30289687251"
+  },
+  "supply": {
+    "FXC": "0"
+  },
+  "change": {
+    "7d": "-2.72",
+    "24h": "-7.36",
+    "1h": "-0.50"
+  },
+  "isMineable": false
+}

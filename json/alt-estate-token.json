@@ -1,0 +1,27 @@
+{
+  "id": "alt-estate-token",
+  "rank": 1005,
+  "symbol": "ALT",
+  "name": "Alt.Estate token",
+  "marketCap": {
+    "USD": "317864.566387",
+    "BTC": "29.1909612673"
+  },
+  "price": {
+    "USD": "0.000438929871794",
+    "BTC": "4.03089436241e-08"
+  },
+  "volume": {
+    "USD": "2717.28340782",
+    "BTC": "0.249540600299"
+  },
+  "supply": {
+    "ALT": "724180756.0"
+  },
+  "change": {
+    "1h": "6.54",
+    "7d": "54.40",
+    "24h": "4.00"
+  },
+  "isMineable": false
+}

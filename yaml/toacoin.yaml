@@ -1,0 +1,21 @@
+---
+id: toacoin
+rank: 1408
+symbol: TOA
+name: ToaCoin
+marketCap:
+  BTC: "23.7019674188"
+  USD: "258094.124654"
+price:
+  USD: "7.08233823746e-05"
+  BTC: "6.50403609063e-09"
+volume:
+  BTC: "0.000748749983767"
+  USD: "8.15324602514"
+supply:
+  TOA: "3644193711.19"
+change:
+  24h: "7.13"
+  1h: "-0.12"
+  7d: "-8.45"
+isMineable: true

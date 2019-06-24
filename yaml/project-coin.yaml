@@ -1,0 +1,21 @@
+---
+id: project-coin
+rank: 1737
+symbol: PRJ
+name: Project Coin
+marketCap:
+  BTC: "1.72897298074"
+  USD: "18827.0349095"
+price:
+  BTC: "5.07495523617e-08"
+  USD: "0.000552619158653"
+volume:
+  USD: "14.2910434109"
+  BTC: "0.00131241207354"
+supply:
+  PRJ: "34068733.62"
+change:
+  7d: "-26.31"
+  1h: "21.48"
+  24h: "-16.50"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: qwertycoin
+rank: 1352
+symbol: QWC
+name: Qwertycoin
+marketCap:
+  BTC: "36.0570317952"
+  USD: "392630.193705"
+price:
+  BTC: "4.00088770462e-10"
+  USD: "4.35662403766e-06"
+volume:
+  USD: "239.874515234"
+  BTC: "0.0220287771071"
+supply:
+  QWC: "90122578930.7"
+change:
+  1h: "0.08"
+  7d: "54.53"
+  24h: "-18.24"
+isMineable: false

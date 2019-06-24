@@ -1,0 +1,21 @@
+---
+id: blockstamp
+rank: 1937
+symbol: BST
+name: BlockStamp
+marketCap:
+  USD: ""
+  BTC: ""
+price:
+  USD: "1.09100464"
+  BTC: "0.000100191960842"
+volume:
+  USD: "310369.052886"
+  BTC: "28.5026138784"
+supply:
+  BST: "0"
+change:
+  7d: "-3.39"
+  24h: "-4.48"
+  1h: "0.03"
+isMineable: true

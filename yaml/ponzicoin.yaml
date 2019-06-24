@@ -1,0 +1,21 @@
+---
+id: ponzicoin
+rank: 1833
+symbol: PONZI
+name: PonziCoin
+marketCap:
+  USD: "2157.27591243"
+  BTC: "0.198068586482"
+price:
+  BTC: "2.30018367305e-07"
+  USD: "0.00250525887026"
+volume:
+  USD: "17.6475881036"
+  BTC: "0.00162029938329"
+supply:
+  PONZI: "861099.0018"
+change:
+  7d: "-2.56"
+  24h: "26.09"
+  1h: "0.03"
+isMineable: true

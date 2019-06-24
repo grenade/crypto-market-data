@@ -1,0 +1,21 @@
+---
+id: amo-coin
+rank: 424
+symbol: AMO
+name: AMO Coin
+marketCap:
+  BTC: "685.040965113"
+  USD: "7459509.37824"
+price:
+  USD: "0.000831397776522"
+  BTC: "7.63510716781e-08"
+volume:
+  USD: "1380215.76456"
+  BTC: "126.751545105"
+supply:
+  AMO: "8972250815.31"
+change:
+  24h: "24.14"
+  7d: "37.12"
+  1h: "0.61"
+isMineable: false

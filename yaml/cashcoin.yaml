@@ -1,0 +1,21 @@
+---
+id: cashcoin
+rank: 1744
+symbol: CASH
+name: Cashcoin
+marketCap:
+  USD: "17468.6618524"
+  BTC: "1.60387141066"
+price:
+  USD: "0.00032677289612"
+  BTC: "3.00023957354e-08"
+volume:
+  BTC: "0.00150464595219"
+  USD: "16.3879418087"
+supply:
+  CASH: "53458111.3056"
+change:
+  7d: "6.90"
+  24h: "-1.31"
+  1h: "0.01"
+isMineable: true

@@ -1,0 +1,21 @@
+---
+id: celsius
+rank: 1988
+symbol: CEL
+name: Celsius
+marketCap:
+  USD: ""
+  BTC: ""
+price:
+  USD: "0.0675245435238"
+  BTC: "6.20108858625e-06"
+volume:
+  USD: "88630.364461"
+  BTC: "8.13933294136"
+supply:
+  CEL: "0"
+change:
+  7d: "-27.87"
+  24h: "-12.10"
+  1h: "-2.23"
+isMineable: false

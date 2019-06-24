@@ -1,0 +1,27 @@
+{
+  "id": "digifinextoken",
+  "rank": 1856,
+  "symbol": "DFT",
+  "name": "DigiFinexToken",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "USD": "0.330652472569",
+    "BTC": "3.03653333538e-05"
+  },
+  "volume": {
+    "BTC": "2992.60486737",
+    "USD": "32586903.8646"
+  },
+  "supply": {
+    "DFT": "0"
+  },
+  "change": {
+    "24h": "-1.84",
+    "7d": "1.64",
+    "1h": "-0.18"
+  },
+  "isMineable": false
+}

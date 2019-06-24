@@ -1,0 +1,21 @@
+---
+id: esdchain
+rank: 900
+symbol: SDA
+name: eSDChain
+marketCap:
+  BTC: "66.5616037071"
+  USD: "724798.854915"
+price:
+  USD: "0.00664244086323"
+  BTC: "6.10005815252e-07"
+volume:
+  BTC: "1.29916503041"
+  USD: "14146.7944572"
+supply:
+  SDA: "109116342.898"
+change:
+  24h: "-15.97"
+  7d: "80.67"
+  1h: "-12.69"
+isMineable: false

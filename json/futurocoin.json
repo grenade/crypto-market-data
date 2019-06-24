@@ -1,0 +1,27 @@
+{
+  "id": "futurocoin",
+  "rank": 1912,
+  "symbol": "FTO",
+  "name": "FuturoCoin",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "BTC": "0.00011139535378",
+    "USD": "1.21299999348"
+  },
+  "volume": {
+    "USD": "657729.406066",
+    "BTC": "60.4023085526"
+  },
+  "supply": {
+    "FTO": "0"
+  },
+  "change": {
+    "24h": "1.86",
+    "1h": "-0.99",
+    "7d": "-7.05"
+  },
+  "isMineable": true
+}

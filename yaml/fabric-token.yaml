@@ -1,0 +1,21 @@
+---
+id: fabric-token
+rank: 1461
+symbol: FT
+name: Fabric Token
+marketCap:
+  USD: "185302.830878"
+  BTC: "17.0172089967"
+price:
+  USD: "0.00753459105891"
+  BTC: "6.91936060271e-07"
+volume:
+  USD: "313.684534678"
+  BTC: "0.0288070897805"
+supply:
+  FT: "24593614.8928"
+change:
+  24h: "-4.93"
+  1h: "-0.23"
+  7d: "21.37"
+isMineable: false

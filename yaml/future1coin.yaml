@@ -1,0 +1,21 @@
+---
+id: future1coin
+rank: 2068
+symbol: F1C
+name: Future1coin
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  USD: "0.000834530164776"
+  BTC: "7.66387332606e-08"
+volume:
+  BTC: "0.439947820067"
+  USD: "4790.65494891"
+supply:
+  F1C: "0"
+change:
+  7d: "-27.73"
+  1h: "-4.94"
+  24h: "-8.17"
+isMineable: false

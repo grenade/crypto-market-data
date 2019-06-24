@@ -1,0 +1,21 @@
+---
+id: usd-coin
+rank: 32
+symbol: USDC
+name: USD Coin
+marketCap:
+  BTC: "31715.8430618"
+  USD: "345358366.59"
+price:
+  BTC: "9.19124138253e-05"
+  USD: "1.00084746435"
+volume:
+  USD: "143664583.251"
+  BTC: "13193.3777106"
+supply:
+  USDC: "345065935.512"
+change:
+  7d: "0.02"
+  24h: "-0.12"
+  1h: "-0.06"
+isMineable: false

@@ -1,0 +1,27 @@
+{
+  "id": "hydro-protocol",
+  "rank": 492,
+  "symbol": "HOT",
+  "name": "Hydro Protocol",
+  "marketCap": {
+    "USD": "5552201.21093",
+    "BTC": "509.884106739"
+  },
+  "price": {
+    "USD": "0.00790911853409",
+    "BTC": "7.26330636381e-07"
+  },
+  "volume": {
+    "BTC": "12.0713944292",
+    "USD": "131447.146286"
+  },
+  "supply": {
+    "HOT": "702000000.0"
+  },
+  "change": {
+    "1h": "-0.88",
+    "24h": "0.91",
+    "7d": "11.86"
+  },
+  "isMineable": false
+}

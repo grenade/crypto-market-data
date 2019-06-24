@@ -1,0 +1,21 @@
+---
+id: vericoin
+rank: 559
+symbol: VRC
+name: VeriCoin
+marketCap:
+  USD: "3924087.726"
+  BTC: "360.287019682"
+price:
+  USD: "0.123252406769"
+  BTC: "1.13163225198e-05"
+volume:
+  USD: "100039.704433"
+  BTC: "9.18506656242"
+supply:
+  VRC: "31837818.2534"
+change:
+  24h: "-3.08"
+  7d: "2.29"
+  1h: "-0.21"
+isMineable: true

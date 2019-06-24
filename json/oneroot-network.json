@@ -1,0 +1,27 @@
+{
+  "id": "oneroot-network",
+  "rank": 249,
+  "symbol": "RNT",
+  "name": "OneRoot Network",
+  "marketCap": {
+    "BTC": "1576.63791918",
+    "USD": "17168236.5627"
+  },
+  "price": {
+    "USD": "0.0604358288319",
+    "BTC": "5.55009939812e-06"
+  },
+  "volume": {
+    "USD": "3753903.82673",
+    "BTC": "344.738208642"
+  },
+  "supply": {
+    "RNT": "284073816.716"
+  },
+  "change": {
+    "24h": "3.14",
+    "7d": "13.31",
+    "1h": "-0.22"
+  },
+  "isMineable": false
+}

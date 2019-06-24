@@ -1,0 +1,21 @@
+---
+id: viacoin
+rank: 337
+symbol: VIA
+name: Viacoin
+marketCap:
+  BTC: "996.662965764"
+  USD: "10855214.5852"
+price:
+  BTC: "4.30595520078e-05"
+  USD: "0.46898569832"
+volume:
+  BTC: "40.9817866627"
+  USD: "446355.592202"
+supply:
+  VIA: "23146152.6953"
+change:
+  1h: "-0.17"
+  7d: "-16.61"
+  24h: "-0.11"
+isMineable: true

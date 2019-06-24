@@ -1,0 +1,27 @@
+{
+  "id": "social-lending-token",
+  "rank": 2023,
+  "symbol": "SLT",
+  "name": "Social Lending Token",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "USD": "0.00421322100917",
+    "BTC": "3.86919412526e-07"
+  },
+  "volume": {
+    "USD": "30673.071733",
+    "BTC": "2.81684888342"
+  },
+  "supply": {
+    "SLT": "0"
+  },
+  "change": {
+    "1h": "0.34",
+    "7d": "13.35",
+    "24h": "-1.51"
+  },
+  "isMineable": false
+}

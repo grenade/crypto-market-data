@@ -1,0 +1,27 @@
+{
+  "id": "datarius-credit",
+  "rank": 1567,
+  "symbol": "DTRC",
+  "name": "Datarius Credit",
+  "marketCap": {
+    "BTC": "7.60274973601",
+    "USD": "82787.4329339"
+  },
+  "price": {
+    "USD": "0.000648011735186",
+    "BTC": "5.95098902578e-08"
+  },
+  "volume": {
+    "USD": "29.2149610691",
+    "BTC": "0.00268294389238"
+  },
+  "supply": {
+    "DTRC": "127756070.513"
+  },
+  "change": {
+    "1h": "-0.23",
+    "7d": "-36.62",
+    "24h": "-4.98"
+  },
+  "isMineable": false
+}

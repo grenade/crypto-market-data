@@ -1,0 +1,21 @@
+---
+id: bitcoiin
+rank: 279
+symbol: B2G
+name: Bitcoiin
+marketCap:
+  BTC: "1331.01354042"
+  USD: "14493597.4532"
+price:
+  USD: "0.279280895348"
+  BTC: "2.56476457614e-05"
+volume:
+  USD: "231505.710274"
+  BTC: "21.2602313575"
+supply:
+  B2G: "51896129.29"
+change:
+  1h: "-0.22"
+  7d: "-20.66"
+  24h: "-2.45"
+isMineable: true

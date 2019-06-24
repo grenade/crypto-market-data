@@ -1,0 +1,21 @@
+---
+id: aragon
+rank: 254
+symbol: ANT
+name: Aragon
+marketCap:
+  BTC: "1542.89819999"
+  USD: "16804568.4643"
+price:
+  USD: "0.547262369122"
+  BTC: "5.02464628017e-05"
+volume:
+  BTC: "3.20473410828"
+  USD: "34904.5541261"
+supply:
+  ANT: "30706603.2902"
+change:
+  24h: "-6.47"
+  7d: "-13.88"
+  1h: "-0.54"
+isMineable: false

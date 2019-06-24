@@ -1,0 +1,27 @@
+{
+  "id": "electronic-energy-coin",
+  "rank": 1987,
+  "symbol": "E2C",
+  "name": "Electronic Energy Coin",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "BTC": "6.84853234998e-06",
+    "USD": "0.0745746515808"
+  },
+  "volume": {
+    "USD": "91149.3402777",
+    "BTC": "8.37066204587"
+  },
+  "supply": {
+    "E2C": "0"
+  },
+  "change": {
+    "1h": "-2.29",
+    "7d": "-31.01",
+    "24h": "-14.31"
+  },
+  "isMineable": false
+}

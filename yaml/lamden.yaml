@@ -1,0 +1,21 @@
+---
+id: lamden
+rank: 616
+symbol: TAU
+name: Lamden
+marketCap:
+  USD: "3068067.87078"
+  BTC: "281.754746681"
+price:
+  USD: "0.0215733372801"
+  BTC: "1.98117852552e-06"
+volume:
+  BTC: "0.637360510337"
+  USD: "6940.31006363"
+supply:
+  TAU: "142215728.19"
+change:
+  1h: "1.63"
+  24h: "3.50"
+  7d: "-8.16"
+isMineable: false

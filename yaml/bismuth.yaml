@@ -1,0 +1,20 @@
+---
+id: bismuth
+rank: 1217
+symbol: BIS
+name: Bismuth
+marketCap:
+  USD: "2430498.54635"
+  BTC: "223.154307128"
+price:
+  USD: "0.159012859096"
+  BTC: "1.45996402464e-05"
+volume:
+  BTC: "0.0250339419602"
+  USD: "272.658683253"
+supply:
+  BIS: "15284918.2146"
+change:
+  1h: "0.04"
+  24h: "-11.37"
+isMineable: true

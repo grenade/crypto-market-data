@@ -1,0 +1,27 @@
+{
+  "id": "mytoken",
+  "rank": 1922,
+  "symbol": "MT",
+  "name": "MyToken",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "USD": "0.00315899262345",
+    "BTC": "2.90104783817e-07"
+  },
+  "volume": {
+    "BTC": "46.3274058513",
+    "USD": "504465.770686"
+  },
+  "supply": {
+    "MT": "0"
+  },
+  "change": {
+    "1h": "0.90",
+    "24h": "-8.80",
+    "7d": "-2.38"
+  },
+  "isMineable": false
+}

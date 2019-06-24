@@ -1,0 +1,21 @@
+---
+id: dimecoin
+rank: 734
+symbol: DIME
+name: Dimecoin
+marketCap:
+  BTC: "161.787260523"
+  USD: "1762115.67045"
+price:
+  USD: "3.2686446381e-06"
+  BTC: "3.00108029507e-10"
+volume:
+  BTC: "0.252786352036"
+  USD: "2753.23774418"
+supply:
+  DIME: "5.3909674056e+11"
+change:
+  7d: "-23.35"
+  1h: "2.48"
+  24h: "20.41"
+isMineable: true

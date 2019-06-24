@@ -1,0 +1,27 @@
+{
+  "id": "legolas-exchange",
+  "rank": 297,
+  "symbol": "LGO",
+  "name": "LGO Exchange",
+  "marketCap": {
+    "BTC": "1227.23070767",
+    "USD": "13363491.2938"
+  },
+  "price": {
+    "USD": "0.102275566853",
+    "BTC": "9.39243447146e-06"
+  },
+  "volume": {
+    "USD": "5047.95728256",
+    "BTC": "0.463577073685"
+  },
+  "supply": {
+    "LGO": "130661620.414"
+  },
+  "change": {
+    "7d": "15.49",
+    "1h": "6.31",
+    "24h": "4.40"
+  },
+  "isMineable": false
+}

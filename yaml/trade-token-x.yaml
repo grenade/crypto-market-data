@@ -1,0 +1,21 @@
+---
+id: trade-token-x
+rank: 437
+symbol: TIOX
+name: Trade Token X
+marketCap:
+  BTC: "642.204262348"
+  USD: "6993054.3744"
+price:
+  BTC: "7.5038247542e-06"
+  USD: "0.0817102246102"
+volume:
+  BTC: "0.215703780905"
+  USD: "2348.82942558"
+supply:
+  TIOX: "85583590.1536"
+change:
+  24h: "3.76"
+  7d: "-7.05"
+  1h: "0.30"
+isMineable: false

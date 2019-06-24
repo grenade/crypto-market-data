@@ -1,0 +1,21 @@
+---
+id: bitcoal
+rank: 1840
+symbol: COAL
+name: BitCoal
+marketCap:
+  USD: "1438.79343817"
+  BTC: "0.135055070591"
+price:
+  USD: "0.000319731875149"
+  BTC: "3.00122379091e-08"
+volume:
+  BTC: "0.0"
+  USD: "0.0"
+supply:
+  COAL: "4500000.0"
+change:
+  7d: "17.44"
+  1h: "0.00"
+  24h: "0.00"
+isMineable: true

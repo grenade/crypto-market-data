@@ -1,0 +1,21 @@
+---
+id: next-exchange
+rank: 638
+symbol: NEXT
+name: Next.exchange
+marketCap:
+  BTC: "252.63640104"
+  USD: "2750994.02636"
+price:
+  USD: "0.767859300634"
+  BTC: "7.05160419682e-05"
+volume:
+  USD: "259663.207554"
+  BTC: "23.8460634993"
+supply:
+  NEXT: "3582679.82701"
+change:
+  7d: "18.17"
+  1h: "-1.97"
+  24h: "10.01"
+isMineable: false

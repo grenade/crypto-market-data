@@ -1,0 +1,21 @@
+---
+id: adtoken
+rank: 480
+symbol: ADT
+name: adToken
+marketCap:
+  BTC: "540.198239348"
+  USD: "5883601.5866"
+price:
+  BTC: "6.8035042739e-07"
+  USD: "0.00741007756499"
+volume:
+  USD: "131250.301184"
+  BTC: "12.0506428877"
+supply:
+  ADT: "794000000.0"
+change:
+  7d: "-3.86"
+  1h: "-0.08"
+  24h: "-1.12"
+isMineable: false

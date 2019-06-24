@@ -1,0 +1,27 @@
+{
+  "id": "quantis-network",
+  "rank": 1148,
+  "symbol": "QUAN",
+  "name": "Quantis Network",
+  "marketCap": {
+    "USD": "22327.8261839",
+    "BTC": "2.05046670262"
+  },
+  "price": {
+    "BTC": "3.70082112678e-07",
+    "USD": "0.00402987723483"
+  },
+  "volume": {
+    "USD": "4883.51327745",
+    "BTC": "0.448475426344"
+  },
+  "supply": {
+    "QUAN": "5540572.30105"
+  },
+  "change": {
+    "1h": "-2.56",
+    "24h": "-3.82",
+    "7d": "131.66"
+  },
+  "isMineable": true
+}

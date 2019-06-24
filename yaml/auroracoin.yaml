@@ -1,0 +1,21 @@
+---
+id: auroracoin
+rank: 916
+symbol: AUR
+name: Auroracoin
+marketCap:
+  USD: "672488.316913"
+  BTC: "61.7439844339"
+price:
+  BTC: "3.5117664496e-06"
+  USD: "0.0382486153224"
+volume:
+  BTC: "0.0602112857433"
+  USD: "655.794837019"
+supply:
+  AUR: "17582030.3884"
+change:
+  24h: "-7.37"
+  1h: "0.21"
+  7d: "17.75"
+isMineable: true

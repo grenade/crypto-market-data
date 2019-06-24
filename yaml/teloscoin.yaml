@@ -1,0 +1,21 @@
+---
+id: teloscoin
+rank: 1034
+symbol: TELOS
+name: Teloscoin
+marketCap:
+  USD: "227243.752674"
+  BTC: "20.8688362404"
+price:
+  USD: "0.00249965233252"
+  BTC: "2.29554540318e-07"
+volume:
+  BTC: "0.524892442119"
+  USD: "5715.62912869"
+supply:
+  TELOS: "90910143.6698"
+change:
+  7d: "-10.57"
+  24h: "12.72"
+  1h: "-0.21"
+isMineable: true

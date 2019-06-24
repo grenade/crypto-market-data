@@ -1,0 +1,21 @@
+---
+id: nem
+rank: 20
+symbol: XEM
+name: NEM
+marketCap:
+  BTC: "74786.3561732"
+  USD: "814359364.839"
+price:
+  USD: "0.0904843738811"
+  BTC: "8.30959513128e-06"
+volume:
+  BTC: "3041.61577097"
+  USD: "33120590.6274"
+supply:
+  XEM: "8999999999.0"
+change:
+  1h: "0.61"
+  24h: "-1.98"
+  7d: "0.06"
+isMineable: false

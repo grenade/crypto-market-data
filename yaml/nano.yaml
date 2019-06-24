@@ -1,0 +1,21 @@
+---
+id: nano
+rank: 46
+symbol: NANO
+name: Nano
+marketCap:
+  BTC: "17907.5743509"
+  USD: "194998146.993"
+price:
+  USD: "1.46341942895"
+  BTC: "0.000134392519286"
+volume:
+  USD: "5237668.26232"
+  BTC: "480.999103216"
+supply:
+  NANO: "133248297.197"
+change:
+  1h: "0.07"
+  24h: "-3.24"
+  7d: "-6.42"
+isMineable: false

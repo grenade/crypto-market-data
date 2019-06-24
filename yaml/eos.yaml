@@ -1,0 +1,21 @@
+---
+id: eos
+rank: 6
+symbol: EOS
+name: EOS
+marketCap:
+  BTC: "601877.800067"
+  USD: "6553933739.44"
+price:
+  USD: "7.12008487235"
+  BTC: "0.0006538700557"
+volume:
+  USD: "2358106331.21"
+  BTC: "216555.721705"
+supply:
+  EOS: "920485339.281"
+change:
+  7d: "0.28"
+  24h: "-4.03"
+  1h: "0.00"
+isMineable: false

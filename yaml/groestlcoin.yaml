@@ -1,0 +1,21 @@
+---
+id: groestlcoin
+rank: 170
+symbol: GRS
+name: Groestlcoin
+marketCap:
+  BTC: "2850.26681598"
+  USD: "31043852.3106"
+price:
+  USD: "0.42630615289"
+  BTC: "3.9140963205e-05"
+volume:
+  USD: "1180245.49076"
+  BTC: "108.363308889"
+supply:
+  GRS: "72820558.8874"
+change:
+  1h: "0.12"
+  7d: "-1.47"
+  24h: "0.79"
+isMineable: true

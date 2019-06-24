@@ -1,0 +1,21 @@
+---
+id: clipper-coin
+rank: 105
+symbol: CCCX
+name: Clipper Coin
+marketCap:
+  BTC: "5881.36709558"
+  USD: "64043050.3292"
+price:
+  USD: "0.016962480745"
+  BTC: "1.55774241858e-06"
+volume:
+  BTC: "5.90760798959"
+  USD: "64328.7911899"
+supply:
+  CCCX: "3775570996.48"
+change:
+  1h: "-0.45"
+  24h: "0.73"
+  7d: "6.07"
+isMineable: false

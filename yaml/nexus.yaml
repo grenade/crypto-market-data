@@ -1,0 +1,21 @@
+---
+id: nexus
+rank: 204
+symbol: NXS
+name: Nexus
+marketCap:
+  USD: "23092062.5591"
+  BTC: "2120.17951143"
+price:
+  BTC: "3.34366687999e-05"
+  USD: "0.364177487582"
+volume:
+  USD: "297999.715574"
+  BTC: "27.3606088566"
+supply:
+  NXS: "63408813.9616"
+change:
+  24h: "-3.64"
+  1h: "0.21"
+  7d: "3.84"
+isMineable: true

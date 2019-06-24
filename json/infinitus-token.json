@@ -1,0 +1,27 @@
+{
+  "id": "infinitus-token",
+  "rank": 1017,
+  "symbol": "INF",
+  "name": "Infinitus Token",
+  "marketCap": {
+    "USD": "290486.84049",
+    "BTC": "26.6767391087"
+  },
+  "price": {
+    "USD": "0.447933611305",
+    "BTC": "4.11357983261e-05"
+  },
+  "volume": {
+    "USD": "389893.858176",
+    "BTC": "35.8057415512"
+  },
+  "supply": {
+    "INF": "648504.227321"
+  },
+  "change": {
+    "24h": "2.26",
+    "1h": "0.56",
+    "7d": "-18.50"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": "coin2play",
+  "rank": 2226,
+  "symbol": "C2P",
+  "name": "Coin2Play",
+  "marketCap": {
+    "USD": "",
+    "BTC": ""
+  },
+  "price": {
+    "USD": "0.00111268912973",
+    "BTC": "1.19328240909e-07"
+  },
+  "volume": {
+    "BTC": "0",
+    "USD": "0"
+  },
+  "supply": {
+    "C2P": "0"
+  },
+  "change": {
+    "1h": "0.00",
+    "7d": "0.38",
+    "24h": "0.00"
+  },
+  "isMineable": true
+}

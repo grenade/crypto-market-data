@@ -1,0 +1,21 @@
+---
+id: achain
+rank: 226
+symbol: ACT
+name: Achain
+marketCap:
+  BTC: "1808.97312009"
+  USD: "19698167.9075"
+price:
+  USD: "0.0214105464437"
+  BTC: "1.96622869624e-06"
+volume:
+  USD: "2493551.4496"
+  BTC: "228.994268252"
+supply:
+  ACT: "920021726.641"
+change:
+  1h: "0.81"
+  24h: "5.40"
+  7d: "11.09"
+isMineable: false

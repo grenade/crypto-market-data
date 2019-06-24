@@ -1,0 +1,21 @@
+---
+id: ethlend
+rank: 355
+symbol: LEND
+name: ETHLend
+marketCap:
+  USD: "9836088.13702"
+  BTC: "903.29309458"
+price:
+  USD: "0.00871717062364"
+  BTC: "8.00537766531e-07"
+volume:
+  USD: "474110.119842"
+  BTC: "43.5397071842"
+supply:
+  LEND: "1128357876.85"
+change:
+  1h: "1.00"
+  7d: "-19.62"
+  24h: "1.17"
+isMineable: false

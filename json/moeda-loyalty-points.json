@@ -1,0 +1,27 @@
+{
+  "id": "moeda-loyalty-points",
+  "rank": 236,
+  "symbol": "MDA",
+  "name": "Moeda Loyalty Points",
+  "marketCap": {
+    "BTC": "1711.42483816",
+    "USD": "18640086.4714"
+  },
+  "price": {
+    "USD": "0.949625188721",
+    "BTC": "8.71890877443e-05"
+  },
+  "volume": {
+    "BTC": "46.0585728727",
+    "USD": "501649.714293"
+  },
+  "supply": {
+    "MDA": "19628888.0"
+  },
+  "change": {
+    "7d": "-4.48",
+    "24h": "0.20",
+    "1h": "0.31"
+  },
+  "isMineable": false
+}

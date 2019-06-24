@@ -1,0 +1,21 @@
+---
+id: irishcoin
+rank: 1541
+symbol: IRL
+name: IrishCoin
+marketCap:
+  USD: "106978.228157"
+  BTC: "9.82212164582"
+price:
+  USD: "0.00272310746767"
+  BTC: "2.50019964462e-07"
+volume:
+  BTC: "0.00100007985785"
+  USD: "10.8924298707"
+supply:
+  IRL: "39285349.3398"
+change:
+  1h: "0.03"
+  24h: "3.77"
+  7d: "286.40"
+isMineable: true

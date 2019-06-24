@@ -1,0 +1,27 @@
+{
+  "id": "decentraland",
+  "rank": 115,
+  "symbol": "MANA",
+  "name": "Decentraland",
+  "marketCap": {
+    "BTC": "5250.31716009",
+    "USD": "57171457.0207"
+  },
+  "price": {
+    "USD": "0.0544416695346",
+    "BTC": "4.99962825292e-06"
+  },
+  "volume": {
+    "BTC": "1022.37050594",
+    "USD": "11132739.1579"
+  },
+  "supply": {
+    "MANA": "1050141509.43"
+  },
+  "change": {
+    "7d": "-6.00",
+    "24h": "0.29",
+    "1h": "0.14"
+  },
+  "isMineable": false
+}

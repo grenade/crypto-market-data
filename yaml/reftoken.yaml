@@ -1,0 +1,21 @@
+---
+id: reftoken
+rank: 1344
+symbol: REF
+name: RefToken
+marketCap:
+  BTC: "37.9754194535"
+  USD: "413519.79222"
+price:
+  BTC: "3.77864870399e-05"
+  USD: "0.411462480055"
+volume:
+  USD: "0.063624443291"
+  BTC: "5.84292449098e-06"
+supply:
+  REF: "1004999.99943"
+change:
+  24h: "-2.30"
+  7d: "51.20"
+  1h: "-0.23"
+isMineable: false

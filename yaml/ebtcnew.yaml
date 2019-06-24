@@ -1,0 +1,21 @@
+---
+id: ebtcnew
+rank: 1318
+symbol: EBTC
+name: eBitcoin
+marketCap:
+  USD: "540814.654087"
+  BTC: "49.6654905568"
+price:
+  BTC: "2.62820338695e-06"
+  USD: "0.0286188838497"
+volume:
+  USD: "489.256270271"
+  BTC: "0.0449306476578"
+supply:
+  EBTC: "18897126.0"
+change:
+  7d: "15.38"
+  24h: "-5.69"
+  1h: "-1.42"
+isMineable: false

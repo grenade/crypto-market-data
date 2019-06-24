@@ -1,0 +1,27 @@
+{
+  "id": "hitchain",
+  "rank": 1911,
+  "symbol": "HIT",
+  "name": "HitChain",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "1.24455378216e-08",
+    "USD": "0.000135521247379"
+  },
+  "volume": {
+    "USD": "657971.684805",
+    "BTC": "60.4245581205"
+  },
+  "supply": {
+    "HIT": "0"
+  },
+  "change": {
+    "1h": "-0.30",
+    "7d": "3.60",
+    "24h": "5.20"
+  },
+  "isMineable": false
+}

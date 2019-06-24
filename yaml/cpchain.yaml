@@ -1,0 +1,21 @@
+---
+id: cpchain
+rank: 401
+symbol: CPC
+name: CPChain
+marketCap:
+  USD: "8420060.48219"
+  BTC: "773.252779312"
+price:
+  USD: "0.0223482580269"
+  BTC: "2.05234305248e-06"
+volume:
+  USD: "1242365.30423"
+  BTC: "114.092104974"
+supply:
+  CPC: "376765852.267"
+change:
+  24h: "5.27"
+  1h: "-1.08"
+  7d: "29.18"
+isMineable: false

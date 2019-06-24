@@ -1,0 +1,27 @@
+{
+  "id": "vipstar-coin",
+  "rank": 1227,
+  "symbol": "VIPS",
+  "name": "Vipstar Coin",
+  "marketCap": {
+    "BTC": "193.369455752",
+    "USD": "1806383.43265"
+  },
+  "price": {
+    "USD": "5.17020307356e-05",
+    "BTC": "5.53459103087e-09"
+  },
+  "volume": {
+    "BTC": "0",
+    "USD": "0"
+  },
+  "supply": {
+    "VIPS": "34938345882.1"
+  },
+  "change": {
+    "24h": "0.00",
+    "1h": "0.00",
+    "7d": "-0.06"
+  },
+  "isMineable": false
+}

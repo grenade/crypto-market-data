@@ -1,0 +1,21 @@
+---
+id: bolt
+rank: 347
+symbol: BOLT
+name: BOLT
+marketCap:
+  BTC: "956.014266878"
+  USD: "10410176.5481"
+price:
+  USD: "0.0195721596752"
+  BTC: "1.79740120608e-06"
+volume:
+  BTC: "300.093442326"
+  USD: "3267760.55941"
+supply:
+  BOLT: "531886961.934"
+change:
+  24h: "-2.89"
+  7d: "-30.31"
+  1h: "-0.13"
+isMineable: false

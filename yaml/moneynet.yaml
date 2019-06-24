@@ -1,0 +1,21 @@
+---
+id: moneynet
+rank: 1329
+symbol: MNC
+name: Moneynet
+marketCap:
+  BTC: "43.7908919135"
+  USD: "476845.306407"
+price:
+  BTC: "1.1014492388e-08"
+  USD: "0.000119938388285"
+volume:
+  USD: "49.1874526659"
+  BTC: "0.00451710941526"
+supply:
+  MNC: "3975752160.96"
+change:
+  1h: "-0.24"
+  24h: "98.62"
+  7d: "13.82"
+isMineable: false

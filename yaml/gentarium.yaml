@@ -1,0 +1,21 @@
+---
+id: gentarium
+rank: 1300
+symbol: GTM
+name: Gentarium
+marketCap:
+  USD: "659982.776333"
+  BTC: "60.609245881"
+price:
+  BTC: "1.77139303122e-05"
+  USD: "0.192889529267"
+volume:
+  USD: "369.046945444"
+  BTC: "0.0338912739243"
+supply:
+  GTM: "3421558.33363"
+change:
+  1h: "0.08"
+  7d: "-27.39"
+  24h: "-0.84"
+isMineable: true

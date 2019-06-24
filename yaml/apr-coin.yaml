@@ -1,0 +1,21 @@
+---
+id: apr-coin
+rank: 1615
+symbol: APR
+name: APR Coin
+marketCap:
+  USD: "58016.0655783"
+  BTC: "6.21283909034"
+price:
+  USD: "0.00733385697288"
+  BTC: "7.85369928655e-07"
+volume:
+  BTC: "0"
+  USD: "0"
+supply:
+  APR: "7910716.80193"
+change:
+  7d: "-2.86"
+  1h: "0.00"
+  24h: "0.00"
+isMineable: true

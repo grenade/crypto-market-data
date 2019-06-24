@@ -1,0 +1,21 @@
+---
+id: blackcoin
+rank: 493
+symbol: BLK
+name: BlackCoin
+marketCap:
+  BTC: "509.072899376"
+  USD: "5544598.07585"
+price:
+  BTC: "8.10079412492e-06"
+  USD: "0.0882302860218"
+volume:
+  USD: "122631.368536"
+  BTC: "11.2593023842"
+supply:
+  BLK: "62842345.0252"
+change:
+  7d: "-17.52"
+  24h: "-3.91"
+  1h: "-1.31"
+isMineable: false

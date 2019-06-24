@@ -1,0 +1,21 @@
+---
+id: pumapay
+rank: 293
+symbol: PMA
+name: PumaPay
+marketCap:
+  BTC: "1251.6128228"
+  USD: "13628991.6444"
+price:
+  USD: "0.000601744565177"
+  BTC: "5.52609637951e-08"
+volume:
+  USD: "575356.648094"
+  BTC: "52.8376403205"
+supply:
+  PMA: "22649131264.6"
+change:
+  1h: "5.69"
+  24h: "4.28"
+  7d: "7.38"
+isMineable: false

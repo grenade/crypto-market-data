@@ -1,0 +1,21 @@
+---
+id: united-bitcoin
+rank: 1958
+symbol: UBTC
+name: United Bitcoin
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "0.000236642238238"
+  USD: "2.57683129232"
+volume:
+  USD: "161325.069295"
+  BTC: "14.8152211577"
+supply:
+  UBTC: "0"
+change:
+  7d: "-8.10"
+  1h: "5.55"
+  24h: "6.34"
+isMineable: true

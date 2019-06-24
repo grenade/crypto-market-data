@@ -1,0 +1,21 @@
+---
+id: paytomat
+rank: 864
+symbol: PTI
+name: Paytomat
+marketCap:
+  USD: "894708.430146"
+  BTC: "82.1651794245"
+price:
+  USD: "0.00460130405265"
+  BTC: "4.22558858656e-07"
+volume:
+  BTC: "2.23625466912"
+  USD: "24350.8980133"
+supply:
+  PTI: "194446709.0"
+change:
+  1h: "0.59"
+  7d: "6.05"
+  24h: "-0.45"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: zen-protocol
+rank: 511
+symbol: ZP
+name: Zen Protocol
+marketCap:
+  BTC: "456.854043029"
+  USD: "4974749.23693"
+price:
+  USD: "0.260914333805"
+  BTC: "2.39609601622e-05"
+volume:
+  BTC: "0.284118010012"
+  USD: "3093.80178434"
+supply:
+  ZP: "19066600.0"
+change:
+  7d: "13.32"
+  24h: "5.27"
+  1h: "-12.47"
+isMineable: true

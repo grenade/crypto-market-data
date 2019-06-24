@@ -1,0 +1,21 @@
+---
+id: mnpcoin
+rank: 1400
+symbol: MNP
+name: MNPCoin
+marketCap:
+  BTC: "26.0192032791"
+  USD: "283326.83848"
+price:
+  USD: "0.12925517989"
+  BTC: "1.18700960999e-05"
+volume:
+  USD: "178.449289167"
+  BTC: "0.0163878168223"
+supply:
+  MNP: "2191996.00914"
+change:
+  24h: "8.85"
+  7d: "8.79"
+  1h: "3.73"
+isMineable: true

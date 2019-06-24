@@ -1,0 +1,27 @@
+{
+  "id": "profile-utility-token",
+  "rank": 953,
+  "symbol": "PUT",
+  "name": "Profile Utility Token",
+  "marketCap": {
+    "USD": "487339.091502",
+    "BTC": "44.7545843369"
+  },
+  "price": {
+    "USD": "0.0107604592988",
+    "BTC": "9.88182338724e-07"
+  },
+  "volume": {
+    "BTC": "0.642872714654",
+    "USD": "7000.33324749"
+  },
+  "supply": {
+    "PUT": "45289803.8987"
+  },
+  "change": {
+    "7d": "0.27",
+    "1h": "0.47",
+    "24h": "18.12"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,21 @@
+---
+id: ibtc
+rank: 1745
+symbol: IBTC
+name: iBTC
+marketCap:
+  BTC: "1.57474813157"
+  USD: "17147.6583942"
+price:
+  USD: "0.000587922489111"
+  BTC: "5.39916191442e-08"
+volume:
+  BTC: "0.00385523292614"
+  USD: "41.980184591"
+supply:
+  IBTC: "29166529.1119"
+change:
+  24h: "29.97"
+  1h: "15.09"
+  7d: "30.37"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: streamr-datacoin
+rank: 260
+symbol: DATA
+name: Streamr DATAcoin
+marketCap:
+  USD: "16431024.532"
+  BTC: "1508.93635659"
+price:
+  USD: "0.024264808389"
+  BTC: "2.228348664e-06"
+volume:
+  BTC: "54.4941778659"
+  USD: "593394.923153"
+supply:
+  DATA: "677154514.0"
+change:
+  24h: "-0.94"
+  7d: "-4.96"
+  1h: "0.24"
+isMineable: false

@@ -1,0 +1,27 @@
+{
+  "id": "bitnautic-token",
+  "rank": 1027,
+  "symbol": "BTNT",
+  "name": "BitNautic Token",
+  "marketCap": {
+    "BTC": "24.5101952901",
+    "USD": "266895.033934"
+  },
+  "price": {
+    "BTC": "1.37030403883e-06",
+    "USD": "0.014921437329"
+  },
+  "volume": {
+    "BTC": "154.002689883",
+    "USD": "1676957.39081"
+  },
+  "supply": {
+    "BTNT": "17886683.9735"
+  },
+  "change": {
+    "24h": "-3.82",
+    "1h": "0.08",
+    "7d": "2.31"
+  },
+  "isMineable": false
+}

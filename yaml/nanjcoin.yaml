@@ -1,0 +1,21 @@
+---
+id: nanjcoin
+rank: 621
+symbol: NANJ
+name: NANJCOIN
+marketCap:
+  BTC: "272.439061651"
+  USD: "2966628.03961"
+price:
+  USD: "0.000153219964964"
+  BTC: "1.40708922466e-08"
+volume:
+  BTC: "0.740041560901"
+  USD: "8058.41875882"
+supply:
+  NANJ: "19361889557.3"
+change:
+  24h: "18.66"
+  1h: "11.53"
+  7d: "6.22"
+isMineable: false
