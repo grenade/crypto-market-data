@@ -1,21 +1,21 @@
 ---
 id: bubble
-rank: 2145
+rank: 2144
 symbol: BUB
 name: Bubble
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.00762470090948"
-  BTC: "7.00055900493e-07"
+  BTC: "6.99935536604e-07"
+  USD: "0.00758587290685"
 volume:
-  BTC: "0.000694245436519"
-  USD: "7.56141589193"
+  BTC: "0.00069412607165"
+  USD: "7.52291016172"
 supply:
   BUB: "0"
 change:
-  7d: "-20.98"
-  1h: "0.03"
-  24h: "-21.16"
+  24h: "-21.56"
+  7d: "-21.37"
+  1h: "-0.59"
 isMineable: false

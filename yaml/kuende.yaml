@@ -4,8 +4,8 @@ rank: 1381
 symbol: KUE
 name: Kuende
 marketCap:
-  BTC: "31.4567997538"
   USD: "343376.629458"
+  BTC: "31.4567997538"
 price:
   USD: "0.000566584671216"
   BTC: "5.19049318357e-08"
@@ -15,7 +15,7 @@ volume:
 supply:
   KUE: "606046451.489"
 change:
+  24h: "-1.34"
+  7d: "-3.18"
   1h: "0.00"
-  24h: "-1.36"
-  7d: "-3.20"
 isMineable: false

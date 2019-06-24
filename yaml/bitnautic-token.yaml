@@ -1,21 +1,21 @@
 ---
 id: bitnautic-token
-rank: 1027
+rank: 1028
 symbol: BTNT
 name: BitNautic Token
 marketCap:
-  USD: "266895.033934"
-  BTC: "24.5101952901"
+  BTC: "24.4804967262"
+  USD: "265581.561195"
 price:
-  USD: "0.014921437329"
-  BTC: "1.37030403883e-06"
+  BTC: "1.36864366601e-06"
+  USD: "0.014848004336"
 volume:
-  USD: "1676957.39081"
-  BTC: "154.002689883"
+  BTC: "153.816087624"
+  USD: "1668704.56693"
 supply:
   BTNT: "17886683.9735"
 change:
-  24h: "-3.82"
-  1h: "0.08"
-  7d: "2.31"
+  1h: "-0.51"
+  7d: "1.85"
+  24h: "-4.40"
 isMineable: false

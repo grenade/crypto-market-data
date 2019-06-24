@@ -1,21 +1,21 @@
 ---
 id: insights-network
-rank: 640
+rank: 643
 symbol: INSTAR
 name: Insights Network
 marketCap:
-  BTC: "251.029012704"
-  USD: "2733490.9441"
+  BTC: "251.003068865"
+  USD: "2723056.95587"
 price:
-  BTC: "1.82474069603e-06"
-  USD: "0.0198698633046"
+  USD: "0.0197940181952"
+  BTC: "1.82455210915e-06"
 volume:
-  USD: "130418.636105"
-  BTC: "11.9769416212"
+  BTC: "11.9933710664"
+  USD: "130112.482904"
 supply:
   INSTAR: "137569690.45"
 change:
-  7d: "32.14"
-  24h: "8.10"
-  1h: "0.47"
+  7d: "31.62"
+  24h: "7.69"
+  1h: "0.29"
 isMineable: false

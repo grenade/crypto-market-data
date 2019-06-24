@@ -4,18 +4,18 @@ rank: 1859
 symbol: ONE
 name: Harmony
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "1.89779527721e-06"
-  USD: "0.0206653651231"
+  BTC: "1.90053605886e-06"
+  USD: "0.0206183452592"
 volume:
-  BTC: "1221.38215181"
-  USD: "13299805.5297"
+  USD: "13305030.5698"
+  BTC: "1226.41705938"
 supply:
   ONE: "0"
 change:
-  24h: "-0.69"
-  1h: "-0.40"
-  7d: "-1.90"
+  1h: "-0.57"
+  7d: "-2.08"
+  24h: "-1.07"
 isMineable: false

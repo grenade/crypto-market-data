@@ -1,21 +1,21 @@
 ---
 id: orbis-token
-rank: 1636
+rank: 1635
 symbol: OBT
 name: Orbis Token
 marketCap:
-  USD: "46318.3525334"
   BTC: "4.22310739249"
+  USD: "46318.3525334"
 price:
-  USD: "0.00241647280892"
   BTC: "2.20323556969e-07"
+  USD: "0.00241647280892"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   OBT: "19167752.421"
 change:
-  24h: "0.07"
-  7d: "25.43"
+  24h: "0.04"
+  7d: "25.46"
   1h: "0.00"
 isMineable: false

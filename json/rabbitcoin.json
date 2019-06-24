@@ -1,27 +1,27 @@
 {
   "id": "rabbitcoin",
-  "rank": 2147,
+  "rank": 2146,
   "symbol": "RBBT",
   "name": "RabbitCoin",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
-    "BTC": "2.28617386167e-10",
-    "USD": "2.49e-06"
+    "USD": "2.49e-06",
+    "BTC": "2.29748047133e-10"
   },
   "volume": {
-    "BTC": "0.000396270136022",
-    "USD": "4.316"
+    "USD": "4.316",
+    "BTC": "0.000398229948363"
   },
   "supply": {
     "RBBT": "0"
   },
   "change": {
-    "1h": "0.00",
     "7d": "-6.39",
-    "24h": "-5.32"
+    "24h": "-5.32",
+    "1h": "0.00"
   },
   "isMineable": true
 }

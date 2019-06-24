@@ -4,18 +4,18 @@ rank: 1871
 symbol: ONG
 name: Ontology Gas
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.431949117184"
-  BTC: "3.96678689055e-05"
+  USD: "0.430808187292"
+  BTC: "3.97105822078e-05"
 volume:
-  BTC: "415.285736505"
-  USD: "4522105.98179"
+  BTC: "415.284768894"
+  USD: "4505299.81054"
 supply:
   ONG: "0"
 change:
-  7d: "0.05"
-  24h: "-0.84"
-  1h: "-0.45"
+  7d: "-0.22"
+  1h: "-0.90"
+  24h: "-1.12"
 isMineable: false

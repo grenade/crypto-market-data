@@ -1,21 +1,21 @@
 ---
 id: valuechain
-rank: 2164
+rank: 2163
 symbol: VLC
 name: ValueChain
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.00584315224977"
-  BTC: "5.36603475312e-07"
+  BTC: "5.37217791705e-07"
+  USD: "0.00582811457697"
 volume:
-  USD: "0.0"
   BTC: "0.0"
+  USD: "0.0"
 supply:
   VLC: "0"
 change:
-  24h: "-7.19"
-  1h: "-0.23"
-  7d: "21.82"
+  7d: "21.58"
+  24h: "-7.38"
+  1h: "-0.56"
 isMineable: false

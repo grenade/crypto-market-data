@@ -1,21 +1,21 @@
 ---
 id: veriumreserve
-rank: 939
+rank: 937
 symbol: VRM
 name: VeriumReserve
 marketCap:
-  BTC: "50.801714588"
-  USD: "553309.927319"
+  USD: "550492.253608"
+  BTC: "50.7929800111"
 price:
-  USD: "0.249545568337"
-  BTC: "2.29118295433e-05"
+  BTC: "2.29078902051e-05"
+  USD: "0.24827478328"
 volume:
-  BTC: "0.0881564402567"
-  USD: "960.161166741"
+  USD: "955.271645073"
+  BTC: "0.0881412831071"
 supply:
   VRM: "2217270.10023"
 change:
-  24h: "-3.83"
-  1h: "0.05"
-  7d: "-37.68"
+  24h: "-4.37"
+  1h: "-0.56"
+  7d: "-38.03"
 isMineable: true

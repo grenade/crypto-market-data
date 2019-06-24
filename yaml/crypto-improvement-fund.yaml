@@ -1,11 +1,11 @@
 ---
 id: crypto-improvement-fund
-rank: 2178
+rank: 2177
 symbol: CIF
 name: Crypto Improvement Fund
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
   BTC: "2.00168196681e-08"
   USD: "0.00021646213956"
@@ -15,7 +15,7 @@ volume:
 supply:
   CIF: "0"
 change:
-  24h: "-1.89"
   1h: "0.00"
   7d: "20.73"
+  24h: "-1.96"
 isMineable: true

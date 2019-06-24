@@ -1,21 +1,21 @@
 ---
 id: mtc-mesh-network
-rank: 821
+rank: 819
 symbol: MTC
 name: MTC Mesh Network
 marketCap:
-  BTC: "105.524617181"
-  USD: "1149072.70015"
+  BTC: "105.710904412"
+  USD: "1146825.87297"
 price:
-  BTC: "3.31794338707e-07"
-  USD: "0.00361295616945"
+  BTC: "3.32380069793e-07"
+  USD: "0.00360589161373"
 volume:
-  BTC: "10.7420684353"
-  USD: "116971.924769"
+  BTC: "10.7602511999"
+  USD: "116734.735592"
 supply:
   MTC: "318042247.473"
 change:
-  24h: "-6.78"
-  7d: "-12.61"
-  1h: "0.20"
+  1h: "0.00"
+  24h: "-6.92"
+  7d: "-12.74"
 isMineable: false

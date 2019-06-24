@@ -4,18 +4,18 @@ rank: 1
 symbol: BTC
 name: Bitcoin
 marketCap:
-  USD: "1.9369800747e+11"
   BTC: "17778462.0"
+  USD: "1.9304351023e+11"
 price:
+  USD: "10858.2795424"
   BTC: "1.0"
-  USD: "10895.0935953"
 volume:
-  BTC: "1926570.31124"
-  USD: "20978700598.0"
+  USD: "20957257677.2"
+  BTC: "1931775.96988"
 supply:
   BTC: "17778462.0"
 change:
-  1h: "0.06"
-  7d: "17.27"
-  24h: "-1.28"
+  1h: "-0.40"
+  24h: "-1.64"
+  7d: "16.88"
 isMineable: true

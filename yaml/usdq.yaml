@@ -1,20 +1,20 @@
 ---
 id: usdq
-rank: 1972
+rank: 1971
 symbol: USDQ
 name: USDQ
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "9.0371302955e-05"
-  USD: "0.984066086916"
+  BTC: "9.06791001109e-05"
+  USD: "0.983750339888"
 volume:
-  USD: "111671.115781"
-  BTC: "10.2552708296"
+  BTC: "10.3907800223"
+  USD: "112726.453682"
 supply:
   USDQ: "0"
 change:
-  1h: "-0.23"
   24h: "0.11"
+  1h: "-0.27"
 isMineable: false

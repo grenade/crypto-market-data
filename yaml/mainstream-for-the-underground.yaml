@@ -1,21 +1,21 @@
 ---
 id: mainstream-for-the-underground
-rank: 1342
+rank: 1343
 symbol: MFTU
 name: Mainstream For The Underground
 marketCap:
-  USD: "429848.471229"
-  BTC: "39.4749569512"
+  BTC: "39.6504483298"
+  USD: "430155.812899"
 price:
-  BTC: "3.67161217162e-08"
-  USD: "0.000399807118439"
+  USD: "0.000400092980541"
+  BTC: "3.68793483114e-08"
 volume:
-  BTC: "0.0184322078126"
-  USD: "200.710956048"
+  USD: "200.851984573"
+  BTC: "0.018513922159"
 supply:
   MFTU: "1075139614.59"
 change:
-  7d: "103.36"
-  24h: "-10.65"
-  1h: "-11.60"
+  1h: "-6.05"
+  24h: "-10.46"
+  7d: "102.93"
 isMineable: false

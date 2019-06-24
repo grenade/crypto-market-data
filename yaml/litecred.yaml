@@ -4,8 +4,8 @@ rank: 1731
 symbol: LTCR
 name: Litecred
 marketCap:
-  BTC: "1.81283687777"
   USD: "19387.5221249"
+  BTC: "1.81283687777"
 price:
   BTC: "5.9972603857e-08"
   USD: "0.000641381581773"
@@ -15,7 +15,7 @@ volume:
 supply:
   LTCR: "30227750.0256"
 change:
-  7d: "-7.46"
-  1h: "0.00"
   24h: "0.00"
+  7d: "-8.16"
+  1h: "0.00"
 isMineable: true

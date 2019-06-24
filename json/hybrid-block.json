@@ -1,11 +1,11 @@
 {
   "id": "hybrid-block",
-  "rank": 2175,
+  "rank": 2174,
   "symbol": "HYB",
   "name": "Hybrid Block",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "BTC": "2.15213773102e-07",
@@ -19,9 +19,9 @@
     "HYB": "0"
   },
   "change": {
+    "7d": "-14.58",
     "1h": "0.00",
-    "7d": "-14.57",
-    "24h": "-2.41"
+    "24h": "-2.38"
   },
   "isMineable": false
 }

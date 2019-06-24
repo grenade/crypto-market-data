@@ -1,21 +1,21 @@
 ---
 id: volt
-rank: 1997
+rank: 1996
 symbol: ACDC
 name: Volt
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.000214807634523"
-  BTC: "1.97267704625e-08"
+  BTC: "1.97785629086e-08"
+  USD: "0.000214571692485"
 volume:
-  BTC: "6.14687701828"
-  USD: "66934.2259805"
+  BTC: "6.16423259692"
+  USD: "66873.9092575"
 supply:
   ACDC: "0"
 change:
-  7d: "-24.65"
-  24h: "-13.06"
-  1h: "-0.05"
+  24h: "-12.98"
+  1h: "-0.18"
+  7d: "-24.72"
 isMineable: false

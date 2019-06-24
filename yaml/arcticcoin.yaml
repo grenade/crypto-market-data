@@ -1,21 +1,21 @@
 ---
 id: arcticcoin
-rank: 1036
+rank: 1037
 symbol: ARC
 name: Advanced Technology Coin
 marketCap:
-  USD: "217874.707533"
-  BTC: "20.0039944369"
+  BTC: "20.0005550565"
+  USD: "216765.203066"
 price:
-  USD: "0.00844786818838"
-  BTC: "7.75634354983e-07"
+  USD: "0.00840484829132"
+  BTC: "7.75500996536e-07"
 volume:
-  USD: "894.062613411"
-  BTC: "0.0820876537138"
+  USD: "889.509691806"
+  BTC: "0.0820735399991"
 supply:
   ARC: "25790495.6226"
 change:
-  1h: "36.50"
-  7d: "20.45"
-  24h: "5.82"
+  1h: "27.88"
+  7d: "20.05"
+  24h: "3.63"
 isMineable: true

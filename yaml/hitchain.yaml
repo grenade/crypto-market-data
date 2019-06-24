@@ -1,21 +1,21 @@
 ---
 id: hitchain
-rank: 1911
+rank: 1912
 symbol: HIT
 name: HitChain
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.000135521247379"
-  BTC: "1.24455378216e-08"
+  BTC: "1.25084073029e-08"
+  USD: "0.000135699956447"
 volume:
-  BTC: "60.4245581205"
-  USD: "657971.684805"
+  USD: "658647.110182"
+  BTC: "60.7120778721"
 supply:
   HIT: "0"
 change:
-  7d: "3.60"
-  1h: "-0.30"
-  24h: "5.20"
+  7d: "3.75"
+  1h: "-0.11"
+  24h: "5.33"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: vanta-network
-rank: 580
+rank: 581
 symbol: VNT
 name: Vanta Network
 marketCap:
-  BTC: "332.081256486"
-  USD: "3616080.45831"
+  USD: "3615050.16141"
+  BTC: "333.224276731"
 price:
-  USD: "0.00128570522986"
-  BTC: "1.18072209157e-07"
+  BTC: "1.18478612478e-07"
+  USD: "0.00128533890557"
 volume:
-  USD: "1790558.48707"
-  BTC: "164.435199673"
+  BTC: "164.997104281"
+  USD: "1790004.06067"
 supply:
   VNT: "2812526833.0"
 change:
   7d: "9.50"
-  1h: "0.00"
-  24h: "-1.20"
+  1h: "-0.04"
+  24h: "-1.24"
 isMineable: false

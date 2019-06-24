@@ -1,6 +1,6 @@
 {
   "id": "pedity",
-  "rank": 1339,
+  "rank": 1340,
   "symbol": "PEDI",
   "name": "Pedity",
   "marketCap": {
@@ -12,16 +12,16 @@
     "USD": "0.000321019841846"
   },
   "volume": {
-    "USD": "0",
-    "BTC": "0"
+    "BTC": "0",
+    "USD": "0"
   },
   "supply": {
     "PEDI": "1368610817.0"
   },
   "change": {
-    "1h": "0.00",
-    "7d": "-0.74",
-    "24h": "0.00"
+    "24h": "0.00",
+    "7d": "-0.70",
+    "1h": "0.00"
   },
   "isMineable": false
 }

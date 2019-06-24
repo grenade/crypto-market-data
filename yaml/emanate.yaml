@@ -4,18 +4,18 @@ rank: 2024
 symbol: EMT
 name: Emanate
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.0438562731146"
-  BTC: "4.02752274142e-06"
+  USD: "0.043726571844"
+  BTC: "4.03058176956e-06"
 volume:
-  USD: "30109.2771737"
-  BTC: "2.76507304275"
+  BTC: "2.76680770055"
+  USD: "30016.2662895"
 supply:
   EMT: "0"
 change:
-  24h: "1.12"
-  7d: "4.06"
-  1h: "-0.05"
+  24h: "0.82"
+  7d: "3.82"
+  1h: "-0.43"
 isMineable: false

@@ -4,18 +4,18 @@ rank: 1864
 symbol: HPT
 name: Huobi Pool Token
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.0139432098726"
-  BTC: "1.28046892411e-06"
+  USD: "0.0139331880648"
+  BTC: "1.2843186977e-06"
 volume:
-  USD: "8784282.84905"
-  BTC: "806.700990054"
+  USD: "8786405.17985"
+  BTC: "809.903979306"
 supply:
   HPT: "0"
 change:
-  1h: "-0.90"
-  7d: "27.04"
-  24h: "7.94"
+  24h: "7.74"
+  7d: "26.97"
+  1h: "-0.91"
 isMineable: false

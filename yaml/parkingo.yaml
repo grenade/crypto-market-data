@@ -1,21 +1,21 @@
 ---
 id: parkingo
-rank: 362
+rank: 361
 symbol: GOT
 name: ParkinGo
 marketCap:
-  USD: "9654158.0141"
-  BTC: "886.585616828"
+  BTC: "889.88724925"
+  USD: "9654119.6686"
 price:
-  USD: "0.716313548597"
-  BTC: "6.57823591035e-05"
+  BTC: "6.60273316876e-05"
+  USD: "0.71631070346"
 volume:
-  BTC: "2.33299751888"
-  USD: "25404.3447878"
+  USD: "25404.1959934"
+  BTC: "2.34168115457"
 supply:
   GOT: "13477558.8609"
 change:
   7d: "-4.47"
-  24h: "19.27"
   1h: "0.00"
+  24h: "19.55"
 isMineable: false

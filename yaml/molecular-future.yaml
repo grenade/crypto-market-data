@@ -1,21 +1,21 @@
 ---
 id: molecular-future
-rank: 1867
+rank: 1868
 symbol: MOF
 name: Molecular Future
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "7.55837920428e-06"
-  USD: "0.0823042758462"
+  BTC: "7.60510083361e-06"
+  USD: "0.0825054562826"
 volume:
-  BTC: "492.187926314"
-  USD: "5359504.96273"
+  BTC: "498.730965146"
+  USD: "5410582.54741"
 supply:
   MOF: "0"
 change:
-  24h: "-7.90"
-  7d: "-6.87"
-  1h: "-0.98"
+  24h: "-7.63"
+  1h: "-0.90"
+  7d: "-6.64"
 isMineable: false

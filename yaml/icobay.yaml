@@ -4,8 +4,8 @@ rank: 1755
 symbol: IBT
 name: ICOBay
 marketCap:
-  BTC: "1.40736884157"
   USD: "15056.0050711"
+  BTC: "1.40736884157"
 price:
   BTC: "2.0318728501e-09"
   USD: "2.17369370639e-05"
@@ -17,5 +17,5 @@ supply:
 change:
   1h: "0.00"
   24h: "0.00"
-  7d: "-57.09"
+  7d: "-57.08"
 isMineable: false

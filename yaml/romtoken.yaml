@@ -4,18 +4,18 @@ rank: 2190
 symbol: ROM
 name: ROMToken
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "9.27012106483e-05"
-  BTC: "8.51317742088e-09"
+  USD: "9.27025855129e-05"
+  BTC: "8.54504104489e-09"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   ROM: "0"
 change:
-  24h: "4.97"
-  7d: "-76.93"
-  1h: "0.51"
+  1h: "0.35"
+  7d: "-76.89"
+  24h: "5.07"
 isMineable: false

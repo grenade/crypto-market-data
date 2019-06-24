@@ -1,6 +1,6 @@
 {
   "id": "alttex",
-  "rank": 2176,
+  "rank": 2175,
   "symbol": "ALTX",
   "name": "Alttex",
   "marketCap": {
@@ -12,16 +12,16 @@
     "BTC": "1.02026996742e-08"
   },
   "volume": {
-    "USD": "0.0",
-    "BTC": "0.0"
+    "BTC": "0.0",
+    "USD": "0.0"
   },
   "supply": {
     "ALTX": "0"
   },
   "change": {
     "1h": "0.00",
-    "24h": "-1.63",
-    "7d": "-31.23"
+    "7d": "-31.23",
+    "24h": "-1.59"
   },
   "isMineable": false
 }

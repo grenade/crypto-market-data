@@ -1,21 +1,21 @@
 ---
 id: bitcoin-w-spectrum
-rank: 1664
+rank: 1666
 symbol: BWS
 name: Bitcoin W Spectrum
 marketCap:
-  USD: "37674.3755399"
-  BTC: "3.459810729"
+  USD: "37488.9683237"
+  BTC: "3.45561853841"
 price:
-  USD: "0.000653493605649"
-  BTC: "6.00133155694e-08"
+  USD: "0.000650277562158"
+  BTC: "5.99405985116e-08"
 volume:
-  BTC: "0.033068739327"
-  USD: "360.090248173"
+  BTC: "0.0330286705288"
+  USD: "358.318133054"
 supply:
   BWS: "57650717.9477"
 change:
-  1h: "0.07"
-  24h: "18.48"
-  7d: "-3.88"
+  1h: "-0.55"
+  24h: "17.81"
+  7d: "-4.01"
 isMineable: false

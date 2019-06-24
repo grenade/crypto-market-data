@@ -1,21 +1,21 @@
 ---
 id: bitcoin-god
-rank: 2053
+rank: 2054
 symbol: GOD
 name: Bitcoin God
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "16.8796290894"
-  BTC: "0.00155013377098"
+  BTC: "0.00155805357626"
+  USD: "16.9028556011"
 volume:
-  USD: "10144.4641983"
-  BTC: "0.931612682893"
+  BTC: "0.93636760111"
+  USD: "10158.3710549"
 supply:
   GOD: "0"
 change:
-  7d: "-1.86"
-  24h: "4.11"
-  1h: "-0.12"
+  24h: "4.36"
+  1h: "0.08"
+  7d: "-1.72"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: coinex-token
-rank: 1924
+rank: 1923
 symbol: CET
 name: CoinEx Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.27936213695e-06"
-  USD: "0.0248203014168"
+  BTC: "2.28930400679e-06"
+  USD: "0.0248359720381"
 volume:
-  BTC: "42.7080062252"
-  USD: "465053.608743"
+  BTC: "42.64467647"
+  USD: "462639.295278"
 supply:
   CET: "0"
 change:
-  7d: "15.44"
-  24h: "-4.74"
-  1h: "-1.12"
+  1h: "-0.76"
+  24h: "-4.77"
+  7d: "15.50"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: betterbetting
-rank: 1394
+rank: 1403
 symbol: BETR
 name: BetterBetting
 marketCap:
-  BTC: "28.086833224"
-  USD: "305841.557672"
+  BTC: "25.3055801393"
+  USD: "274532.643494"
 price:
-  USD: "0.00163091692714"
-  BTC: "1.49774582903e-07"
+  BTC: "1.34943397864e-07"
+  USD: "0.00146396042034"
 volume:
-  BTC: "0.00341161661937"
-  USD: "37.149582964"
+  USD: "37.0803977377"
+  BTC: "0.00341795775033"
 supply:
   BETR: "187527367.325"
 change:
-  1h: "0.70"
-  7d: "7.88"
-  24h: "6.40"
+  24h: "-4.33"
+  7d: "-3.16"
+  1h: "-10.30"
 isMineable: false

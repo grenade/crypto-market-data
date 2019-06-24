@@ -1,6 +1,6 @@
 {
   "id": "bulwark",
-  "rank": 1266,
+  "rank": 1267,
   "symbol": "BWK",
   "name": "Bulwark",
   "marketCap": {
@@ -12,16 +12,16 @@
     "USD": "0.0489599354775"
   },
   "volume": {
-    "USD": "0",
-    "BTC": "0"
+    "BTC": "0",
+    "USD": "0"
   },
   "supply": {
     "BWK": "18801813.0541"
   },
   "change": {
-    "7d": "-0.39",
+    "24h": "0.00",
     "1h": "0.00",
-    "24h": "0.00"
+    "7d": "-0.33"
   },
   "isMineable": true
 }

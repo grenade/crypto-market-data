@@ -1,21 +1,21 @@
 ---
 id: dubaicoin-dbix
-rank: 852
+rank: 853
 symbol: DBIX
 name: DubaiCoin
 marketCap:
-  USD: "934298.408154"
-  BTC: "85.7818714748"
+  BTC: "85.6901022669"
+  USD: "929626.199717"
 price:
-  BTC: "2.01216067399e-05"
-  USD: "0.219155688998"
+  USD: "0.21805974251"
+  BTC: "2.01000807009e-05"
 volume:
-  BTC: "0.164366503907"
-  USD: "1790.20765477"
+  BTC: "0.164171673898"
+  USD: "1781.0492142"
 supply:
   DBIX: "4263172.051"
 change:
-  1h: "3.66"
-  24h: "3.12"
-  7d: "-15.34"
+  1h: "4.04"
+  7d: "-15.71"
+  24h: "2.44"
 isMineable: true

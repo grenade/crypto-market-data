@@ -1,21 +1,21 @@
 ---
 id: monero-v
-rank: 2138
+rank: 2137
 symbol: XMV
 name: "MoneroV "
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.0186245667384"
-  BTC: "1.71037939982e-06"
+  BTC: "1.70830696378e-06"
+  USD: "0.0185329095039"
 volume:
-  USD: "33.5019108267"
-  BTC: "0.0030766341541"
+  USD: "33.3370375957"
+  BTC: "0.00307290625169"
 supply:
   XMV: "0"
 change:
-  7d: "8.87"
-  24h: "-16.83"
-  1h: "0.08"
+  1h: "-0.51"
+  24h: "-16.43"
+  7d: "8.25"
 isMineable: false

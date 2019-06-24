@@ -1,21 +1,21 @@
 ---
 id: smartofgiving
-rank: 407
+rank: 408
 symbol: AOG
 name: smARTOFGIVING
 marketCap:
-  BTC: "756.04987033"
-  USD: "8232735.53754"
+  USD: "8192219.70799"
+  BTC: "755.133778267"
 price:
-  USD: "0.141590281224"
-  BTC: "1.300288504e-05"
+  USD: "0.140893471801"
+  BTC: "1.29871296775e-05"
 volume:
-  USD: "15787.4833048"
-  BTC: "1.44983701359"
+  USD: "15709.7882325"
+  BTC: "1.44808027209"
 supply:
   AOG: "58144778.486"
 change:
-  24h: "-6.99"
-  1h: "0.08"
-  7d: "8.31"
+  7d: "7.80"
+  24h: "-7.51"
+  1h: "-0.55"
 isMineable: false

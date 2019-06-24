@@ -1,21 +1,21 @@
 ---
 id: cmitcoin
-rank: 2011
+rank: 2012
 symbol: CMIT
 name: CMITCOIN
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "1.20026631139e-09"
-  USD: "1.3069872113e-05"
+  BTC: "1.19881197023e-09"
+  USD: "1.30055512432e-05"
 volume:
-  BTC: "3.66542387294"
-  USD: "39913.3265715"
+  BTC: "3.65047475788"
+  USD: "39602.9049629"
 supply:
   CMIT: "0"
 change:
-  24h: "-2.39"
-  1h: "-3.37"
-  7d: "-83.18"
+  1h: "-6.10"
+  24h: "-3.17"
+  7d: "-83.27"
 isMineable: false

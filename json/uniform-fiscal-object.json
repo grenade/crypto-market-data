@@ -1,6 +1,6 @@
 {
   "id": "uniform-fiscal-object",
-  "rank": 1253,
+  "rank": 1254,
   "symbol": "UFO",
   "name": "Uniform Fiscal Object",
   "marketCap": {
@@ -8,19 +8,19 @@
     "USD": "1066745.59882"
   },
   "price": {
-    "USD": "0.000280142772417",
-    "BTC": "2.99826401557e-08"
+    "BTC": "2.99826401557e-08",
+    "USD": "0.000280142772417"
   },
   "volume": {
-    "BTC": "0",
-    "USD": "0"
+    "USD": "0",
+    "BTC": "0"
   },
   "supply": {
     "UFO": "3807864074.5"
   },
   "change": {
-    "1h": "0.00",
     "24h": "0.00",
+    "1h": "0.00",
     "7d": "0.37"
   },
   "isMineable": true

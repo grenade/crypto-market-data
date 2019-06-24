@@ -1,21 +1,21 @@
 ---
 id: bilaxy-token
-rank: 1918
+rank: 1919
 symbol: BIA
 name: Bilaxy Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.00956705920536"
-  BTC: "8.78586933673e-07"
+  USD: "0.00935906850926"
+  BTC: "8.62690335022e-07"
 volume:
-  USD: "555693.359448"
-  BTC: "51.031870323"
+  BTC: "50.2993852402"
+  USD: "545682.933175"
 supply:
   BIA: "0"
 change:
-  24h: "12.46"
-  1h: "2.79"
-  7d: "1.19"
+  24h: "10.06"
+  7d: "-0.98"
+  1h: "-0.24"
 isMineable: false

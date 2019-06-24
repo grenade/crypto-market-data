@@ -1,21 +1,21 @@
 ---
 id: content-and-ad-network
-rank: 2143
+rank: 2142
 symbol: CAN
 name: Content and AD Network
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "2.6997103334e-07"
-  USD: "0.00293975332514"
+  BTC: "2.70215444869e-07"
+  USD: "0.00293148625657"
 volume:
-  USD: "13.0385330972"
-  BTC: "0.0011973883058"
+  BTC: "0.00119956715732"
+  USD: "13.0137440412"
 supply:
   CAN: "0"
 change:
-  1h: "-0.22"
-  7d: "79.55"
-  24h: "139.26"
+  1h: "-0.60"
+  24h: "138.72"
+  7d: "79.06"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: ixcoin
-rank: 1260
+rank: 1261
 symbol: IXC
 name: Ixcoin
 marketCap:
-  BTC: "90.6236566957"
-  USD: "987033.002852"
+  BTC: "90.6153111119"
+  USD: "982085.060067"
 price:
-  BTC: "4.3e-06"
-  USD: "0.0468337084048"
+  USD: "0.0465989335706"
+  BTC: "4.29960401057e-06"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   IXC: "21075268.999"
 change:
-  7d: "27.19"
-  24h: "79.80"
-  1h: "0.01"
+  1h: "-0.60"
+  24h: "78.84"
+  7d: "26.55"
 isMineable: false

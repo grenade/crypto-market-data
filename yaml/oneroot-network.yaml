@@ -1,21 +1,21 @@
 ---
 id: oneroot-network
-rank: 249
+rank: 248
 symbol: RNT
 name: OneRoot Network
 marketCap:
-  BTC: "1576.63791918"
-  USD: "17168236.5627"
+  BTC: "1587.56043658"
+  USD: "17222966.6722"
 price:
-  BTC: "5.55009939812e-06"
-  USD: "0.0604358288319"
+  USD: "0.0606284904091"
+  BTC: "5.58854897271e-06"
 volume:
-  BTC: "344.738208642"
-  USD: "3753903.82673"
+  USD: "3757255.72321"
+  BTC: "346.332350854"
 supply:
   RNT: "284073816.716"
 change:
-  1h: "-0.22"
-  7d: "13.31"
-  24h: "3.14"
+  24h: "3.38"
+  7d: "13.63"
+  1h: "0.09"
 isMineable: false

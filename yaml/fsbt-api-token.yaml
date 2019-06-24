@@ -1,21 +1,21 @@
 ---
 id: fsbt-api-token
-rank: 1012
+rank: 1013
 symbol: FSBT
 name: FSBT API Token
 marketCap:
-  USD: "303618.592536"
-  BTC: "27.8826881382"
+  BTC: "28.0674242925"
+  USD: "304495.061748"
 price:
-  BTC: "7.94483808631e-06"
-  USD: "0.0865124820727"
+  USD: "0.0867622214788"
+  BTC: "7.99747644124e-06"
 volume:
-  BTC: "2.75152456914"
-  USD: "29961.7459002"
+  BTC: "2.73907312545"
+  USD: "29715.3822087"
 supply:
   FSBT: "3509535.10131"
 change:
-  1h: "-0.16"
-  24h: "-9.83"
-  7d: "42.29"
+  7d: "42.73"
+  1h: "-0.23"
+  24h: "-9.52"
 isMineable: false

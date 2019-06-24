@@ -1,21 +1,21 @@
 ---
 id: chimpion
-rank: 927
+rank: 934
 symbol: BNANA
 name: Chimpion
 marketCap:
-  BTC: "55.003544595"
-  USD: "598941.490567"
+  USD: "563043.316394"
+  BTC: "51.899612314"
 price:
-  BTC: "1.33613028722e-05"
-  USD: "0.145493144435"
+  BTC: "1.26073045689e-05"
+  USD: "0.136772863202"
 volume:
-  USD: "41300.803096"
-  BTC: "3.79284220694"
+  USD: "42755.805737"
+  BTC: "3.94109951636"
 supply:
   BNANA: "4116630.32573"
 change:
-  7d: "9.61"
-  24h: "8.82"
-  1h: "7.28"
+  1h: "-1.15"
+  7d: "2.89"
+  24h: "1.54"
 isMineable: false

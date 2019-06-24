@@ -4,8 +4,8 @@ rank: 1435
 symbol: WRC
 name: Worldcore
 marketCap:
-  BTC: "19.5978812078"
   USD: "216611.16823"
+  BTC: "19.5978812078"
 price:
   USD: "0.00121621092465"
   BTC: "1.10036603466e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   WRC: "178103291.0"
 change:
-  24h: "0.35"
-  7d: "-27.33"
+  7d: "-27.32"
   1h: "0.00"
+  24h: "0.29"
 isMineable: false

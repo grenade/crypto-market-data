@@ -1,21 +1,21 @@
 ---
 id: xtrabytes
-rank: 1209
+rank: 1210
 symbol: XBY
 name: XTRABYTES
 marketCap:
   USD: "2853110.4228"
   BTC: "305.53460989"
 price:
-  USD: "0.00663514051813"
   BTC: "7.10545604395e-07"
+  USD: "0.00663514051813"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   XBY: "430000000.0"
 change:
-  1h: "0.00"
-  7d: "0.40"
   24h: "0.00"
+  7d: "0.40"
+  1h: "0.00"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: nash-exchange
-rank: 84
+rank: 82
 symbol: NEX
 name: Nash Exchange
 marketCap:
-  BTC: "8820.52253435"
-  USD: "96047935.6955"
+  BTC: "8972.8566408"
+  USD: "97343828.5045"
 price:
-  USD: "2.65350139854"
-  BTC: "0.0002436832058"
+  USD: "2.68930282786"
+  BTC: "0.000247891716494"
 volume:
-  BTC: "185.163841597"
-  USD: "2016275.64371"
+  BTC: "188.621078358"
+  USD: "2046293.46474"
 supply:
   NEX: "36196678.0"
 change:
-  24h: "-7.07"
-  1h: "-2.05"
-  7d: "17.96"
+  1h: "0.27"
+  24h: "-5.84"
+  7d: "19.50"
 isMineable: false

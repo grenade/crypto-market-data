@@ -4,17 +4,17 @@ rank: 1875
 symbol: RAVEN
 name: Raven Protocol
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.00316265807551"
-  BTC: "2.90441399094e-07"
+  USD: "0.00315732698214"
+  BTC: "2.91032752811e-07"
 volume:
-  USD: "3185176.99089"
-  BTC: "292.509414394"
+  BTC: "293.409037815"
+  USD: "3183106.58491"
 supply:
   RAVEN: "0"
 change:
-  24h: "9.61"
-  1h: "-1.58"
+  1h: "-1.21"
+  24h: "9.59"
 isMineable: false

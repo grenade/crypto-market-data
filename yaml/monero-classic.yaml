@@ -1,21 +1,21 @@
 ---
 id: monero-classic
-rank: 2030
+rank: 2028
 symbol: XMC
 name: Monero Classic
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "8.00648795636e-05"
-  USD: "0.871837963549"
+  BTC: "8.04737680486e-05"
+  USD: "0.873035755461"
 volume:
-  BTC: "2.52854672233"
-  USD: "27533.7081271"
+  BTC: "2.54145941279"
+  USD: "27571.5303536"
 supply:
   XMC: "0"
 change:
-  1h: "-0.55"
-  24h: "5.93"
-  7d: "2.70"
+  7d: "2.82"
+  24h: "6.07"
+  1h: "0.08"
 isMineable: false

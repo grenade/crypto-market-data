@@ -1,21 +1,21 @@
 ---
 id: proud-money
-rank: 2128
+rank: 2126
 symbol: PROUD
 name: PROUD Money
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.0199331466634"
-  BTC: "1.83014613986e-06"
+  USD: "0.0198316391708"
+  BTC: "1.82983147426e-06"
 volume:
-  BTC: "0.00578134175664"
-  USD: "62.9678311672"
+  USD: "62.6471739843"
+  BTC: "0.00578034774348"
 supply:
   PROUD: "0"
 change:
-  7d: "60.12"
-  24h: "55.71"
-  1h: "4.20"
+  7d: "59.32"
+  1h: "-0.59"
+  24h: "54.87"
 isMineable: true

@@ -1,21 +1,21 @@
 ---
 id: sparkle
-rank: 1973
+rank: 1972
 symbol: SPRKL
 name: Sparkle
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "3.49780739039e-06"
-  USD: "0.0380881266386"
+  BTC: "3.56288494383e-06"
+  USD: "0.0386526693602"
 volume:
-  BTC: "10.2223229275"
-  USD: "111312.341347"
+  USD: "112173.966231"
+  BTC: "10.3398534173"
 supply:
   SPRKL: "0"
 change:
-  7d: "2.29"
-  24h: "-8.36"
-  1h: "-0.85"
+  7d: "4.01"
+  1h: "0.17"
+  24h: "-7.24"
 isMineable: false

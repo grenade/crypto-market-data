@@ -1,6 +1,6 @@
 ---
 id: monkey-project
-rank: 1484
+rank: 1483
 symbol: MONK
 name: Monkey Project
 marketCap:
@@ -10,12 +10,12 @@ price:
   USD: "0.023956756701"
   BTC: "2.56400266644e-06"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   MONK: "6500563.51304"
 change:
-  24h: "0.00"
-  7d: "-1.96"
   1h: "0.00"
+  24h: "0.00"
+  7d: "-1.88"
 isMineable: true

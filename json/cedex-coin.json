@@ -1,11 +1,11 @@
 {
   "id": "cedex-coin",
-  "rank": 2169,
+  "rank": 2168,
   "symbol": "CEDEX",
   "name": "CEDEX Coin",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "BTC": "2.57918180416e-06",
@@ -19,9 +19,9 @@
     "CEDEX": "0"
   },
   "change": {
-    "7d": "-0.34",
+    "7d": "-0.73",
     "1h": "0.00",
-    "24h": "-1.97"
+    "24h": "-1.93"
   },
   "isMineable": false
 }

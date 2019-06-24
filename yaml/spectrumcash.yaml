@@ -4,18 +4,18 @@ rank: 2087
 symbol: XSM
 name: SpectrumCash
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "9.9872260018e-09"
-  USD: "0.000108752337184"
+  USD: "0.000108212023805"
+  BTC: "9.97465367171e-09"
 volume:
-  USD: "1150.03670687"
-  BTC: "0.10561314634"
+  USD: "1115.70313159"
+  BTC: "0.102842105219"
 supply:
   XSM: "0"
 change:
-  1h: "0.08"
-  24h: "-1.44"
-  7d: "-22.81"
+  24h: "-1.99"
+  1h: "-0.51"
+  7d: "-23.22"
 isMineable: true

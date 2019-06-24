@@ -1,21 +1,21 @@
 ---
 id: singulardtv
-rank: 366
+rank: 365
 symbol: SNGLS
 name: SingularDTV
 marketCap:
-  BTC: "876.08586999"
-  USD: "9541941.90066"
+  BTC: "880.755013152"
+  USD: "9555046.7802"
 price:
-  BTC: "1.46014311665e-06"
-  USD: "0.0159032365011"
+  USD: "0.015925077967"
+  BTC: "1.46792502192e-06"
 volume:
-  BTC: "90.2547261508"
-  USD: "983014.773652"
+  BTC: "90.8279790191"
+  USD: "985365.482477"
 supply:
   SNGLS: "600000000.0"
 change:
-  7d: "-10.77"
-  1h: "-0.79"
-  24h: "-0.14"
+  24h: "0.11"
+  1h: "-0.73"
+  7d: "-10.63"
 isMineable: false

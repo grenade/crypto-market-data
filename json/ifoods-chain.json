@@ -1,6 +1,6 @@
 {
   "id": "ifoods-chain",
-  "rank": 1239,
+  "rank": 1238,
   "symbol": "IFOOD",
   "name": "Ifoods Chain",
   "marketCap": {
@@ -12,16 +12,16 @@
     "BTC": "6.43948640455e-08"
   },
   "volume": {
-    "BTC": "0",
-    "USD": "0"
+    "USD": "0",
+    "BTC": "0"
   },
   "supply": {
     "IFOOD": "2499999990.0"
   },
   "change": {
-    "7d": "0.96",
-    "1h": "0.00",
-    "24h": "0.00"
+    "7d": "0.94",
+    "24h": "0.00",
+    "1h": "0.00"
   },
   "isMineable": false
 }

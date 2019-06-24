@@ -1,21 +1,21 @@
 ---
 id: innovative-bioresearch-classic
-rank: 1142
+rank: 1144
 symbol: INNBCL
 name: InnovativeBioresearchClassic
 marketCap:
-  BTC: "2.88490988841"
-  USD: "31414.1977836"
+  USD: "31333.3516226"
+  BTC: "2.88821260171"
 price:
-  BTC: "4.23634300021e-12"
-  USD: "4.613014688e-08"
+  BTC: "4.24119286621e-12"
+  USD: "4.60114284169e-08"
 volume:
-  BTC: "0.145048676225"
-  USD: "1579.45585111"
+  USD: "1575.39103485"
+  BTC: "0.145214731391"
 supply:
   INNBCL: "6.80990629952e+11"
 change:
-  1h: "-0.24"
-  7d: "0.82"
-  24h: "17.24"
+  7d: "0.70"
+  1h: "-0.55"
+  24h: "17.00"
 isMineable: false

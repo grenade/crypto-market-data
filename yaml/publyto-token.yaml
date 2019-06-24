@@ -1,21 +1,21 @@
 ---
 id: publyto-token
-rank: 812
+rank: 811
 symbol: PUB
 name: PUBLYTO Token
 marketCap:
-  BTC: "109.796187467"
-  USD: "1195586.442"
+  USD: "1196004.80244"
+  BTC: "110.244067846"
 price:
-  USD: "0.000798247232434"
-  BTC: "7.33067051435e-08"
+  BTC: "7.36057377023e-08"
+  USD: "0.000798526555665"
 volume:
-  USD: "3232.37223667"
-  BTC: "0.296843570312"
+  USD: "3235.96389856"
+  BTC: "0.298281263462"
 supply:
   PUB: "1497764594.0"
 change:
-  24h: "4.09"
-  7d: "4.29"
-  1h: "6.64"
+  1h: "5.70"
+  24h: "4.13"
+  7d: "4.40"
 isMineable: false

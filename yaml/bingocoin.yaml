@@ -1,21 +1,21 @@
 ---
 id: bingocoin
-rank: 2082
+rank: 2083
 symbol: BOC
 name: BingoCoin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "4.23634322615e-07"
-  USD: "0.00461301493403"
+  USD: "0.00460114308708"
+  BTC: "4.2411930924e-07"
 volume:
-  USD: "1551.61584623"
-  BTC: "0.142492000866"
+  BTC: "0.14265512909"
+  USD: "1547.62267775"
 supply:
   BOC: "0"
 change:
-  1h: "-0.24"
-  24h: "-2.29"
-  7d: "14.23"
+  1h: "-0.58"
+  24h: "-2.50"
+  7d: "13.94"
 isMineable: false

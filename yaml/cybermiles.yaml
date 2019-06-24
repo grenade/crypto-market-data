@@ -1,21 +1,21 @@
 ---
 id: cybermiles
-rank: 155
+rank: 154
 symbol: CMT
 name: CyberMiles
 marketCap:
-  USD: "36494730.4"
-  BTC: "3351.47850442"
+  BTC: "3357.65643401"
+  USD: "36426206.8562"
 price:
-  BTC: "4.18934813053e-06"
-  USD: "0.045618413"
+  BTC: "4.19707054251e-06"
+  USD: "0.0455327585703"
 volume:
-  USD: "9688563.00743"
-  BTC: "889.74518519"
+  USD: "9643357.33514"
+  BTC: "888.89521024"
 supply:
   CMT: "800000000.0"
 change:
-  1h: "-0.16"
-  7d: "-6.68"
-  24h: "-2.58"
+  24h: "-2.70"
+  1h: "-0.40"
+  7d: "-6.76"
 isMineable: false

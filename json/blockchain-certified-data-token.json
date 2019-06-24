@@ -4,24 +4,24 @@
   "symbol": "BCDT",
   "name": "Blockchain Certified Data Token",
   "marketCap": {
-    "BTC": "81.7225128604",
-    "USD": "874207.68708"
+    "USD": "874207.68708",
+    "BTC": "81.7225128604"
   },
   "price": {
     "USD": "0.0278057185066",
     "BTC": "2.59932876573e-06"
   },
   "volume": {
-    "USD": "0.0",
-    "BTC": "0.0"
+    "BTC": "0.0",
+    "USD": "0.0"
   },
   "supply": {
     "BCDT": "31439852.4488"
   },
   "change": {
+    "24h": "-3.41",
     "1h": "0.00",
-    "7d": "15.39",
-    "24h": "-3.45"
+    "7d": "15.26"
   },
   "isMineable": false
 }

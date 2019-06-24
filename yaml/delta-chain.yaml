@@ -1,21 +1,21 @@
 ---
 id: delta-chain
-rank: 1150
+rank: 1151
 symbol: DELTA
 name: DeltaChain
 marketCap:
-  USD: "21238.9586718"
-  BTC: "1.95047100403"
+  BTC: "1.95270408575"
+  USD: "21184.3005246"
 price:
-  BTC: "3.05009867819e-10"
-  USD: "3.32129622216e-06"
+  BTC: "3.05359071657e-10"
+  USD: "3.31274891527e-06"
 volume:
-  USD: "62230.6809547"
-  BTC: "5.71492890206"
+  USD: "62264.094575"
+  BTC: "5.73931396652"
 supply:
   DELTA: "6394780004.9"
 change:
-  1h: "-0.76"
-  7d: "15.44"
-  24h: "-2.76"
+  1h: "-0.88"
+  24h: "-2.95"
+  7d: "15.27"
 isMineable: false

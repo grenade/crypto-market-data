@@ -1,21 +1,21 @@
 ---
 id: foin
-rank: 1883
+rank: 1884
 symbol: FOIN
 name: FOIN
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "0.151038705199"
-  USD: "1644.68213624"
+  USD: "1635.69297719"
+  BTC: "0.150773180161"
 volume:
-  BTC: "183.761269521"
-  USD: "2001002.83509"
+  BTC: "183.288524863"
+  USD: "1988442.19242"
 supply:
   FOIN: "0"
 change:
-  1h: "0.39"
-  24h: "-6.69"
-  7d: "-5.39"
+  1h: "-0.40"
+  7d: "-5.91"
+  24h: "-7.41"
 isMineable: true

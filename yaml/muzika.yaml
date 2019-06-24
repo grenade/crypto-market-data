@@ -1,21 +1,21 @@
 ---
 id: muzika
-rank: 1957
+rank: 1958
 symbol: MZK
 name: Muzika
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "1.14475131419e-06"
-  USD: "0.0124653613416"
+  USD: "0.0124127722217"
+  BTC: "1.14417141149e-06"
 volume:
-  BTC: "15.4001347935"
-  USD: "167694.277815"
+  USD: "165741.704919"
+  BTC: "15.2775638732"
 supply:
   MZK: "0"
 change:
-  24h: "3.03"
-  1h: "-3.63"
-  7d: "-58.65"
+  1h: "-4.12"
+  7d: "-58.69"
+  24h: "2.51"
 isMineable: false

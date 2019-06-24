@@ -1,21 +1,21 @@
 ---
 id: axe
-rank: 1898
+rank: 1899
 symbol: AXE
 name: AXE
 marketCap:
   USD: ""
   BTC: ""
 price:
-  BTC: "5.26872912557e-05"
-  USD: "0.573719475551"
+  USD: "0.571316493111"
+  BTC: "5.26622084621e-05"
 volume:
-  BTC: "118.661237014"
-  USD: "1292119.23873"
+  BTC: "119.38381792"
+  USD: "1295159.20771"
 supply:
   AXE: "0"
 change:
-  7d: "46.77"
-  24h: "-2.30"
-  1h: "-2.24"
+  1h: "-2.68"
+  24h: "-2.80"
+  7d: "46.26"
 isMineable: true

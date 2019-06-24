@@ -7,15 +7,15 @@ marketCap:
   USD: ""
   BTC: ""
 price:
-  BTC: "1.00022192616e-08"
-  USD: "0.000108915600941"
+  USD: "0.000108379593693"
+  BTC: "9.99009975193e-09"
 volume:
   USD: "0.0"
   BTC: "0.0"
 supply:
   COBRA: "0"
 change:
-  7d: "17.24"
-  1h: "0.08"
-  24h: "-1.31"
+  7d: "16.67"
+  24h: "-1.82"
+  1h: "-0.51"
 isMineable: true

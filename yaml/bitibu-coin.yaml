@@ -1,21 +1,21 @@
 ---
 id: bitibu-coin
-rank: 1496
+rank: 1494
 symbol: BTB
 name: Bitibu Coin
 marketCap:
-  BTC: "13.7577528963"
-  USD: "149810.145641"
+  BTC: "13.7906976066"
+  USD: "149611.139074"
 price:
-  USD: "0.0352297820345"
-  BTC: "3.23531249334e-06"
+  USD: "0.0351829830814"
+  BTC: "3.24305986558e-06"
 volume:
-  USD: "0.0"
   BTC: "0.0"
+  USD: "0.0"
 supply:
   BTB: "4252372.19732"
 change:
-  24h: "-2.06"
-  1h: "-7.70"
-  7d: "-6.91"
+  1h: "-7.83"
+  24h: "-2.27"
+  7d: "-7.03"
 isMineable: false

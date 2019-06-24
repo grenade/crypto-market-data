@@ -1,21 +1,21 @@
 ---
 id: pixie-coin
-rank: 2003
+rank: 2004
 symbol: PXC
 name: Pixie Coin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "7.14326983756e-08"
-  USD: "0.000777840903803"
+  USD: "0.000775839053409"
+  BTC: "7.15144730746e-08"
 volume:
-  USD: "55162.2089248"
-  BTC: "5.06579869044"
+  USD: "55020.2416344"
+  BTC: "5.07159773877"
 supply:
   PXC: "0"
 change:
-  24h: "1.25"
-  1h: "-0.23"
-  7d: "5.85"
+  1h: "-0.56"
+  24h: "1.05"
+  7d: "5.59"
 isMineable: false

@@ -1,11 +1,11 @@
 ---
 id: women
-rank: 1499
+rank: 1498
 symbol: WOMEN
 name: WomenCoin
 marketCap:
-  BTC: "15.884311507"
   USD: "148385.157489"
+  BTC: "15.884311507"
 price:
   USD: "3.06204648904e-06"
   BTC: "3.27785481406e-10"
@@ -15,7 +15,7 @@ volume:
 supply:
   WOMEN: "48459472454.0"
 change:
-  7d: "11.25"
-  1h: "0.00"
   24h: "0.00"
+  1h: "0.00"
+  7d: "10.70"
 isMineable: true

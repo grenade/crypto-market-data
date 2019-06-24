@@ -4,11 +4,11 @@ rank: 1804
 symbol: VEC2
 name: VectorAI
 marketCap:
-  USD: "7301.28566166"
   BTC: "0.735760932715"
+  USD: "7301.28566166"
 price:
-  USD: "0.000396823862727"
   BTC: "3.99885046132e-08"
+  USD: "0.000396823862727"
 volume:
   BTC: "0.0"
   USD: "0.0"
@@ -16,6 +16,6 @@ supply:
   VEC2: "18399310.9978"
 change:
   7d: "20.60"
-  1h: "0.00"
   24h: "0.00"
+  1h: "0.00"
 isMineable: true

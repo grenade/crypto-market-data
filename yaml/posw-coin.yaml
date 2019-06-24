@@ -1,6 +1,6 @@
 ---
 id: posw-coin
-rank: 1357
+rank: 1358
 symbol: POSW
 name: PoSW Coin
 marketCap:
@@ -16,6 +16,6 @@ supply:
   POSW: "44100000.0"
 change:
   24h: "0.00"
+  7d: "19.09"
   1h: "0.00"
-  7d: "19.27"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: salpay
-rank: 2121
+rank: 2119
 symbol: SAL
 name: SalPay
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.0126089074863"
-  BTC: "1.15793381515e-06"
+  BTC: "1.15925944526e-06"
+  USD: "0.0125764577714"
 volume:
-  BTC: "0.00803374480949"
-  USD: "87.4806001402"
+  BTC: "0.00804294203119"
+  USD: "87.2554640177"
 supply:
   SAL: "0"
 change:
-  7d: "24.75"
-  24h: "32.56"
-  1h: "-0.23"
+  24h: "32.22"
+  1h: "-0.58"
+  7d: "24.57"
 isMineable: false

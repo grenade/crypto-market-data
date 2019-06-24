@@ -4,8 +4,8 @@ rank: 1275
 symbol: SIC
 name: Swisscoin
 marketCap:
-  BTC: "91.6948612435"
   USD: "856578.29239"
+  BTC: "91.6948612435"
 price:
   BTC: "1.00020145794e-08"
   USD: "9.34349913692e-05"
@@ -15,7 +15,7 @@ volume:
 supply:
   SIC: "9167639230.63"
 change:
-  24h: "0.00"
-  1h: "0.00"
   7d: "0.39"
+  1h: "0.00"
+  24h: "0.00"
 isMineable: true

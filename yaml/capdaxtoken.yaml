@@ -4,18 +4,18 @@ rank: 2113
 symbol: XCD
 name: CapdaxToken
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.00107637015127"
-  BTC: "9.88480086101e-08"
+  USD: "0.00107360005365"
+  BTC: "9.89611721561e-08"
 volume:
-  USD: "179.19184854"
-  BTC: "0.0164560094558"
+  USD: "178.730688489"
+  BTC: "0.0164748486859"
 supply:
   XCD: "0"
 change:
-  1h: "-0.24"
-  7d: "76.99"
-  24h: "-2.29"
+  1h: "-0.55"
+  7d: "76.53"
+  24h: "-2.50"
 isMineable: false

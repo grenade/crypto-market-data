@@ -1,6 +1,6 @@
 ---
 id: blockcat
-rank: 1383
+rank: 1384
 symbol: CAT
 name: BlockCAT
 marketCap:
@@ -16,6 +16,6 @@ supply:
   CAT: "7360121.11185"
 change:
   7d: "5.11"
-  24h: "0.00"
   1h: "0.00"
+  24h: "0.00"
 isMineable: false

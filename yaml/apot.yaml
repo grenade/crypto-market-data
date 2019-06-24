@@ -4,18 +4,18 @@ rank: 2189
 symbol: APOT
 name: APOT
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "1.67979519182e-06"
-  USD: "0.0182915309084"
+  BTC: "1.67990771638e-06"
+  USD: "0.0182248145929"
 volume:
-  BTC: "0.0"
   USD: "0.0"
+  BTC: "0.0"
 supply:
   APOT: "0"
 change:
-  1h: "-0.06"
-  24h: "-7.16"
-  7d: "91.90"
+  1h: "-0.50"
+  7d: "91.24"
+  24h: "-7.29"
 isMineable: false

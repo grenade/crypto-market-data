@@ -1,21 +1,21 @@
 ---
 id: aces
-rank: 2127
+rank: 2125
 symbol: ACES
 name: Aces
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.000108924298707"
-  BTC: "1.00007985785e-08"
+  BTC: "9.99907909434e-09"
+  USD: "0.000108369612955"
 volume:
-  BTC: "0.00591698247975"
-  USD: "64.4451702542"
+  USD: "64.1169898744"
+  BTC: "0.00591596514525"
 supply:
   ACES: "0"
 change:
-  1h: "0.03"
-  7d: "-27.31"
-  24h: "-1.30"
+  1h: "-0.59"
+  24h: "-1.83"
+  7d: "-28.32"
 isMineable: false

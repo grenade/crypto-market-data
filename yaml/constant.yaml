@@ -4,8 +4,8 @@ rank: 1698
 symbol: CONST
 name: Constant
 marketCap:
-  USD: "29475.3327854"
   BTC: "2.71177837692"
+  USD: "29475.3327854"
 price:
   USD: "0.581297342124"
   BTC: "5.34802973865e-05"
@@ -15,7 +15,7 @@ volume:
 supply:
   CONST: "50706.12"
 change:
+  7d: "-18.13"
+  24h: "-1.52"
   1h: "0.00"
-  24h: "-1.49"
-  7d: "-18.88"
 isMineable: false

@@ -1,11 +1,11 @@
 ---
 id: vites
-rank: 1194
+rank: 1195
 symbol: VITES
 name: Vites
 marketCap:
-  BTC: "364.373250803"
   USD: "3897797.36254"
+  BTC: "364.373250803"
 price:
   USD: "0.000106792738277"
   BTC: "9.98318116332e-09"
@@ -15,7 +15,7 @@ volume:
 supply:
   VITES: "36498711667.4"
 change:
-  7d: "14.94"
   1h: "0.00"
-  24h: "-3.19"
+  24h: "-3.26"
+  7d: "14.94"
 isMineable: true

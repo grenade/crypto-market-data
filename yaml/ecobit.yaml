@@ -1,6 +1,6 @@
 ---
 id: ecobit
-rank: 1178
+rank: 1179
 symbol: ECOB
 name: Ecobit
 marketCap:
@@ -10,12 +10,12 @@ price:
   BTC: "1.57999537953e-06"
   USD: "0.0169023206875"
 volume:
-  BTC: "0.0"
   USD: "0.0"
+  BTC: "0.0"
 supply:
   ECOB: "444444444.4"
 change:
-  7d: "-10.07"
+  7d: "-10.03"
   1h: "0.00"
   24h: "0.00"
 isMineable: false

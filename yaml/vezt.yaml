@@ -1,21 +1,21 @@
 ---
 id: vezt
-rank: 1207
+rank: 1208
 symbol: VZT
 name: Vezt
 marketCap:
   BTC: "291.815035972"
   USD: "3183547.05812"
 price:
-  BTC: "3.3962322575e-06"
   USD: "0.0370510901744"
+  BTC: "3.3962322575e-06"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   VZT: "85923168.3369"
 change:
-  1h: "0.17"
-  7d: "26.40"
-  24h: "13.67"
+  1h: "0.09"
+  7d: "26.45"
+  24h: "11.44"
 isMineable: false

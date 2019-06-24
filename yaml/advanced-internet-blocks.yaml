@@ -1,21 +1,21 @@
 ---
 id: advanced-internet-blocks
-rank: 1491
+rank: 1489
 symbol: AIB
 name: Advanced Internet Blocks
 marketCap:
-  BTC: "13.9978544232"
-  USD: "152458.47264"
+  BTC: "14.0308804653"
+  USD: "152066.112399"
 price:
-  USD: "0.00464069302363"
-  BTC: "4.26081569905e-07"
+  BTC: "4.27086851674e-07"
+  USD: "0.00462874994561"
 volume:
-  BTC: "0.0233172573213"
-  USD: "253.961309345"
+  BTC: "0.0233722712325"
+  USD: "253.307725987"
 supply:
   AIB: "32852522.6433"
 change:
-  24h: "-46.35"
-  7d: "12.29"
-  1h: "-0.21"
+  1h: "-0.56"
+  7d: "11.89"
+  24h: "-50.27"
 isMineable: true

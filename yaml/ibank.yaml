@@ -4,8 +4,8 @@ rank: 1815
 symbol: IBANK
 name: iBank
 marketCap:
-  BTC: "0.632844745233"
   USD: "5820.21682655"
+  BTC: "0.632844745233"
 price:
   BTC: "1.39814283121e-07"
   USD: "0.00128585952454"
@@ -15,7 +15,7 @@ volume:
 supply:
   IBANK: "4526324.0"
 change:
-  24h: "0.00"
+  7d: "25.84"
   1h: "0.00"
-  7d: "25.83"
+  24h: "0.00"
 isMineable: true
