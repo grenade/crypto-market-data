@@ -1,21 +1,21 @@
 ---
 id: bitcloud
-rank: 1471
+rank: 1477
 symbol: BTDX
 name: Bitcloud
 marketCap:
-  BTC: "18.2894715953"
-  USD: "170853.242323"
+  USD: "170872.050778"
+  BTC: "18.2914849999"
 price:
-  BTC: "6.10122889343e-07"
   USD: "0.00569953447352"
+  BTC: "6.10122889343e-07"
 volume:
   BTC: "0"
   USD: "0"
 supply:
-  BTDX: "29976701.2756"
+  BTDX: "29980001.2742"
 change:
-  7d: "0.39"
-  1h: "0.00"
   24h: "0.00"
+  1h: "0.00"
+  7d: "0.00"
 isMineable: false

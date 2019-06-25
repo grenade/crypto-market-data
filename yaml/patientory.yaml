@@ -1,21 +1,21 @@
 ---
 id: patientory
-rank: 849
+rank: 853
 symbol: PTOY
 name: Patientory
 marketCap:
-  USD: "955501.829184"
-  BTC: "87.79568833"
+  USD: "992360.990768"
+  BTC: "88.2837325755"
 price:
-  USD: "0.0136500261312"
-  BTC: "1.254224119e-06"
+  BTC: "1.26119617965e-06"
+  USD: "0.0141765855824"
 volume:
-  USD: "4586.78789564"
-  BTC: "0.42145413878"
+  BTC: "0.888580540269"
+  USD: "9988.167011"
 supply:
   PTOY: "70000000.0"
 change:
-  24h: "-8.70"
-  7d: "-11.90"
-  1h: "0.19"
+  1h: "0.67"
+  7d: "-6.16"
+  24h: "-0.63"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: hashnet-biteco
-rank: 951
+rank: 953
 symbol: HNB
 name: HashNet BitEco
 marketCap:
-  BTC: "46.8690260605"
-  USD: "510087.009792"
+  USD: "510075.387176"
+  BTC: "45.3780020514"
 price:
-  USD: "0.0197523685356"
-  BTC: "1.81493403651e-06"
+  BTC: "1.75719632675e-06"
+  USD: "0.0197519184669"
 volume:
-  USD: "66608.457853"
-  BTC: "6.12027651564"
+  BTC: "5.70985436784"
+  USD: "64182.1156889"
 supply:
   HNB: "25824093.3928"
 change:
-  7d: "8.14"
-  24h: "-5.54"
-  1h: "-0.14"
+  1h: "-0.33"
+  7d: "-8.37"
+  24h: "13.80"
 isMineable: false

@@ -4,8 +4,8 @@ rank: 1828
 symbol: CREVA
 name: CrevaCoin
 marketCap:
-  USD: "3140.52767176"
   BTC: "0.364015647283"
+  USD: "3140.52767176"
 price:
   USD: "8.6300163414e-05"
   BTC: "1.00029718344e-08"
@@ -15,7 +15,7 @@ volume:
 supply:
   CREVA: "36390750.0"
 change:
-  7d: "0.00"
   24h: "0.00"
+  7d: "0.00"
   1h: "0.00"
 isMineable: true

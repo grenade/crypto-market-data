@@ -1,21 +1,21 @@
 ---
 id: solaris
-rank: 1262
+rank: 1270
 symbol: XLR
 name: Solaris
 marketCap:
-  USD: "955930.168115"
-  BTC: "102.309654457"
+  BTC: "102.317183161"
+  USD: "956000.512559"
 price:
   USD: "0.565074050383"
   BTC: "6.04777762702e-05"
 volume:
-  BTC: "0"
   USD: "0"
+  BTC: "0"
 supply:
-  XLR: "1691690.08463"
+  XLR: "1691814.57176"
 change:
   1h: "0.00"
-  7d: "-0.79"
+  7d: "0.00"
   24h: "0.00"
 isMineable: false

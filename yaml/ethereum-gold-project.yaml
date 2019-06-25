@@ -1,21 +1,21 @@
 ---
 id: ethereum-gold-project
-rank: 1590
+rank: 1592
 symbol: ETGP
 name: Ethereum Gold Project
 marketCap:
-  BTC: "6.32046422111"
-  USD: "68787.14934"
+  USD: "70936.5599803"
+  BTC: "6.31075218533"
 price:
-  USD: "2.18114714434e-05"
-  BTC: "2.00413342013e-09"
+  BTC: "2.0010538654e-09"
+  USD: "2.24930203846e-05"
 volume:
-  USD: "187.275933378"
-  BTC: "0.01720773208"
+  USD: "191.76249455"
+  BTC: "0.0170598289779"
 supply:
   ETGP: "3153714297.48"
 change:
-  1h: "-0.31"
-  7d: "23.69"
-  24h: "0.34"
+  7d: "27.17"
+  24h: "-8.04"
+  1h: "0.80"
 isMineable: false

@@ -1,11 +1,11 @@
 ---
 id: magnet
-rank: 1480
+rank: 1486
 symbol: MAG
 name: Magnet
 marketCap:
-  BTC: "17.3294543994"
   USD: "161885.129179"
+  BTC: "17.3294543994"
 price:
   BTC: "4.30086626914e-07"
   USD: "0.00401770462888"
@@ -15,7 +15,7 @@ volume:
 supply:
   MAG: "40292939.4101"
 change:
-  1h: "0.00"
+  7d: "0.00"
   24h: "0.00"
-  7d: "0.39"
+  1h: "0.00"
 isMineable: true

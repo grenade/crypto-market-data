@@ -1,21 +1,21 @@
 ---
 id: joint-ventures
-rank: 1096
+rank: 1103
 symbol: JOINT
 name: Joint Ventures
 marketCap:
-  BTC: "9.29162901616"
-  USD: "101123.058432"
+  BTC: "8.71547832656"
+  USD: "97967.0937651"
 price:
-  USD: "0.00456989656735"
-  BTC: "4.19902089638e-07"
+  USD: "0.00442727398136"
+  BTC: "3.93865010662e-07"
 volume:
-  USD: "918.033253972"
-  BTC: "0.0843529117168"
+  USD: "1010.08365704"
+  BTC: "0.0898603998811"
 supply:
   JOINT: "22128084.7261"
 change:
-  24h: "20.20"
-  7d: "21.87"
-  1h: "-0.54"
+  24h: "16.45"
+  7d: "16.45"
+  1h: "0.60"
 isMineable: false

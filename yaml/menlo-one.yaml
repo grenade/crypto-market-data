@@ -4,8 +4,8 @@ rank: 1536
 symbol: ONE
 name: Menlo One
 marketCap:
-  BTC: "10.2136523743"
   USD: "110843.228173"
+  BTC: "10.2136523743"
 price:
   BTC: "3.39996471596e-08"
   USD: "0.000368979725354"
@@ -15,7 +15,7 @@ volume:
 supply:
   ONE: "300404657.917"
 change:
-  24h: "-2.20"
-  7d: "12.71"
   1h: "0.00"
+  24h: "0.57"
+  7d: "13.47"
 isMineable: false

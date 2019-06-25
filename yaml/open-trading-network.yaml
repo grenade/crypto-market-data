@@ -1,21 +1,21 @@
 ---
 id: open-trading-network
-rank: 1577
+rank: 1579
 symbol: OTN
 name: Open Trading Network
 marketCap:
-  USD: "76468.9624125"
-  BTC: "7.02630281368"
+  USD: "78083.3625237"
+  BTC: "7.023851015"
 price:
-  BTC: "3.47058527131e-06"
-  USD: "0.0377712236006"
+  USD: "0.0385686434381"
+  BTC: "3.46937422524e-06"
 volume:
-  BTC: "0.000105007708252"
-  USD: "1.14282442819"
+  BTC: "0.0"
+  USD: "0.0"
 supply:
   OTN: "2024529.65837"
 change:
-  7d: "18.44"
-  1h: "-0.32"
-  24h: "-1.07"
+  7d: "22.85"
+  1h: "0.00"
+  24h: "3.43"
 isMineable: false

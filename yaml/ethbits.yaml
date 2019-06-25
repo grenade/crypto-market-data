@@ -1,21 +1,21 @@
 ---
 id: ethbits
-rank: 1336
+rank: 1340
 symbol: ETBS
 name: Ethbits
 marketCap:
-  USD: "458614.79308"
   BTC: "50.2049966872"
+  USD: "458614.79308"
 price:
   BTC: "3.07122287784e-05"
   USD: "0.280551406745"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   ETBS: "1634690.76274"
 change:
   7d: "0.00"
-  1h: "0.00"
   24h: "0.00"
+  1h: "0.00"
 isMineable: false

@@ -1,6 +1,6 @@
 {
   "id": "playgroundz",
-  "rank": 1214,
+  "rank": 1215,
   "symbol": "IOG",
   "name": "Playgroundz",
   "marketCap": {
@@ -12,15 +12,15 @@
     "BTC": "1.03562802254e-05"
   },
   "volume": {
-    "BTC": "0.0",
-    "USD": "0.0"
+    "USD": "0.0",
+    "BTC": "0.0"
   },
   "supply": {
     "IOG": "28545120.0"
   },
   "change": {
-    "1h": "0.00",
     "24h": "0.00",
+    "1h": "0.00",
     "7d": "0.00"
   },
   "isMineable": false

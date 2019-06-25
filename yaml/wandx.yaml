@@ -1,21 +1,21 @@
 ---
 id: wandx
-rank: 1397
+rank: 1392
 symbol: WAND
 name: WandX
 marketCap:
-  BTC: "27.3770475891"
-  USD: "295689.007164"
+  USD: "300625.410139"
+  BTC: "26.7446358342"
 price:
-  BTC: "2.23593154332e-06"
-  USD: "0.0241494403653"
+  USD: "0.0245526050632"
+  BTC: "2.18428136495e-06"
 volume:
-  BTC: "0.0"
   USD: "0.0"
+  BTC: "0.0"
 supply:
   WAND: "12244134.9651"
 change:
-  24h: "-1.82"
-  1h: "0.00"
-  7d: "15.28"
+  24h: "2.12"
+  1h: "0.48"
+  7d: "18.61"
 isMineable: false

@@ -4,18 +4,18 @@ rank: 2019
 symbol: LPT
 name: Livepeer
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "7.25998521109"
-  BTC: "0.000667079203206"
+  BTC: "0.000687037184898"
+  USD: "7.72270135857"
 volume:
-  BTC: "3.3442889775"
-  USD: "36396.7103181"
+  USD: "35815.9458604"
+  BTC: "3.1863056042"
 supply:
   LPT: "0"
 change:
-  1h: "-3.10"
-  7d: "5.59"
-  24h: "-6.41"
+  1h: "0.41"
+  24h: "2.54"
+  7d: "11.66"
 isMineable: false

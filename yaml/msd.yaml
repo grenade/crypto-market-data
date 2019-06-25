@@ -1,21 +1,21 @@
 ---
 id: msd
-rank: 1969
+rank: 1967
 symbol: MSD
 name: MSD
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.0180338634764"
-  BTC: "1.65703027331e-06"
+  BTC: "1.65727960229e-06"
+  USD: "0.0186287958169"
 volume:
-  BTC: "11.9200654474"
-  USD: "129728.971384"
+  USD: "132007.281254"
+  BTC: "11.743806563"
 supply:
   MSD: "0"
 change:
-  7d: "311.15"
-  1h: "0.58"
-  24h: "1.92"
+  7d: "315.95"
+  24h: "5.79"
+  1h: "1.64"
 isMineable: false

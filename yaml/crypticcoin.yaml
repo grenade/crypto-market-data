@@ -1,21 +1,21 @@
 ---
 id: crypticcoin
-rank: 617
+rank: 634
 symbol: CRYP
 name: CrypticCoin
 marketCap:
-  USD: "3036407.1395"
-  BTC: "278.99837208"
+  USD: "2859376.12603"
+  BTC: "254.379605399"
 price:
-  BTC: "1.09411380668e-07"
-  USD: "0.00119075066613"
+  USD: "0.00112132657788"
+  BTC: "9.97569399167e-08"
 volume:
-  BTC: "6.63401045397"
-  USD: "72199.5492508"
+  USD: "64370.5270219"
+  BTC: "5.72661606635"
 supply:
   CRYP: "2549994071.7"
 change:
-  1h: "8.82"
-  7d: "75.60"
-  24h: "-3.22"
+  24h: "-3.74"
+  7d: "91.48"
+  1h: "5.60"
 isMineable: true

@@ -1,21 +1,21 @@
 ---
 id: condensate
-rank: 1579
+rank: 1587
 symbol: RAIN
 name: Condensate
 marketCap:
-  USD: "75165.3889372"
-  BTC: "9.41700420948"
+  BTC: "9.42970416184"
+  USD: "75266.7584212"
 price:
   BTC: "1.00018938594e-08"
   USD: "7.98339074005e-05"
 volume:
-  BTC: "0"
   USD: "0"
+  BTC: "0"
 supply:
-  RAIN: "941522109.899"
+  RAIN: "942791864.66"
 change:
-  24h: "0.00"
   1h: "0.00"
   7d: "0.00"
+  24h: "0.00"
 isMineable: true

@@ -1,21 +1,21 @@
 ---
 id: matrexcoin
-rank: 2099
+rank: 2093
 symbol: MAC
 name: Matrexcoin
 marketCap:
   USD: ""
   BTC: ""
 price:
-  BTC: "7.19195962852e-06"
-  USD: "0.0782718458181"
+  BTC: "6.00061715952e-06"
+  USD: "0.0674504601915"
 volume:
-  USD: "491.662064818"
-  BTC: "0.0451760615082"
+  USD: "938.8024907"
+  BTC: "0.0835189903687"
 supply:
   MAC: "0"
 change:
-  24h: "14.54"
-  7d: "55.44"
-  1h: "-0.43"
+  7d: "63.55"
+  24h: "-8.58"
+  1h: "0.74"
 isMineable: false

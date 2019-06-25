@@ -1,21 +1,21 @@
 ---
 id: first-bitcoin
-rank: 2106
+rank: 2111
 symbol: BIT
 name: First Bitcoin
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.00772840598167"
-  BTC: "7.1011975292e-07"
+  USD: "0.00832650204136"
+  BTC: "7.40262859809e-07"
 volume:
-  USD: "298.190587042"
-  BTC: "0.0273990557038"
+  BTC: "0.0313821053676"
+  USD: "352.986997717"
 supply:
   BIT: "0"
 change:
-  24h: "-10.46"
-  1h: "8.25"
-  7d: "-0.89"
+  24h: "0.03"
+  7d: "6.71"
+  1h: "-1.82"
 isMineable: true

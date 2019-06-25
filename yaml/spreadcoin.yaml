@@ -1,21 +1,21 @@
 ---
 id: spreadcoin
-rank: 1503
+rank: 1508
 symbol: SPR
 name: SpreadCoin
 marketCap:
-  BTC: "12.9332410676"
   USD: "142957.86431"
+  BTC: "12.9332410676"
 price:
   BTC: "1.15896938118e-06"
   USD: "0.0128106935198"
 volume:
-  USD: "0.0"
   BTC: "0.0"
+  USD: "0.0"
 supply:
   SPR: "11159260.3546"
 change:
-  24h: "0.06"
   7d: "55.32"
   1h: "0.00"
+  24h: "2.76"
 isMineable: true

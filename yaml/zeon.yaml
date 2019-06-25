@@ -1,21 +1,21 @@
 ---
 id: zeon
-rank: 2008
+rank: 1915
 symbol: ZEON
 name: ZEON
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.000294398323233"
-  BTC: "2.70506059141e-08"
+  BTC: "2.99654112715e-08"
+  USD: "0.000336828817164"
 volume:
-  USD: "44003.6559403"
-  BTC: "4.04324842122"
+  BTC: "65.7995194465"
+  USD: "739625.233382"
 supply:
   ZEON: "0"
 change:
-  1h: "0.64"
-  24h: "-25.68"
-  7d: "-10.76"
+  24h: "-8.60"
+  7d: "-6.20"
+  1h: "0.75"
 isMineable: false

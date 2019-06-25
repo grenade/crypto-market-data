@@ -1,15 +1,15 @@
 {
   "id": "cottoncoin",
-  "rank": 2224,
+  "rank": 2227,
   "symbol": "COTN",
   "name": "CottonCoin",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
-    "BTC": "3.29809041712e-07",
-    "USD": "0.00308157049659"
+    "USD": "0.00308157049659",
+    "BTC": "3.29809041712e-07"
   },
   "volume": {
     "USD": "0",
@@ -19,9 +19,9 @@
     "COTN": "0"
   },
   "change": {
-    "24h": "0.00",
     "1h": "0.00",
-    "7d": "0.36"
+    "7d": "0.00",
+    "24h": "0.00"
   },
   "isMineable": true
 }

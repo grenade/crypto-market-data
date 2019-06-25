@@ -1,21 +1,21 @@
 ---
 id: aston
-rank: 1216
+rank: 1210
 symbol: ATX
 name: Aston
 marketCap:
-  USD: "2433488.20512"
-  BTC: "223.599542655"
+  USD: "3111938.81175"
+  BTC: "276.848421496"
 price:
-  BTC: "2.71358668271e-07"
-  USD: "0.00295326238486"
+  USD: "0.00377662477154"
+  BTC: "3.35981094048e-07"
 volume:
-  BTC: "0.0"
   USD: "0.0"
+  BTC: "0.0"
 supply:
   ATX: "824000000.0"
 change:
-  24h: "-19.75"
-  7d: "-28.60"
-  1h: "0.01"
+  24h: "22.47"
+  1h: "0.04"
+  7d: "-8.82"
 isMineable: false

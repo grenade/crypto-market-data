@@ -1,21 +1,21 @@
 ---
 id: global-awards-token
-rank: 939
+rank: 945
 symbol: GAT
 name: Global Awards Token
 marketCap:
-  USD: "547617.923001"
-  BTC: "50.3175305617"
+  USD: "559478.754865"
+  BTC: "49.7730898692"
 price:
-  BTC: "7.33699887808e-08"
-  USD: "0.000798503432466"
+  USD: "0.00081579818225"
+  BTC: "7.25761181942e-08"
 volume:
-  USD: "745.526108006"
-  BTC: "0.0685022004367"
+  BTC: "0.0578717678907"
+  USD: "650.512651041"
 supply:
   GAT: "685805346.271"
 change:
-  1h: "-0.52"
-  24h: "-45.96"
-  7d: "65.43"
+  7d: "59.08"
+  1h: "0.61"
+  24h: "-41.32"
 isMineable: false

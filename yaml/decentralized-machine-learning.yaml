@@ -1,21 +1,21 @@
 ---
 id: decentralized-machine-learning
-rank: 1072
+rank: 1073
 symbol: DML
 name: Decentralized Machine Learning
 marketCap:
-  BTC: "14.4261924783"
-  USD: "157003.761384"
+  USD: "162668.750931"
+  BTC: "14.4715528313"
 price:
-  BTC: "2.28877680002e-07"
-  USD: "0.00249093145758"
+  BTC: "2.29597341297e-07"
+  USD: "0.0025808089264"
 volume:
-  BTC: "2.67334171875"
-  USD: "29094.6281177"
+  BTC: "2.04483787645"
+  USD: "22985.178377"
 supply:
   DML: "63030141.1572"
 change:
-  1h: "-1.15"
-  7d: "8.57"
-  24h: "-3.76"
+  1h: "0.81"
+  24h: "2.59"
+  7d: "13.46"
 isMineable: false

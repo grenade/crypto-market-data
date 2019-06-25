@@ -1,21 +1,21 @@
 ---
 id: bqt
-rank: 1984
+rank: 1979
 symbol: BQTX
 name: BQT
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.000112161313512"
-  USD: "1.22067885408"
+  USD: "1.24757133937"
+  BTC: "0.000110988093565"
 volume:
-  USD: "94124.725001"
-  BTC: "8.64859152326"
+  USD: "111424.153941"
+  BTC: "9.9126631342"
 supply:
   BQTX: "0"
 change:
-  1h: "6.44"
-  7d: "-17.81"
-  24h: "9.77"
+  24h: "14.41"
+  7d: "-14.82"
+  1h: "-1.19"
 isMineable: false

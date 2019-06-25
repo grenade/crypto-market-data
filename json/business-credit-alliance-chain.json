@@ -1,15 +1,15 @@
 {
   "id": "business-credit-alliance-chain",
-  "rank": 1167,
+  "rank": 1169,
   "symbol": "BCAC",
   "name": "Business Credit Alliance Chain",
   "marketCap": {
-    "USD": "19211952.3958",
-    "BTC": "1765.27823729"
+    "BTC": "1723.63305229",
+    "USD": "19374647.555"
   },
   "price": {
-    "USD": "0.0227061466482",
-    "BTC": "2.0863400921e-06"
+    "USD": "0.0228984321623",
+    "BTC": "2.03712064483e-06"
   },
   "volume": {
     "USD": "0.0",
@@ -19,9 +19,9 @@
     "BCAC": "846112407.069"
   },
   "change": {
-    "7d": "168.69",
-    "24h": "28.31",
-    "1h": "0.06"
+    "1h": "-1.85",
+    "7d": "166.58",
+    "24h": "12.32"
   },
   "isMineable": false
 }

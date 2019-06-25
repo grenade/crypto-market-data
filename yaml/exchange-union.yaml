@@ -1,21 +1,21 @@
 ---
 id: exchange-union
-rank: 1905
+rank: 1913
 symbol: XUC
 name: Exchange Union
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "0.00021664476383"
-  USD: "2.35779765568"
+  BTC: "0.000196632771348"
+  USD: "2.21026780472"
 volume:
-  USD: "960318.068627"
-  BTC: "88.2382254808"
+  USD: "755403.875355"
+  BTC: "67.2032398882"
 supply:
   XUC: "0"
 change:
-  24h: "1.93"
-  7d: "-5.72"
-  1h: "0.03"
+  7d: "-11.64"
+  24h: "-4.00"
+  1h: "-3.01"
 isMineable: false

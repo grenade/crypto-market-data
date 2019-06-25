@@ -1,21 +1,21 @@
 ---
 id: the-champcoin
-rank: 974
+rank: 972
 symbol: TCC
 name: The ChampCoin
 marketCap:
-  BTC: "39.3080789257"
-  USD: "427799.3832"
+  USD: "436552.037714"
+  BTC: "38.8371204747"
 price:
-  USD: "0.00245108633701"
-  BTC: "2.25216536004e-07"
+  BTC: "2.22518168802e-07"
+  USD: "0.00250123487096"
 volume:
-  USD: "526321.004506"
-  BTC: "48.3606765176"
+  USD: "562487.999359"
+  BTC: "50.0408022628"
 supply:
   TCC: "174534604.0"
 change:
-  1h: "-7.71"
-  24h: "-1.49"
-  7d: "-2.07"
+  7d: "0.53"
+  1h: "-0.36"
+  24h: "0.53"
 isMineable: true

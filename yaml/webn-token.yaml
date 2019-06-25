@@ -1,21 +1,21 @@
 ---
 id: webn-token
-rank: 1926
+rank: 1924
 symbol: WEBN
 name: WEBN token
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "1.53512591911e-09"
-  USD: "1.67071487408e-05"
+  BTC: "1.5659693195e-09"
+  USD: "1.76024146247e-05"
 volume:
-  BTC: "41.6649882025"
-  USD: "453450.200091"
+  USD: "534054.801274"
+  BTC: "47.5112904426"
 supply:
   WEBN: "0"
 change:
-  24h: "-8.32"
-  7d: "-22.70"
-  1h: "-0.58"
+  24h: "5.72"
+  1h: "-9.48"
+  7d: "-20.59"
 isMineable: false

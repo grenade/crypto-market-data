@@ -1,21 +1,21 @@
 ---
 id: ordocoin
-rank: 2153
+rank: 2159
 symbol: RDC
 name: Ordocoin
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "1.00016866608e-09"
-  USD: "1.08850788474e-05"
+  USD: "1.12480343043e-05"
+  BTC: "1.00066252277e-09"
 volume:
-  USD: "0.0815565294599"
-  BTC: "7.49377073182e-06"
+  BTC: "1.86537083242e-05"
+  USD: "0.209678634263"
 supply:
   RDC: "0"
 change:
-  24h: "-1.36"
-  7d: "157.13"
-  1h: "-0.31"
+  7d: "315.10"
+  1h: "0.80"
+  24h: "5.06"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: javascript-token
-rank: 1771
+rank: 1775
 symbol: JS
 name: JavaScript Token
 marketCap:
-  BTC: "1.03913471723"
-  USD: "11309.1558591"
+  USD: "11686.2518718"
+  BTC: "1.03964781432"
 price:
-  USD: "0.00141506025017"
-  BTC: "1.30021926591e-07"
+  USD: "0.00146224445956"
+  BTC: "1.30086127961e-07"
 volume:
-  USD: "264.104509041"
-  BTC: "0.0242670777325"
+  BTC: "0.0242790601701"
+  USD: "272.910891989"
 supply:
   JS: "7991996.0"
 change:
-  7d: "3.39"
-  24h: "-1.36"
-  1h: "-0.33"
+  1h: "0.80"
+  7d: "-5.83"
+  24h: "4.68"
 isMineable: false

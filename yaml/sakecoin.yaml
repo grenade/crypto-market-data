@@ -1,21 +1,21 @@
 ---
 id: sakecoin
-rank: 1561
+rank: 1562
 symbol: SAKE
 name: SAKECOIN
 marketCap:
   USD: "87680.3185193"
   BTC: "9.38598924562"
 price:
-  USD: "2.00296235951e-05"
   BTC: "2.14412806468e-09"
+  USD: "2.00296235951e-05"
 volume:
-  BTC: "0"
   USD: "0"
+  BTC: "0"
 supply:
   SAKE: "4377532014.17"
 change:
-  1h: "0.00"
-  7d: "0.33"
   24h: "0.00"
+  7d: "0.00"
+  1h: "0.00"
 isMineable: false

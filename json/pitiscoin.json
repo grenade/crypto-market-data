@@ -1,6 +1,6 @@
 {
   "id": "pitiscoin",
-  "rank": 1495,
+  "rank": 1502,
   "symbol": "PTS",
   "name": "PitisCoin",
   "marketCap": {
@@ -12,16 +12,16 @@
     "USD": "0.000271422578745"
   },
   "volume": {
-    "USD": "0",
-    "BTC": "0"
+    "BTC": "0",
+    "USD": "0"
   },
   "supply": {
     "PTS": "547196116.57"
   },
   "change": {
     "7d": "0.00",
-    "24h": "0.00",
-    "1h": "0.00"
+    "1h": "0.00",
+    "24h": "0.00"
   },
   "isMineable": false
 }

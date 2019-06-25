@@ -4,8 +4,8 @@ rank: 1792
 symbol: BNN
 name: BrokerNekoNetwork
 marketCap:
-  USD: "9271.09241336"
   BTC: "0.848573189948"
+  USD: "9271.09241336"
 price:
   BTC: "2.83369124732e-10"
   USD: "3.09595138475e-06"
@@ -15,7 +15,7 @@ volume:
 supply:
   BNN: "2994585915.99"
 change:
-  24h: "-1.52"
+  7d: "-12.50"
+  24h: "1.26"
   1h: "0.00"
-  7d: "-12.53"
 isMineable: false

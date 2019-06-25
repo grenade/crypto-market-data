@@ -1,21 +1,21 @@
 ---
 id: animation-vision-cash
-rank: 2164
+rank: 2153
 symbol: AVH
 name: Animation Vision Cash
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "3.99884924143e-08"
-  USD: "0.00043392046821"
+  USD: "0.00033744102913"
+  BTC: "3.00198756832e-08"
 volume:
-  USD: "0.0"
-  BTC: "0.0"
+  BTC: "0.000120259621987"
+  USD: "1.35178876269"
 supply:
   AVH: "0"
 change:
-  1h: "0.00"
-  24h: "-1.69"
-  7d: "133.57"
+  1h: "0.80"
+  24h: "-21.49"
+  7d: "78.81"
 isMineable: false

@@ -1,6 +1,6 @@
 {
   "id": "boltt-coin",
-  "rank": 2192,
+  "rank": 2196,
   "symbol": "BOLTT",
   "name": "Boltt Coin ",
   "marketCap": {
@@ -8,20 +8,20 @@
     "USD": ""
   },
   "price": {
-    "USD": "3.50255254004",
-    "BTC": "0.000432449403687"
+    "BTC": "0.000432449403687",
+    "USD": "3.50255254004"
   },
   "volume": {
-    "USD": "0.0",
-    "BTC": "0.0"
+    "BTC": "0.0",
+    "USD": "0.0"
   },
   "supply": {
     "BOLTT": "0"
   },
   "change": {
-    "7d": "0.00",
+    "1h": "0.00",
     "24h": "0.00",
-    "1h": "0.00"
+    "7d": "0.00"
   },
   "isMineable": false
 }

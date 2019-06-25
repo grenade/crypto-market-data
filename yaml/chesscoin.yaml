@@ -1,11 +1,11 @@
 ---
 id: chesscoin
-rank: 1534
+rank: 1533
 symbol: CHESS
 name: ChessCoin
 marketCap:
-  USD: "111905.964794"
   BTC: "10.247236322"
+  USD: "111905.964794"
 price:
   BTC: "1.89648551751e-07"
   USD: "0.00207107589681"
@@ -15,7 +15,7 @@ volume:
 supply:
   CHESS: "54032768.6523"
 change:
-  7d: "-13.53"
-  24h: "-1.22"
+  7d: "-13.82"
   1h: "0.00"
+  24h: "0.00"
 isMineable: false

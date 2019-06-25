@@ -1,6 +1,6 @@
 ---
 id: model-x-coin
-rank: 1407
+rank: 1406
 symbol: MODX
 name: MODEL-X-coin
 marketCap:
@@ -15,7 +15,7 @@ volume:
 supply:
   MODX: "12050832.4832"
 change:
-  24h: "-0.80"
-  1h: "0.00"
   7d: "122.38"
+  24h: "1.87"
+  1h: "0.00"
 isMineable: false

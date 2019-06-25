@@ -1,21 +1,21 @@
 ---
 id: flexacoin
-rank: 2001
+rank: 2002
 symbol: FXC
 name: Flexacoin
 marketCap:
   USD: ""
   BTC: ""
 price:
-  BTC: "4.19595172038e-07"
-  USD: "0.00456655630846"
+  BTC: "4.07812338445e-07"
+  USD: "0.00458405013495"
 volume:
-  BTC: "5.20826516159"
-  USD: "56682.8164735"
+  USD: "59330.8903356"
+  BTC: "5.27827323382"
 supply:
   FXC: "0"
 change:
-  24h: "-7.63"
-  1h: "-1.09"
-  7d: "-3.09"
+  24h: "-1.48"
+  7d: "-3.60"
+  1h: "-0.45"
 isMineable: false

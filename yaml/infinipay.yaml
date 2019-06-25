@@ -1,21 +1,21 @@
 ---
 id: infinipay
-rank: 2173
+rank: 2157
 symbol: IFP
 name: Infinipay
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.000276172823555"
-  BTC: "2.50047960914e-08"
+  USD: "0.000359937097739"
+  BTC: "3.20212007288e-08"
 volume:
-  BTC: "0.0"
-  USD: "0.0"
+  USD: "0.575899356382"
+  BTC: "5.1233921166e-05"
 supply:
   IFP: "0"
 change:
-  1h: "0.00"
-  24h: "0.11"
-  7d: "-39.32"
+  24h: "33.99"
+  1h: "0.80"
+  7d: "-20.55"
 isMineable: true

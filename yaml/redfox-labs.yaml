@@ -1,21 +1,21 @@
 ---
 id: redfox-labs
-rank: 2003
+rank: 2010
 symbol: RFOX
 name: RedFOX Labs
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "2.54329512067e-06"
-  USD: "0.0276792993617"
+  USD: "0.028088311281"
+  BTC: "2.49882954358e-06"
 volume:
-  BTC: "5.09116368432"
-  USD: "55408.3726157"
+  BTC: "4.45149150732"
+  USD: "50037.3782771"
 supply:
   RFOX: "0"
 change:
-  24h: "-24.64"
-  7d: "-43.60"
-  1h: "-5.33"
+  1h: "4.50"
+  24h: "-23.96"
+  7d: "-36.99"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: playcoin
-rank: 1923
+rank: 1907
 symbol: PLY
 name: "PlayCoin [QRC20]"
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.2171846225e-06"
-  USD: "0.0241301594957"
+  USD: "0.0246904457543"
+  BTC: "2.19654413104e-06"
 volume:
-  BTC: "44.5406082601"
-  USD: "484746.272568"
+  USD: "843749.422127"
+  BTC: "75.0627534101"
 supply:
   PLY: "0"
 change:
-  7d: "36.14"
-  1h: "3.53"
-  24h: "11.53"
+  1h: "0.37"
+  7d: "36.59"
+  24h: "22.31"
 isMineable: false

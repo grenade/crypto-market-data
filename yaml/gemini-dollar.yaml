@@ -1,21 +1,21 @@
 ---
 id: gemini-dollar
-rank: 228
+rank: 229
 symbol: GUSD
 name: Gemini Dollar
 marketCap:
-  USD: "19437306.8915"
-  BTC: "1785.98479426"
+  BTC: "1705.26189699"
+  USD: "19168144.9826"
 price:
-  USD: "1.00224605748"
-  BTC: "9.20907525289e-05"
+  BTC: "8.90761976351e-05"
+  USD: "1.00126876334"
 volume:
-  USD: "5689609.96041"
-  BTC: "522.786254873"
+  USD: "12766429.9905"
+  BTC: "1135.74405051"
 supply:
-  GUSD: "19393747.42"
+  GUSD: "19143855.96"
 change:
-  1h: "-0.01"
-  24h: "-1.07"
-  7d: "-0.66"
+  7d: "-0.79"
+  1h: "0.04"
+  24h: "0.06"
 isMineable: false

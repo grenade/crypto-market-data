@@ -1,21 +1,21 @@
 ---
 id: blacer-coin
-rank: 1805
+rank: 1804
 symbol: BLCR
 name: Blacer Coin
 marketCap:
-  BTC: "0.65513030103"
-  USD: "7129.94240257"
+  USD: "7335.57393594"
+  BTC: "0.652597042481"
 price:
-  USD: "0.0434094416297"
-  BTC: "3.98864941071e-06"
+  USD: "0.044661394246"
+  BTC: "3.9732260969e-06"
 volume:
   USD: "0.0"
   BTC: "0.0"
 supply:
   BLCR: "164248.655014"
 change:
-  1h: "2.44"
-  7d: "-13.78"
-  24h: "-20.36"
+  1h: "3.24"
+  7d: "-11.63"
+  24h: "-9.60"
 isMineable: true

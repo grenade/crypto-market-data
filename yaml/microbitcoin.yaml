@@ -1,21 +1,21 @@
 ---
 id: microbitcoin
-rank: 2068
+rank: 2077
 symbol: MBC
 name: MicroBitcoin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "8.08812266581e-05"
-  BTC: "7.43172095598e-09"
+  USD: "5.54538494806e-05"
+  BTC: "4.93335879118e-09"
 volume:
-  BTC: "0.411916407686"
-  USD: "4482.98644844"
+  USD: "3719.30376438"
+  BTC: "0.330881626703"
 supply:
   MBC: "0"
 change:
-  7d: "-20.62"
-  24h: "-20.26"
-  1h: "8.11"
+  7d: "-40.45"
+  1h: "-22.32"
+  24h: "-40.61"
 isMineable: true

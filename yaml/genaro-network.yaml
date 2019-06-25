@@ -1,21 +1,21 @@
 ---
 id: genaro-network
-rank: 446
+rank: 457
 symbol: GNX
 name: Genaro Network
 marketCap:
-  BTC: "611.191617061"
-  USD: "6651747.01846"
+  USD: "6455187.06191"
+  BTC: "574.274899557"
 price:
-  USD: "0.0266568063202"
-  BTC: "2.44934398667e-06"
+  USD: "0.0258690943586"
+  BTC: "2.30140062897e-06"
 volume:
-  USD: "428244.768004"
-  BTC: "39.34900283"
+  USD: "469521.596058"
+  BTC: "41.7702019833"
 supply:
   GNX: "249532781.18"
 change:
-  7d: "2.23"
-  1h: "-0.36"
-  24h: "8.18"
+  1h: "1.03"
+  24h: "3.18"
+  7d: "-0.02"
 isMineable: true

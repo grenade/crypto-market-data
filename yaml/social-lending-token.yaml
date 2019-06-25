@@ -1,21 +1,21 @@
 ---
 id: social-lending-token
-rank: 2023
+rank: 2027
 symbol: SLT
 name: Social Lending Token
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "3.85753465415e-07"
-  USD: "0.00419824878453"
+  BTC: "3.8643060184e-07"
+  USD: "0.00434370686102"
 volume:
-  USD: "30982.1549375"
-  BTC: "2.84677594077"
+  BTC: "2.50187814044"
+  USD: "28122.5792997"
 supply:
   SLT: "0"
 change:
-  1h: "-0.34"
-  24h: "-1.73"
-  7d: "13.00"
+  7d: "17.47"
+  1h: "0.63"
+  24h: "4.81"
 isMineable: false

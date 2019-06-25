@@ -1,21 +1,21 @@
 ---
 id: digitalcoin
-rank: 1592
+rank: 1599
 symbol: DGC
 name: Digitalcoin
 marketCap:
-  BTC: "7.21667503569"
-  USD: "67415.4155966"
+  USD: "67422.9169152"
+  BTC: "7.21747803569"
 price:
-  USD: "0.00205515578267"
   BTC: "2.2e-07"
+  USD: "0.00205515578267"
 volume:
   BTC: "0"
   USD: "0"
 supply:
-  DGC: "32803068.344"
+  DGC: "32806718.344"
 change:
-  24h: "0.00"
-  7d: "0.38"
   1h: "0.00"
+  7d: "0.00"
+  24h: "0.00"
 isMineable: true

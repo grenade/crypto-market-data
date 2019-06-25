@@ -1,21 +1,21 @@
 ---
 id: beekan
-rank: 1928
+rank: 1937
 symbol: BKBT
 name: BeeKan
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.00127143692664"
-  BTC: "1.16825187282e-07"
+  USD: "0.00117113920165"
+  BTC: "1.04188436516e-07"
 volume:
-  USD: "436273.258281"
-  BTC: "40.0866956408"
+  USD: "381233.817144"
+  BTC: "33.9158276823"
 supply:
   BKBT: "0"
 change:
-  24h: "-0.42"
-  7d: "35.44"
-  1h: "-0.56"
+  24h: "-3.12"
+  7d: "24.73"
+  1h: "-0.97"
 isMineable: false

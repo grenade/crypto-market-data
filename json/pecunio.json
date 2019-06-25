@@ -1,11 +1,11 @@
 {
   "id": "pecunio",
-  "rank": 2170,
+  "rank": 2177,
   "symbol": "PCO",
   "name": "Pecunio",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "USD": "0.0494027369054",
@@ -20,8 +20,8 @@
   },
   "change": {
     "7d": "0.00",
-    "1h": "0.00",
-    "24h": "0.00"
+    "24h": "0.00",
+    "1h": "0.00"
   },
   "isMineable": false
 }

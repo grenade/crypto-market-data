@@ -1,21 +1,21 @@
 ---
 id: invictus-hyperion-fund
-rank: 472
+rank: 471
 symbol: IHF
 name: Invictus Hyperion Fund
 marketCap:
-  USD: "6018573.41045"
-  BTC: "553.012855859"
+  USD: "6113886.09912"
+  BTC: "543.911631345"
 price:
-  BTC: "4.61905624141e-06"
-  USD: "0.0502703124916"
+  BTC: "4.54303799436e-06"
+  USD: "0.0510664145439"
 volume:
-  BTC: "0.339487431014"
-  USD: "3694.72427962"
+  BTC: "0.5622674899"
+  USD: "6320.21672709"
 supply:
   IHF: "119724209.223"
 change:
-  7d: "36.14"
-  1h: "-0.52"
-  24h: "-9.06"
+  24h: "-18.47"
+  7d: "36.49"
+  1h: "0.69"
 isMineable: false

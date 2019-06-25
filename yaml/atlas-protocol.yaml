@@ -1,21 +1,21 @@
 ---
 id: atlas-protocol
-rank: 1881
+rank: 1888
 symbol: ATP
 name: Atlas Protocol
 marketCap:
   USD: ""
   BTC: ""
 price:
-  BTC: "1.69453563644e-06"
-  USD: "0.0184420434652"
+  BTC: "1.61731802749e-06"
+  USD: "0.0181796042524"
 volume:
-  USD: "2181952.05078"
-  BTC: "200.487300338"
+  BTC: "171.930958602"
+  USD: "1932604.92555"
 supply:
   ATP: "0"
 change:
-  1h: "0.33"
-  24h: "-0.46"
-  7d: "-31.01"
+  24h: "0.05"
+  1h: "-1.24"
+  7d: "-31.47"
 isMineable: false

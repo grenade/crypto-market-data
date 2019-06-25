@@ -1,21 +1,21 @@
 ---
 id: carinet
-rank: 2227
+rank: 2230
 symbol: CIT
 name: CariNet
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "3.2196356716e-07"
   USD: "0.00300766039481"
+  BTC: "3.2196356716e-07"
 volume:
   USD: "0"
   BTC: "0"
 supply:
   CIT: "0"
 change:
+  7d: "0.00"
   24h: "0.00"
-  7d: "-4.90"
   1h: "0.00"
 isMineable: false

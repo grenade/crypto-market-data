@@ -1,6 +1,6 @@
 ---
 id: bitcoen
-rank: 1690
+rank: 1694
 symbol: BEN
 name: BitCoen
 marketCap:
@@ -15,7 +15,7 @@ volume:
 supply:
   BEN: "7000000.0"
 change:
-  24h: "0.00"
-  7d: "2.48"
   1h: "0.00"
+  7d: "0.00"
+  24h: "0.00"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: pundi-x-nem
-rank: 721
+rank: 727
 symbol: NPXSXEM
 name: Pundi X NEM
 marketCap:
-  BTC: "171.22956565"
-  USD: "1863533.00829"
+  USD: "1832359.0225"
+  BTC: "163.012749825"
 price:
-  BTC: "7.0323238553e-08"
-  USD: "0.000765344908726"
+  BTC: "6.69486279991e-08"
+  USD: "0.000752541888223"
 volume:
-  USD: "1751566.84454"
-  BTC: "160.941624679"
+  USD: "1772006.9403"
+  BTC: "157.643627969"
 supply:
   NPXSXEM: "2434893062.0"
 change:
-  24h: "-22.47"
-  1h: "-1.69"
-  7d: "-7.19"
+  24h: "-19.10"
+  1h: "1.35"
+  7d: "-7.98"
 isMineable: false

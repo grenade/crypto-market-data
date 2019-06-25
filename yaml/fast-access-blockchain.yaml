@@ -1,21 +1,21 @@
 ---
 id: fast-access-blockchain
-rank: 1211
+rank: 1219
 symbol: FAB
 name: Fast Access Blockchain
 marketCap:
-  USD: "2652762.02145"
-  BTC: "243.74738021"
+  BTC: "207.117450593"
+  USD: "2328121.75561"
 price:
-  BTC: "8.60686406852e-06"
-  USD: "0.0936705949624"
+  USD: "0.0822073552882"
+  BTC: "7.31343960265e-06"
 volume:
-  USD: "65.0383042002"
-  BTC: "0.00597600392869"
+  USD: "40.1993967359"
+  BTC: "0.00357627196569"
 supply:
   FAB: "28320115.0"
 change:
-  1h: "-0.41"
-  24h: "1.00"
-  7d: "9.33"
+  7d: "-1.04"
+  1h: "0.58"
+  24h: "-8.71"
 isMineable: false

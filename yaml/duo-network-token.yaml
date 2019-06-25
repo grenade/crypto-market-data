@@ -1,21 +1,21 @@
 ---
 id: duo-network-token
-rank: 1892
+rank: 1895
 symbol: DUO
 name: DUO Network Token
 marketCap:
   USD: ""
   BTC: ""
 price:
-  BTC: "3.10175001376e-05"
-  USD: "0.33757099787"
+  BTC: "2.98838547129e-05"
+  USD: "0.335912073558"
 volume:
-  BTC: "143.565824366"
-  USD: "1562461.78371"
+  USD: "1525417.86047"
+  BTC: "135.706243708"
 supply:
   DUO: "0"
 change:
-  1h: "-0.15"
-  24h: "-3.53"
-  7d: "-13.43"
+  24h: "-7.39"
+  7d: "-11.38"
+  1h: "-1.13"
 isMineable: false

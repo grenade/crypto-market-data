@@ -1,21 +1,21 @@
 ---
 id: beldex
-rank: 2055
+rank: 2051
 symbol: BDX
 name: Beldex
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "5.05968259429e-06"
-  USD: "0.0550657562563"
+  BTC: "4.96767664357e-06"
+  USD: "0.0558396022916"
 volume:
-  BTC: "0.855977148238"
-  USD: "9315.80748938"
+  BTC: "0.94246510089"
+  USD: "10593.8611112"
 supply:
   BDX: "0"
 change:
-  7d: "-3.50"
-  1h: "-0.34"
-  24h: "-11.61"
+  24h: "-0.11"
+  7d: "-3.19"
+  1h: "-0.54"
 isMineable: false

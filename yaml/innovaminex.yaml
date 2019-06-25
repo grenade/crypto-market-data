@@ -1,21 +1,21 @@
 ---
 id: innovaminex
-rank: 1985
+rank: 1993
 symbol: MINX
 name: InnovaMinex
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "1.5011914323e-05"
-  USD: "0.163378314676"
+  BTC: "1.31356663985e-05"
+  USD: "0.147652603048"
 volume:
-  USD: "92307.1091188"
-  BTC: "8.48158102404"
+  BTC: "6.96849758284"
+  USD: "78330.0044497"
 supply:
   MINX: "0"
 change:
-  7d: "-63.94"
-  24h: "-16.24"
-  1h: "-0.38"
+  24h: "-22.58"
+  7d: "-55.18"
+  1h: "0.73"
 isMineable: false

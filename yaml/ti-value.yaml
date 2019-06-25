@@ -1,21 +1,21 @@
 ---
 id: ti-value
-rank: 1939
+rank: 1941
 symbol: TV
 name: Ti-Value
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.0421713189434"
-  BTC: "3.87488528158e-06"
+  USD: "0.0426206535916"
+  BTC: "3.79167502439e-06"
 volume:
-  BTC: "26.8085892377"
-  USD: "291764.396883"
+  USD: "284818.105673"
+  BTC: "25.3383654817"
 supply:
   TV: "0"
 change:
-  24h: "-8.13"
-  7d: "3.70"
-  1h: "-7.93"
+  7d: "6.90"
+  1h: "-5.34"
+  24h: "-5.79"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: revolutionvr
-rank: 673
+rank: 670
 symbol: RVR
 name: RevolutionVR
 marketCap:
-  BTC: "207.322484474"
-  USD: "2256341.02214"
+  USD: "2315667.72988"
+  BTC: "205.873103444"
 price:
-  BTC: "9.87249926069e-07"
-  USD: "0.0107444810578"
+  BTC: "9.80348111639e-07"
+  USD: "0.0110269891899"
 volume:
-  BTC: "1.2947828113"
-  USD: "14091.4362439"
+  BTC: "2.00442962729"
+  USD: "22545.8932084"
 supply:
   RVR: "210000000.0"
 change:
-  7d: "-4.07"
-  24h: "-4.94"
-  1h: "-0.37"
+  1h: "-1.19"
+  7d: "-1.82"
+  24h: "-0.03"
 isMineable: false

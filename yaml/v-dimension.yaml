@@ -1,21 +1,21 @@
 ---
 id: v-dimension
-rank: 1863
+rank: 1860
 symbol: VOLLAR
 name: V-Dimension
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "0.000267835182563"
-  USD: "2.91491543294"
+  BTC: "0.000320298144282"
+  USD: "3.60033920778"
 volume:
-  BTC: "929.103849609"
-  USD: "10111663.1658"
+  BTC: "1200.57853294"
+  USD: "13495207.6411"
 supply:
   VOLLAR: "0"
 change:
-  7d: "-3.98"
-  24h: "-0.97"
   1h: "-0.25"
+  24h: "23.02"
+  7d: "20.16"
 isMineable: false

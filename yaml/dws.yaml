@@ -1,21 +1,21 @@
 ---
 id: dws
-rank: 2025
+rank: 2028
 symbol: DWS
 name: DWS
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.00125899812577"
-  BTC: "1.15682255839e-07"
+  USD: "0.00140217169573"
+  BTC: "1.24741855194e-07"
 volume:
-  BTC: "2.69594010338"
-  USD: "29340.5718339"
+  USD: "26149.8333355"
+  BTC: "2.3263761016"
 supply:
   DWS: "0"
 change:
-  1h: "7.15"
-  7d: "-29.66"
-  24h: "-5.77"
+  24h: "7.70"
+  7d: "-19.97"
+  1h: "-2.79"
 isMineable: false

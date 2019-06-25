@@ -1,21 +1,21 @@
 ---
 id: carry
-rank: 1860
+rank: 1862
 symbol: CRE
 name: Carry
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.0328868034954"
-  BTC: "3.021783383e-06"
+  BTC: "2.98920387161e-06"
+  USD: "0.0336004066559"
 volume:
-  USD: "12978653.2609"
-  BTC: "1192.53544246"
+  BTC: "968.980691043"
+  USD: "10891911.9134"
 supply:
   CRE: "0"
 change:
-  1h: "0.83"
-  7d: "-20.19"
-  24h: "5.04"
+  1h: "0.85"
+  24h: "3.93"
+  7d: "-16.06"
 isMineable: false

@@ -1,6 +1,6 @@
 ---
 id: bowscoin
-rank: 1764
+rank: 1770
 symbol: BSC
 name: BowsCoin
 marketCap:
@@ -15,7 +15,7 @@ volume:
 supply:
   BSC: "5550102.41646"
 change:
-  24h: "-0.28"
-  7d: "44.50"
   1h: "0.00"
+  7d: "44.50"
+  24h: "2.41"
 isMineable: true

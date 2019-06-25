@@ -1,21 +1,21 @@
 ---
 id: veritaseum
-rank: 169
+rank: 168
 symbol: VERI
 name: Veritaseum
 marketCap:
-  BTC: "2911.64535481"
-  USD: "31688144.5476"
+  BTC: "2930.40069558"
+  USD: "32939424.4305"
 price:
-  BTC: "0.00135447639232"
-  USD: "14.7410960044"
+  BTC: "0.0013632012414"
+  USD: "15.3231823697"
 volume:
-  USD: "3252816.48749"
-  BTC: "298.883009753"
+  USD: "3376175.66334"
+  BTC: "300.355810197"
 supply:
   VERI: "2149646.44"
 change:
-  1h: "-1.21"
-  7d: "1.89"
-  24h: "-12.49"
+  1h: "1.66"
+  24h: "-5.34"
+  7d: "6.13"
 isMineable: false

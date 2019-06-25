@@ -1,21 +1,21 @@
 ---
 id: bitqy
-rank: 1488
+rank: 1495
 symbol: BQ
 name: bitqy
 marketCap:
-  BTC: "14.0539446615"
-  USD: "152952.497859"
+  USD: "156265.289103"
+  BTC: "13.9018795804"
 price:
-  BTC: "4.51507623266e-09"
-  USD: "4.91386727672e-05"
+  USD: "5.02029650615e-05"
+  BTC: "4.4662226581e-09"
 volume:
-  USD: "0.0"
   BTC: "0.0"
+  USD: "0.0"
 supply:
   BQ: "3112670514.81"
 change:
-  7d: "-41.90"
-  1h: "-0.54"
-  24h: "4.19"
+  1h: "0.61"
+  24h: "9.46"
+  7d: "-40.24"
 isMineable: false

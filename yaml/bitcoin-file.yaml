@@ -1,21 +1,21 @@
 ---
 id: bitcoin-file
-rank: 1962
+rank: 1966
 symbol: BIFI
 name: Bitcoin File
 marketCap:
   USD: ""
   BTC: ""
 price:
-  BTC: "1.79155679203e-07"
-  USD: "0.00194979482983"
+  BTC: "1.74991035916e-07"
+  USD: "0.00196700199132"
 volume:
-  USD: "141342.707949"
-  BTC: "12.9871863724"
+  BTC: "11.9899710783"
+  USD: "134774.314944"
 supply:
   BIFI: "0"
 change:
-  24h: "-56.56"
-  7d: "-68.01"
-  1h: "-0.15"
+  24h: "-44.26"
+  1h: "-0.74"
+  7d: "-66.94"
 isMineable: false

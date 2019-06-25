@@ -1,11 +1,11 @@
 ---
 id: sigmacoin
-rank: 2211
+rank: 2214
 symbol: SIGMA
 name: SIGMAcoin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
   BTC: "1.75965107893e-07"
   USD: "0.00164317843913"
@@ -16,6 +16,6 @@ supply:
   SIGMA: "0"
 change:
   1h: "0.00"
-  7d: "0.23"
   24h: "0.00"
+  7d: "0.00"
 isMineable: false

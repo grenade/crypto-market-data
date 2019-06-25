@@ -1,21 +1,21 @@
 ---
 id: decimated
-rank: 2077
+rank: 887
 symbol: DIO
 name: Decimated
 marketCap:
-  BTC: ""
-  USD: ""
+  BTC: "70.7089227439"
+  USD: "794809.809047"
 price:
-  BTC: "1.52852402364e-06"
-  USD: "0.0166352987068"
+  USD: "0.0134367291509"
+  BTC: "1.19537609205e-06"
 volume:
-  USD: "2039.78605799"
-  BTC: "0.187424466953"
+  BTC: "0.185301092982"
+  USD: "2082.89308639"
 supply:
-  DIO: "0"
+  DIO: "59152030.239"
 change:
-  7d: "35.17"
-  24h: "-18.58"
-  1h: "-3.59"
+  1h: "0.47"
+  7d: "11.93"
+  24h: "-32.51"
 isMineable: false

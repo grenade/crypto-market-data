@@ -1,11 +1,11 @@
 ---
 id: brat
-rank: 1836
+rank: 1838
 symbol: BRAT
 name: BROTHER
 marketCap:
-  BTC: "0.214706572533"
   USD: "1977.6"
+  BTC: "0.214706572533"
 price:
   BTC: "1.34191607833e-09"
   USD: "1.236e-05"
@@ -16,6 +16,6 @@ supply:
   BRAT: "160000000.0"
 change:
   1h: "0.00"
-  24h: "0.00"
   7d: "0.00"
+  24h: "0.00"
 isMineable: false

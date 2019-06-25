@@ -1,6 +1,6 @@
 {
   "id": "golfcoin",
-  "rank": 1326,
+  "rank": 1331,
   "symbol": "GOLF",
   "name": "Golfcoin",
   "marketCap": {
@@ -12,16 +12,16 @@
     "BTC": "1.85916348977e-09"
   },
   "volume": {
-    "BTC": "0",
-    "USD": "0"
+    "USD": "0",
+    "BTC": "0"
   },
   "supply": {
     "GOLF": "28365778886.6"
   },
   "change": {
-    "1h": "0.00",
-    "7d": "-0.06",
-    "24h": "0.00"
+    "24h": "0.00",
+    "7d": "0.00",
+    "1h": "0.00"
   },
   "isMineable": false
 }

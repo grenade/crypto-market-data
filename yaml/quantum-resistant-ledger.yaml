@@ -1,21 +1,21 @@
 ---
 id: quantum-resistant-ledger
-rank: 214
+rank: 203
 symbol: QRL
 name: Quantum Resistant Ledger
 marketCap:
-  USD: "21957687.2988"
-  BTC: "2017.56837261"
+  BTC: "2091.84470268"
+  USD: "23513562.7043"
 price:
-  USD: "0.321218676788"
-  BTC: "2.95149773362e-05"
+  BTC: "3.06002599464e-05"
+  USD: "0.343964889027"
 volume:
-  BTC: "2.50566125263"
-  USD: "27269.7208228"
+  USD: "29881.8911535"
+  BTC: "2.65839237132"
 supply:
-  QRL: "68357442.7191"
+  QRL: "68360357.2761"
 change:
-  7d: "-10.46"
-  24h: "0.20"
-  1h: "-0.40"
+  24h: "10.11"
+  1h: "0.90"
+  7d: "-2.65"
 isMineable: true

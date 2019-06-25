@@ -1,6 +1,6 @@
 {
   "id": "bitsilver",
-  "rank": 1477,
+  "rank": 1485,
   "symbol": "BITSILVER",
   "name": "bitSilver",
   "marketCap": {
@@ -12,16 +12,16 @@
     "BTC": "0.000819977675492"
   },
   "volume": {
-    "USD": "0",
-    "BTC": "0"
+    "BTC": "0",
+    "USD": "0"
   },
   "supply": {
     "BITSILVER": "21279.5"
   },
   "change": {
     "24h": "0.00",
-    "1h": "0.00",
-    "7d": "0.06"
+    "7d": "0.00",
+    "1h": "0.00"
   },
   "isMineable": false
 }

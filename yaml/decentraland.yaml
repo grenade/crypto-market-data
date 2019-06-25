@@ -1,21 +1,21 @@
 ---
 id: decentraland
-rank: 115
+rank: 117
 symbol: MANA
 name: Decentraland
 marketCap:
-  USD: "57065212.3059"
-  BTC: "5243.40136363"
+  BTC: "5048.43382558"
+  USD: "56747360.4346"
 price:
-  USD: "0.0543404977269"
-  BTC: "4.99304266765e-06"
+  BTC: "4.80738431941e-06"
+  USD: "0.0540378224508"
 volume:
-  BTC: "1009.74187316"
-  USD: "10989266.3884"
+  BTC: "928.935850635"
+  USD: "10441784.3945"
 supply:
   MANA: "1050141509.43"
 change:
-  1h: "-0.18"
-  7d: "-6.03"
-  24h: "0.39"
+  7d: "-4.18"
+  24h: "0.02"
+  1h: "-1.83"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: regalcoin
-rank: 1547
+rank: 1551
 symbol: REC
 name: Regalcoin
 marketCap:
   USD: "102392.075623"
-  BTC: "9.40823186761"
+  BTC: "9.10913942233"
 price:
-  BTC: "7.35074999532e-07"
+  BTC: "7.11706593845e-07"
   USD: "0.008"
 volume:
-  BTC: "0.00043969981247"
+  BTC: "0.00042572153324"
   USD: "4.78536"
 supply:
   REC: "12799009.4529"
 change:
-  24h: "17.70"
-  7d: "29.40"
-  1h: "1.49"
+  1h: "0.00"
+  7d: "31.91"
+  24h: "19.59"
 isMineable: true

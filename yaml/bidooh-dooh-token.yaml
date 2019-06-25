@@ -1,21 +1,21 @@
 ---
 id: bidooh-dooh-token
-rank: 2124
+rank: 2131
 symbol: DOOH
 name: Bidooh DOOH Token
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "1.95040216368e-05"
-  BTC: "1.79211483694e-09"
+  USD: "2.1012745821e-05"
+  BTC: "1.86936371945e-09"
 volume:
-  USD: "66.1226250079"
-  BTC: "0.00607563606834"
+  USD: "72.2817296466"
+  BTC: "0.0064304229505"
 supply:
   DOOH: "0"
 change:
-  7d: "-49.17"
-  1h: "-2.20"
-  24h: "-7.75"
+  1h: "25.27"
+  7d: "-46.04"
+  24h: "-2.82"
 isMineable: false

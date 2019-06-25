@@ -1,6 +1,6 @@
 {
   "id": "sharpe-platform-token",
-  "rank": 1798,
+  "rank": 1799,
   "symbol": "SHP",
   "name": "Sharpe Platform Token",
   "marketCap": {
@@ -8,20 +8,20 @@
     "BTC": "1.0054049109"
   },
   "price": {
-    "BTC": "5.77482260949e-08",
-    "USD": "0.000459919581091"
+    "USD": "0.000459919581091",
+    "BTC": "5.77482260949e-08"
   },
   "volume": {
-    "BTC": "0",
-    "USD": "0"
+    "USD": "0",
+    "BTC": "0"
   },
   "supply": {
     "SHP": "17410143.6337"
   },
   "change": {
+    "24h": "0.00",
     "7d": "0.00",
-    "1h": "0.00",
-    "24h": "0.00"
+    "1h": "0.00"
   },
   "isMineable": false
 }

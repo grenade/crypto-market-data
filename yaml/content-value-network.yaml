@@ -1,21 +1,21 @@
 ---
 id: content-value-network
-rank: 334
+rank: 325
 symbol: CVNT
 name: Content Value Network
 marketCap:
-  USD: "10932113.2312"
-  BTC: "1004.49039104"
+  BTC: "1008.05958802"
+  USD: "11331181.6609"
 price:
-  BTC: "2.27831301318e-06"
-  USD: "0.0247954346387"
+  BTC: "2.28640840961e-06"
+  USD: "0.0257005730101"
 volume:
-  USD: "2769714.69594"
-  BTC: "254.493503602"
+  USD: "2677280.63886"
+  BTC: "238.179785531"
 supply:
   CVNT: "440892179.97"
 change:
-  7d: "1.23"
-  24h: "-4.45"
-  1h: "-0.22"
+  1h: "0.86"
+  24h: "-3.67"
+  7d: "5.77"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: matic-network
-rank: 134
+rank: 137
 symbol: MATIC
 name: Matic Network
 marketCap:
-  USD: "44445240.1159"
-  BTC: "4083.82310717"
+  BTC: "3780.87026015"
+  USD: "42499201.6976"
 price:
-  BTC: "1.89055900689e-06"
-  USD: "0.0205754134813"
+  USD: "0.0196745173448"
+  BTC: "1.75031046562e-06"
 volume:
-  BTC: "2674.8530314"
-  USD: "29111076.1009"
+  BTC: "2123.94228789"
+  USD: "23874358.4084"
 supply:
   MATIC: "2160114068.0"
 change:
-  7d: "-6.55"
-  1h: "-0.22"
-  24h: "-2.46"
+  7d: "-10.12"
+  24h: "-7.72"
+  1h: "-0.56"
 isMineable: false

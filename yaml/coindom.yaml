@@ -1,21 +1,21 @@
 ---
 id: coindom
-rank: 2039
+rank: 2065
 symbol: CCC
 name: Coindom
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "6.20540789727e-07"
-  USD: "0.00675349633844"
+  USD: "0.00692173380786"
+  BTC: "6.15780448986e-07"
 volume:
-  USD: "16070.7009289"
-  BTC: "1.47664630972"
+  USD: "6283.58179075"
+  BTC: "0.55900832418"
 supply:
   CCC: "0"
 change:
-  24h: "-0.96"
-  7d: "9.65"
-  1h: "-0.55"
+  1h: "0.58"
+  24h: "3.29"
+  7d: "13.08"
 isMineable: false

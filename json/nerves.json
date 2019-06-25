@@ -1,6 +1,6 @@
 {
   "id": "nerves",
-  "rank": 1286,
+  "rank": 1290,
   "symbol": "NER",
   "name": "Nerves",
   "marketCap": {
@@ -12,16 +12,16 @@
     "BTC": "2.99499278844e-08"
   },
   "volume": {
-    "USD": "0.0",
-    "BTC": "0.0"
+    "BTC": "0.0",
+    "USD": "0.0"
   },
   "supply": {
     "NER": "3258944260.0"
   },
   "change": {
+    "7d": "0.00",
     "1h": "0.00",
-    "24h": "0.00",
-    "7d": "0.00"
+    "24h": "0.00"
   },
   "isMineable": false
 }

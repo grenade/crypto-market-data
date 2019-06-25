@@ -1,21 +1,21 @@
 ---
 id: show
-rank: 1955
+rank: 1953
 symbol: SHOW
 name: Show
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.00122629807736"
-  BTC: "1.1267763233e-07"
+  BTC: "1.06041545537e-07"
+  USD: "0.00119196923512"
 volume:
-  USD: "184305.528361"
-  BTC: "16.9347982717"
+  USD: "179920.567267"
+  BTC: "16.0063317615"
 supply:
   SHOW: "0"
 change:
-  1h: "-0.05"
-  7d: "-12.40"
-  24h: "-1.69"
+  7d: "-12.79"
+  24h: "-1.32"
+  1h: "-1.14"
 isMineable: false

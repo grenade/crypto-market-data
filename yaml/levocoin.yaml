@@ -1,21 +1,21 @@
 ---
 id: levocoin
-rank: 1812
+rank: 1814
 symbol: LEVO
 name: Levocoin
 marketCap:
   BTC: "0.821581446045"
   USD: "6463.45112968"
 price:
-  USD: "0.000236103250086"
   BTC: "3.00115287839e-08"
+  USD: "0.000236103250086"
 volume:
   BTC: "0"
   USD: "0"
 supply:
   LEVO: "27375527.9833"
 change:
-  1h: "0.00"
-  7d: "0.00"
   24h: "0.00"
+  7d: "0.00"
+  1h: "0.00"
 isMineable: true

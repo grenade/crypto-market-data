@@ -1,21 +1,21 @@
 ---
 id: darcrus
-rank: 1252
+rank: 1254
 symbol: DAR
 name: Darcrus
 marketCap:
   BTC: "115.749278468"
   USD: "1070309.26496"
 price:
-  BTC: "8.51073350788e-06"
   USD: "0.0786969650756"
+  BTC: "8.51073350788e-06"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   DAR: "13600388.07"
 change:
   7d: "0.00"
-  1h: "0.00"
   24h: "0.00"
+  1h: "0.00"
 isMineable: false

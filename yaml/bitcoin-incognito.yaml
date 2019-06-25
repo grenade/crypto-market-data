@@ -1,21 +1,21 @@
 ---
 id: bitcoin-incognito
-rank: 1032
+rank: 1047
 symbol: XBI
 name: Bitcoin Incognito
 marketCap:
-  BTC: "21.7262075345"
-  USD: "236451.600703"
+  USD: "213134.005222"
+  BTC: "18.961109611"
 price:
-  USD: "0.0241606301616"
-  BTC: "2.21998440059e-06"
+  USD: "0.0217668503472"
+  BTC: "1.93645136491e-06"
 volume:
-  BTC: "1.94214994268"
-  USD: "21136.8901831"
+  USD: "15834.3640435"
+  BTC: "1.40867766238"
 supply:
-  XBI: "9786648.73896"
+  XBI: "9791678.71428"
 change:
-  24h: "19.22"
-  7d: "-41.66"
-  1h: "0.62"
+  1h: "0.94"
+  24h: "15.54"
+  7d: "-45.19"
 isMineable: true

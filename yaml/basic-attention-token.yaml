@@ -1,21 +1,21 @@
 ---
 id: basic-attention-token
-rank: 28
+rank: 30
 symbol: BAT
 name: Basic Attention Token
 marketCap:
-  USD: "409334650.422"
-  BTC: "37611.4584959"
+  USD: "409036270.461"
+  BTC: "36389.2263511"
 price:
-  USD: "0.322017560167"
-  BTC: "2.95883822361e-05"
+  BTC: "2.8626870151e-05"
+  USD: "0.321782829032"
 volume:
-  USD: "37306104.4371"
-  BTC: "3427.84808771"
+  USD: "37633535.9627"
+  BTC: "3348.00446179"
 supply:
   BAT: "1271156300.33"
 change:
-  1h: "-0.48"
-  24h: "-1.57"
-  7d: "-8.38"
+  1h: "0.37"
+  7d: "-5.92"
+  24h: "-0.88"
 isMineable: false

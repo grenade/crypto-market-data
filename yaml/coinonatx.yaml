@@ -1,6 +1,6 @@
 ---
 id: coinonatx
-rank: 1754
+rank: 1761
 symbol: XCXT
 name: CoinonatX
 marketCap:
@@ -15,7 +15,7 @@ volume:
 supply:
   XCXT: "19539587.8637"
 change:
+  1h: "0.00"
   7d: "0.00"
   24h: "0.00"
-  1h: "0.00"
 isMineable: true

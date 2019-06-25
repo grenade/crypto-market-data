@@ -1,21 +1,21 @@
 ---
 id: breezecoin
-rank: 1362
+rank: 1367
 symbol: BRZC
 name: Breezecoin
 marketCap:
-  BTC: "34.5132386342"
   USD: "377133.478594"
+  BTC: "34.5132386342"
 price:
-  USD: "0.00447874147722"
   BTC: "4.09870462736e-07"
+  USD: "0.00447874147722"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   BRZC: "84205235.0"
 change:
-  1h: "0.00"
-  7d: "-83.20"
   24h: "0.00"
+  7d: "-65.10"
+  1h: "0.00"
 isMineable: false

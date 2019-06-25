@@ -1,21 +1,21 @@
 ---
 id: boostcoin
-rank: 1639
+rank: 1646
 symbol: BOST
 name: BoostCoin
 marketCap:
-  USD: "45205.5142728"
-  BTC: "4.14764966327"
+  BTC: "4.03086563718"
+  USD: "45339.3149632"
 price:
-  USD: "0.00381304569196"
-  BTC: "3.49850630719e-07"
+  BTC: "3.4e-07"
+  USD: "0.00382433166347"
 volume:
-  BTC: "0.0"
-  USD: "0.0"
+  USD: "0.00382088976498"
+  BTC: "3.39694e-07"
 supply:
   BOST: "11855487.1682"
 change:
-  24h: "-1.29"
-  1h: "0.00"
-  7d: "14.16"
+  24h: "1.67"
+  7d: "14.50"
+  1h: "0.80"
 isMineable: true

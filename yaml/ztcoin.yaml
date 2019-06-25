@@ -1,21 +1,21 @@
 ---
 id: ztcoin
-rank: 2186
+rank: 2191
 symbol: ZT
 name: ZTCoin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.0545961218973"
-  BTC: "5.01653053477e-06"
+  USD: "0.0522956874059"
+  BTC: "4.65239819455e-06"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   ZT: "0"
 change:
-  1h: "1.57"
-  24h: "-0.99"
-  7d: "-8.13"
+  7d: "-12.05"
+  24h: "-3.91"
+  1h: "-0.20"
 isMineable: false
