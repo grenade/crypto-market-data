@@ -1,21 +1,21 @@
 ---
 id: asura-coin
-rank: 2090
+rank: 2086
 symbol: ASA
 name: Asura Coin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.94625653201e-08"
-  USD: "0.000333520939723"
+  BTC: "2.28485586914e-08"
+  USD: "0.000259064399739"
 volume:
-  BTC: "0.0857323643191"
-  USD: "970.504041373"
+  BTC: "0.112913950635"
+  USD: "1280.255146"
 supply:
   ASA: "0"
 change:
-  1h: "6.86"
-  24h: "2.96"
-  7d: "32.52"
+  1h: "-10.06"
+  24h: "-20.33"
+  7d: "4.07"
 isMineable: false

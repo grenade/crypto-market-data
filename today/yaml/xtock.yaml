@@ -1,21 +1,21 @@
 ---
 id: xtock
-rank: 2035
+rank: 2046
 symbol: XTX
 name: Xtock
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "9.79237800365e-08"
-  USD: "0.00110851281225"
+  BTC: "9.69526131436e-08"
+  USD: "0.00109928030325"
 volume:
-  BTC: "1.91298126666"
-  USD: "21655.2531254"
+  BTC: "1.12003613711"
+  USD: "12699.3344948"
 supply:
   XTX: "0"
 change:
-  1h: "0.23"
-  24h: "6.56"
-  7d: "32.59"
+  1h: "0.86"
+  24h: "19.66"
+  7d: "30.57"
 isMineable: false

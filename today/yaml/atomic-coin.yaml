@@ -1,21 +1,21 @@
 ---
 id: atomic-coin
-rank: 1705
+rank: 1709
 symbol: ATOM
 name: Atomic Coin
 marketCap:
-  BTC: "2.4950895716"
-  USD: "28191.6149098"
+  BTC: "2.4555836644"
+  USD: "27703.2405483"
 price:
-  BTC: "1.34471037739e-07"
-  USD: "0.00151936658131"
+  BTC: "1.32341895604e-07"
+  USD: "0.0014930460003"
 volume:
-  BTC: "6.81110747377e-06"
-  USD: "0.0769576055285"
+  BTC: "0.0"
+  USD: "0.0"
 supply:
   ATOM: "18554847.3006"
 change:
-  1h: "0.07"
-  24h: "132.12"
-  7d: "-46.73"
+  1h: "-0.80"
+  24h: "19.76"
+  7d: "-47.59"
 isMineable: true

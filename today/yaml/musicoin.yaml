@@ -1,21 +1,21 @@
 ---
 id: musicoin
-rank: 746
+rank: 775
 symbol: MUSIC
 name: Musicoin
 marketCap:
-  BTC: "146.89511262"
-  USD: "1659744.20087"
+  BTC: "130.431396474"
+  USD: "1478927.04154"
 price:
-  BTC: "9e-08"
-  USD: "0.00101689549376"
+  BTC: "7.99129764995e-08"
+  USD: "0.000906112064346"
 volume:
-  BTC: "0.49689304"
-  USD: "5614.3143695"
+  BTC: "0.501534659619"
+  USD: "5686.76860348"
 supply:
   MUSIC: "1632167918.0"
 change:
-  1h: "0.07"
-  24h: "3.78"
-  7d: "9.18"
+  1h: "-10.37"
+  24h: "-11.87"
+  7d: "-0.78"
 isMineable: true

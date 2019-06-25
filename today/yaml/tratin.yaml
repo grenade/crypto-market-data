@@ -1,21 +1,21 @@
 ---
 id: tratin
-rank: 2141
+rank: 2135
 symbol: TRAT
 name: Tratin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "9.98116571144e-08"
-  USD: "0.00112988388195"
+  BTC: "1.00003610149e-07"
+  USD: "0.00113387350095"
 volume:
-  BTC: "0.00193129606224"
-  USD: "21.8625795332"
+  BTC: "0.00179329603223"
+  USD: "20.3329744522"
 supply:
   TRAT: "0"
 change:
-  1h: "0.08"
-  24h: "-0.37"
-  7d: "-56.17"
+  1h: "0.92"
+  24h: "-5.31"
+  7d: "-55.06"
 isMineable: false

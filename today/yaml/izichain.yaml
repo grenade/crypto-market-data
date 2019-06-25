@@ -1,21 +1,21 @@
 ---
 id: izichain
-rank: 1960
+rank: 1963
 symbol: IZI
 name: IZIChain
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "8.66320435318e-06"
-  USD: "0.0980688553592"
+  BTC: "9.70250701454e-06"
+  USD: "0.110010184434"
 volume:
-  BTC: "13.0052944084"
-  USD: "147222.007498"
+  BTC: "14.2706004116"
+  USD: "161804.715102"
 supply:
   IZI: "0"
 change:
-  1h: "-0.57"
-  24h: "-14.52"
-  7d: "11.13"
+  1h: "12.39"
+  24h: "10.92"
+  7d: "24.96"
 isMineable: false

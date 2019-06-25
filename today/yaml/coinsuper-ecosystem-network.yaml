@@ -1,21 +1,21 @@
 ---
 id: coinsuper-ecosystem-network
-rank: 525
+rank: 532
 symbol: CEN
 name: Coinsuper Ecosystem Network
 marketCap:
-  BTC: "409.251805337"
-  USD: "4632795.72627"
+  BTC: "403.799714619"
+  USD: "4578412.67344"
 price:
-  BTC: "9.47092299049e-07"
-  USD: "0.0107212359193"
+  BTC: "9.34475047115e-07"
+  USD: "0.0105953824231"
 volume:
-  BTC: "11.9028068669"
-  USD: "134741.672644"
+  BTC: "14.3541615681"
+  USD: "162752.158708"
 supply:
   CEN: "432113961.594"
 change:
-  1h: "0.63"
-  24h: "-6.35"
-  7d: "-1.99"
+  1h: "0.66"
+  24h: "-0.56"
+  7d: "-3.00"
 isMineable: false

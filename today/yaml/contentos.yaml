@@ -1,20 +1,20 @@
 ---
 id: contentos
-rank: 1945
+rank: 1942
 symbol: COS
 name: Contentos
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.52866219179e-06"
-  USD: "0.0286248594202"
+  BTC: "2.7762654164e-06"
+  USD: "0.0314782014624"
 volume:
-  BTC: "23.2142201844"
-  USD: "262788.675959"
+  BTC: "29.9926069005"
+  USD: "340065.945"
 supply:
   COS: "0"
 change:
-  1h: "-2.93"
-  24h: "-9.76"
+  1h: "1.64"
+  24h: "-1.81"
 isMineable: false

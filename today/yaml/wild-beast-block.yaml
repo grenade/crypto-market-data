@@ -1,21 +1,21 @@
 ---
 id: wild-beast-block
-rank: 1803
+rank: 1806
 symbol: WBB
 name: Wild Beast Block
 marketCap:
-  BTC: "0.653090084515"
-  USD: "7379.15959956"
+  BTC: "0.652379657198"
+  USD: "7397.16005854"
 price:
-  BTC: "3.59e-06"
-  USD: "0.0405628313621"
+  BTC: "3.58609482041e-06"
+  USD: "0.0406617788875"
 volume:
-  BTC: "0.00047738"
-  USD: "5.39383967566"
+  BTC: "0.000150615982457"
+  USD: "1.70779471328"
 supply:
   WBB: "181919.243597"
 change:
-  1h: "0.08"
-  24h: "0.27"
-  7d: "20.18"
+  1h: "0.84"
+  24h: "-0.40"
+  7d: "21.24"
 isMineable: true

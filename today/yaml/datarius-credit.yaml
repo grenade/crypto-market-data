@@ -1,21 +1,21 @@
 ---
 id: datarius-credit
-rank: 1566
+rank: 1570
 symbol: DTRC
 name: Datarius Credit
 marketCap:
-  BTC: "7.46765557325"
-  USD: "84535.0524389"
+  BTC: "7.39359450395"
+  USD: "83830.9824241"
 price:
-  BTC: "5.8452451952e-08"
-  USD: "0.000661691081287"
+  BTC: "5.78727451012e-08"
+  USD: "0.000656180031894"
 volume:
-  BTC: "0.0026352703438"
-  USD: "29.8316807087"
+  BTC: "0.00260913484014"
+  USD: "29.5832205579"
 supply:
   DTRC: "127756070.513"
 change:
-  1h: "0.23"
-  24h: "-2.97"
-  7d: "-43.54"
+  1h: "0.86"
+  24h: "-3.78"
+  7d: "-24.03"
 isMineable: false

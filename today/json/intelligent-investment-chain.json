@@ -1,6 +1,6 @@
 {
   "id": "intelligent-investment-chain",
-  "rank": 1920,
+  "rank": 1917,
   "symbol": "IIC",
   "name": "Intelligent Investment Chain",
   "marketCap": {
@@ -8,20 +8,20 @@
     "USD": ""
   },
   "price": {
-    "BTC": "3.95780968574e-08",
-    "USD": "0.000448030370503"
+    "BTC": "4.02613729688e-08",
+    "USD": "0.000456496559003"
   },
   "volume": {
-    "BTC": "52.9816613077",
-    "USD": "599760.858414"
+    "BTC": "51.9365858991",
+    "USD": "588873.925579"
   },
   "supply": {
     "IIC": "0"
   },
   "change": {
-    "1h": "-3.84",
-    "24h": "-13.27",
-    "7d": "32.69"
+    "1h": "-0.04",
+    "24h": "-10.02",
+    "7d": "39.02"
   },
   "isMineable": false
 }

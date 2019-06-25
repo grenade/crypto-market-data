@@ -1,21 +1,21 @@
 ---
 id: amsterdamcoin
-rank: 1643
+rank: 1647
 symbol: AMS
 name: AmsterdamCoin
 marketCap:
-  BTC: "4.01615089323"
-  USD: "45377.8416175"
+  BTC: "4.01178214937"
+  USD: "45488.5347074"
 price:
-  BTC: "8e-08"
-  USD: "0.000903907105561"
+  BTC: "7.99129764995e-08"
+  USD: "0.000906112064346"
 volume:
-  BTC: "0.0008"
-  USD: "9.03907105561"
+  BTC: "0.000799129764995"
+  USD: "9.06112064346"
 supply:
   AMS: "50201886.1654"
 change:
-  1h: "0.08"
-  24h: "39.65"
-  7d: "95.67"
+  1h: "0.84"
+  24h: "38.72"
+  7d: "23.95"
 isMineable: true

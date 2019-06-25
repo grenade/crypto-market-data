@@ -1,21 +1,21 @@
 ---
 id: gold-reward-token
-rank: 2112
+rank: 2108
 symbol: GRX
 name: GOLD Reward Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.19641654435e-07"
-  USD: "0.00248169565151"
+  BTC: "2.10007581313e-07"
+  USD: "0.00238113435199"
 volume:
-  BTC: "0.0225027076702"
-  USD: "254.254466969"
+  BTC: "0.0238606490804"
+  USD: "270.539810186"
 supply:
   GRX: "0"
 change:
-  1h: "-0.09"
-  24h: "9.55"
-  7d: "29.10"
+  1h: "5.23"
+  24h: "8.92"
+  7d: "24.07"
 isMineable: false

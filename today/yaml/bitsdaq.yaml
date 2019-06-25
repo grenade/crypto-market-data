@@ -1,21 +1,21 @@
 ---
 id: bitsdaq
-rank: 1981
+rank: 1983
 symbol: BQQQ
 name: Bitsdaq
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "6.60926150578e-07"
-  USD: "0.00748178946515"
+  BTC: "7.32734198274e-07"
+  USD: "0.00830797897616"
 volume:
-  BTC: "9.29448207396"
-  USD: "105215.019869"
+  BTC: "9.66443714255"
+  USD: "109578.535826"
 supply:
   BQQQ: "0"
 change:
-  1h: "-3.28"
-  24h: "-2.73"
-  7d: "-32.26"
+  1h: "0.51"
+  24h: "10.86"
+  7d: "-24.42"
 isMineable: false

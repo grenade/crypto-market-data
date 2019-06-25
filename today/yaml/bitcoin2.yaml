@@ -1,21 +1,21 @@
 ---
 id: bitcoin2
-rank: 2061
+rank: 2060
 symbol: BTC2
 name: Bitcoin 2
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.000197128022801"
-  USD: "2.23152066685"
+  BTC: "0.000216907830414"
+  USD: "2.45937162355"
 volume:
-  BTC: "0.645623116462"
-  USD: "7308.5566776"
+  BTC: "0.694145406537"
+  USD: "7870.44668789"
 supply:
   BTC2: "0"
 change:
-  1h: "-7.98"
-  24h: "20.52"
-  7d: "32.93"
+  1h: "3.06"
+  24h: "8.93"
+  7d: "48.91"
 isMineable: false

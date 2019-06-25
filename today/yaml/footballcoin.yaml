@@ -1,21 +1,21 @@
 ---
 id: footballcoin
-rank: 560
+rank: 565
 symbol: XFC
 name: Footballcoin
 marketCap:
-  BTC: "357.018368602"
-  USD: "4041504.88935"
+  BTC: "351.196830199"
+  USD: "3981984.03823"
 price:
-  BTC: "9.52911619438e-07"
-  USD: "0.0107871115544"
+  BTC: "9.37373450888e-07"
+  USD: "0.010628245469"
 volume:
-  BTC: "0.482834719072"
-  USD: "5465.76604875"
+  BTC: "0.442934255496"
+  USD: "5022.1328432"
 supply:
   XFC: "374660526.033"
 change:
-  1h: "2.87"
-  24h: "7.02"
-  7d: "25.66"
+  1h: "0.64"
+  24h: "3.86"
+  7d: "27.57"
 isMineable: false

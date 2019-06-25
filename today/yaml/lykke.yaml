@@ -1,21 +1,21 @@
 ---
 id: lykke
-rank: 1188
+rank: 1195
 symbol: LKK
 name: Lykke
 marketCap:
-  BTC: "461.026799944"
-  USD: "5209067.50404"
+  BTC: "454.705763848"
+  USD: "5155788.16354"
 price:
-  BTC: "1.45521662896e-06"
-  USD: "0.0164422581381"
+  BTC: "1.43526447685e-06"
+  USD: "0.0162740835715"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   LKK: "316809738.68"
 change:
-  1h: "0.00"
-  24h: "-9.88"
-  7d: "-4.46"
+  1h: "0.11"
+  24h: "-10.44"
+  7d: "-4.80"
 isMineable: false

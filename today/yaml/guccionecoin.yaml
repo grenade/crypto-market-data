@@ -1,21 +1,21 @@
 ---
 id: guccionecoin
-rank: 1621
+rank: 1627
 symbol: GCC
 name: GuccioneCoin
 marketCap:
-  BTC: "5.07138425"
-  USD: "57300.7532326"
+  BTC: "5.06586762988"
+  USD: "57440.5306482"
 price:
-  BTC: "2.5e-07"
-  USD: "0.00282470970488"
+  BTC: "2.49728051561e-07"
+  USD: "0.00283160020108"
 volume:
-  BTC: "0.00128483"
-  USD: "14.5170870805"
+  BTC: "0.0012032696654"
+  USD: "13.6435558809"
 supply:
   GCC: "20285537.0"
 change:
-  1h: "0.08"
-  24h: "1.89"
-  7d: "22.52"
+  1h: "0.84"
+  24h: "4.04"
+  7d: "23.93"
 isMineable: false

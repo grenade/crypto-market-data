@@ -1,21 +1,21 @@
 ---
 id: sdusd
-rank: 2053
+rank: 2054
 symbol: SDUSD
 name: SDUSD
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "8.68217606252e-05"
-  USD: "0.982836181356"
+  BTC: "8.73815695793e-05"
+  USD: "0.990760694232"
 volume:
-  BTC: "0.885471189258"
-  USD: "10023.6751257"
+  BTC: "0.797416059984"
+  USD: "9041.36298975"
 supply:
   SDUSD: "0"
 change:
-  1h: "0.12"
-  24h: "-1.22"
-  7d: "3.63"
+  1h: "2.20"
+  24h: "1.70"
+  7d: "4.88"
 isMineable: false

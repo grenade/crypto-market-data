@@ -1,21 +1,21 @@
 ---
 id: cyber-movie-chain
-rank: 1147
+rank: 1157
 symbol: CMCT
 name: Cyber Movie Chain
 marketCap:
-  BTC: "2.3301975986"
-  USD: "26378.2085634"
+  BTC: "2.3070876782"
+  USD: "26158.5114654"
 price:
-  BTC: "1.1650987993e-10"
-  USD: "1.31891042817e-06"
+  BTC: "1.1535438391e-10"
+  USD: "1.30792557327e-06"
 volume:
-  BTC: "1.127245422"
-  USD: "12760.5980118"
+  BTC: "0.664891237514"
+  USD: "7538.75339204"
 supply:
   CMCT: "20000000000.0"
 change:
-  1h: "0.23"
-  24h: "-17.67"
-  7d: "-1.36"
+  1h: "0.86"
+  24h: "-6.24"
+  7d: "-14.43"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: apollon
-rank: 1517
+rank: 1495
 symbol: XAP
 name: Apollon
 marketCap:
-  BTC: "11.2092581005"
-  USD: "126890.589962"
+  BTC: "13.3731576508"
+  USD: "151629.216801"
 price:
-  BTC: "7.54398980236e-08"
-  USD: "0.000853991680903"
+  BTC: "9.00032491343e-08"
+  USD: "0.00102048615085"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   XAP: "148585276.414"
 change:
-  1h: "0.09"
-  24h: "-12.03"
-  7d: "8.66"
+  1h: "0.93"
+  24h: "22.42"
+  7d: "114.75"
 isMineable: true

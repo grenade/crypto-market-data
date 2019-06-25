@@ -1,21 +1,21 @@
 ---
 id: clubcoin
-rank: 2067
+rank: 2079
 symbol: CLUB
 name: ClubCoin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "8.75e-06"
-  USD: "0.0988648396708"
+  BTC: "9.41974210488e-06"
+  USD: "0.106807959585"
 volume:
-  BTC: "0.522865"
-  USD: "5907.76735937"
+  BTC: "0.276679701798"
+  USD: "3137.19782118"
 supply:
   CLUB: "0"
 change:
-  1h: "-4.76"
-  24h: "28.54"
-  7d: "-43.13"
+  1h: "6.85"
+  24h: "19.62"
+  7d: "-38.14"
 isMineable: false

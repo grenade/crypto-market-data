@@ -1,21 +1,21 @@
 ---
 id: eosblack
-rank: 2131
+rank: 2127
 symbol: BLACK
 name: eosBLACK
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.58572069679e-07"
-  USD: "0.00292707707997"
+  BTC: "2.56419322879e-07"
+  USD: "0.00290736579319"
 volume:
-  BTC: "0.00683171972439"
-  USD: "77.336157176"
+  BTC: "0.00471692831951"
+  USD: "53.482069491"
 supply:
   BLACK: "0"
 change:
-  1h: "0.24"
-  24h: "-7.60"
-  7d: "8.30"
+  1h: "1.12"
+  24h: "1.47"
+  7d: "-3.88"
 isMineable: false

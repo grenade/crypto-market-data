@@ -1,21 +1,21 @@
 ---
 id: coinvest
-rank: 1320
+rank: 1307
 symbol: COIN
 name: Coinvest
 marketCap:
-  BTC: "50.9428835676"
-  USD: "555491.532569"
+  BTC: "58.3405361492"
+  USD: "661483.999146"
 price:
-  BTC: "4.31688447795e-06"
-  USD: "0.0470721837212"
+  BTC: "4.94375931044e-06"
+  USD: "0.0560539531403"
 volume:
-  BTC: "0.0"
-  USD: "0.0"
+  BTC: "0.0056960484516"
+  USD: "64.5836524276"
 supply:
   COIN: "11800844.7592"
 change:
-  1h: "0.00"
-  24h: "0.77"
-  7d: "-3.50"
+  1h: "0.86"
+  24h: "19.09"
+  7d: "14.91"
 isMineable: false

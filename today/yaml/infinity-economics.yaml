@@ -1,21 +1,21 @@
 ---
 id: infinity-economics
-rank: 2068
+rank: 2053
 symbol: XIN
 name: Infinity Economics
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.53191444639e-07"
-  USD: "0.00286076932345"
+  BTC: "2.44331666446e-07"
+  USD: "0.00277041202025"
 volume:
-  BTC: "0.502681302143"
-  USD: "5679.7150105"
+  BTC: "0.831182873447"
+  USD: "9424.56234643"
 supply:
   XIN: "0"
 change:
-  1h: "0.93"
-  24h: "4.72"
-  7d: "9.43"
+  1h: "-16.23"
+  24h: "-8.82"
+  7d: "4.88"
 isMineable: false

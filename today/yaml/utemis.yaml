@@ -1,21 +1,21 @@
 ---
 id: utemis
-rank: 2152
+rank: 2199
 symbol: UTS
 name: UTEMIS
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "3.88366266434e-09"
-  USD: "4.3963680939e-05"
+  BTC: "3.87554788913e-09"
+  USD: "4.39657095724e-05"
 volume:
-  BTC: "0.000142449972483"
-  USD: "1.61255641421"
+  BTC: "0.0"
+  USD: "0.0"
 supply:
   UTS: "0"
 change:
-  1h: "0.23"
-  24h: "2.34"
+  1h: "0.00"
+  24h: "1.61"
   7d: "-81.52"
 isMineable: false

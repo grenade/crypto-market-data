@@ -1,21 +1,21 @@
 ---
 id: native-coin
-rank: 388
+rank: 404
 symbol: N8V
 name: NativeCoin
 marketCap:
-  BTC: "789.398679877"
-  USD: "8919288.44828"
+  BTC: "758.530166919"
+  USD: "8600772.5594"
 price:
-  BTC: "4.283e-05"
-  USD: "0.48392926664"
+  BTC: "4.11551828972e-05"
+  USD: "0.466647713138"
 volume:
-  BTC: "0.1842"
-  USD: "2081.24611055"
+  BTC: "0.358509590821"
+  USD: "4065.04524867"
 supply:
   N8V: "18430975.4816"
 change:
-  1h: "0.08"
-  24h: "60.42"
-  7d: "60.42"
+  1h: "0.83"
+  24h: "54.69"
+  7d: "54.69"
 isMineable: true

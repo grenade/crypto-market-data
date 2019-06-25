@@ -1,21 +1,21 @@
 ---
 id: bitcoin-confidential
-rank: 1187
+rank: 487
 symbol: BC
 name: Bitcoin Confidential
 marketCap:
-  BTC: "472.942035045"
-  USD: "5353779.28734"
+  BTC: "517.568387228"
+  USD: "5868358.93554"
 price:
-  BTC: "6.42069451469e-08"
-  USD: "0.000726832862294"
+  BTC: "7.02654502795e-08"
+  USD: "0.00079669255925"
 volume:
-  BTC: "0.00632483735727"
-  USD: "71.5981679149"
+  BTC: "0.0521600659317"
+  USD: "591.407814971"
 supply:
   BC: "7365901523.0"
 change:
-  1h: "-19.53"
-  24h: "28.93"
-  7d: "-26.73"
+  1h: "0.92"
+  24h: "60.70"
+  7d: "-15.54"
 isMineable: false

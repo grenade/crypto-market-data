@@ -1,21 +1,21 @@
 ---
 id: netrum
-rank: 2077
+rank: 2074
 symbol: NTR
 name: Netrum
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.000669237160952"
-  USD: "7.57587142848"
+  BTC: "0.000670524206051"
+  USD: "7.60262182385"
 volume:
-  BTC: "0.350458754839"
-  USD: "3967.24901508"
+  BTC: "0.351132740458"
+  USD: "3981.25736787"
 supply:
   NTR: "0"
 change:
-  1h: "0.08"
-  24h: "-7.15"
-  7d: "-3.03"
+  1h: "0.92"
+  24h: "-7.67"
+  7d: "-4.06"
 isMineable: false

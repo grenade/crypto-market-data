@@ -1,21 +1,21 @@
 ---
 id: ooobtc-token
-rank: 2199
+rank: 2196
 symbol: OBX
 name: OOOBTC TOKEN
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "8.87427543408e-07"
-  USD: "0.0100458213668"
+  BTC: "7.98911171856e-07"
+  USD: "0.00905831505508"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   OBX: "0"
 change:
-  1h: "11.80"
-  24h: "48.86"
-  7d: "48.86"
+  1h: "3.12"
+  24h: "34.23"
+  7d: "34.23"
 isMineable: false

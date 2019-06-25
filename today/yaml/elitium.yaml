@@ -1,21 +1,21 @@
 ---
 id: elitium
-rank: 2072
+rank: 2116
 symbol: EUM
 name: Elitium
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.000109802803992"
-  USD: "1.24298525853"
+  BTC: "0.000132004765397"
+  USD: "1.49671302125"
 volume:
-  BTC: "0.432539403151"
-  USD: "4896.41504869"
+  BTC: "0.0146677609639"
+  USD: "166.30785079"
 supply:
   EUM: "0"
 change:
-  1h: "-12.96"
-  24h: "-11.70"
-  7d: "19.17"
+  1h: "0.92"
+  24h: "2.04"
+  7d: "27.26"
 isMineable: false

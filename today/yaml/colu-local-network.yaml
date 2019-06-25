@@ -1,21 +1,21 @@
 ---
 id: colu-local-network
-rank: 1298
+rank: 1285
 symbol: CLN
 name: Colu Local Network
 marketCap:
-  BTC: "62.0453628105"
-  USD: "702363.405399"
+  BTC: "70.0940639137"
+  USD: "794749.324817"
 price:
-  BTC: "5.92009396109e-07"
-  USD: "0.00670164080996"
+  BTC: "6.68806540388e-07"
+  USD: "0.00758314637115"
 volume:
-  BTC: "0.0427324062164"
-  USD: "483.737655668"
+  BTC: "0.011681903662"
+  USD: "132.45322827"
 supply:
   CLN: "104804692.659"
 change:
-  1h: "4.19"
-  24h: "26.28"
-  7d: "9.84"
+  1h: "7.63"
+  24h: "16.99"
+  7d: "-11.30"
 isMineable: false

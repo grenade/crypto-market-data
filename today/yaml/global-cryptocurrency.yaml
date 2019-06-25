@@ -1,11 +1,11 @@
 ---
 id: global-cryptocurrency
-rank: 1204
+rank: 1207
 symbol: GCC
 name: Global Cryptocurrency
 marketCap:
-  BTC: "402.818022101"
-  USD: "3762971.7613"
+  BTC: "402.847389628"
+  USD: "3763246.1015"
 price:
   BTC: "3.2006446654e-07"
   USD: "0.00298991972381"
@@ -13,7 +13,7 @@ volume:
   BTC: "0"
   USD: "0"
 supply:
-  GCC: "1258552773.62"
+  GCC: "1258644528.66"
 change:
   1h: "0.00"
   24h: "0.00"

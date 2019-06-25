@@ -1,21 +1,21 @@
 ---
 id: lendingblock
-rank: 467
+rank: 481
 symbol: LND
 name: Lendingblock
 marketCap:
-  BTC: "543.45515409"
-  USD: "6151999.04422"
+  BTC: "528.941286914"
+  USD: "5997308.57609"
 price:
-  BTC: "7.04546146891e-07"
-  USD: "0.00797557478232"
+  BTC: "6.85730078778e-07"
+  USD: "0.00777503096106"
 volume:
-  BTC: "4.85255316048"
-  USD: "54931.675927"
+  BTC: "5.25168213608"
+  USD: "59545.2824214"
 supply:
   LND: "771354944.581"
 change:
-  1h: "2.16"
-  24h: "5.37"
-  7d: "52.96"
+  1h: "0.49"
+  24h: "4.39"
+  7d: "51.71"
 isMineable: false

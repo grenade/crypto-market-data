@@ -1,21 +1,21 @@
 ---
 id: eosdt
-rank: 2044
+rank: 2025
 symbol: EOSDT
 name: EOSDT
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "8.7829126706e-05"
-  USD: "0.994239726099"
+  BTC: "8.86004483573e-05"
+  USD: "1.00458073878"
 volume:
-  BTC: "1.46085653828"
-  USD: "16537.1290706"
+  BTC: "2.45347336819"
+  USD: "27818.2800933"
 supply:
   EOSDT: "0"
 change:
-  1h: "-0.39"
-  24h: "0.68"
-  7d: "-0.46"
+  1h: "0.60"
+  24h: "1.38"
+  7d: "1.32"
 isMineable: false

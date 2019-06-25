@@ -1,21 +1,21 @@
 ---
 id: ultimate-secure-cash
-rank: 1622
+rank: 1628
 symbol: USC
 name: Ultimate Secure Cash
 marketCap:
-  BTC: "5.03453761161"
-  USD: "56884.4290043"
+  BTC: "5.03723488697"
+  USD: "57115.8715639"
 price:
-  BTC: "4.86752644874e-07"
-  USD: "0.0054997396794"
+  BTC: "4.87013424715e-07"
+  USD: "0.0055221161689"
 volume:
-  BTC: "0.0342445580359"
-  USD: "386.923741694"
+  BTC: "0.0332247864926"
+  USD: "376.727049785"
 supply:
   USC: "10343113.0054"
 change:
-  1h: "-0.97"
-  24h: "9.44"
-  7d: "18.85"
+  1h: "0.69"
+  24h: "11.07"
+  7d: "13.74"
 isMineable: true

@@ -1,21 +1,21 @@
 ---
 id: kanadecoin
-rank: 1594
+rank: 1600
 symbol: KNDC
 name: KanadeCoin
 marketCap:
-  BTC: "6.07078224678"
-  USD: "68722.2235335"
+  BTC: "6.03736821187"
+  USD: "68650.2477159"
 price:
-  BTC: "1.1096179041e-09"
-  USD: "1.25610516969e-05"
+  BTC: "1.10351048501e-09"
+  USD: "1.25478959531e-05"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   KNDC: "5471056500.03"
 change:
-  1h: "0.23"
-  24h: "52.58"
-  7d: "52.58"
+  1h: "0.00"
+  24h: "52.42"
+  7d: "52.42"
 isMineable: false

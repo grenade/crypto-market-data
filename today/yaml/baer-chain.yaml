@@ -1,21 +1,21 @@
 ---
 id: baer-chain
-rank: 1873
+rank: 1874
 symbol: BRC
 name: Baer Chain
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.00120711352149"
-  USD: "13.6647176397"
+  BTC: "0.00123121353319"
+  USD: "13.9599000197"
 volume:
-  BTC: "339.041385103"
-  USD: "3838002.56821"
+  BTC: "310.438865163"
+  USD: "3519856.95663"
 supply:
   BRC: "0"
 change:
-  1h: "-2.91"
-  24h: "13.37"
-  7d: "63.43"
+  1h: "0.33"
+  24h: "7.75"
+  7d: "61.88"
 isMineable: false

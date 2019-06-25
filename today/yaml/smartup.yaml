@@ -1,21 +1,21 @@
 ---
 id: smartup
-rank: 1923
+rank: 1920
 symbol: SMARTUP
 name: Smartup
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "3.9784549247e-07"
-  USD: "0.00450367444489"
+  BTC: "4.12816388347e-07"
+  USD: "0.0046806466567"
 volume:
-  BTC: "50.3998504051"
-  USD: "570534.347107"
+  BTC: "51.1501191053"
+  USD: "579956.708935"
 supply:
   SMARTUP: "0"
 change:
-  1h: "0.05"
-  24h: "-1.44"
-  7d: "-21.30"
+  1h: "0.20"
+  24h: "4.40"
+  7d: "-17.61"
 isMineable: false

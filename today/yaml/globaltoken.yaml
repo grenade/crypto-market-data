@@ -1,21 +1,21 @@
 ---
 id: globaltoken
-rank: 1318
+rank: 1319
 symbol: GLT
 name: GlobalToken
 marketCap:
-  BTC: "49.66068"
-  USD: "561108.018988"
+  BTC: "51.7708786345"
+  USD: "587016.274044"
 price:
-  BTC: "6.9e-07"
-  USD: "0.00779619878547"
+  BTC: "7.19216788495e-07"
+  USD: "0.00815500857911"
 volume:
-  BTC: "0.013"
-  USD: "146.884904654"
+  BTC: "0.0159825952999"
+  USD: "181.222412869"
 supply:
-  GLT: "71972000.0"
+  GLT: "71982300.0"
 change:
-  1h: "0.07"
-  24h: "29.05"
-  7d: "114.66"
+  1h: "0.84"
+  24h: "12.83"
+  7d: "124.94"
 isMineable: true

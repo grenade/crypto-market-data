@@ -1,21 +1,21 @@
 ---
 id: fivebalance
-rank: 1136
+rank: 1145
 symbol: FBN
 name: Fivebalance
 marketCap:
-  BTC: "3.47199296863"
-  USD: "39303.514308"
+  BTC: "3.40892372174"
+  USD: "38651.4873719"
 price:
-  BTC: "7.3262522118e-09"
-  USD: "8.29343438285e-05"
+  BTC: "7.19316979669e-09"
+  USD: "8.15585018191e-05"
 volume:
-  BTC: "3.16122861229"
-  USD: "35785.6122166"
+  BTC: "3.31242165058"
+  USD: "37557.3154605"
 supply:
   FBN: "473911198.83"
 change:
-  1h: "1.15"
-  24h: "-8.18"
-  7d: "37.44"
+  1h: "1.19"
+  24h: "2.98"
+  7d: "36.42"
 isMineable: false

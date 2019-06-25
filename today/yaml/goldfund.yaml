@@ -1,21 +1,21 @@
 ---
 id: goldfund
-rank: 2109
+rank: 2112
 symbol: GFUN
 name: GoldFund
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "7.81600440066e-08"
-  USD: "0.000884784167389"
+  BTC: "5.10951244987e-08"
+  USD: "0.000579333162175"
 volume:
-  BTC: "0.0304436743423"
-  USD: "344.627250375"
+  BTC: "0.0191353532455"
+  USD: "216.96286708"
 supply:
   GFUN: "0"
 change:
-  1h: "-6.71"
-  24h: "-18.89"
-  7d: "11.19"
+  1h: "-0.06"
+  24h: "-42.24"
+  7d: "-17.00"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: foldingcoin
-rank: 1284
+rank: 937
 symbol: FLDC
 name: FoldingCoin
 marketCap:
-  BTC: "68.57299458"
-  USD: "774795.213134"
+  BTC: "53.276534348"
+  USD: "604088.505195"
 price:
-  BTC: "9e-08"
-  USD: "0.00101689549376"
+  BTC: "6.9923854437e-08"
+  USD: "0.000792848056302"
 volume:
-  BTC: "0.03516765"
-  USD: "397.353609011"
+  BTC: "0.0483683379276"
+  USD: "548.43576661"
 supply:
   FLDC: "761922162.0"
 change:
-  1h: "0.08"
-  24h: "19.50"
-  7d: "29.36"
+  1h: "-11.76"
+  24h: "-19.08"
+  7d: "3.33"
 isMineable: false

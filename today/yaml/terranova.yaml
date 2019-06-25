@@ -1,21 +1,21 @@
 ---
 id: terranova
-rank: 2101
+rank: 2099
 symbol: TER
 name: TerraNova
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "8.16e-06"
-  USD: "0.0921985247672"
+  BTC: "7.88141730726e-06"
+  USD: "0.0893653023461"
 volume:
-  BTC: "0.0560877703747"
-  USD: "633.72667721"
+  BTC: "0.0389716060974"
+  USD: "441.888714432"
 supply:
   TER: "0"
 change:
-  1h: "-1.00"
-  24h: "8.10"
-  7d: "14.35"
+  1h: "-4.05"
+  24h: "-0.13"
+  7d: "12.90"
 isMineable: true

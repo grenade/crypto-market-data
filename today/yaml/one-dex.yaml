@@ -1,21 +1,21 @@
 ---
 id: one-dex
-rank: 2136
+rank: 2126
 symbol: ODEX
 name: One DEX
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "5.98109586584e-11"
-  USD: "6.77069593932e-07"
+  BTC: "8.61660630033e-11"
+  USD: "9.76978884808e-07"
 volume:
-  BTC: "0.00405640203249"
-  USD: "45.9191181445"
+  BTC: "0.0060437988299"
+  USD: "68.5265594716"
 supply:
   ODEX: "0"
 change:
-  1h: "6.74"
-  24h: "-16.68"
-  7d: "40.91"
+  1h: "9.86"
+  24h: "89.01"
+  7d: "77.28"
 isMineable: false

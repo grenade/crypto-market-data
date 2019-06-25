@@ -1,21 +1,21 @@
 ---
 id: atlas-token
-rank: 2062
+rank: 2058
 symbol: ATLS
 name: Atlas Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "3.88199823748e-06"
-  USD: "0.0439448393615"
+  BTC: "3.4452913677e-06"
+  USD: "0.039063835586"
 volume:
-  BTC: "0.638643358747"
-  USD: "7229.54470676"
+  BTC: "0.715041317988"
+  USD: "8107.37133728"
 supply:
   ATLS: "0"
 change:
-  1h: "-1.91"
-  24h: "1.84"
-  7d: "-4.30"
+  1h: "0.87"
+  24h: "-14.34"
+  7d: "-14.64"
 isMineable: false

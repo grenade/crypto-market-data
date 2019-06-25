@@ -1,21 +1,21 @@
 ---
 id: know
-rank: 1895
+rank: 1898
 symbol: KNOW
 name: KNOW
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "3.75243081791e-07"
-  USD: "0.00424781155015"
+  BTC: "3.71283138926e-07"
+  USD: "0.00420972914826"
 volume:
-  BTC: "137.697256265"
-  USD: "1558754.9084"
+  BTC: "121.47463378"
+  USD: "1377318.95954"
 supply:
   KNOW: "0"
 change:
-  1h: "-5.11"
-  24h: "-9.39"
-  7d: "-11.84"
+  1h: "-4.78"
+  24h: "-3.65"
+  7d: "-9.02"
 isMineable: false

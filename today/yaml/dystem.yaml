@@ -1,21 +1,21 @@
 ---
 id: dystem
-rank: 1669
+rank: 1676
 symbol: DTEM
 name: Dystem
 marketCap:
-  BTC: "3.29030792676"
-  USD: "37246.810649"
+  BTC: "3.11531858169"
+  USD: "35322.496673"
 price:
-  BTC: "5.38982948418e-07"
-  USD: "0.00610137296254"
+  BTC: "5.10018411761e-07"
+  USD: "0.00578275485483"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
-  DTEM: "6104660.52111"
+  DTEM: "6108247.29039"
 change:
-  1h: "0.09"
-  24h: "4.98"
-  7d: "-11.61"
+  1h: "0.93"
+  24h: "-1.63"
+  7d: "-15.61"
 isMineable: true

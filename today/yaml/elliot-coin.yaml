@@ -1,21 +1,21 @@
 ---
 id: elliot-coin
-rank: 2184
+rank: 2180
 symbol: ELLI
 name: Elliot Coin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.99434971343e-08"
-  USD: "0.000338965164585"
+  BTC: "3.00010830448e-08"
+  USD: "0.000340162050284"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   ELLI: "0"
 change:
-  1h: "0.08"
-  24h: "4.76"
-  7d: "-56.61"
+  1h: "0.93"
+  24h: "4.15"
+  7d: "-55.86"
 isMineable: true

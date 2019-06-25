@@ -1,21 +1,21 @@
 ---
 id: shping
-rank: 1449
+rank: 1446
 symbol: SHPING
 name: SHPING
 marketCap:
-  BTC: "18.0949717582"
-  USD: "204837.967078"
+  BTC: "17.9155134337"
+  USD: "203131.926017"
 price:
-  BTC: "2.21923580819e-08"
-  USD: "0.000251221033937"
+  BTC: "2.1972263602e-08"
+  USD: "0.000249128680624"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   SHPING: "815369493.021"
 change:
-  1h: "0.23"
-  24h: "-5.11"
-  7d: "26.23"
+  1h: "0.86"
+  24h: "0.76"
+  7d: "14.40"
 isMineable: false

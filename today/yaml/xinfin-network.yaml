@@ -1,21 +1,21 @@
 ---
 id: xinfin-network
-rank: 689
+rank: 704
 symbol: XDCE
 name: XinFin Network
 marketCap:
-  BTC: "188.311508659"
-  USD: "2131716.32022"
+  BTC: "184.732999442"
+  USD: "2094562.91133"
 price:
-  BTC: "4.85654194447e-08"
-  USD: "0.00054976829598"
+  BTC: "4.76425241723e-08"
+  USD: "0.000540186455234"
 volume:
-  BTC: "32.5773916569"
-  USD: "368781.270779"
+  BTC: "27.9467491738"
+  USD: "316869.343802"
 supply:
   XDCE: "3877481360.44"
 change:
-  1h: "0.16"
-  24h: "1.55"
-  7d: "-11.08"
+  1h: "3.10"
+  24h: "2.44"
+  7d: "-13.78"
 isMineable: false

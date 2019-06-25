@@ -1,21 +1,21 @@
 ---
 id: horyoutoken
-rank: 2034
+rank: 2016
 symbol: HYT
 name: HoryouToken
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "6.3075707186e-07"
-  USD: "0.00714027068106"
+  BTC: "8.11041897181e-07"
+  USD: "0.00919585716954"
 volume:
-  BTC: "1.93715527428"
-  USD: "21928.9067482"
+  BTC: "3.90734271156"
+  USD: "44302.7242031"
 supply:
   HYT: "0"
 change:
-  1h: "-1.87"
-  24h: "-15.16"
-  7d: "-8.68"
+  1h: "0.92"
+  24h: "2.03"
+  7d: "14.52"
 isMineable: false

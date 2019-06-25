@@ -1,21 +1,21 @@
 ---
 id: natmin-pure-escrow
-rank: 1596
+rank: 1606
 symbol: NAT
 name: Natmin Pure Escrow
 marketCap:
-  BTC: "5.97872816646"
-  USD: "67680.1566585"
+  BTC: "5.91943365338"
+  USD: "67116.4665972"
 price:
-  BTC: "6.10289847253e-08"
-  USD: "0.000690857843327"
+  BTC: "6.04237249054e-08"
+  USD: "0.000685103871715"
 volume:
-  BTC: "0.0191076258566"
-  USD: "216.301373025"
+  BTC: "0.0189181244543"
+  USD: "214.499856299"
 supply:
   NAT: "97965387.9771"
 change:
-  1h: "0.23"
-  24h: "2.34"
-  7d: "6.50"
+  1h: "0.86"
+  24h: "0.76"
+  7d: "6.58"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: wiki-token
-rank: 2156
+rank: 2167
 symbol: WIKI
 name: Wiki Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.000108491245775"
-  USD: "1.22813821028"
+  BTC: "0.000108355097538"
+  USD: "1.22512010311"
 volume:
-  BTC: "6.59863319258e-05"
-  USD: "0.746975804506"
+  BTC: "0.0"
+  USD: "0.0"
 supply:
   WIKI: "0"
 change:
-  1h: "0.20"
-  24h: "1.44"
-  7d: "15.45"
+  1h: "0.00"
+  24h: "1.64"
+  7d: "17.28"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: traceability-chain
-rank: 409
+rank: 405
 symbol: TAC
 name: Traceability Chain
 marketCap:
-  BTC: "736.323797419"
-  USD: "8335302.85592"
+  BTC: "752.227535711"
+  USD: "8529000.78457"
 price:
-  BTC: "1.17647238282e-06"
-  USD: "0.0133178550616"
+  BTC: "1.20188281903e-06"
+  USD: "0.0136273388301"
 volume:
-  BTC: "3.25919492085"
-  USD: "36894.6064585"
+  BTC: "4.55173821763"
+  USD: "51609.090317"
 supply:
   TAC: "625874273.099"
 change:
-  1h: "0.53"
-  24h: "-1.68"
-  7d: "59.44"
+  1h: "12.14"
+  24h: "-0.09"
+  7d: "55.54"
 isMineable: false

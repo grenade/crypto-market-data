@@ -1,21 +1,21 @@
 ---
 id: thorenext
-rank: 1971
+rank: 1973
 symbol: THX
 name: ThoreNext
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.00118576248652"
-  USD: "13.4230205176"
+  BTC: "0.00116184194271"
+  USD: "13.173342334"
 volume:
-  BTC: "11.0606766501"
-  USD: "125208.62424"
+  BTC: "11.1230086389"
+  USD: "126116.294478"
 supply:
   THX: "0"
 change:
-  1h: "0.08"
-  24h: "47.35"
-  7d: "70.00"
+  1h: "40.81"
+  24h: "56.93"
+  7d: "64.33"
 isMineable: false

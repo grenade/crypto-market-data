@@ -1,21 +1,21 @@
 ---
 id: chex
-rank: 1954
+rank: 1959
 symbol: CHEX
 name: CHEX
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "8.4820766742e-07"
-  USD: "0.0096018461137"
+  BTC: "8.49629697734e-07"
+  USD: "0.00963337821945"
 volume:
-  BTC: "15.4437997666"
-  USD: "174826.277179"
+  BTC: "15.1178941916"
+  USD: "171411.607925"
 supply:
   CHEX: "0"
 change:
-  1h: "-1.83"
-  24h: "4.09"
-  7d: "-7.35"
+  1h: "0.34"
+  24h: "2.79"
+  7d: "-6.95"
 isMineable: false

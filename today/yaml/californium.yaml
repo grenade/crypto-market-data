@@ -1,21 +1,21 @@
 ---
 id: californium
-rank: 1700
+rank: 1701
 symbol: CF
 name: Californium
 marketCap:
-  BTC: "2.5693093125"
-  USD: "29030.2117994"
+  BTC: "2.56651443388"
+  USD: "29101.0270636"
 price:
-  BTC: "1.05e-06"
-  USD: "0.0118637807605"
+  BTC: "1.04885781656e-06"
+  USD: "0.0118927208445"
 volume:
-  BTC: "0.00053132"
-  USD: "6.00329904158"
+  BTC: "0.000251725875973"
+  USD: "2.85425300269"
 supply:
   CF: "2446961.25"
 change:
-  1h: "0.08"
-  24h: "5.93"
-  7d: "23.13"
+  1h: "0.84"
+  24h: "4.04"
+  7d: "23.43"
 isMineable: true

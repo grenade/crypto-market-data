@@ -1,21 +1,21 @@
 ---
 id: okb
-rank: 1854
+rank: 1856
 symbol: OKB
 name: OKB
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.000149010990736"
-  USD: "1.68682818754"
+  BTC: "0.00014630265979"
+  USD: "1.6588272044"
 volume:
-  BTC: "6233.70332743"
-  USD: "70566516.1581"
+  BTC: "5880.5500536"
+  USD: "66675591.6793"
 supply:
   OKB: "0"
 change:
-  1h: "0.74"
-  24h: "3.64"
-  7d: "1.41"
+  1h: "1.01"
+  24h: "-0.65"
+  7d: "1.01"
 isMineable: false

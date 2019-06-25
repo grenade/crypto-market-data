@@ -1,21 +1,21 @@
 ---
 id: encryptotel-eth
-rank: 2111
+rank: 2103
 symbol: ETT
 name: "EncryptoTel [ETH]"
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.02832229122e-06"
-  USD: "0.011618847823"
+  BTC: "1.01889045037e-06"
+  USD: "0.0115529288204"
 volume:
-  BTC: "0.0272880393818"
-  USD: "308.323158675"
+  BTC: "0.0274497551366"
+  USD: "311.245499569"
 supply:
   ETT: "0"
 change:
-  1h: "0.89"
-  24h: "3.56"
-  7d: "18.68"
+  1h: "0.83"
+  24h: "2.37"
+  7d: "19.40"
 isMineable: false

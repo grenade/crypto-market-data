@@ -1,21 +1,21 @@
 ---
 id: digitex-futures
-rank: 143
+rank: 147
 symbol: DGTX
 name: Digitex Futures
 marketCap:
-  BTC: "3592.74838532"
-  USD: "40670484.8897"
+  BTC: "3489.98482069"
+  USD: "39570584.5118"
 price:
-  BTC: "4.7754973725e-06"
-  USD: "0.054059392114"
+  BTC: "4.63881446812e-06"
+  USD: "0.052596389204"
 volume:
-  BTC: "280.151386022"
-  USD: "3171358.38362"
+  BTC: "254.590031889"
+  USD: "2886624.69618"
 supply:
-  DGTX: "752329674.812"
+  DGTX: "752344126.862"
 change:
-  1h: "1.78"
-  24h: "-5.78"
-  7d: "-11.19"
+  1h: "1.19"
+  24h: "-9.56"
+  7d: "-14.02"
 isMineable: false

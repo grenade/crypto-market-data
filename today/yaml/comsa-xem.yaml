@@ -1,21 +1,21 @@
 ---
 id: comsa-xem
-rank: 2042
+rank: 2014
 symbol: CMS
 name: "COMSA [XEM]"
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.65094480398e-05"
-  USD: "0.186889585639"
+  BTC: "1.56777673272e-05"
+  USD: "0.177759631875"
 volume:
-  BTC: "1.64027837979"
-  USD: "18568.2129404"
+  BTC: "4.13962324479"
+  USD: "46936.3965377"
 supply:
   CMS: "0"
 change:
-  1h: "-0.52"
-  24h: "-0.09"
-  7d: "4.10"
+  1h: "0.14"
+  24h: "-4.33"
+  7d: "0.67"
 isMineable: false

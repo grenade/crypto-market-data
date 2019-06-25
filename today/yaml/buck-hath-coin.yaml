@@ -1,21 +1,21 @@
 ---
 id: buck-hath-coin
-rank: 2123
+rank: 2119
 symbol: BHIG
 name: BuckHathCoin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.31751387391e-05"
-  USD: "0.149144672418"
+  BTC: "1.32004765397e-05"
+  USD: "0.149671302125"
 volume:
-  BTC: "0.0131751387391"
-  USD: "149.144672418"
+  BTC: "0.0132004765397"
+  USD: "149.671302125"
 supply:
   BHIG: "0"
 change:
-  1h: "6.82"
-  24h: "6.82"
-  7d: "26.77"
+  1h: "0.92"
+  24h: "7.20"
+  7d: "25.94"
 isMineable: false

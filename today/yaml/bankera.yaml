@@ -1,21 +1,21 @@
 ---
 id: bankera
-rank: 2016
+rank: 2007
 symbol: BNK
 name: Bankera
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.32399816092e-07"
-  USD: "0.00263080299398"
+  BTC: "2.30131478659e-07"
+  USD: "0.00260930565403"
 volume:
-  BTC: "4.15493143122"
-  USD: "47034.4866568"
+  BTC: "5.30949490821"
+  USD: "60200.7824602"
 supply:
   BNK: "0"
 change:
-  1h: "-0.14"
-  24h: "-0.80"
-  7d: "-3.02"
+  1h: "0.70"
+  24h: "-3.72"
+  7d: "-0.26"
 isMineable: false

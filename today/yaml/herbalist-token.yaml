@@ -1,21 +1,21 @@
 ---
 id: herbalist-token
-rank: 1021
+rank: 1038
 symbol: HERB
 name: Herbalist Token
 marketCap:
-  BTC: "26.1778653252"
-  USD: "296337.611757"
+  BTC: "23.7938508354"
+  USD: "269782.429929"
 price:
-  BTC: "2.75556477136e-09"
-  USD: "3.11934328198e-05"
+  BTC: "2.50461587767e-09"
+  USD: "2.83981505218e-05"
 volume:
-  BTC: "90.6730004459"
-  USD: "1026432.83053"
+  BTC: "62.526362059"
+  USD: "708944.256547"
 supply:
   HERB: "9499999999.0"
 change:
-  1h: "0.22"
-  24h: "-1.51"
-  7d: "50.23"
+  1h: "-1.09"
+  24h: "-16.05"
+  7d: "15.17"
 isMineable: false

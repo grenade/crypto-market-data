@@ -1,21 +1,21 @@
 ---
 id: hdac
-rank: 2014
+rank: 2017
 symbol: HDAC
 name: Hdac
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "3.02138918787e-06"
-  USD: "0.034202607623"
+  BTC: "2.86261500289e-06"
+  USD: "0.0324572611963"
 volume:
-  BTC: "4.16618178315"
-  USD: "47161.8424356"
+  BTC: "3.58482151819"
+  USD: "40645.8738742"
 supply:
   HDAC: "0"
 change:
-  1h: "4.50"
-  24h: "-0.41"
-  7d: "0.42"
+  1h: "-0.58"
+  24h: "-7.71"
+  7d: "-5.70"
 isMineable: true

@@ -1,21 +1,21 @@
 ---
 id: opcoinx
-rank: 1427
+rank: 1419
 symbol: OPCX
 name: OPCoinX
 marketCap:
-  BTC: "20.5763062359"
-  USD: "232927.069224"
+  BTC: "20.6176442325"
+  USD: "233769.565041"
 price:
-  BTC: "1.29755154249e-07"
-  USD: "0.00146884904654"
+  BTC: "1.30004693194e-07"
+  USD: "0.00147403555123"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
-  OPCX: "158577949.022"
+  OPCX: "158591537.935"
 change:
-  1h: "0.09"
-  24h: "64.24"
-  7d: "-20.38"
+  1h: "0.93"
+  24h: "64.70"
+  7d: "-18.79"
 isMineable: true

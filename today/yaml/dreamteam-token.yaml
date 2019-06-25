@@ -1,21 +1,21 @@
 ---
 id: dreamteam-token
-rank: 833
+rank: 821
 symbol: DREAM
 name: DreamTeam Token
 marketCap:
-  BTC: "100.347817334"
-  USD: "1135953.30117"
+  BTC: "107.269351698"
+  USD: "1216254.84492"
 price:
-  BTC: "5.32036473218e-06"
-  USD: "0.0602273775507"
+  BTC: "5.68733920455e-06"
+  USD: "0.064484904148"
 volume:
-  BTC: "0.37135416549"
-  USD: "4203.78839719"
+  BTC: "0.469039707998"
+  USD: "5318.12496565"
 supply:
   DREAM: "18861078.5887"
 change:
-  1h: "-7.04"
-  24h: "-17.79"
-  7d: "-21.50"
+  1h: "0.02"
+  24h: "-8.23"
+  7d: "-16.25"
 isMineable: false

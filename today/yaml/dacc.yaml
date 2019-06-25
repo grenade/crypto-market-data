@@ -1,21 +1,21 @@
 ---
 id: dacc
-rank: 1984
+rank: 1986
 symbol: DACC
 name: DACC
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.79890654542e-08"
-  USD: "0.000203639090821"
+  BTC: "1.82281169246e-08"
+  USD: "0.000206676326205"
 volume:
-  BTC: "8.37760619685"
-  USD: "94835.8386667"
+  BTC: "8.79013676674"
+  USD: "99665.4334242"
 supply:
   DACC: "0"
 change:
-  1h: "0.83"
-  24h: "4.20"
-  7d: "26.84"
+  1h: "1.60"
+  24h: "7.94"
+  7d: "28.45"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: alt-estate-token
-rank: 1013
+rank: 1027
 symbol: ALT
 name: Alt.Estate token
 marketCap:
-  BTC: "29.3463626106"
-  USD: "332205.506512"
+  BTC: "27.8095449602"
+  USD: "315313.677744"
 price:
-  BTC: "4.05235327885e-08"
-  USD: "0.000458732856072"
+  BTC: "3.84013862973e-08"
+  USD: "0.000435407424364"
 volume:
-  BTC: "0.255213291894"
-  USD: "2889.0551796"
+  BTC: "0.341365069744"
+  USD: "3870.50833618"
 supply:
   ALT: "724180756.0"
 change:
-  1h: "-2.27"
-  24h: "10.44"
-  7d: "71.22"
+  1h: "-5.08"
+  24h: "-0.26"
+  7d: "94.47"
 isMineable: false

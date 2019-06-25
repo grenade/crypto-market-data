@@ -1,21 +1,21 @@
 ---
 id: medibit
-rank: 2032
+rank: 2034
 symbol: MEDIBIT
 name: MediBit
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.07662039235e-09"
-  USD: "1.21875145996e-05"
+  BTC: "1.02988788753e-09"
+  USD: "1.16772042817e-05"
 volume:
-  BTC: "2.06464321449"
-  USD: "23372.0905701"
+  BTC: "2.04698253313"
+  USD: "23209.3546198"
 supply:
   MEDIBIT: "0"
 change:
-  1h: "1.56"
-  24h: "3.10"
-  7d: "-12.49"
+  1h: "1.29"
+  24h: "-1.20"
+  7d: "-10.34"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: bingo-fun
-rank: 2134
+rank: 2128
 symbol: "777"
 name: BiNGO.Fun
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "3.4952963979e-08"
-  USD: "0.000395673128451"
+  BTC: "3.46063151731e-08"
+  USD: "0.000392377671982"
 volume:
-  BTC: "0.00458480265503"
-  USD: "51.9006974897"
+  BTC: "0.00424963197096"
+  USD: "48.1837113026"
 supply:
   "777": "0"
 change:
-  1h: "0.72"
-  24h: "-1.85"
-  7d: "-28.35"
+  1h: "0.86"
+  24h: "-2.02"
+  7d: "-26.92"
 isMineable: false
