@@ -1,0 +1,85 @@
+---
+- close:
+    asString: "0.00432173525068"
+    asFormattedString: "0.004322"
+  date_raw:
+    asString: 2019-06-24
+    asFormattedString: "Jun 24, 2019"
+  high:
+    asString: "0.00449766947417"
+    asFormattedString: "0.004498"
+  low:
+    asString: "0.00389135158649"
+    asFormattedString: "0.003891"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00396731859603"
+    asFormattedString: "0.003967"
+  volume:
+    asString: "18397876.0965"
+    asFormattedString: "18,397,876"
+- close:
+    asString: "0.00396731859603"
+    asFormattedString: "0.003967"
+  date_raw:
+    asString: 2019-06-23
+    asFormattedString: "Jun 23, 2019"
+  high:
+    asString: "0.00432311814665"
+    asFormattedString: "0.004323"
+  low:
+    asString: "0.00374867843426"
+    asFormattedString: "0.003749"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00415225278208"
+    asFormattedString: "0.004152"
+  volume:
+    asString: "38713068.6521"
+    asFormattedString: "38,713,069"
+- close:
+    asString: "0.00415223306552"
+    asFormattedString: "0.004152"
+  date_raw:
+    asString: 2019-06-22
+    asFormattedString: "Jun 22, 2019"
+  high:
+    asString: "0.00507131425592"
+    asFormattedString: "0.005071"
+  low:
+    asString: "0.00401907330188"
+    asFormattedString: "0.004019"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00506281079091"
+    asFormattedString: "0.005063"
+  volume:
+    asString: "24977884.0968"
+    asFormattedString: "24,977,884"
+- close:
+    asString: "0.00506299063943"
+    asFormattedString: "0.005063"
+  date_raw:
+    asString: 2019-06-21
+    asFormattedString: "Jun 21, 2019"
+  high:
+    asString: "0.00519996382783"
+    asFormattedString: "0.005200"
+  low:
+    asString: "0.00501223687685"
+    asFormattedString: "0.005012"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00511410356095"
+    asFormattedString: "0.005114"
+  volume:
+    asString: "202584551.801"
+    asFormattedString: "202,584,552"
