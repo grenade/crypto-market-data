@@ -1,21 +1,21 @@
 ---
 id: starcointv
-rank: 1379
+rank: 1399
 symbol: KST
 name: StarCoin
 marketCap:
-  BTC: "30.2863899982"
-  USD: "340436.806517"
+  BTC: "24.4199736186"
+  USD: "275015.833531"
 price:
-  BTC: "2.00355698285e-08"
-  USD: "0.000225211568945"
+  BTC: "1.61547179005e-08"
+  USD: "0.000181933169882"
 volume:
-  USD: "0.0"
   BTC: "0.0"
+  USD: "0.0"
 supply:
   KST: "1511631077.0"
 change:
-  1h: "3.45"
-  7d: "-21.51"
-  24h: "-10.67"
+  24h: "-28.25"
+  1h: "-17.06"
+  7d: "-36.52"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: constellation
-rank: 494
+rank: 495
 symbol: DAG
 name: Constellation
 marketCap:
-  USD: "5655793.95894"
-  BTC: "503.15823175"
+  USD: "5643661.47085"
+  BTC: "501.12774403"
 price:
-  BTC: "3.85014619204e-07"
-  USD: "0.00432779038479"
+  USD: "0.00431850665457"
+  BTC: "3.83460898312e-07"
 volume:
-  BTC: "13.3709964798"
-  USD: "150297.851338"
+  USD: "148618.755757"
+  BTC: "13.1965714417"
 supply:
   DAG: "1306854874.21"
 change:
-  1h: "-1.68"
-  24h: "-3.70"
-  7d: "-9.96"
+  24h: "-3.76"
+  7d: "-10.20"
+  1h: "-2.34"
 isMineable: false

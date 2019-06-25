@@ -4,18 +4,18 @@ rank: 2132
 symbol: EVC
 name: Eva Cash
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "2.48669925229e-06"
-  USD: "0.0279519596845"
+  BTC: "2.48235447516e-06"
+  USD: "0.0279560820077"
 volume:
-  USD: "70.8967304689"
-  BTC: "0.00630720881959"
+  USD: "70.9359473637"
+  BTC: "0.0062987426614"
 supply:
   EVC: "0"
 change:
-  24h: "-23.70"
-  7d: "-14.66"
-  1h: "-0.87"
+  1h: "-0.67"
+  24h: "-23.73"
+  7d: "-14.15"
 isMineable: false

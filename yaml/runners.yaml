@@ -4,8 +4,8 @@ rank: 2217
 symbol: RUNNERS
 name: Runners
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
   BTC: "1.00076845689e-08"
   USD: "9.3452683354e-05"
@@ -15,7 +15,7 @@ volume:
 supply:
   RUNNERS: "0"
 change:
-  24h: "0.00"
-  1h: "0.00"
   7d: "0.00"
+  1h: "0.00"
+  24h: "0.00"
 isMineable: false

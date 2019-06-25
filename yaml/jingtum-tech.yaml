@@ -1,21 +1,21 @@
 ---
 id: jingtum-tech
-rank: 2054
+rank: 2051
 symbol: SWTC
 name: Jingtum Tech
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "9.02821863956e-08"
-  USD: "0.00101482478512"
+  BTC: "9.02493630595e-08"
+  USD: "0.00101638127032"
 volume:
-  USD: "10504.6098488"
-  BTC: "0.934525011891"
+  BTC: "0.934183527834"
+  USD: "10520.7018481"
 supply:
   SWTC: "0"
 change:
-  1h: "2.74"
-  24h: "-3.33"
-  7d: "-9.57"
+  1h: "-0.12"
+  7d: "-9.45"
+  24h: "-2.79"
 isMineable: false

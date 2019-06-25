@@ -1,21 +1,21 @@
 ---
 id: big-bang-game-coin
-rank: 1890
+rank: 1889
 symbol: BBGC
 name: Big Bang Game Coin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.030261245048"
-  BTC: "2.69214095482e-06"
+  BTC: "2.69887050612e-06"
+  USD: "0.0303944686194"
 volume:
-  USD: "1876091.37162"
-  BTC: "166.90332498"
+  USD: "1890336.58128"
+  BTC: "167.852042743"
 supply:
   BBGC: "0"
 change:
-  24h: "4.06"
-  1h: "0.11"
-  7d: "7.13"
+  7d: "7.59"
+  1h: "1.25"
+  24h: "4.46"
 isMineable: false

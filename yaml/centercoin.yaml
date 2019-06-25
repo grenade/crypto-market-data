@@ -1,21 +1,21 @@
 ---
 id: centercoin
-rank: 2018
+rank: 2019
 symbol: CENT
 name: CENTERCOIN
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.003748583157"
-  BTC: "3.33486418802e-07"
+  USD: "0.00375022377521"
+  BTC: "3.33000338484e-07"
 volume:
-  USD: "36680.5988995"
-  BTC: "3.26322801287"
+  BTC: "3.25847162454"
+  USD: "36696.6526607"
 supply:
   CENT: "0"
 change:
-  24h: "-5.47"
-  1h: "-1.20"
-  7d: "17.45"
+  1h: "-1.22"
+  7d: "17.55"
+  24h: "-5.55"
 isMineable: false

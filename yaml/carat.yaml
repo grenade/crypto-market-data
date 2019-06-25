@@ -1,21 +1,21 @@
 ---
 id: carat
-rank: 2021
+rank: 2023
 symbol: CARAT
 name: CARAT
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.718784984533"
-  BTC: "6.39455016311e-05"
+  BTC: "6.35700646416e-05"
+  USD: "0.715921097547"
 volume:
-  USD: "32931.9549522"
-  BTC: "2.92973618596"
+  BTC: "2.92326126451"
+  USD: "32921.5397956"
 supply:
   CARAT: "0"
 change:
-  7d: "3.70"
-  1h: "0.85"
-  24h: "3.09"
+  7d: "3.41"
+  1h: "0.56"
+  24h: "2.63"
 isMineable: false

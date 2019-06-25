@@ -1,6 +1,6 @@
 {
   "id": "bitcoen",
-  "rank": 1694,
+  "rank": 1693,
   "symbol": "BEN",
   "name": "BitCoen",
   "marketCap": {
@@ -12,16 +12,16 @@
     "BTC": "4.63507703827e-07"
   },
   "volume": {
-    "BTC": "0",
-    "USD": "0"
+    "USD": "0",
+    "BTC": "0"
   },
   "supply": {
     "BEN": "7000000.0"
   },
   "change": {
-    "1h": "0.00",
     "7d": "0.00",
-    "24h": "0.00"
+    "24h": "0.00",
+    "1h": "0.00"
   },
   "isMineable": false
 }

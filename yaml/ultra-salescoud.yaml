@@ -4,8 +4,8 @@ rank: 2174
 symbol: UST
 name: Ultra Salescloud
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
   USD: "0.000885624032484"
   BTC: "1.09756285438e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   UST: "0"
 change:
+  7d: "0.00"
   1h: "0.00"
   24h: "0.00"
-  7d: "0.00"
 isMineable: false

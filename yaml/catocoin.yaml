@@ -4,18 +4,18 @@ rank: 1655
 symbol: CATO
 name: CatoCoin
 marketCap:
-  BTC: "4.54722372683"
   USD: "42478.4233514"
+  BTC: "4.54722372683"
 price:
-  USD: "0.00602500213238"
   BTC: "6.44963501209e-07"
+  USD: "0.00602500213238"
 volume:
-  BTC: "0"
   USD: "0"
+  BTC: "0"
 supply:
   CATO: "7050358.22695"
 change:
+  7d: "0.00"
   1h: "0.00"
   24h: "0.00"
-  7d: "0.00"
 isMineable: true

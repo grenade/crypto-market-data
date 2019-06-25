@@ -1,6 +1,6 @@
 ---
 id: pura
-rank: 1235
+rank: 1234
 symbol: PURA
 name: Pura
 marketCap:
@@ -10,12 +10,12 @@ price:
   USD: "0.00933636854311"
   BTC: "9.99236839036e-07"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   PURA: "175868634.92"
 change:
-  1h: "0.00"
   7d: "0.00"
+  1h: "0.00"
   24h: "0.00"
 isMineable: true

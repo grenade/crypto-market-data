@@ -4,8 +4,8 @@ rank: 1797
 symbol: FLM
 name: FolmCoin
 marketCap:
-  USD: "8119.99708547"
   BTC: "0.869228198592"
+  USD: "8119.99708547"
 price:
   BTC: "8.99560199077e-08"
   USD: "0.000840334702272"
@@ -15,7 +15,7 @@ volume:
 supply:
   FLM: "9662813.0"
 change:
-  1h: "0.00"
   24h: "0.00"
+  1h: "0.00"
   7d: "0.00"
 isMineable: true

@@ -1,21 +1,21 @@
 ---
 id: gny
-rank: 1960
+rank: 1963
 symbol: GNY
 name: GNY
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.126913702684"
-  BTC: "1.12906648812e-05"
+  BTC: "1.12752725439e-05"
+  USD: "0.126981237793"
 volume:
-  USD: "144421.546679"
-  BTC: "12.8482208831"
+  BTC: "12.6983790841"
+  USD: "143008.152378"
 supply:
   GNY: "0"
 change:
-  24h: "11.68"
-  1h: "2.72"
-  7d: "-0.41"
+  7d: "-0.28"
+  1h: "1.03"
+  24h: "11.67"
 isMineable: false

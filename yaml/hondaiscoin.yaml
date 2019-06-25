@@ -4,18 +4,18 @@ rank: 2155
 symbol: HNDC
 name: HondaisCoin
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "1.00066252277e-09"
-  USD: "1.12480343043e-05"
+  USD: "1.1252957159e-05"
+  BTC: "9.99203985544e-10"
 volume:
-  USD: "1.12559000547"
-  BTC: "0.000100136228608"
+  USD: "1.12608263519"
+  BTC: "9.99902728891e-05"
 supply:
   HNDC: "0"
 change:
-  1h: "0.80"
-  24h: "4.68"
-  7d: "21.66"
+  7d: "21.76"
+  1h: "0.81"
+  24h: "4.66"
 isMineable: true

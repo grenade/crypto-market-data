@@ -1,27 +1,27 @@
 {
   "id": "commerce-data-connection",
-  "rank": 2066,
+  "rank": 2067,
   "symbol": "CDC",
   "name": "Commerce Data Connection",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
-    "USD": "0.00105530705549",
-    "BTC": "9.38836237408e-08"
+    "BTC": "9.38528611807e-08",
+    "USD": "0.00105696358441"
   },
   "volume": {
-    "USD": "6167.24373819",
-    "BTC": "0.548658504289"
+    "BTC": "0.548478727034",
+    "USD": "6176.92453915"
   },
   "supply": {
     "CDC": "0"
   },
   "change": {
-    "7d": "406.95",
-    "24h": "1.32",
-    "1h": "10.21"
+    "1h": "5.96",
+    "7d": "400.44",
+    "24h": "1.11"
   },
   "isMineable": false
 }

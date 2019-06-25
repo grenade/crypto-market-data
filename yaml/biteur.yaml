@@ -1,6 +1,6 @@
 ---
 id: biteur
-rank: 1522
+rank: 1521
 symbol: BITEUR
 name: bitEUR
 marketCap:
@@ -10,8 +10,8 @@ price:
   BTC: "0.000123041538779"
   USD: "1.14963851139"
 volume:
-  BTC: "0"
   USD: "0"
+  BTC: "0"
 supply:
   BITEUR: "107706.0"
 change:

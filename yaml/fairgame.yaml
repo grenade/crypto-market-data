@@ -1,21 +1,21 @@
 ---
 id: fairgame
-rank: 1875
+rank: 1876
 symbol: FAIR
 name: FairGame
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.00400468387362"
-  BTC: "3.5626998989e-07"
+  BTC: "3.51489711652e-07"
+  USD: "0.00395844965018"
 volume:
-  USD: "3480937.75154"
-  BTC: "309.675793817"
+  USD: "3450309.4088"
+  BTC: "306.369504827"
 supply:
   FAIR: "0"
 change:
-  7d: "13.17"
-  1h: "2.48"
-  24h: "-4.89"
+  1h: "1.19"
+  7d: "12.00"
+  24h: "-5.94"
 isMineable: false

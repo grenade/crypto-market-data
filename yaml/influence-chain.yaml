@@ -1,21 +1,21 @@
 ---
 id: influence-chain
-rank: 1905
+rank: 1904
 symbol: INC
 name: Influence Chain
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "3.33458085294e-06"
-  USD: "0.0374826467174"
+  BTC: "3.99895973527e-06"
+  USD: "0.0450359718661"
 volume:
-  USD: "933729.852009"
-  BTC: "83.067711568"
+  USD: "1108985.39818"
+  BTC: "98.4721272925"
 supply:
   INC: "0"
 change:
-  24h: "-23.58"
-  1h: "-5.70"
-  7d: "-15.41"
+  24h: "-8.25"
+  1h: "13.72"
+  7d: "1.60"
 isMineable: false

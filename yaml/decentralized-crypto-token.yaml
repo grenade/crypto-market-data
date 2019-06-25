@@ -1,21 +1,21 @@
 ---
 id: decentralized-crypto-token
-rank: 730
+rank: 733
 symbol: DCTO
 name: Decentralized Crypto Token
 marketCap:
-  BTC: "160.114685325"
-  USD: "1799783.07589"
+  USD: "1773447.01698"
+  BTC: "157.472858244"
 price:
-  BTC: "1.77120222219e-07"
-  USD: "0.00199093529554"
+  BTC: "1.74197810707e-07"
+  USD: "0.00196180212392"
 volume:
-  BTC: "2.36498538489"
-  USD: "26583.8243495"
+  BTC: "2.35827112392"
+  USD: "26558.6650079"
 supply:
   DCTO: "903988733.296"
 change:
-  1h: "-0.91"
-  7d: "52.28"
-  24h: "0.25"
+  7d: "50.39"
+  1h: "-1.99"
+  24h: "-1.16"
 isMineable: false

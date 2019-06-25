@@ -1,21 +1,21 @@
 ---
 id: profile-utility-token
-rank: 955
+rank: 956
 symbol: PUT
 name: Profile Utility Token
 marketCap:
-  USD: "498803.614712"
-  BTC: "44.375227703"
+  USD: "501705.109844"
+  BTC: "44.5488006612"
 price:
-  USD: "0.0110135962573"
-  BTC: "9.79806134783e-07"
+  BTC: "9.8363863003e-07"
+  USD: "0.0110776613422"
 volume:
-  USD: "6190.10775163"
-  BTC: "0.550692562931"
+  BTC: "0.553249179531"
+  USD: "6230.64900217"
 supply:
   PUT: "45289803.8987"
 change:
-  24h: "2.23"
-  1h: "-0.71"
-  7d: "0.07"
+  7d: "0.61"
+  1h: "-0.01"
+  24h: "2.95"
 isMineable: false

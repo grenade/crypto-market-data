@@ -1,21 +1,21 @@
 ---
 id: otocash
-rank: 1193
+rank: 1194
 symbol: OTO
 name: OTOCASH
 marketCap:
-  USD: "4471553.18575"
-  BTC: "397.804235878"
+  USD: "4473510.2216"
+  BTC: "397.224407739"
 price:
-  BTC: "1.86623560497e-05"
-  USD: "0.209775839776"
+  USD: "0.209867651015"
+  BTC: "1.86351543304e-05"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   OTO: "21315863.5929"
 change:
-  7d: "23.57"
-  24h: "4.68"
-  1h: "0.80"
+  24h: "4.66"
+  7d: "23.67"
+  1h: "0.77"
 isMineable: true

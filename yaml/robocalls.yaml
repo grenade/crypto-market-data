@@ -4,18 +4,18 @@ rank: 2163
 symbol: RC20
 name: RoboCalls
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.000330455815341"
-  BTC: "2.9398447844e-08"
+  USD: "0.000330586572951"
+  BTC: "2.9354365843e-08"
 volume:
-  BTC: "5.32318906135e-07"
-  USD: "0.00598357706098"
+  USD: "0.00598547204396"
+  BTC: "5.31478742627e-07"
 supply:
   RC20: "0"
 change:
-  1h: "-1.29"
-  24h: "8.64"
-  7d: "-34.67"
+  1h: "-1.32"
+  7d: "-36.17"
+  24h: "7.00"
 isMineable: false

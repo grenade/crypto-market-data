@@ -1,21 +1,21 @@
 ---
 id: vegawallet-token
-rank: 747
+rank: 746
 symbol: VGW
 name: VegaWallet Token
 marketCap:
-  BTC: "146.651930337"
-  USD: "1648453.80504"
+  USD: "1653580.35679"
+  BTC: "146.829323135"
 price:
-  USD: "0.150403048134"
-  BTC: "1.33803551364e-05"
+  USD: "0.150870788878"
+  BTC: "1.33965402533e-05"
 volume:
-  USD: "11087.3092261"
-  BTC: "0.986363885527"
+  USD: "11175.8188566"
+  BTC: "0.992354506061"
 supply:
   VGW: "10960241.9997"
 change:
-  7d: "3.06"
-  24h: "-0.27"
-  1h: "0.98"
+  7d: "3.39"
+  1h: "1.43"
+  24h: "0.02"
 isMineable: false

@@ -1,27 +1,27 @@
 {
   "id": "blockchain-quotations-index-token",
-  "rank": 1999,
+  "rank": 1998,
   "symbol": "BQT",
   "name": "Blockchain Quotations Index Token",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
-    "BTC": "2.17073593757e-06",
-    "USD": "0.0244003465062"
+    "USD": "0.0245063019718",
+    "BTC": "2.17603197588e-06"
   },
   "volume": {
-    "USD": "62454.6908866",
-    "BTC": "5.55617691506"
+    "USD": "62085.8991676",
+    "BTC": "5.51290447639"
   },
   "supply": {
     "BQT": "0"
   },
   "change": {
-    "7d": "23.28",
-    "24h": "5.24",
-    "1h": "2.13"
+    "1h": "1.50",
+    "7d": "23.84",
+    "24h": "5.69"
   },
   "isMineable": false
 }

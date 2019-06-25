@@ -4,18 +4,18 @@ rank: 1851
 symbol: CJS
 name: CJs
 marketCap:
-  BTC: "0.00594576145096"
   USD: "55.5430274016"
+  BTC: "0.00594576145096"
 price:
-  BTC: "3.47299150173e-06"
   USD: "0.0324433571271"
+  BTC: "3.47299150173e-06"
 volume:
   BTC: "0"
   USD: "0"
 supply:
   CJS: "1712.0"
 change:
+  7d: "0.00"
   1h: "0.00"
   24h: "0.00"
-  7d: "0.00"
 isMineable: false

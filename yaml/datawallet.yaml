@@ -1,21 +1,21 @@
 ---
 id: datawallet
-rank: 766
+rank: 769
 symbol: DXT
 name: Datawallet
 marketCap:
-  BTC: "134.380387936"
-  USD: "1510514.46311"
+  BTC: "133.98545101"
+  USD: "1508933.67315"
 price:
-  BTC: "3.44368872946e-07"
-  USD: "0.00387090833132"
+  USD: "0.00386685733204"
+  BTC: "3.43356790853e-07"
 volume:
-  USD: "34026.5951501"
-  BTC: "3.0271190168"
+  USD: "34099.8164342"
+  BTC: "3.02788609305"
 supply:
   DXT: "390222225.333"
 change:
   7d: "7.21"
-  24h: "-0.48"
-  1h: "-8.03"
+  1h: "-7.81"
+  24h: "-1.17"
 isMineable: false

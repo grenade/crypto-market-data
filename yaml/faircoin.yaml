@@ -1,21 +1,21 @@
 ---
 id: faircoin
-rank: 1186
+rank: 1187
 symbol: FAIR
 name: FairCoin
 marketCap:
-  BTC: "478.212544915"
-  USD: "5378951.10997"
+  BTC: "477.99872412"
+  USD: "5378899.16454"
 price:
-  USD: "0.101119828396"
-  BTC: "8.99e-06"
+  USD: "0.101118851865"
+  BTC: "8.98598034605e-06"
 volume:
   USD: "0.0"
   BTC: "0.0"
 supply:
   FAIR: "53193831.47"
 change:
-  7d: "42.99"
-  1h: "0.80"
-  24h: "3.97"
+  1h: "0.72"
+  7d: "43.02"
+  24h: "3.92"
 isMineable: false

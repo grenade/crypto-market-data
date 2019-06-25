@@ -1,21 +1,21 @@
 ---
 id: snipcoin
-rank: 2139
+rank: 2138
 symbol: SNIP
 name: SnipCoin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.000817412814732"
-  BTC: "7.27197612672e-08"
+  BTC: "7.24810561194e-08"
+  USD: "0.000816275986834"
 volume:
-  USD: "42.3617759336"
-  BTC: "0.00376864440737"
+  BTC: "0.00375608203533"
+  USD: "42.3007021996"
 supply:
   SNIP: "0"
 change:
-  7d: "45.96"
-  24h: "4.06"
-  1h: "0.61"
+  7d: "45.78"
+  1h: "0.41"
+  24h: "3.86"
 isMineable: false

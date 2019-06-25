@@ -1,21 +1,21 @@
 ---
 id: icocalendar-today
-rank: 1161
+rank: 1162
 symbol: ICT
 name: ICOCalendar.Today
 marketCap:
-  BTC: "0.83449359095"
-  USD: "9380.19794298"
+  USD: "9395.29092405"
+  BTC: "0.834252899397"
 price:
-  BTC: "6.90520141456e-07"
-  USD: "0.00776185183532"
+  BTC: "6.90320975918e-07"
+  USD: "0.00777434085565"
 volume:
-  BTC: "0.269436050834"
-  USD: "3028.61941327"
+  BTC: "0.26931792175"
+  USD: "3033.03737719"
 supply:
   ICT: "1208500.0"
 change:
-  7d: "-2.97"
-  1h: "-0.34"
-  24h: "-0.30"
+  7d: "-2.81"
+  1h: "-0.08"
+  24h: "-0.16"
 isMineable: false

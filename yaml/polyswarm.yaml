@@ -1,21 +1,21 @@
 ---
 id: polyswarm
-rank: 602
+rank: 604
 symbol: NCT
 name: PolySwarm
 marketCap:
-  USD: "3349273.74213"
-  BTC: "297.962525857"
+  BTC: "297.356661244"
+  USD: "3348807.46907"
 price:
-  USD: "0.00216577212405"
-  BTC: "1.92674287681e-07"
+  BTC: "1.92282511794e-07"
+  USD: "0.00216547061355"
 volume:
-  USD: "9690.73631221"
-  BTC: "0.862120116577"
+  BTC: "0.860368246582"
+  USD: "9689.39992213"
 supply:
   NCT: "1546457129.51"
 change:
+  1h: "0.62"
   24h: "13.06"
   7d: "2.89"
-  1h: "0.61"
 isMineable: false

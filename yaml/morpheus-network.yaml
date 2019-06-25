@@ -1,21 +1,21 @@
 ---
 id: morpheus-network
-rank: 495
+rank: 496
 symbol: MRPH
 name: Morpheus.Network
 marketCap:
-  BTC: "502.435223235"
-  USD: "5647666.91871"
+  BTC: "500.821817415"
+  USD: "5640216.14923"
 price:
-  BTC: "1.58577214413e-05"
-  USD: "0.17825010001"
+  USD: "0.178014940886"
+  BTC: "1.58067995734e-05"
 volume:
-  USD: "1056179.83211"
-  BTC: "93.9612688501"
+  BTC: "93.9449675224"
+  USD: "1058000.87882"
 supply:
   MRPH: "31683948.1066"
 change:
-  7d: "2.74"
-  24h: "-6.59"
-  1h: "0.66"
+  7d: "2.66"
+  24h: "-6.32"
+  1h: "0.48"
 isMineable: false

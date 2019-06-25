@@ -1,21 +1,21 @@
 ---
 id: nam-coin
-rank: 2134
+rank: 2133
 symbol: NAM
 name: NAM COIN
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.000129013920514"
-  BTC: "1.1477507241e-08"
+  BTC: "1.14495902657e-08"
+  USD: "0.000128944390346"
 volume:
-  USD: "64.5439027446"
-  BTC: "0.00574204014698"
+  BTC: "0.00572971130394"
+  USD: "64.5275607076"
 supply:
   NAM: "0"
 change:
-  7d: "-9.45"
-  1h: "0.70"
-  24h: "-9.31"
+  24h: "-9.42"
+  1h: "0.61"
+  7d: "-10.15"
 isMineable: false

@@ -1,6 +1,6 @@
 ---
 id: scopuly
-rank: 1236
+rank: 1235
 symbol: SKY
 name: Scopuly
 marketCap:
@@ -10,12 +10,12 @@ price:
   USD: "0.00077377853297"
   BTC: "8.28146416702e-08"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   SKY: "2113790933.2"
 change:
   1h: "0.00"
-  7d: "0.00"
   24h: "0.00"
+  7d: "0.00"
 isMineable: false

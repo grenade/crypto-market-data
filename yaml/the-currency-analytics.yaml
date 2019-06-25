@@ -1,21 +1,21 @@
 ---
 id: the-currency-analytics
-rank: 1122
+rank: 1123
 symbol: TCAT
 name: The Currency Analytics
 marketCap:
-  BTC: "5.26882613087"
-  USD: "59224.6993515"
+  BTC: "5.2179081026"
+  USD: "58763.6730711"
 price:
-  BTC: "1.47980676405e-07"
-  USD: "0.00166338969103"
+  BTC: "1.46550588549e-07"
+  USD: "0.00165044126967"
 volume:
-  BTC: "4.26027838873"
-  USD: "47888.0305517"
+  BTC: "4.20357325133"
+  USD: "47340.3132855"
 supply:
   TCAT: "35604825.298"
 change:
-  1h: "1.26"
-  7d: "14.87"
-  24h: "14.86"
+  7d: "13.93"
+  1h: "0.36"
+  24h: "13.93"
 isMineable: false

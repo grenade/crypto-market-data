@@ -1,6 +1,6 @@
 {
   "id": "spreadcoin",
-  "rank": 1508,
+  "rank": 1507,
   "symbol": "SPR",
   "name": "SpreadCoin",
   "marketCap": {
@@ -12,16 +12,16 @@
     "USD": "0.0128106935198"
   },
   "volume": {
-    "BTC": "0.0",
-    "USD": "0.0"
+    "USD": "0.0",
+    "BTC": "0.0"
   },
   "supply": {
     "SPR": "11159260.3546"
   },
   "change": {
-    "7d": "55.32",
     "1h": "0.00",
-    "24h": "2.76"
+    "24h": "2.72",
+    "7d": "55.32"
   },
   "isMineable": true
 }

@@ -1,21 +1,21 @@
 ---
 id: aryacoin
-rank: 2063
+rank: 2064
 symbol: AYA
 name: Aryacoin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "8.50213581909e-07"
-  USD: "0.00955689987151"
+  BTC: "8.4896666861e-07"
+  USD: "0.00956099624248"
 volume:
-  BTC: "0.602762459718"
-  USD: "6775.40396485"
+  BTC: "0.597873130001"
+  USD: "6733.20044329"
 supply:
   AYA: "0"
 change:
-  1h: "0.78"
-  24h: "20.98"
-  7d: "49.76"
+  1h: "0.35"
+  24h: "20.04"
+  7d: "50.11"
 isMineable: false

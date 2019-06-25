@@ -1,21 +1,21 @@
 ---
 id: veridocglobal
-rank: 1990
+rank: 1991
 symbol: VDG
 name: VeriDocGlobal
 marketCap:
   USD: ""
   BTC: ""
 price:
-  USD: "0.000948028291406"
-  BTC: "8.43397482682e-08"
+  USD: "0.000946567230912"
+  BTC: "8.40502399815e-08"
 volume:
-  USD: "81104.0940116"
-  BTC: "7.21528981198"
+  USD: "80978.9473098"
+  BTC: "7.19050874842"
 supply:
   VDG: "0"
 change:
-  24h: "-6.96"
-  7d: "-6.96"
-  1h: "0.96"
+  24h: "-7.10"
+  7d: "-7.10"
+  1h: "0.73"
 isMineable: false

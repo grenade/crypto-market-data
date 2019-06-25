@@ -1,6 +1,6 @@
 ---
 id: trollcoin
-rank: 1384
+rank: 1383
 symbol: TROLL
 name: Trollcoin
 marketCap:
@@ -10,12 +10,12 @@ price:
   USD: "0.000560716100124"
   BTC: "6.00461074137e-08"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   TROLL: "589210860.0"
 change:
   7d: "0.00"
-  24h: "0.00"
   1h: "0.00"
+  24h: "0.00"
 isMineable: true

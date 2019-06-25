@@ -1,21 +1,21 @@
 ---
 id: ubcoin-market
-rank: 991
+rank: 988
 symbol: UBC
 name: Ubcoin Market
 marketCap:
-  BTC: "34.284626765"
-  USD: "385379.335377"
+  USD: "393956.631731"
+  BTC: "34.9812970046"
 price:
-  BTC: "1.00167676223e-07"
-  USD: "0.00112594349513"
+  BTC: "1.02203102756e-07"
+  USD: "0.00115100335213"
 volume:
-  USD: "1431.24934499"
-  BTC: "0.127328699533"
+  USD: "1436.85444096"
+  BTC: "0.12758519061"
 supply:
   UBC: "342272358.288"
 change:
-  7d: "15.13"
-  1h: "0.62"
-  24h: "5.29"
+  1h: "2.38"
+  24h: "7.49"
+  7d: "17.90"
 isMineable: false

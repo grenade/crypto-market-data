@@ -4,18 +4,18 @@ rank: 1674
 symbol: ETG
 name: Ethereum Gold
 marketCap:
-  USD: "36055.9980146"
   BTC: "3.85971692759"
+  USD: "36055.9980146"
 price:
   USD: "0.00300466650122"
   BTC: "3.21643077299e-07"
 volume:
-  BTC: "0"
   USD: "0"
+  BTC: "0"
 supply:
   ETG: "12000000.0"
 change:
-  7d: "0.00"
   24h: "0.00"
   1h: "0.00"
+  7d: "0.00"
 isMineable: false

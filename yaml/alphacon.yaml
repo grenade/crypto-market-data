@@ -1,21 +1,21 @@
 ---
 id: alphacon
-rank: 1899
+rank: 1901
 symbol: ALP
 name: Alphacon
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.00923005947842"
-  BTC: "8.21136774046e-07"
+  USD: "0.00923168775607"
+  BTC: "8.19725790195e-07"
 volume:
-  USD: "1371714.73376"
-  BTC: "122.032302612"
+  BTC: "121.960069867"
+  USD: "1373504.77097"
 supply:
   ALP: "0"
 change:
-  7d: "4.71"
-  24h: "-7.43"
-  1h: "0.74"
+  24h: "-7.42"
+  1h: "0.67"
+  7d: "4.62"
 isMineable: false

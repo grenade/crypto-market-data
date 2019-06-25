@@ -1,21 +1,21 @@
 ---
 id: blocktrade-token
-rank: 775
+rank: 777
 symbol: BTT
 name: Blocktrade Token
 marketCap:
-  BTC: "129.95804687"
-  USD: "1460804.75291"
+  BTC: "129.511053112"
+  USD: "1458543.35388"
 price:
-  BTC: "2.3490380457e-06"
-  USD: "0.0264045668934"
+  BTC: "2.3409584741e-06"
+  USD: "0.0263636912994"
 volume:
-  USD: "1928.52685326"
-  BTC: "0.171568159734"
+  BTC: "0.170978047014"
+  USD: "1925.54139696"
 supply:
   BTT: "55323942.9681"
 change:
-  24h: "-4.06"
-  1h: "0.60"
-  7d: "1.94"
+  24h: "-4.27"
+  1h: "0.40"
+  7d: "1.92"
 isMineable: false

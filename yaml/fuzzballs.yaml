@@ -1,11 +1,11 @@
 ---
 id: fuzzballs
-rank: 1699
+rank: 1698
 symbol: FUZZ
 name: FuzzBalls
 marketCap:
-  USD: "30104.9228757"
   BTC: "2.80121034669"
+  USD: "30104.9228757"
 price:
   USD: "0.00623297426279"
   BTC: "5.79967338488e-07"
@@ -15,7 +15,7 @@ volume:
 supply:
   FUZZ: "4829945.0"
 change:
-  7d: "43.61"
   1h: "0.00"
+  7d: "43.61"
   24h: "0.00"
 isMineable: true

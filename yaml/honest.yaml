@@ -1,20 +1,20 @@
 ---
 id: honest
-rank: 2009
+rank: 2010
 symbol: HNST
 name: Honest
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.0471187747906"
-  BTC: "4.19184283905e-06"
+  BTC: "4.17601018509e-06"
+  USD: "0.0470299001886"
 volume:
-  BTC: "4.6977916001"
-  USD: "52805.9359374"
+  USD: "53089.2938128"
+  BTC: "4.71405277903"
 supply:
   HNST: "0"
 change:
-  1h: "1.90"
-  24h: "-5.76"
+  1h: "1.92"
+  24h: "-6.00"
 isMineable: false

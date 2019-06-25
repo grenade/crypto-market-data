@@ -4,18 +4,18 @@ rank: 2122
 symbol: GZE
 name: GazeCoin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.00941550420013"
-  BTC: "8.37634552951e-07"
+  BTC: "8.36413912335e-07"
+  USD: "0.00941962808279"
 volume:
-  USD: "158.479672815"
-  BTC: "0.0140988785166"
+  USD: "158.507916655"
+  BTC: "0.0140746774225"
 supply:
   GZE: "0"
 change:
-  1h: "0.80"
-  24h: "48.94"
-  7d: "15.00"
+  1h: "0.82"
+  24h: "49.01"
+  7d: "15.07"
 isMineable: false

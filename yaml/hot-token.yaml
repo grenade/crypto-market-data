@@ -1,21 +1,21 @@
 ---
 id: hot-token
-rank: 2074
+rank: 2075
 symbol: HOT
 name: HOT Token
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.00935561249787"
-  BTC: "8.32306388024e-07"
+  USD: "0.00935237290434"
+  BTC: "8.30442002782e-07"
 volume:
-  BTC: "0.357538282017"
-  USD: "4018.94022182"
+  BTC: "0.356737645039"
+  USD: "4017.55146566"
 supply:
   HOT: "0"
 change:
-  7d: "-4.99"
-  1h: "0.73"
-  24h: "3.83"
+  1h: "0.61"
+  24h: "3.81"
+  7d: "-4.82"
 isMineable: false

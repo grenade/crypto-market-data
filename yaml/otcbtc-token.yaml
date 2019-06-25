@@ -1,21 +1,21 @@
 ---
 id: otcbtc-token
-rank: 2044
+rank: 2045
 symbol: OTB
 name: OTCBTC Token
 marketCap:
   USD: ""
   BTC: ""
 price:
-  BTC: "2.4325442437e-06"
-  USD: "0.0273432255903"
+  USD: "0.0273311027951"
+  BTC: "2.42685957623e-06"
 volume:
-  USD: "12910.6372029"
-  BTC: "1.14857320351"
+  USD: "12887.8586877"
+  BTC: "1.14437472604"
 supply:
   OTB: "0"
 change:
-  24h: "10.14"
+  1h: "0.73"
+  24h: "9.89"
   7d: "9.76"
-  1h: "0.71"
 isMineable: false

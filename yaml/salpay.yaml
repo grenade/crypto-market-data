@@ -4,18 +4,18 @@ rank: 2127
 symbol: SAL
 name: SalPay
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.012864509797"
-  BTC: "1.14446955614e-06"
+  BTC: "1.14053312619e-06"
+  USD: "0.0128445948906"
 volume:
-  USD: "89.2539689717"
-  BTC: "0.00794032978049"
+  BTC: "0.00791301882948"
+  USD: "89.1157993508"
 supply:
   SAL: "0"
 change:
-  24h: "35.25"
-  1h: "0.60"
-  7d: "33.80"
+  24h: "35.04"
+  7d: "33.63"
+  1h: "0.40"
 isMineable: false

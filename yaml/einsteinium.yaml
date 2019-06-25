@@ -1,21 +1,21 @@
 ---
 id: einsteinium
-rank: 199
+rank: 198
 symbol: EMC2
 name: Einsteinium
 marketCap:
-  BTC: "2220.69204601"
-  USD: "24978420.3128"
+  USD: "24964887.6788"
+  BTC: "2218.51797053"
 price:
-  BTC: "1.01525199559e-05"
-  USD: "0.114195892739"
+  BTC: "1.01425805567e-05"
+  USD: "0.114134024486"
 volume:
-  USD: "1079975.5307"
-  BTC: "96.0146014386"
+  BTC: "97.8127662107"
+  USD: "1100682.86777"
 supply:
   EMC2: "218733088.5"
 change:
-  1h: "-0.56"
-  24h: "2.09"
   7d: "-1.25"
+  24h: "2.08"
+  1h: "-0.72"
 isMineable: true

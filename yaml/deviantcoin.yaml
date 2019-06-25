@@ -1,21 +1,21 @@
 ---
 id: deviantcoin
-rank: 1323
+rank: 1324
 symbol: DEV
 name: DeviantCoin
 marketCap:
   BTC: "58.0054404719"
   USD: "541973.782986"
 price:
-  USD: "0.035081550668"
   BTC: "3.75464803431e-06"
+  USD: "0.035081550668"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   DEV: "15448968.8359"
 change:
-  1h: "0.00"
-  7d: "0.00"
   24h: "0.00"
+  7d: "0.00"
+  1h: "0.00"
 isMineable: true

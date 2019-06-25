@@ -1,21 +1,21 @@
 ---
 id: chromia
-rank: 1900
+rank: 1899
 symbol: CHR
 name: Chromia
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "6.91114194735e-06"
-  USD: "0.0776852934299"
+  BTC: "6.89767654984e-06"
+  USD: "0.0776810939855"
 volume:
-  BTC: "121.951234291"
-  USD: "1370803.47824"
+  BTC: "122.22086525"
+  USD: "1376441.82818"
 supply:
   CHR: "0"
 change:
-  24h: "-4.84"
-  7d: "-6.49"
-  1h: "-0.42"
+  7d: "-6.32"
+  1h: "-0.35"
+  24h: "-4.63"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: eunomia
-rank: 1601
+rank: 1602
 symbol: ENTS
 name: EUNOMIA
 marketCap:
-  USD: "66979.8398919"
-  BTC: "5.95874921321"
+  BTC: "5.93825395517"
+  USD: "66876.1517401"
 price:
-  USD: "4.07899091125e-06"
-  BTC: "3.62880590971e-10"
+  USD: "4.07267642872e-06"
+  BTC: "3.61632454645e-10"
 volume:
   USD: "0.0"
   BTC: "0.0"
 supply:
   ENTS: "16420688682.4"
 change:
+  24h: "216.95"
+  7d: "-43.40"
   1h: "-6.56"
-  7d: "-44.55"
-  24h: "217.64"
 isMineable: false

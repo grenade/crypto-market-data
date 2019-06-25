@@ -1,27 +1,27 @@
 {
   "id": "safe-trade-coin",
-  "rank": 1697,
+  "rank": 1696,
   "symbol": "XSTC",
   "name": "Safe Trade Coin",
   "marketCap": {
-    "USD": "30153.2549387",
-    "BTC": "3.26825176271"
+    "BTC": "3.26825176271",
+    "USD": "30153.2549387"
   },
   "price": {
     "USD": "9.2259943923e-05",
     "BTC": "9.99987314693e-09"
   },
   "volume": {
-    "USD": "0",
-    "BTC": "0"
+    "BTC": "0",
+    "USD": "0"
   },
   "supply": {
     "XSTC": "326829322.201"
   },
   "change": {
     "1h": "0.00",
-    "7d": "0.00",
-    "24h": "0.00"
+    "24h": "0.00",
+    "7d": "0.00"
   },
   "isMineable": false
 }

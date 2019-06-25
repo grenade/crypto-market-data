@@ -1,21 +1,21 @@
 ---
 id: jury-online-token
-rank: 1466
+rank: 1468
 symbol: JOT
 name: Jury.Online Token
 marketCap:
-  BTC: "16.7547456902"
-  USD: "188333.179262"
+  BTC: "16.7303244494"
+  USD: "188415.60583"
 price:
-  USD: "0.0187178538858"
-  BTC: "1.66520250415e-06"
+  BTC: "1.66277535234e-06"
+  USD: "0.0187260460082"
 volume:
-  BTC: "0.00111715465036"
-  USD: "12.5574742179"
+  USD: "12.5629701666"
+  BTC: "0.00111552631752"
 supply:
   JOT: "10061686.5807"
 change:
-  1h: "0.80"
-  24h: "-3.74"
-  7d: "1.42"
+  1h: "0.81"
+  7d: "1.50"
+  24h: "-3.75"
 isMineable: false

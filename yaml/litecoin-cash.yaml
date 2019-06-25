@@ -1,21 +1,21 @@
 ---
 id: litecoin-cash
-rank: 426
+rank: 423
 symbol: LCC
 name: Litecoin Cash
 marketCap:
-  USD: "7430765.63161"
-  BTC: "661.065612169"
+  BTC: "672.468082467"
+  USD: "7573282.96553"
 price:
-  USD: "0.0117111092102"
-  BTC: "1.04185920577e-06"
+  USD: "0.0119357207973"
+  BTC: "1.0598298405e-06"
 volume:
-  BTC: "10.8575649663"
-  USD: "122045.405342"
+  BTC: "10.9419435668"
+  USD: "123227.312915"
 supply:
   LCC: "634505707.209"
 change:
-  1h: "0.13"
-  7d: "13.94"
-  24h: "5.24"
+  7d: "16.08"
+  24h: "7.34"
+  1h: "2.70"
 isMineable: true

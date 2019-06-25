@@ -1,21 +1,21 @@
 ---
 id: spectre-utility
-rank: 734
+rank: 736
 symbol: SXUT
 name: Spectre.ai Utility Token
 marketCap:
-  BTC: "155.879684568"
-  USD: "1752179.18075"
+  BTC: "154.084654613"
+  USD: "1735289.33261"
 price:
-  USD: "0.0714313407333"
-  BTC: "6.35476952589e-06"
+  BTC: "6.28159128149e-06"
+  USD: "0.0707427898641"
 volume:
-  USD: "11810.9577868"
-  BTC: "1.05074206706"
+  USD: "11674.384525"
+  BTC: "1.03662454067"
 supply:
   SXUT: "24529557.5131"
 change:
-  7d: "-6.67"
-  1h: "1.60"
-  24h: "-3.10"
+  1h: "0.65"
+  24h: "-4.41"
+  7d: "-7.48"
 isMineable: false

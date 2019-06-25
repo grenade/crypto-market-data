@@ -1,21 +1,21 @@
 ---
 id: bitusd
-rank: 551
+rank: 555
 symbol: BITUSD
 name: bitUSD
 marketCap:
-  BTC: "374.209305114"
-  USD: "4209119.10094"
+  USD: "4171082.22566"
+  BTC: "370.665431915"
 price:
-  BTC: "9.19196043071e-05"
-  USD: "1.03391486249"
+  USD: "1.02457160331"
+  BTC: "9.1049098369e-05"
 volume:
-  BTC: "1.3661546638"
-  USD: "15366.5545235"
+  BTC: "1.35481622294"
+  USD: "15245.688915"
 supply:
   BITUSD: "4071050.0"
 change:
-  24h: "1.50"
-  7d: "3.21"
-  1h: "0.82"
+  7d: "2.23"
+  24h: "0.57"
+  1h: "-0.17"
 isMineable: false

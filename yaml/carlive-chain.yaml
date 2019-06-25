@@ -1,21 +1,21 @@
 ---
 id: carlive-chain
-rank: 2069
+rank: 2070
 symbol: IOV
 name: Carlive Chain
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.000497412432567"
-  BTC: "4.42514635148e-08"
+  BTC: "4.41425399165e-08"
+  USD: "0.000497129833102"
 volume:
-  USD: "5282.9805109"
-  BTC: "0.469991508095"
+  BTC: "0.468928146606"
+  USD: "5281.0321223"
 supply:
   IOV: "0"
 change:
-  1h: "3.44"
-  7d: "8.11"
-  24h: "2.61"
+  1h: "3.30"
+  7d: "8.08"
+  24h: "2.41"
 isMineable: false

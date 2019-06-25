@@ -4,8 +4,8 @@ rank: 1249
 symbol: TRTT
 name: Trittium
 marketCap:
-  BTC: "125.323714965"
   USD: "1170284.43199"
+  BTC: "125.323714965"
 price:
   BTC: "1.01313653843e-06"
   USD: "0.00946076262375"
@@ -15,7 +15,7 @@ volume:
 supply:
   TRTT: "123698741.691"
 change:
-  7d: "0.00"
-  24h: "0.00"
   1h: "0.00"
+  24h: "0.00"
+  7d: "0.00"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: dash-green
-rank: 989
+rank: 990
 symbol: DASHG
 name: Dash Green
 marketCap:
-  BTC: "34.8518954223"
-  USD: "391755.768164"
+  BTC: "34.8010962908"
+  USD: "391927.225383"
 price:
-  USD: "0.200773436229"
-  BTC: "1.78614723041e-05"
+  USD: "0.200861307443"
+  BTC: "1.78354379301e-05"
 volume:
-  USD: "9319.72735525"
-  BTC: "0.829113926446"
+  BTC: "0.827905433571"
+  USD: "9323.80626021"
 supply:
   DASHG: "1951233.06909"
 change:
-  24h: "-5.57"
-  1h: "2.28"
+  1h: "2.25"
+  24h: "-5.41"
   7d: "-21.87"
 isMineable: true

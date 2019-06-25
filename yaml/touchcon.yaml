@@ -1,21 +1,21 @@
 ---
 id: touchcon
-rank: 2081
+rank: 2082
 symbol: TOC
 name: TouchCon
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.00284978106772"
-  BTC: "2.53525997114e-07"
+  USD: "0.002848365144"
+  BTC: "2.52919989294e-07"
 volume:
-  BTC: "0.200600347059"
-  USD: "2254.86568532"
+  BTC: "0.200084111467"
+  USD: "2253.33161907"
 supply:
   TOC: "0"
 change:
-  24h: "15.86"
-  7d: "88.18"
-  1h: "35.74"
+  1h: "35.54"
+  24h: "16.78"
+  7d: "90.89"
 isMineable: false

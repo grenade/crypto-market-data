@@ -4,18 +4,18 @@ rank: 1855
 symbol: ZB
 name: ZB
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "2.99004736445e-05"
-  USD: "0.336098880107"
+  BTC: "2.97400023638e-05"
+  USD: "0.334929581295"
 volume:
-  USD: "48399462.5309"
-  BTC: "4305.77707772"
+  USD: "48186604.1528"
+  BTC: "4278.71947251"
 supply:
   ZB: "0"
 change:
-  24h: "0.38"
-  1h: "0.13"
-  7d: "-0.86"
+  7d: "-1.17"
+  24h: "-0.04"
+  1h: "-0.25"
 isMineable: false

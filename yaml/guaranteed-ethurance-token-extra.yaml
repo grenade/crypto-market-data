@@ -1,21 +1,21 @@
 ---
 id: guaranteed-ethurance-token-extra
-rank: 1489
+rank: 1508
 symbol: GETX
 name: Guaranteed Ethurance Token Extra
 marketCap:
-  USD: "158856.504007"
-  BTC: "14.1324026721"
+  BTC: "12.6294680517"
+  USD: "142232.081719"
 price:
-  BTC: "4.7108008907e-08"
-  USD: "0.000529521680023"
+  BTC: "4.20982268389e-08"
+  USD: "0.000474106939064"
 volume:
-  BTC: "0.000117770022268"
-  USD: "1.32380420006"
+  USD: "1.89370426765"
+  BTC: "0.000168151075752"
 supply:
   GETX: "300000000.0"
 change:
-  24h: "-5.13"
-  1h: "41.57"
-  7d: "23.03"
+  24h: "-15.10"
+  1h: "26.70"
+  7d: "10.18"
 isMineable: false
