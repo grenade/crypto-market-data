@@ -1,0 +1,7592 @@
+[
+  {
+    "close": {
+      "asString": "4.06356161658e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-06-24",
+      "asFormattedString": "Jun 24, 2019"
+    },
+    "high": {
+      "asString": "4.15814527853e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.9222216369e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "48768.2928248",
+      "asFormattedString": "48,768"
+    },
+    "open": {
+      "asString": "4.15678946409e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "14818.5593612",
+      "asFormattedString": "14,819"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.15678946409e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-06-23",
+      "asFormattedString": "Jun 23, 2019"
+    },
+    "high": {
+      "asString": "4.36159249649e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.24817154984e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "49887.1544038",
+      "asFormattedString": "49,887"
+    },
+    "open": {
+      "asString": "3.24817154984e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "9323.30853656",
+      "asFormattedString": "9,323"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.24953664133e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-06-22",
+      "asFormattedString": "Jun 22, 2019"
+    },
+    "high": {
+      "asString": "5.50075307116e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "3.04009447245e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "38998.8806427",
+      "asFormattedString": "38,999"
+    },
+    "open": {
+      "asString": "4.89601625111e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "25592.351989",
+      "asFormattedString": "25,592"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.89541207776e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-06-21",
+      "asFormattedString": "Jun 21, 2019"
+    },
+    "high": {
+      "asString": "4.9219153946e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.51189865786e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "58751.6351991",
+      "asFormattedString": "58,752"
+    },
+    "open": {
+      "asString": "4.5374300107e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "19534.1411679",
+      "asFormattedString": "19,534"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.51272802558e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-06-20",
+      "asFormattedString": "Jun 20, 2019"
+    },
+    "high": {
+      "asString": "4.59316335972e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.40744750485e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "54158.9035816",
+      "asFormattedString": "54,159"
+    },
+    "open": {
+      "asString": "4.47074636495e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "22883.0533826",
+      "asFormattedString": "22,883"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.52369607411e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-06-19",
+      "asFormattedString": "Jun 19, 2019"
+    },
+    "high": {
+      "asString": "4.59419505651e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.31741575464e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "54290.5351533",
+      "asFormattedString": "54,291"
+    },
+    "open": {
+      "asString": "4.37363216238e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "22780.4477542",
+      "asFormattedString": "22,780"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.34728965942e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-06-18",
+      "asFormattedString": "Jun 18, 2019"
+    },
+    "high": {
+      "asString": "4.57635716209e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.29179120791e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "52173.417093",
+      "asFormattedString": "52,173"
+    },
+    "open": {
+      "asString": "4.55424118634e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "17701.8719862",
+      "asFormattedString": "17,702"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.58341709117e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-06-17",
+      "asFormattedString": "Jun 17, 2019"
+    },
+    "high": {
+      "asString": "4.73400547897e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.45551231079e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "55007.2689752",
+      "asFormattedString": "55,007"
+    },
+    "open": {
+      "asString": "4.55288212579e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "28910.0096818",
+      "asFormattedString": "28,910"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.55288212579e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-06-16",
+      "asFormattedString": "Jun 16, 2019"
+    },
+    "high": {
+      "asString": "4.86368161537e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "3.58247544554e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "54640.8076603",
+      "asFormattedString": "54,641"
+    },
+    "open": {
+      "asString": "3.65576025818e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "24532.0947482",
+      "asFormattedString": "24,532"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.65576025818e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-06-15",
+      "asFormattedString": "Jun 15, 2019"
+    },
+    "high": {
+      "asString": "3.71723675659e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.44089497827e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "43874.1192064",
+      "asFormattedString": "43,874"
+    },
+    "open": {
+      "asString": "3.51414232404e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "22987.9645397",
+      "asFormattedString": "22,988"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.48748675266e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-06-14",
+      "asFormattedString": "Jun 14, 2019"
+    },
+    "high": {
+      "asString": "3.81612217235e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.33643914316e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "41854.6071708",
+      "asFormattedString": "41,855"
+    },
+    "open": {
+      "asString": "3.78791058468e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "22122.9756578",
+      "asFormattedString": "22,123"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.68533637182e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-06-13",
+      "asFormattedString": "Jun 13, 2019"
+    },
+    "high": {
+      "asString": "3.80190885167e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "2.58704833482e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "44229.0729899",
+      "asFormattedString": "44,229"
+    },
+    "open": {
+      "asString": "3.57496046825e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "3672.26912548",
+      "asFormattedString": "3,672"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.57576160095e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-06-12",
+      "asFormattedString": "Jun 12, 2019"
+    },
+    "high": {
+      "asString": "3.57576160095e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.32583437915e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "42914.0259902",
+      "asFormattedString": "42,914"
+    },
+    "open": {
+      "asString": "3.3413281637e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "15115.8242716",
+      "asFormattedString": "15,116"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.36729625036e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-06-11",
+      "asFormattedString": "Jun 11, 2019"
+    },
+    "high": {
+      "asString": "3.47879936764e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "3.26460652394e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "40412.1568861",
+      "asFormattedString": "40,412"
+    },
+    "open": {
+      "asString": "3.4406904653e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "21158.5004912",
+      "asFormattedString": "21,159"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.46275756059e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-06-10",
+      "asFormattedString": "Jun 10, 2019"
+    },
+    "high": {
+      "asString": "3.46399939451e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "3.16800845419e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "41557.8230701",
+      "asFormattedString": "41,558"
+    },
+    "open": {
+      "asString": "3.21941441936e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "7276.44432872",
+      "asFormattedString": "7,276"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.21914818451e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-06-09",
+      "asFormattedString": "Jun 09, 2019"
+    },
+    "high": {
+      "asString": "3.58789792181e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.08457782377e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "38634.1776308",
+      "asFormattedString": "38,634"
+    },
+    "open": {
+      "asString": "3.563039714e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "14806.4197092",
+      "asFormattedString": "14,806"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.56403821347e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-06-08",
+      "asFormattedString": "Jun 08, 2019"
+    },
+    "high": {
+      "asString": "3.68000611653e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.45518714834e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "42773.3293188",
+      "asFormattedString": "42,773"
+    },
+    "open": {
+      "asString": "3.56436139734e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "23445.1228745",
+      "asFormattedString": "23,445"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.64083342604e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-06-07",
+      "asFormattedString": "Jun 07, 2019"
+    },
+    "high": {
+      "asString": "3.70792448677e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.50232326039e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "43694.9768211",
+      "asFormattedString": "43,695"
+    },
+    "open": {
+      "asString": "3.5947004621e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "24248.1104089",
+      "asFormattedString": "24,248"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.62104359083e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-06-06",
+      "asFormattedString": "Jun 06, 2019"
+    },
+    "high": {
+      "asString": "3.71226348112e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.38855430181e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "43457.471753",
+      "asFormattedString": "43,457"
+    },
+    "open": {
+      "asString": "3.6074524626e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "24714.0025543",
+      "asFormattedString": "24,714"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.58276038887e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-06-05",
+      "asFormattedString": "Jun 05, 2019"
+    },
+    "high": {
+      "asString": "6.91791878141e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "3.49098549379e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "42998.0210101",
+      "asFormattedString": "42,998"
+    },
+    "open": {
+      "asString": "6.91791878141e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "8551.64881683",
+      "asFormattedString": "8,552"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.91791878141e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2019-06-04",
+      "asFormattedString": "Jun 04, 2019"
+    },
+    "high": {
+      "asString": "6.97041312533e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "5.50043773033e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "83024.4796814",
+      "asFormattedString": "83,024"
+    },
+    "open": {
+      "asString": "5.68385197101e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "-",
+      "asFormattedString": "-"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.68445213019e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-06-03",
+      "asFormattedString": "Jun 03, 2019"
+    },
+    "high": {
+      "asString": "5.91192190755e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "2.64189242931e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "68221.1941619",
+      "asFormattedString": "68,221"
+    },
+    "open": {
+      "asString": "3.86367698054e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "36.1234088202",
+      "asFormattedString": "36"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.86367698054e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-06-02",
+      "asFormattedString": "Jun 02, 2019"
+    },
+    "high": {
+      "asString": "3.90031420871e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.76325322265e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "46369.404022",
+      "asFormattedString": "46,369"
+    },
+    "open": {
+      "asString": "3.76737073667e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "14653.299166",
+      "asFormattedString": "14,653"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.76737073667e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-06-01",
+      "asFormattedString": "Jun 01, 2019"
+    },
+    "high": {
+      "asString": "3.85970740302e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.55248827048e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "45213.5974796",
+      "asFormattedString": "45,214"
+    },
+    "open": {
+      "asString": "3.78018027077e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "12084.7832356",
+      "asFormattedString": "12,085"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.77996595442e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-05-31",
+      "asFormattedString": "May 31, 2019"
+    },
+    "high": {
+      "asString": "3.7880535423e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.53797828412e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "45364.7573057",
+      "asFormattedString": "45,365"
+    },
+    "open": {
+      "asString": "3.63539059223e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "1.1528896161",
+      "asFormattedString": "1"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.63539059223e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-05-30",
+      "asFormattedString": "May 30, 2019"
+    },
+    "high": {
+      "asString": "4.10313047063e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.51199510522e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "43629.655377",
+      "asFormattedString": "43,630"
+    },
+    "open": {
+      "asString": "3.85267205443e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "24518.4294457",
+      "asFormattedString": "24,518"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.85267205443e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-05-29",
+      "asFormattedString": "May 29, 2019"
+    },
+    "high": {
+      "asString": "3.91439042201e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.53698928125e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "46237.3298689",
+      "asFormattedString": "46,237"
+    },
+    "open": {
+      "asString": "3.72221131212e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "47499.6173061",
+      "asFormattedString": "47,500"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.72221131212e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-05-28",
+      "asFormattedString": "May 28, 2019"
+    },
+    "high": {
+      "asString": "5.14998383448e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "2.78055014722e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "44671.6226683",
+      "asFormattedString": "44,672"
+    },
+    "open": {
+      "asString": "5.09960849222e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "26302.0658204",
+      "asFormattedString": "26,302"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.05056621629e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-05-27",
+      "asFormattedString": "May 27, 2019"
+    },
+    "high": {
+      "asString": "5.19775621377e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.87747813762e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "60613.6969013",
+      "asFormattedString": "60,614"
+    },
+    "open": {
+      "asString": "5.01004341839e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "33594.0945077",
+      "asFormattedString": "33,594"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.9586208001e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-05-26",
+      "asFormattedString": "May 26, 2019"
+    },
+    "high": {
+      "asString": "5.04683412422e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.54998848355e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "59510.2262507",
+      "asFormattedString": "59,510"
+    },
+    "open": {
+      "asString": "4.65681237969e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "22365.6456234",
+      "asFormattedString": "22,366"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.62968390027e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-05-25",
+      "asFormattedString": "May 25, 2019"
+    },
+    "high": {
+      "asString": "4.70719677321e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.0587587797e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "55562.5339144",
+      "asFormattedString": "55,563"
+    },
+    "open": {
+      "asString": "4.25404661941e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "32211.1142788",
+      "asFormattedString": "32,211"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.25404661941e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-05-24",
+      "asFormattedString": "May 24, 2019"
+    },
+    "high": {
+      "asString": "4.40009834385e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.84268785415e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "51054.3731832",
+      "asFormattedString": "51,054"
+    },
+    "open": {
+      "asString": "3.85961177671e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "10825.2451025",
+      "asFormattedString": "10,825"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.86172617898e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-05-23",
+      "asFormattedString": "May 23, 2019"
+    },
+    "high": {
+      "asString": "4.43774269783e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.47316305451e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "46345.9917372",
+      "asFormattedString": "46,346"
+    },
+    "open": {
+      "asString": "4.38968906816e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "19460.0025054",
+      "asFormattedString": "19,460"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.38968906816e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-05-22",
+      "asFormattedString": "May 22, 2019"
+    },
+    "high": {
+      "asString": "4.95720391113e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "3.71807022514e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "52682.2679426",
+      "asFormattedString": "52,682"
+    },
+    "open": {
+      "asString": "3.72435036738e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "26817.4538828",
+      "asFormattedString": "26,817"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.72435036738e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-05-21",
+      "asFormattedString": "May 21, 2019"
+    },
+    "high": {
+      "asString": "6.07675471394e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "3.67166792009e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "44697.2942547",
+      "asFormattedString": "44,697"
+    },
+    "open": {
+      "asString": "5.99604566158e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "33093.8842574",
+      "asFormattedString": "33,094"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.81891852199e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-05-20",
+      "asFormattedString": "May 20, 2019"
+    },
+    "high": {
+      "asString": "6.19462348685e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.62616847266e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "69834.9746307",
+      "asFormattedString": "69,835"
+    },
+    "open": {
+      "asString": "6.02928550397e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "36689.963632",
+      "asFormattedString": "36,690"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.02928550397e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-05-19",
+      "asFormattedString": "May 19, 2019"
+    },
+    "high": {
+      "asString": "6.25963945479e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.40698226301e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "72359.6659104",
+      "asFormattedString": "72,360"
+    },
+    "open": {
+      "asString": "5.41271175041e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "41159.971483",
+      "asFormattedString": "41,160"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.537888345e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-05-18",
+      "asFormattedString": "May 18, 2019"
+    },
+    "high": {
+      "asString": "5.84606864205e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.40298803563e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "66462.2284397",
+      "asFormattedString": "66,462"
+    },
+    "open": {
+      "asString": "5.73728423608e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "37333.3442209",
+      "asFormattedString": "37,333"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.73728423608e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-05-17",
+      "asFormattedString": "May 17, 2019"
+    },
+    "high": {
+      "asString": "5.8351093504e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.03233083605e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "68855.2516351",
+      "asFormattedString": "68,855"
+    },
+    "open": {
+      "asString": "5.69857029694e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "35858.0039414",
+      "asFormattedString": "35,858"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.64815846631e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-05-16",
+      "asFormattedString": "May 16, 2019"
+    },
+    "high": {
+      "asString": "6.06126412643e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.27201583264e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "67785.620595",
+      "asFormattedString": "67,786"
+    },
+    "open": {
+      "asString": "5.4970215597e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "27758.0363688",
+      "asFormattedString": "27,758"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.45026756588e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-05-15",
+      "asFormattedString": "May 15, 2019"
+    },
+    "high": {
+      "asString": "5.66241398174e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "4.81879971555e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "65410.6593442",
+      "asFormattedString": "65,411"
+    },
+    "open": {
+      "asString": "4.82307126816e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "27255.6518705",
+      "asFormattedString": "27,256"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.90845597793e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-05-14",
+      "asFormattedString": "May 14, 2019"
+    },
+    "high": {
+      "asString": "4.98143042126e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.24447787741e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "58908.1798274",
+      "asFormattedString": "58,908"
+    },
+    "open": {
+      "asString": "4.2998306314e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "21394.7716528",
+      "asFormattedString": "21,395"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.29750131235e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-05-13",
+      "asFormattedString": "May 13, 2019"
+    },
+    "high": {
+      "asString": "5.50010596407e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "3.34680713145e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "51575.8888854",
+      "asFormattedString": "51,576"
+    },
+    "open": {
+      "asString": "5.30146548003e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "16543.7450094",
+      "asFormattedString": "16,544"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.30146548003e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-05-12",
+      "asFormattedString": "May 12, 2019"
+    },
+    "high": {
+      "asString": "5.84051812318e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.17448301821e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "63624.8309551",
+      "asFormattedString": "63,625"
+    },
+    "open": {
+      "asString": "5.63073019468e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "19894.5459804",
+      "asFormattedString": "19,895"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.56306961136e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-05-11",
+      "asFormattedString": "May 11, 2019"
+    },
+    "high": {
+      "asString": "5.90395527887e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "4.15891055766e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "66764.4380498",
+      "asFormattedString": "66,764"
+    },
+    "open": {
+      "asString": "4.20614194252e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "17762.6055556",
+      "asFormattedString": "17,763"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.18943206645e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-05-10",
+      "asFormattedString": "May 10, 2019"
+    },
+    "high": {
+      "asString": "5.43083364454e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.12087208337e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "50278.9102428",
+      "asFormattedString": "50,279"
+    },
+    "open": {
+      "asString": "5.11050249496e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "12946.3708975",
+      "asFormattedString": "12,946"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.11318882675e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-05-09",
+      "asFormattedString": "May 09, 2019"
+    },
+    "high": {
+      "asString": "7.86584547229e-06",
+      "asFormattedString": "0.000008"
+    },
+    "low": {
+      "asString": "4.48708876665e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "61365.2538094",
+      "asFormattedString": "61,365"
+    },
+    "open": {
+      "asString": "7.7829205101e-06",
+      "asFormattedString": "0.000008"
+    },
+    "volume": {
+      "asString": "10544.5479076",
+      "asFormattedString": "10,545"
+    }
+  },
+  {
+    "close": {
+      "asString": "7.78416722516e-06",
+      "asFormattedString": "0.000008"
+    },
+    "date_raw": {
+      "asString": "2019-05-08",
+      "asFormattedString": "May 08, 2019"
+    },
+    "high": {
+      "asString": "9.36242428509e-06",
+      "asFormattedString": "0.000009"
+    },
+    "low": {
+      "asString": "7.46492280999e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "93420.6448562",
+      "asFormattedString": "93,421"
+    },
+    "open": {
+      "asString": "9.36242428509e-06",
+      "asFormattedString": "0.000009"
+    },
+    "volume": {
+      "asString": "16285.9899602",
+      "asFormattedString": "16,286"
+    }
+  },
+  {
+    "close": {
+      "asString": "9.37593488237e-06",
+      "asFormattedString": "0.000009"
+    },
+    "date_raw": {
+      "asString": "2019-05-07",
+      "asFormattedString": "May 07, 2019"
+    },
+    "high": {
+      "asString": "1.14033045141e-05",
+      "asFormattedString": "0.000011"
+    },
+    "low": {
+      "asString": "4.47068619385e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "112524.032116",
+      "asFormattedString": "112,524"
+    },
+    "open": {
+      "asString": "4.47068619385e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "25699.7912025",
+      "asFormattedString": "25,700"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.58936274197e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-05-06",
+      "asFormattedString": "May 06, 2019"
+    },
+    "high": {
+      "asString": "6.92041211889e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "2.68997061118e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "55078.6249103",
+      "asFormattedString": "55,079"
+    },
+    "open": {
+      "asString": "2.76262411403e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "24389.4024062",
+      "asFormattedString": "24,389"
+    }
+  },
+  {
+    "close": {
+      "asString": "2.760605185e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-05-05",
+      "asFormattedString": "May 05, 2019"
+    },
+    "high": {
+      "asString": "2.79348289395e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "2.54089805798e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "33131.0349735",
+      "asFormattedString": "33,131"
+    },
+    "open": {
+      "asString": "2.76543543054e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "11986.8620956",
+      "asFormattedString": "11,987"
+    }
+  },
+  {
+    "close": {
+      "asString": "2.76459689051e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-05-04",
+      "asFormattedString": "May 04, 2019"
+    },
+    "high": {
+      "asString": "2.8844383008e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "2.73030672276e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "33178.9408948",
+      "asFormattedString": "33,179"
+    },
+    "open": {
+      "asString": "2.83749074905e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "7.47733539207",
+      "asFormattedString": "7"
+    }
+  },
+  {
+    "close": {
+      "asString": "2.83883666608e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-05-03",
+      "asFormattedString": "May 03, 2019"
+    },
+    "high": {
+      "asString": "3.29193658471e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "2.71664641842e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "34069.9196607",
+      "asFormattedString": "34,070"
+    },
+    "open": {
+      "asString": "2.73340491037e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "0.542217803222",
+      "asFormattedString": "1"
+    }
+  },
+  {
+    "close": {
+      "asString": "2.73410468881e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-05-02",
+      "asFormattedString": "May 02, 2019"
+    },
+    "high": {
+      "asString": "3.21803815654e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "2.73234578191e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "32812.9928026",
+      "asFormattedString": "32,813"
+    },
+    "open": {
+      "asString": "3.21079910553e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "15.1784983359",
+      "asFormattedString": "15"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.21112913229e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-05-01",
+      "asFormattedString": "May 01, 2019"
+    },
+    "high": {
+      "asString": "3.2377273614e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "2.8773413948e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "38537.938045",
+      "asFormattedString": "38,538"
+    },
+    "open": {
+      "asString": "3.18040141943e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "30.7071767471",
+      "asFormattedString": "31"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.17831632689e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-04-30",
+      "asFormattedString": "Apr 30, 2019"
+    },
+    "high": {
+      "asString": "3.18541032457e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "1.56521892234e-06",
+      "asFormattedString": "0.000002"
+    },
+    "market_cap": {
+      "asString": "38144.1395369",
+      "asFormattedString": "38,144"
+    },
+    "open": {
+      "asString": "3.10438754221e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "16.3107414174",
+      "asFormattedString": "16"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.10307260442e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-04-29",
+      "asFormattedString": "Apr 29, 2019"
+    },
+    "high": {
+      "asString": "3.1669713797e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "3.06600658904e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "37241.1120362",
+      "asFormattedString": "37,241"
+    },
+    "open": {
+      "asString": "3.14602252021e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "0.155153630221",
+      "asFormattedString": "0"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.14611161151e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-04-28",
+      "asFormattedString": "Apr 28, 2019"
+    },
+    "high": {
+      "asString": "3.1916045917e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "2.93537251741e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "37757.6389401",
+      "asFormattedString": "37,758"
+    },
+    "open": {
+      "asString": "3.07395225957e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "2.04497254748",
+      "asFormattedString": "2"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.07350139393e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-04-27",
+      "asFormattedString": "Apr 27, 2019"
+    },
+    "high": {
+      "asString": "3.14664576679e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "1.81523910769e-06",
+      "asFormattedString": "0.000002"
+    },
+    "market_cap": {
+      "asString": "36886.2170971",
+      "asFormattedString": "36,886"
+    },
+    "open": {
+      "asString": "3.12661024179e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "8.45121398714",
+      "asFormattedString": "8"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.12568367035e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-04-26",
+      "asFormattedString": "Apr 26, 2019"
+    },
+    "high": {
+      "asString": "3.15521554255e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "2.62286156976e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "37512.4757285",
+      "asFormattedString": "37,512"
+    },
+    "open": {
+      "asString": "2.64276704505e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "0.140655765166",
+      "asFormattedString": "0"
+    }
+  },
+  {
+    "close": {
+      "asString": "2.64191439199e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-04-25",
+      "asFormattedString": "Apr 25, 2019"
+    },
+    "high": {
+      "asString": "2.92947384813e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "2.60644488055e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "31706.5832498",
+      "asFormattedString": "31,707"
+    },
+    "open": {
+      "asString": "2.88561456132e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "554.539274952",
+      "asFormattedString": "555"
+    }
+  },
+  {
+    "close": {
+      "asString": "2.85274620074e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-04-24",
+      "asFormattedString": "Apr 24, 2019"
+    },
+    "high": {
+      "asString": "3.06911478006e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "2.82420552057e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "34236.8530859",
+      "asFormattedString": "34,237"
+    },
+    "open": {
+      "asString": "3.0517534515e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "10727.7598015",
+      "asFormattedString": "10,728"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.0517534515e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-04-23",
+      "asFormattedString": "Apr 23, 2019"
+    },
+    "high": {
+      "asString": "3.15949515132e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "2.98530908798e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "36625.2120663",
+      "asFormattedString": "36,625"
+    },
+    "open": {
+      "asString": "3.06007944762e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "11286.3496503",
+      "asFormattedString": "11,286"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.06007944762e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-04-22",
+      "asFormattedString": "Apr 22, 2019"
+    },
+    "high": {
+      "asString": "3.09766526211e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "3.00340483391e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "36725.1353984",
+      "asFormattedString": "36,725"
+    },
+    "open": {
+      "asString": "3.0435105741e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "11121.0537177",
+      "asFormattedString": "11,121"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.02707954536e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-04-21",
+      "asFormattedString": "Apr 21, 2019"
+    },
+    "high": {
+      "asString": "3.13314118958e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "2.9647213655e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "36329.0914723",
+      "asFormattedString": "36,329"
+    },
+    "open": {
+      "asString": "3.10446153792e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "9690.86038654",
+      "asFormattedString": "9,691"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.10425687881e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-04-20",
+      "asFormattedString": "Apr 20, 2019"
+    },
+    "high": {
+      "asString": "4.15200695067e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "2.62066362315e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "37255.3249473",
+      "asFormattedString": "37,255"
+    },
+    "open": {
+      "asString": "3.99567214723e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "8291.99170115",
+      "asFormattedString": "8,292"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.01428289647e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-04-19",
+      "asFormattedString": "Apr 19, 2019"
+    },
+    "high": {
+      "asString": "4.53917314537e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "3.93615003694e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "48176.8808372",
+      "asFormattedString": "48,177"
+    },
+    "open": {
+      "asString": "4.53609876025e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "10930.0475377",
+      "asFormattedString": "10,930"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.53551450409e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-04-18",
+      "asFormattedString": "Apr 18, 2019"
+    },
+    "high": {
+      "asString": "4.64628823032e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.05128003643e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "54432.3724646",
+      "asFormattedString": "54,432"
+    },
+    "open": {
+      "asString": "4.10644593869e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "10573.5431367",
+      "asFormattedString": "10,574"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.10761955088e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-04-17",
+      "asFormattedString": "Apr 17, 2019"
+    },
+    "high": {
+      "asString": "4.15452804305e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "4.03052033707e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "49297.0482477",
+      "asFormattedString": "49,297"
+    },
+    "open": {
+      "asString": "4.07482313776e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "9154.57149428",
+      "asFormattedString": "9,155"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.12508928858e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-04-16",
+      "asFormattedString": "Apr 16, 2019"
+    },
+    "high": {
+      "asString": "4.64196497378e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "3.91210403495e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "49506.708975",
+      "asFormattedString": "49,507"
+    },
+    "open": {
+      "asString": "4.4554240788e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "9770.84428197",
+      "asFormattedString": "9,771"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.5037601923e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-04-15",
+      "asFormattedString": "Apr 15, 2019"
+    },
+    "high": {
+      "asString": "4.72233855052e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.37648948309e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "54051.2773264",
+      "asFormattedString": "54,051"
+    },
+    "open": {
+      "asString": "4.51572704773e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "5273.5395913",
+      "asFormattedString": "5,274"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.51572704773e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-04-14",
+      "asFormattedString": "Apr 14, 2019"
+    },
+    "high": {
+      "asString": "4.85759120746e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.29036117192e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "54194.895946",
+      "asFormattedString": "54,195"
+    },
+    "open": {
+      "asString": "4.45894225366e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "8020.07997038",
+      "asFormattedString": "8,020"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.45894225366e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-04-13",
+      "asFormattedString": "Apr 13, 2019"
+    },
+    "high": {
+      "asString": "4.50581807283e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.30496405185e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "53513.4008128",
+      "asFormattedString": "53,513"
+    },
+    "open": {
+      "asString": "4.34613702434e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "10854.9532862",
+      "asFormattedString": "10,855"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.36612766327e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-04-12",
+      "asFormattedString": "Apr 12, 2019"
+    },
+    "high": {
+      "asString": "4.42017047614e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "4.1588155677e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "52399.4988839",
+      "asFormattedString": "52,399"
+    },
+    "open": {
+      "asString": "4.29762502473e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "10588.4409683",
+      "asFormattedString": "10,588"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.30246657332e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-04-11",
+      "asFormattedString": "Apr 11, 2019"
+    },
+    "high": {
+      "asString": "4.47038198006e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.96122895593e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "51635.4788028",
+      "asFormattedString": "51,635"
+    },
+    "open": {
+      "asString": "4.39778225347e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "10125.7536309",
+      "asFormattedString": "10,126"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.35856387601e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-04-10",
+      "asFormattedString": "Apr 10, 2019"
+    },
+    "high": {
+      "asString": "4.51796135312e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.27678625341e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "52308.7230999",
+      "asFormattedString": "52,309"
+    },
+    "open": {
+      "asString": "4.34991958598e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "1230.28395861",
+      "asFormattedString": "1,230"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.35006905503e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-04-09",
+      "asFormattedString": "Apr 09, 2019"
+    },
+    "high": {
+      "asString": "4.78446593155e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.29603203905e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "52206.7736387",
+      "asFormattedString": "52,207"
+    },
+    "open": {
+      "asString": "4.41726716433e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "2537.48328205",
+      "asFormattedString": "2,537"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.41726716433e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-04-08",
+      "asFormattedString": "Apr 08, 2019"
+    },
+    "high": {
+      "asString": "4.53353499245e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.25307108811e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "53013.242786",
+      "asFormattedString": "53,013"
+    },
+    "open": {
+      "asString": "4.29807708865e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "10083.0215068",
+      "asFormattedString": "10,083"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.2913675181e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-04-07",
+      "asFormattedString": "Apr 07, 2019"
+    },
+    "high": {
+      "asString": "4.30566462748e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "4.02702046927e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "51502.2749717",
+      "asFormattedString": "51,502"
+    },
+    "open": {
+      "asString": "4.06480823463e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "8460.76922518",
+      "asFormattedString": "8,461"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.08127251891e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-04-06",
+      "asFormattedString": "Apr 06, 2019"
+    },
+    "high": {
+      "asString": "4.2260862535e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.9789521272e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "48980.8478572",
+      "asFormattedString": "48,981"
+    },
+    "open": {
+      "asString": "4.15606683305e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "9555.52618622",
+      "asFormattedString": "9,556"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.15641378725e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-04-05",
+      "asFormattedString": "Apr 05, 2019"
+    },
+    "high": {
+      "asString": "1.61585947081e-05",
+      "asFormattedString": "0.000016"
+    },
+    "low": {
+      "asString": "3.26299843938e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "49882.6457683",
+      "asFormattedString": "49,883"
+    },
+    "open": {
+      "asString": "3.82400357927e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "1666.91337471",
+      "asFormattedString": "1,667"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.82392479217e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-04-04",
+      "asFormattedString": "Apr 04, 2019"
+    },
+    "high": {
+      "asString": "4.55887449218e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "3.75629892499e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "45892.3234346",
+      "asFormattedString": "45,892"
+    },
+    "open": {
+      "asString": "4.41126298158e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "4528.40863722",
+      "asFormattedString": "4,528"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.4538812265e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-04-03",
+      "asFormattedString": "Apr 03, 2019"
+    },
+    "high": {
+      "asString": "5.23949416306e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.22098707067e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "53452.6615702",
+      "asFormattedString": "53,453"
+    },
+    "open": {
+      "asString": "4.91194878989e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "6060.17848085",
+      "asFormattedString": "6,060"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.91194878989e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-04-02",
+      "asFormattedString": "Apr 02, 2019"
+    },
+    "high": {
+      "asString": "4.96166741724e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "3.84126514087e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "58950.0983444",
+      "asFormattedString": "58,950"
+    },
+    "open": {
+      "asString": "3.97160605557e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "6432.35932165",
+      "asFormattedString": "6,432"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.97158167149e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-04-01",
+      "asFormattedString": "Apr 01, 2019"
+    },
+    "high": {
+      "asString": "4.03830519649e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.88608914424e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "47664.4077803",
+      "asFormattedString": "47,664"
+    },
+    "open": {
+      "asString": "3.91928603932e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "9483.13834893",
+      "asFormattedString": "9,483"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.90779763854e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-03-31",
+      "asFormattedString": "Mar 31, 2019"
+    },
+    "high": {
+      "asString": "4.02158481678e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.79785583675e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "46898.912215",
+      "asFormattedString": "46,899"
+    },
+    "open": {
+      "asString": "3.9362629104e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "9485.11866419",
+      "asFormattedString": "9,485"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.9362629104e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-03-30",
+      "asFormattedString": "Mar 30, 2019"
+    },
+    "high": {
+      "asString": "4.0089122412e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.71303168914e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "47240.5343791",
+      "asFormattedString": "47,241"
+    },
+    "open": {
+      "asString": "3.76206748695e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "11784.8711893",
+      "asFormattedString": "11,785"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.76054368812e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-03-29",
+      "asFormattedString": "Mar 29, 2019"
+    },
+    "high": {
+      "asString": "3.87164409611e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.63064935637e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "45131.6635669",
+      "asFormattedString": "45,132"
+    },
+    "open": {
+      "asString": "3.73568828163e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "11099.8742906",
+      "asFormattedString": "11,100"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.73568828163e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-03-28",
+      "asFormattedString": "Mar 28, 2019"
+    },
+    "high": {
+      "asString": "3.82586691076e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.55747308418e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "44833.3647206",
+      "asFormattedString": "44,833"
+    },
+    "open": {
+      "asString": "3.59433657155e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "8964.25416504",
+      "asFormattedString": "8,964"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.59583920332e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-03-27",
+      "asFormattedString": "Mar 27, 2019"
+    },
+    "high": {
+      "asString": "4.11317715309e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.49945416171e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "43154.9846575",
+      "asFormattedString": "43,155"
+    },
+    "open": {
+      "asString": "3.90067152217e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "11058.0639687",
+      "asFormattedString": "11,058"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.85917017429e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-03-26",
+      "asFormattedString": "Mar 26, 2019"
+    },
+    "high": {
+      "asString": "4.36802686402e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.8134711582e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "46315.3161878",
+      "asFormattedString": "46,315"
+    },
+    "open": {
+      "asString": "4.2843688084e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "10914.1835334",
+      "asFormattedString": "10,914"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.23706709165e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-03-25",
+      "asFormattedString": "Mar 25, 2019"
+    },
+    "high": {
+      "asString": "4.94372089016e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "3.7291275677e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "50850.5956452",
+      "asFormattedString": "50,851"
+    },
+    "open": {
+      "asString": "3.83780814466e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "10616.2032739",
+      "asFormattedString": "10,616"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.84746555689e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-03-24",
+      "asFormattedString": "Mar 24, 2019"
+    },
+    "high": {
+      "asString": "4.87271633556e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "3.52337725972e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "46174.844783",
+      "asFormattedString": "46,175"
+    },
+    "open": {
+      "asString": "3.83169430815e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "11791.0290139",
+      "asFormattedString": "11,791"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.71719080903e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-03-23",
+      "asFormattedString": "Mar 23, 2019"
+    },
+    "high": {
+      "asString": "3.82245383293e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.40876125937e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "44611.36977",
+      "asFormattedString": "44,611"
+    },
+    "open": {
+      "asString": "3.50958446873e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "11813.8249305",
+      "asFormattedString": "11,814"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.41849730234e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-03-22",
+      "asFormattedString": "Mar 22, 2019"
+    },
+    "high": {
+      "asString": "3.54252304956e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "2.7809878694e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "41026.6394832",
+      "asFormattedString": "41,027"
+    },
+    "open": {
+      "asString": "2.90660858825e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "8586.65242394",
+      "asFormattedString": "8,587"
+    }
+  },
+  {
+    "close": {
+      "asString": "2.89660524367e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-03-21",
+      "asFormattedString": "Mar 21, 2019"
+    },
+    "high": {
+      "asString": "5.64107991101e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "2.12829701125e-06",
+      "asFormattedString": "0.000002"
+    },
+    "market_cap": {
+      "asString": "34763.2215406",
+      "asFormattedString": "34,763"
+    },
+    "open": {
+      "asString": "5.62789868493e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "3763.22656827",
+      "asFormattedString": "3,763"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.62749261013e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-03-20",
+      "asFormattedString": "Mar 20, 2019"
+    },
+    "high": {
+      "asString": "8.38076905618e-06",
+      "asFormattedString": "0.000008"
+    },
+    "low": {
+      "asString": "3.56798473334e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "67537.6020781",
+      "asFormattedString": "67,538"
+    },
+    "open": {
+      "asString": "3.60402382623e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "1.02701740135",
+      "asFormattedString": "1"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.60310332291e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-03-19",
+      "asFormattedString": "Mar 19, 2019"
+    },
+    "high": {
+      "asString": "3.73179616529e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.51160613203e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "43242.16402",
+      "asFormattedString": "43,242"
+    },
+    "open": {
+      "asString": "3.67651272028e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "4266.1710384",
+      "asFormattedString": "4,266"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.6369886288e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-03-18",
+      "asFormattedString": "Mar 18, 2019"
+    },
+    "high": {
+      "asString": "3.98066265716e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.46118861101e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "43648.8339997",
+      "asFormattedString": "43,649"
+    },
+    "open": {
+      "asString": "3.91046833482e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "7442.50581074",
+      "asFormattedString": "7,443"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.86461655182e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-03-17",
+      "asFormattedString": "Mar 17, 2019"
+    },
+    "high": {
+      "asString": "4.2943432947e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.79658658566e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "46380.6801614",
+      "asFormattedString": "46,381"
+    },
+    "open": {
+      "asString": "4.29158710011e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "5617.79731615",
+      "asFormattedString": "5,618"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.29556482124e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-03-16",
+      "asFormattedString": "Mar 16, 2019"
+    },
+    "high": {
+      "asString": "4.83468591532e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "3.40454259887e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "51552.6483456",
+      "asFormattedString": "51,553"
+    },
+    "open": {
+      "asString": "4.65960843372e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "8655.19312768",
+      "asFormattedString": "8,655"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.68215731257e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-03-15",
+      "asFormattedString": "Mar 15, 2019"
+    },
+    "high": {
+      "asString": "4.69461109598e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.46704847605e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "56192.2865743",
+      "asFormattedString": "56,192"
+    },
+    "open": {
+      "asString": "4.48633204315e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "11180.7623469",
+      "asFormattedString": "11,181"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.46437845735e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-03-14",
+      "asFormattedString": "Mar 14, 2019"
+    },
+    "high": {
+      "asString": "4.78594681573e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.40358644161e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "53578.6426864",
+      "asFormattedString": "53,579"
+    },
+    "open": {
+      "asString": "4.72872919092e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "10603.9413249",
+      "asFormattedString": "10,604"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.70515328708e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-03-13",
+      "asFormattedString": "Mar 13, 2019"
+    },
+    "high": {
+      "asString": "5.24028350404e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.66306897839e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "56468.2696956",
+      "asFormattedString": "56,468"
+    },
+    "open": {
+      "asString": "5.19085691952e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "10653.7855778",
+      "asFormattedString": "10,654"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.22877169425e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-03-12",
+      "asFormattedString": "Mar 12, 2019"
+    },
+    "high": {
+      "asString": "5.25972238398e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.98649505813e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "62752.4061795",
+      "asFormattedString": "62,752"
+    },
+    "open": {
+      "asString": "5.15699734322e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "11265.8767187",
+      "asFormattedString": "11,266"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.19359741457e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-03-11",
+      "asFormattedString": "Mar 11, 2019"
+    },
+    "high": {
+      "asString": "5.35662277716e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "5.0751359954e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "62330.2667528",
+      "asFormattedString": "62,330"
+    },
+    "open": {
+      "asString": "5.29860328114e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "11561.0788522",
+      "asFormattedString": "11,561"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.29603373522e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-03-10",
+      "asFormattedString": "Mar 10, 2019"
+    },
+    "high": {
+      "asString": "5.37549155841e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "5.18379004667e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "63559.6425942",
+      "asFormattedString": "63,560"
+    },
+    "open": {
+      "asString": "5.37549155841e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "12479.7031744",
+      "asFormattedString": "12,480"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.3477880078e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-03-09",
+      "asFormattedString": "Mar 09, 2019"
+    },
+    "high": {
+      "asString": "5.3847290235e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "5.054302256e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "64180.7645946",
+      "asFormattedString": "64,181"
+    },
+    "open": {
+      "asString": "5.054302256e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "12474.8882237",
+      "asFormattedString": "12,475"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.06374361215e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-03-08",
+      "asFormattedString": "Mar 08, 2019"
+    },
+    "high": {
+      "asString": "5.3366728809e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "5.02070249592e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "60771.8436604",
+      "asFormattedString": "60,772"
+    },
+    "open": {
+      "asString": "5.22142439448e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "11932.6526268",
+      "asFormattedString": "11,933"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.27985691841e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-03-07",
+      "asFormattedString": "Mar 07, 2019"
+    },
+    "high": {
+      "asString": "5.471389828e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "5.18408249362e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "63365.4986846",
+      "asFormattedString": "63,365"
+    },
+    "open": {
+      "asString": "5.35595045753e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "12446.154171",
+      "asFormattedString": "12,446"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.36360747182e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-03-06",
+      "asFormattedString": "Mar 06, 2019"
+    },
+    "high": {
+      "asString": "5.41294254024e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "5.1116574181e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "64370.6197824",
+      "asFormattedString": "64,371"
+    },
+    "open": {
+      "asString": "5.17365713949e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "13200.6481094",
+      "asFormattedString": "13,201"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.16934514887e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-03-05",
+      "asFormattedString": "Mar 05, 2019"
+    },
+    "high": {
+      "asString": "5.22157806101e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.57411443958e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "62039.2064203",
+      "asFormattedString": "62,039"
+    },
+    "open": {
+      "asString": "4.71563367191e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "14313.5759126",
+      "asFormattedString": "14,314"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.66519462946e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-03-04",
+      "asFormattedString": "Mar 04, 2019"
+    },
+    "high": {
+      "asString": "5.42112829582e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.29084665107e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "55988.7111951",
+      "asFormattedString": "55,989"
+    },
+    "open": {
+      "asString": "5.26429439984e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "12729.6740824",
+      "asFormattedString": "12,730"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.26839864615e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-03-03",
+      "asFormattedString": "Mar 03, 2019"
+    },
+    "high": {
+      "asString": "5.4209545452e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "5.23022235807e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "63227.9837581",
+      "asFormattedString": "63,228"
+    },
+    "open": {
+      "asString": "5.37525770989e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "8.90620575832",
+      "asFormattedString": "9"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.35590714439e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-03-02",
+      "asFormattedString": "Mar 02, 2019"
+    },
+    "high": {
+      "asString": "5.62093030529e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "4.13519136296e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "64278.2053296",
+      "asFormattedString": "64,278"
+    },
+    "open": {
+      "asString": "4.13519136296e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "6857.89527569",
+      "asFormattedString": "6,858"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.23492442024e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-03-01",
+      "asFormattedString": "Mar 01, 2019"
+    },
+    "high": {
+      "asString": "4.30132222179e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.89039026829e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "50824.88066",
+      "asFormattedString": "50,825"
+    },
+    "open": {
+      "asString": "3.96792421671e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "11316.602084",
+      "asFormattedString": "11,317"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.05013370554e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-02-28",
+      "asFormattedString": "Feb 28, 2019"
+    },
+    "high": {
+      "asString": "4.14340645109e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.9430902534e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "48607.1395412",
+      "asFormattedString": "48,607"
+    },
+    "open": {
+      "asString": "4.07111617629e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "6417.17759365",
+      "asFormattedString": "6,417"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.07290065078e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-02-27",
+      "asFormattedString": "Feb 27, 2019"
+    },
+    "high": {
+      "asString": "4.23619459553e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.91038484269e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "48880.3739983",
+      "asFormattedString": "48,880"
+    },
+    "open": {
+      "asString": "4.12211629206e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "6894.50933019",
+      "asFormattedString": "6,895"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.12424083829e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-02-26",
+      "asFormattedString": "Feb 26, 2019"
+    },
+    "high": {
+      "asString": "1.52373892751e-05",
+      "asFormattedString": "0.000015"
+    },
+    "low": {
+      "asString": "3.96328367681e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "49496.526412",
+      "asFormattedString": "49,497"
+    },
+    "open": {
+      "asString": "5.87054359761e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "1456.77010545",
+      "asFormattedString": "1,457"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.8676856645e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-02-25",
+      "asFormattedString": "Feb 25, 2019"
+    },
+    "high": {
+      "asString": "1.22403633632e-05",
+      "asFormattedString": "0.000012"
+    },
+    "low": {
+      "asString": "5.78812534294e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "70420.2469879",
+      "asFormattedString": "70,420"
+    },
+    "open": {
+      "asString": "1.19279408121e-05",
+      "asFormattedString": "0.000012"
+    },
+    "volume": {
+      "asString": "12.6602303552",
+      "asFormattedString": "13"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.19869266512e-05",
+      "asFormattedString": "0.000012"
+    },
+    "date_raw": {
+      "asString": "2019-02-24",
+      "asFormattedString": "Feb 24, 2019"
+    },
+    "high": {
+      "asString": "1.24766184681e-05",
+      "asFormattedString": "0.000012"
+    },
+    "low": {
+      "asString": "5.74702799097e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "143859.501628",
+      "asFormattedString": "143,860"
+    },
+    "open": {
+      "asString": "6.57779993595e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "9.55761965476",
+      "asFormattedString": "10"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.57713317943e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2019-02-23",
+      "asFormattedString": "Feb 23, 2019"
+    },
+    "high": {
+      "asString": "6.91005919755e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "6.12668704312e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "78934.5867264",
+      "asFormattedString": "78,935"
+    },
+    "open": {
+      "asString": "6.8771629427e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "8645.45994652",
+      "asFormattedString": "8,645"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.93396197031e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2019-02-22",
+      "asFormattedString": "Feb 22, 2019"
+    },
+    "high": {
+      "asString": "6.93510643082e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "6.64465316992e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "83217.0198735",
+      "asFormattedString": "83,217"
+    },
+    "open": {
+      "asString": "6.79770676637e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "9694.90414598",
+      "asFormattedString": "9,695"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.67799492359e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2019-02-21",
+      "asFormattedString": "Feb 21, 2019"
+    },
+    "high": {
+      "asString": "6.98334652752e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "6.61324423416e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "80145.0654981",
+      "asFormattedString": "80,145"
+    },
+    "open": {
+      "asString": "6.88795868919e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "9256.61529782",
+      "asFormattedString": "9,257"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.89227728357e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2019-02-20",
+      "asFormattedString": "Feb 20, 2019"
+    },
+    "high": {
+      "asString": "6.89227728357e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "6.5216765215e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "82716.7466647",
+      "asFormattedString": "82,717"
+    },
+    "open": {
+      "asString": "6.75350689864e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "5693.30719864",
+      "asFormattedString": "5,693"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.74358918734e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2019-02-19",
+      "asFormattedString": "Feb 19, 2019"
+    },
+    "high": {
+      "asString": "6.93164226647e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "6.63897527477e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "80932.2863068",
+      "asFormattedString": "80,932"
+    },
+    "open": {
+      "asString": "6.77486724475e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "12369.4720862",
+      "asFormattedString": "12,369"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.74155572598e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2019-02-18",
+      "asFormattedString": "Feb 18, 2019"
+    },
+    "high": {
+      "asString": "6.83105224549e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "6.07059921611e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "80907.8819915",
+      "asFormattedString": "80,908"
+    },
+    "open": {
+      "asString": "6.1384174057e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "12890.9062189",
+      "asFormattedString": "12,891"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.22296963785e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-02-17",
+      "asFormattedString": "Feb 17, 2019"
+    },
+    "high": {
+      "asString": "6.76649694653e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "5.38930042668e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "74684.1402134",
+      "asFormattedString": "74,684"
+    },
+    "open": {
+      "asString": "5.40622642052e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "13222.0088394",
+      "asFormattedString": "13,222"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.47180456127e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-02-16",
+      "asFormattedString": "Feb 16, 2019"
+    },
+    "high": {
+      "asString": "5.51044408784e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.37249804316e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "65669.1327222",
+      "asFormattedString": "65,669"
+    },
+    "open": {
+      "asString": "5.42980425762e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "12081.6058814",
+      "asFormattedString": "12,082"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.38501764834e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-02-15",
+      "asFormattedString": "Feb 15, 2019"
+    },
+    "high": {
+      "asString": "5.49395723048e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "5.33441920021e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "64627.5711606",
+      "asFormattedString": "64,628"
+    },
+    "open": {
+      "asString": "5.39195306489e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "11286.6639737",
+      "asFormattedString": "11,287"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.37003170981e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-02-14",
+      "asFormattedString": "Feb 14, 2019"
+    },
+    "high": {
+      "asString": "5.53540773198e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.3386071984e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "64447.7194179",
+      "asFormattedString": "64,448"
+    },
+    "open": {
+      "asString": "5.39268483808e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "12621.6007932",
+      "asFormattedString": "12,622"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.43341404022e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-02-13",
+      "asFormattedString": "Feb 13, 2019"
+    },
+    "high": {
+      "asString": "5.46205578386e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.06741530997e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "65208.3940036",
+      "asFormattedString": "65,208"
+    },
+    "open": {
+      "asString": "4.11141292227e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "17781.8014498",
+      "asFormattedString": "17,782"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.13591614506e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-02-12",
+      "asFormattedString": "Feb 12, 2019"
+    },
+    "high": {
+      "asString": "5.28860733603e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "3.34506653321e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "49636.6460492",
+      "asFormattedString": "49,637"
+    },
+    "open": {
+      "asString": "3.45246804499e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "14171.2230518",
+      "asFormattedString": "14,171"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.4702241127e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-02-11",
+      "asFormattedString": "Feb 11, 2019"
+    },
+    "high": {
+      "asString": "3.69437255304e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.09586509045e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "41647.4318995",
+      "asFormattedString": "41,647"
+    },
+    "open": {
+      "asString": "3.27262536875e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "11596.4645143",
+      "asFormattedString": "11,596"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.27880334884e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-02-10",
+      "asFormattedString": "Feb 10, 2019"
+    },
+    "high": {
+      "asString": "3.43947280608e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "3.02569771084e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "39350.1211299",
+      "asFormattedString": "39,350"
+    },
+    "open": {
+      "asString": "3.30783176444e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "6462.7815111",
+      "asFormattedString": "6,463"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.30923236356e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-02-09",
+      "asFormattedString": "Feb 09, 2019"
+    },
+    "high": {
+      "asString": "3.32877460712e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "3.22344985606e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "39715.310892",
+      "asFormattedString": "39,715"
+    },
+    "open": {
+      "asString": "3.30013944605e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "6033.98072588",
+      "asFormattedString": "6,034"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.2673356317e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-02-08",
+      "asFormattedString": "Feb 08, 2019"
+    },
+    "high": {
+      "asString": "3.30633654526e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "2.73695405224e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "39212.492852",
+      "asFormattedString": "39,212"
+    },
+    "open": {
+      "asString": "2.80711287381e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "5845.52067029",
+      "asFormattedString": "5,846"
+    }
+  },
+  {
+    "close": {
+      "asString": "2.81395221603e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-02-07",
+      "asFormattedString": "Feb 07, 2019"
+    },
+    "high": {
+      "asString": "3.17595396558e-06",
+      "asFormattedString": "0.000003"
+    },
+    "low": {
+      "asString": "2.75397019728e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "33771.272252",
+      "asFormattedString": "33,771"
+    },
+    "open": {
+      "asString": "3.15574744787e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "2882.04679863",
+      "asFormattedString": "2,882"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.15790862029e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-02-06",
+      "asFormattedString": "Feb 06, 2019"
+    },
+    "high": {
+      "asString": "3.65790379527e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "2.65807549183e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "37899.2191677",
+      "asFormattedString": "37,899"
+    },
+    "open": {
+      "asString": "3.61447291161e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "4900.41628254",
+      "asFormattedString": "4,900"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.65388602883e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-02-05",
+      "asFormattedString": "Feb 05, 2019"
+    },
+    "high": {
+      "asString": "3.77325606499e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.55371612666e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "43851.6258928",
+      "asFormattedString": "43,852"
+    },
+    "open": {
+      "asString": "3.68278850922e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "6627.70802047",
+      "asFormattedString": "6,628"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.70725059941e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-02-04",
+      "asFormattedString": "Feb 04, 2019"
+    },
+    "high": {
+      "asString": "3.79093141704e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.4657126675e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "44492.0736699",
+      "asFormattedString": "44,492"
+    },
+    "open": {
+      "asString": "3.55101175038e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "6649.37597564",
+      "asFormattedString": "6,649"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.54817046872e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-02-03",
+      "asFormattedString": "Feb 03, 2019"
+    },
+    "high": {
+      "asString": "3.64091679957e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.46025514209e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "42582.8946963",
+      "asFormattedString": "42,583"
+    },
+    "open": {
+      "asString": "3.61265204794e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "6319.95300237",
+      "asFormattedString": "6,320"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.62526821931e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-02-02",
+      "asFormattedString": "Feb 02, 2019"
+    },
+    "high": {
+      "asString": "3.65072685436e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.26415760203e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "22264.1013031",
+      "asFormattedString": "22,264"
+    },
+    "open": {
+      "asString": "3.30972149152e-06",
+      "asFormattedString": "0.000003"
+    },
+    "volume": {
+      "asString": "6189.02099922",
+      "asFormattedString": "6,189"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.3033337301e-06",
+      "asFormattedString": "0.000003"
+    },
+    "date_raw": {
+      "asString": "2019-02-01",
+      "asFormattedString": "Feb 01, 2019"
+    },
+    "high": {
+      "asString": "5.52590143734e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "3.21447769181e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "20286.9835708",
+      "asFormattedString": "20,287"
+    },
+    "open": {
+      "asString": "5.39761963803e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "8769.54507226",
+      "asFormattedString": "8,770"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.4881908437e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-01-31",
+      "asFormattedString": "Jan 31, 2019"
+    },
+    "high": {
+      "asString": "6.30901017487e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.34307150369e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "33704.9921615",
+      "asFormattedString": "33,705"
+    },
+    "open": {
+      "asString": "6.19684588284e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "10420.9707142",
+      "asFormattedString": "10,421"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.16349742379e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-01-30",
+      "asFormattedString": "Jan 30, 2019"
+    },
+    "high": {
+      "asString": "6.23082367958e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.8380528642e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "37852.2974642",
+      "asFormattedString": "37,852"
+    },
+    "open": {
+      "asString": "5.86018607382e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "11026.0544776",
+      "asFormattedString": "11,026"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.90112690276e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-01-29",
+      "asFormattedString": "Jan 29, 2019"
+    },
+    "high": {
+      "asString": "6.05440483159e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.78093002822e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "36240.983899",
+      "asFormattedString": "36,241"
+    },
+    "open": {
+      "asString": "5.97550487424e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "10238.0677614",
+      "asFormattedString": "10,238"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.00104114485e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-01-28",
+      "asFormattedString": "Jan 28, 2019"
+    },
+    "high": {
+      "asString": "6.44968103514e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.76742774687e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "36854.5938922",
+      "asFormattedString": "36,855"
+    },
+    "open": {
+      "asString": "6.30001585007e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "9533.36325363",
+      "asFormattedString": "9,533"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.40732770191e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-01-27",
+      "asFormattedString": "Jan 27, 2019"
+    },
+    "high": {
+      "asString": "7.64017464801e-06",
+      "asFormattedString": "0.000008"
+    },
+    "low": {
+      "asString": "5.70342168768e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "39349.7486001",
+      "asFormattedString": "39,350"
+    },
+    "open": {
+      "asString": "5.80165295418e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "9062.12900539",
+      "asFormattedString": "9,062"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.77860612484e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-01-26",
+      "asFormattedString": "Jan 26, 2019"
+    },
+    "high": {
+      "asString": "9.30157282882e-06",
+      "asFormattedString": "0.000009"
+    },
+    "low": {
+      "asString": "5.72530233609e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "35488.5388808",
+      "asFormattedString": "35,489"
+    },
+    "open": {
+      "asString": "7.03635546874e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "10571.2529598",
+      "asFormattedString": "10,571"
+    }
+  },
+  {
+    "close": {
+      "asString": "7.11605442009e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2019-01-25",
+      "asFormattedString": "Jan 25, 2019"
+    },
+    "high": {
+      "asString": "7.20315968453e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "6.95297713883e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "43702.299224",
+      "asFormattedString": "43,702"
+    },
+    "open": {
+      "asString": "7.06063322352e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "11386.9971108",
+      "asFormattedString": "11,387"
+    }
+  },
+  {
+    "close": {
+      "asString": "7.14483927219e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2019-01-24",
+      "asFormattedString": "Jan 24, 2019"
+    },
+    "high": {
+      "asString": "7.24522243806e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "6.997647636e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "43879.0775544",
+      "asFormattedString": "43,879"
+    },
+    "open": {
+      "asString": "7.22997072687e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "5708.21045836",
+      "asFormattedString": "5,708"
+    }
+  },
+  {
+    "close": {
+      "asString": "7.18024162489e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2019-01-23",
+      "asFormattedString": "Jan 23, 2019"
+    },
+    "high": {
+      "asString": "7.61779336738e-06",
+      "asFormattedString": "0.000008"
+    },
+    "low": {
+      "asString": "7.02386038016e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "44096.4963822",
+      "asFormattedString": "44,096"
+    },
+    "open": {
+      "asString": "7.23663532437e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "10947.2161695",
+      "asFormattedString": "10,947"
+    }
+  },
+  {
+    "close": {
+      "asString": "7.22495948742e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2019-01-22",
+      "asFormattedString": "Jan 22, 2019"
+    },
+    "high": {
+      "asString": "8.29989397986e-06",
+      "asFormattedString": "0.000008"
+    },
+    "low": {
+      "asString": "6.6276362326e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "44371.1251714",
+      "asFormattedString": "44,371"
+    },
+    "open": {
+      "asString": "6.78870058429e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "9985.38544669",
+      "asFormattedString": "9,985"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.90043147885e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2019-01-21",
+      "asFormattedString": "Jan 21, 2019"
+    },
+    "high": {
+      "asString": "1.13782675515e-05",
+      "asFormattedString": "0.000011"
+    },
+    "low": {
+      "asString": "4.61391333064e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "42378.0796858",
+      "asFormattedString": "42,378"
+    },
+    "open": {
+      "asString": "4.70349700399e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "11183.9267788",
+      "asFormattedString": "11,184"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.70525630559e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-01-20",
+      "asFormattedString": "Jan 20, 2019"
+    },
+    "high": {
+      "asString": "7.12352858293e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "4.65520479788e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "28896.7041078",
+      "asFormattedString": "28,897"
+    },
+    "open": {
+      "asString": "5.10552991039e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "18262.6745382",
+      "asFormattedString": "18,263"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.0840792962e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-01-19",
+      "asFormattedString": "Jan 19, 2019"
+    },
+    "high": {
+      "asString": "7.32402436744e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "4.78392351041e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "31223.1949848",
+      "asFormattedString": "31,223"
+    },
+    "open": {
+      "asString": "4.79131516209e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "16101.6662937",
+      "asFormattedString": "16,102"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.76949259719e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-01-18",
+      "asFormattedString": "Jan 18, 2019"
+    },
+    "high": {
+      "asString": "7.55522812554e-06",
+      "asFormattedString": "0.000008"
+    },
+    "low": {
+      "asString": "3.63074208843e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "29291.2027261",
+      "asFormattedString": "29,291"
+    },
+    "open": {
+      "asString": "3.70992818405e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "12233.0395521",
+      "asFormattedString": "12,233"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.76187376459e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-01-17",
+      "asFormattedString": "Jan 17, 2019"
+    },
+    "high": {
+      "asString": "3.77166349662e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.57566017698e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "23103.0460417",
+      "asFormattedString": "23,103"
+    },
+    "open": {
+      "asString": "3.65648552583e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "12299.2209595",
+      "asFormattedString": "12,299"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.69700284738e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-01-16",
+      "asFormattedString": "Jan 16, 2019"
+    },
+    "high": {
+      "asString": "4.08199290967e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.5120558559e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "22704.6499549",
+      "asFormattedString": "22,705"
+    },
+    "open": {
+      "asString": "3.54538935957e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "12122.5123474",
+      "asFormattedString": "12,123"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.52619294426e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-01-15",
+      "asFormattedString": "Jan 15, 2019"
+    },
+    "high": {
+      "asString": "4.2110024015e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.47473494654e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "21655.6437141",
+      "asFormattedString": "21,656"
+    },
+    "open": {
+      "asString": "3.61439780066e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "11406.3765054",
+      "asFormattedString": "11,406"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.61412684955e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-01-14",
+      "asFormattedString": "Jan 14, 2019"
+    },
+    "high": {
+      "asString": "3.67834920715e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.227802082e-06",
+      "asFormattedString": "0.000003"
+    },
+    "market_cap": {
+      "asString": "22195.6780666",
+      "asFormattedString": "22,196"
+    },
+    "open": {
+      "asString": "3.60209932157e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "8345.79302877",
+      "asFormattedString": "8,346"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.82104501624e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2019-01-13",
+      "asFormattedString": "Jan 13, 2019"
+    },
+    "high": {
+      "asString": "5.05132200064e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "3.82104501624e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "23466.4383927",
+      "asFormattedString": "23,466"
+    },
+    "open": {
+      "asString": "5.03305400923e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "61.9645549209",
+      "asFormattedString": "62"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.03846635542e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-01-12",
+      "asFormattedString": "Jan 12, 2019"
+    },
+    "high": {
+      "asString": "5.11229881224e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.88655638881e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "30943.0691919",
+      "asFormattedString": "30,943"
+    },
+    "open": {
+      "asString": "4.90294605343e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "0.516442801431",
+      "asFormattedString": "1"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.89983870039e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-01-11",
+      "asFormattedString": "Jan 11, 2019"
+    },
+    "high": {
+      "asString": "4.95816527307e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.50114872448e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "30091.705936",
+      "asFormattedString": "30,092"
+    },
+    "open": {
+      "asString": "4.52097976864e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "20.5473188082",
+      "asFormattedString": "21"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.53184235283e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2019-01-10",
+      "asFormattedString": "Jan 10, 2019"
+    },
+    "high": {
+      "asString": "5.89942812958e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "4.10803964584e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "27831.7054434",
+      "asFormattedString": "27,832"
+    },
+    "open": {
+      "asString": "5.87337051158e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "211.263240755",
+      "asFormattedString": "211"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.87232909571e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-01-09",
+      "asFormattedString": "Jan 09, 2019"
+    },
+    "high": {
+      "asString": "5.90167240727e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.6973229235e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "36064.1260075",
+      "asFormattedString": "36,064"
+    },
+    "open": {
+      "asString": "5.70246077639e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "1.84973828188",
+      "asFormattedString": "2"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.70004961002e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-01-08",
+      "asFormattedString": "Jan 08, 2019"
+    },
+    "high": {
+      "asString": "6.11104131407e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "3.51871481101e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "35006.0945213",
+      "asFormattedString": "35,006"
+    },
+    "open": {
+      "asString": "6.0713198758e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "246.111083652",
+      "asFormattedString": "246"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.07323828502e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-01-07",
+      "asFormattedString": "Jan 07, 2019"
+    },
+    "high": {
+      "asString": "6.17068659825e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.16510938853e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "37297.9830004",
+      "asFormattedString": "37,298"
+    },
+    "open": {
+      "asString": "5.59944947188e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "0.622506924214",
+      "asFormattedString": "1"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.59460413167e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-01-06",
+      "asFormattedString": "Jan 06, 2019"
+    },
+    "high": {
+      "asString": "7.09951546519e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "5.27148391709e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "34358.5151782",
+      "asFormattedString": "34,359"
+    },
+    "open": {
+      "asString": "6.1860153541e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "173.874523764",
+      "asFormattedString": "174"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.19466892339e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-01-05",
+      "asFormattedString": "Jan 05, 2019"
+    },
+    "high": {
+      "asString": "6.37747373482e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "6.05117572234e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "38043.733072",
+      "asFormattedString": "38,044"
+    },
+    "open": {
+      "asString": "6.05117572234e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "7395.8987046",
+      "asFormattedString": "7,396"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.01781115896e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-01-04",
+      "asFormattedString": "Jan 04, 2019"
+    },
+    "high": {
+      "asString": "6.22974757738e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.8537735973e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "36957.5846975",
+      "asFormattedString": "36,958"
+    },
+    "open": {
+      "asString": "5.92183089978e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "6120.85829018",
+      "asFormattedString": "6,121"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.92087476504e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-01-03",
+      "asFormattedString": "Jan 03, 2019"
+    },
+    "high": {
+      "asString": "6.23339938036e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.83945403202e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "36362.2627616",
+      "asFormattedString": "36,362"
+    },
+    "open": {
+      "asString": "6.15123836357e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "9485.01627676",
+      "asFormattedString": "9,485"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.15758608235e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-01-02",
+      "asFormattedString": "Jan 02, 2019"
+    },
+    "high": {
+      "asString": "6.22414884912e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.58178997412e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "37815.9937491",
+      "asFormattedString": "37,816"
+    },
+    "open": {
+      "asString": "5.61399583978e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "0.203200340718",
+      "asFormattedString": "0"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.58553218383e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2019-01-01",
+      "asFormattedString": "Jan 01, 2019"
+    },
+    "high": {
+      "asString": "5.60813551203e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.26797223746e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "34302.8010204",
+      "asFormattedString": "34,303"
+    },
+    "open": {
+      "asString": "5.29481493167e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "2.66988438387",
+      "asFormattedString": "3"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.2945702379e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-31",
+      "asFormattedString": "Dec 31, 2018"
+    },
+    "high": {
+      "asString": "5.69026412839e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.2624984375e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "32515.8970322",
+      "asFormattedString": "32,516"
+    },
+    "open": {
+      "asString": "5.63110848673e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "14529.1836739",
+      "asFormattedString": "14,529"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.6780656168e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2018-12-30",
+      "asFormattedString": "Dec 30, 2018"
+    },
+    "high": {
+      "asString": "6.96270018978e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "3.68785115824e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "34871.0827587",
+      "asFormattedString": "34,871"
+    },
+    "open": {
+      "asString": "5.88525638815e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "6149.28635009",
+      "asFormattedString": "6,149"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.91002757115e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2018-12-29",
+      "asFormattedString": "Dec 29, 2018"
+    },
+    "high": {
+      "asString": "6.27889659638e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.77456632005e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "36295.6461669",
+      "asFormattedString": "36,296"
+    },
+    "open": {
+      "asString": "5.99019688473e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "140.009530456",
+      "asFormattedString": "140"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.96307175308e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2018-12-28",
+      "asFormattedString": "Dec 28, 2018"
+    },
+    "high": {
+      "asString": "6.08608286295e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.23040440524e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "36621.4099363",
+      "asFormattedString": "36,621"
+    },
+    "open": {
+      "asString": "5.50364875534e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "123.18053356",
+      "asFormattedString": "123"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.49361589843e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-27",
+      "asFormattedString": "Dec 27, 2018"
+    },
+    "high": {
+      "asString": "5.59829027003e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "3.58865261957e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "33738.3094116",
+      "asFormattedString": "33,738"
+    },
+    "open": {
+      "asString": "5.56345223551e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "56.4563366652",
+      "asFormattedString": "56"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.55759685567e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2018-12-26",
+      "asFormattedString": "Dec 26, 2018"
+    },
+    "high": {
+      "asString": "6.0108866925e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.43101692665e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "34131.239928",
+      "asFormattedString": "34,131"
+    },
+    "open": {
+      "asString": "5.665090679e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "23.4840747805",
+      "asFormattedString": "23"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.6621278058e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2018-12-25",
+      "asFormattedString": "Dec 25, 2018"
+    },
+    "high": {
+      "asString": "5.79091234421e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "4.77294664003e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "34773.202818",
+      "asFormattedString": "34,773"
+    },
+    "open": {
+      "asString": "5.30097392867e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "9.74294701956",
+      "asFormattedString": "10"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.2672537531e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-24",
+      "asFormattedString": "Dec 24, 2018"
+    },
+    "high": {
+      "asString": "6.30549400237e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "4.92728994673e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "32348.1364837",
+      "asFormattedString": "32,348"
+    },
+    "open": {
+      "asString": "5.20045768052e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "21.2001884077",
+      "asFormattedString": "21"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.20103253853e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-23",
+      "asFormattedString": "Dec 23, 2018"
+    },
+    "high": {
+      "asString": "9.58675706924e-06",
+      "asFormattedString": "0.000010"
+    },
+    "low": {
+      "asString": "5.19129553117e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "31941.4477257",
+      "asFormattedString": "31,941"
+    },
+    "open": {
+      "asString": "8.97816239806e-06",
+      "asFormattedString": "0.000009"
+    },
+    "volume": {
+      "asString": "25.6623729114",
+      "asFormattedString": "26"
+    }
+  },
+  {
+    "close": {
+      "asString": "8.97232521363e-06",
+      "asFormattedString": "0.000009"
+    },
+    "date_raw": {
+      "asString": "2018-12-22",
+      "asFormattedString": "Dec 22, 2018"
+    },
+    "high": {
+      "asString": "9.26232158099e-06",
+      "asFormattedString": "0.000009"
+    },
+    "low": {
+      "asString": "4.60077037086e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "55102.3369558",
+      "asFormattedString": "55,102"
+    },
+    "open": {
+      "asString": "4.68149470821e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "53.5077979048",
+      "asFormattedString": "54"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.68719763745e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-21",
+      "asFormattedString": "Dec 21, 2018"
+    },
+    "high": {
+      "asString": "5.33112574305e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.59416383414e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "28785.7982683",
+      "asFormattedString": "28,786"
+    },
+    "open": {
+      "asString": "5.3009731427e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "2579.66574951",
+      "asFormattedString": "2,580"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.28662639014e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-20",
+      "asFormattedString": "Dec 20, 2018"
+    },
+    "high": {
+      "asString": "5.68341113893e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "3.85598061536e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "32467.1098932",
+      "asFormattedString": "32,467"
+    },
+    "open": {
+      "asString": "3.87714018752e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "2275.33343802",
+      "asFormattedString": "2,275"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.88395400318e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2018-12-19",
+      "asFormattedString": "Dec 19, 2018"
+    },
+    "high": {
+      "asString": "4.4843801624e-06",
+      "asFormattedString": "0.000004"
+    },
+    "low": {
+      "asString": "3.75307147496e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "23852.7847696",
+      "asFormattedString": "23,853"
+    },
+    "open": {
+      "asString": "4.41905612602e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "2639.60647388",
+      "asFormattedString": "2,640"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.39810418849e-06",
+      "asFormattedString": "0.000004"
+    },
+    "date_raw": {
+      "asString": "2018-12-18",
+      "asFormattedString": "Dec 18, 2018"
+    },
+    "high": {
+      "asString": "4.89091773002e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.16542028643e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "27010.3694628",
+      "asFormattedString": "27,010"
+    },
+    "open": {
+      "asString": "4.78562035396e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "5187.99380954",
+      "asFormattedString": "5,188"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.77832940019e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-17",
+      "asFormattedString": "Dec 17, 2018"
+    },
+    "high": {
+      "asString": "4.95725997849e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.6148543178e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "29345.4718176",
+      "asFormattedString": "29,345"
+    },
+    "open": {
+      "asString": "4.66891272566e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "4054.33021693",
+      "asFormattedString": "4,054"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.66206798759e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-16",
+      "asFormattedString": "Dec 16, 2018"
+    },
+    "high": {
+      "asString": "4.78973839697e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.57596805496e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "28631.46788",
+      "asFormattedString": "28,631"
+    },
+    "open": {
+      "asString": "4.58507711221e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "2162.1112611",
+      "asFormattedString": "2,162"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.58547846495e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-15",
+      "asFormattedString": "Dec 15, 2018"
+    },
+    "high": {
+      "asString": "4.6292642644e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.48157248764e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "28161.103556",
+      "asFormattedString": "28,161"
+    },
+    "open": {
+      "asString": "4.58333846854e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "4451.48533736",
+      "asFormattedString": "4,451"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.5561482483e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-14",
+      "asFormattedString": "Dec 14, 2018"
+    },
+    "high": {
+      "asString": "4.75473012648e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.51227220142e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "27980.9759478",
+      "asFormattedString": "27,981"
+    },
+    "open": {
+      "asString": "4.68340656942e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "4112.01124242",
+      "asFormattedString": "4,112"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.69905706583e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-13",
+      "asFormattedString": "Dec 13, 2018"
+    },
+    "high": {
+      "asString": "4.97120979557e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.62260888625e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "28858.6313637",
+      "asFormattedString": "28,859"
+    },
+    "open": {
+      "asString": "4.89301255498e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "4497.20825749",
+      "asFormattedString": "4,497"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.91727645151e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-12",
+      "asFormattedString": "Dec 12, 2018"
+    },
+    "high": {
+      "asString": "5.00402715465e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.7664684275e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "30198.7965755",
+      "asFormattedString": "30,199"
+    },
+    "open": {
+      "asString": "4.83277003761e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "5285.53647458",
+      "asFormattedString": "5,286"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.79343313202e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-11",
+      "asFormattedString": "Dec 11, 2018"
+    },
+    "high": {
+      "asString": "5.05429334602e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.74646328047e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "29438.2293694",
+      "asFormattedString": "29,438"
+    },
+    "open": {
+      "asString": "4.95504190842e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "5988.9391441",
+      "asFormattedString": "5,989"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.97946055721e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-10",
+      "asFormattedString": "Dec 10, 2018"
+    },
+    "high": {
+      "asString": "5.25222002746e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.89150127949e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "30580.6919554",
+      "asFormattedString": "30,581"
+    },
+    "open": {
+      "asString": "5.13177463325e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "6225.24472583",
+      "asFormattedString": "6,225"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.15009210002e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-09",
+      "asFormattedString": "Dec 09, 2018"
+    },
+    "high": {
+      "asString": "5.29227944139e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.6235160094e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "31628.602786",
+      "asFormattedString": "31,629"
+    },
+    "open": {
+      "asString": "4.6235160094e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "4193.92242941",
+      "asFormattedString": "4,194"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.64051362426e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-08",
+      "asFormattedString": "Dec 08, 2018"
+    },
+    "high": {
+      "asString": "4.71647397099e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "4.23295916246e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "28499.0946364",
+      "asFormattedString": "28,499"
+    },
+    "open": {
+      "asString": "4.47323138798e-06",
+      "asFormattedString": "0.000004"
+    },
+    "volume": {
+      "asString": "4023.36600903",
+      "asFormattedString": "4,023"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.57336288282e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-07",
+      "asFormattedString": "Dec 07, 2018"
+    },
+    "high": {
+      "asString": "4.66909417616e-06",
+      "asFormattedString": "0.000005"
+    },
+    "low": {
+      "asString": "3.96966473772e-06",
+      "asFormattedString": "0.000004"
+    },
+    "market_cap": {
+      "asString": "28086.6973265",
+      "asFormattedString": "28,087"
+    },
+    "open": {
+      "asString": "4.59059437213e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "4265.48469149",
+      "asFormattedString": "4,265"
+    }
+  },
+  {
+    "close": {
+      "asString": "4.61708470652e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-06",
+      "asFormattedString": "Dec 06, 2018"
+    },
+    "high": {
+      "asString": "5.60510771314e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "4.61708470652e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "28355.2090673",
+      "asFormattedString": "28,355"
+    },
+    "open": {
+      "asString": "5.58150452113e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "4804.82018149",
+      "asFormattedString": "4,805"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.58882501511e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2018-12-05",
+      "asFormattedString": "Dec 05, 2018"
+    },
+    "high": {
+      "asString": "6.08045458108e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.5623084953e-06",
+      "asFormattedString": "0.000006"
+    },
+    "market_cap": {
+      "asString": "34323.0223868",
+      "asFormattedString": "34,323"
+    },
+    "open": {
+      "asString": "6.04645980201e-06",
+      "asFormattedString": "0.000006"
+    },
+    "volume": {
+      "asString": "4321.80681477",
+      "asFormattedString": "4,322"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.04790250756e-06",
+      "asFormattedString": "0.000006"
+    },
+    "date_raw": {
+      "asString": "2018-12-04",
+      "asFormattedString": "Dec 04, 2018"
+    },
+    "high": {
+      "asString": "6.1424814329e-06",
+      "asFormattedString": "0.000006"
+    },
+    "low": {
+      "asString": "5.36510585169e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "37142.3854923",
+      "asFormattedString": "37,142"
+    },
+    "open": {
+      "asString": "5.47654547988e-06",
+      "asFormattedString": "0.000005"
+    },
+    "volume": {
+      "asString": "1955.83714768",
+      "asFormattedString": "1,956"
+    }
+  },
+  {
+    "close": {
+      "asString": "5.43198137438e-06",
+      "asFormattedString": "0.000005"
+    },
+    "date_raw": {
+      "asString": "2018-12-03",
+      "asFormattedString": "Dec 03, 2018"
+    },
+    "high": {
+      "asString": "7.13249595866e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "5.38692837144e-06",
+      "asFormattedString": "0.000005"
+    },
+    "market_cap": {
+      "asString": "33359.7881153",
+      "asFormattedString": "33,360"
+    },
+    "open": {
+      "asString": "7.12094592701e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "2257.32617674",
+      "asFormattedString": "2,257"
+    }
+  },
+  {
+    "close": {
+      "asString": "7.11475873781e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2018-12-02",
+      "asFormattedString": "Dec 02, 2018"
+    },
+    "high": {
+      "asString": "7.6159089248e-06",
+      "asFormattedString": "0.000008"
+    },
+    "low": {
+      "asString": "6.94922266691e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "43694.3405411",
+      "asFormattedString": "43,694"
+    },
+    "open": {
+      "asString": "7.41661362373e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "2640.2457421",
+      "asFormattedString": "2,640"
+    }
+  },
+  {
+    "close": {
+      "asString": "7.39086893175e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2018-12-01",
+      "asFormattedString": "Dec 01, 2018"
+    },
+    "high": {
+      "asString": "7.59632386964e-06",
+      "asFormattedString": "0.000008"
+    },
+    "low": {
+      "asString": "7.0030035124e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "45390.0344199",
+      "asFormattedString": "45,390"
+    },
+    "open": {
+      "asString": "7.08984874938e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "2705.98466459",
+      "asFormattedString": "2,706"
+    }
+  },
+  {
+    "close": {
+      "asString": "7.17297644609e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2018-11-30",
+      "asFormattedString": "Nov 30, 2018"
+    },
+    "high": {
+      "asString": "7.99949616849e-06",
+      "asFormattedString": "0.000008"
+    },
+    "low": {
+      "asString": "6.77043808934e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "44051.8768209",
+      "asFormattedString": "44,052"
+    },
+    "open": {
+      "asString": "7.89248536689e-06",
+      "asFormattedString": "0.000008"
+    },
+    "volume": {
+      "asString": "2645.05855675",
+      "asFormattedString": "2,645"
+    }
+  },
+  {
+    "close": {
+      "asString": "7.81835698899e-06",
+      "asFormattedString": "0.000008"
+    },
+    "date_raw": {
+      "asString": "2018-11-29",
+      "asFormattedString": "Nov 29, 2018"
+    },
+    "high": {
+      "asString": "8.24365176751e-06",
+      "asFormattedString": "0.000008"
+    },
+    "low": {
+      "asString": "7.1054619184e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "48015.3952281",
+      "asFormattedString": "48,015"
+    },
+    "open": {
+      "asString": "7.60322018323e-06",
+      "asFormattedString": "0.000008"
+    },
+    "volume": {
+      "asString": "2612.73744373",
+      "asFormattedString": "2,613"
+    }
+  },
+  {
+    "close": {
+      "asString": "7.604e-06",
+      "asFormattedString": "0.000008"
+    },
+    "date_raw": {
+      "asString": "2018-11-28",
+      "asFormattedString": "Nov 28, 2018"
+    },
+    "high": {
+      "asString": "7.91201e-06",
+      "asFormattedString": "0.000008"
+    },
+    "low": {
+      "asString": "7.10827e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "46698.9504098",
+      "asFormattedString": "46,699"
+    },
+    "open": {
+      "asString": "7.1493e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "2657.62",
+      "asFormattedString": "2,658"
+    }
+  },
+  {
+    "close": {
+      "asString": "7.1107e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2018-11-27",
+      "asFormattedString": "Nov 27, 2018"
+    },
+    "high": {
+      "asString": "7.29287e-06",
+      "asFormattedString": "0.000007"
+    },
+    "low": {
+      "asString": "6.5721e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "43669.4143449",
+      "asFormattedString": "43,669"
+    },
+    "open": {
+      "asString": "6.7426e-06",
+      "asFormattedString": "0.000007"
+    },
+    "volume": {
+      "asString": "2494.55",
+      "asFormattedString": "2,495"
+    }
+  },
+  {
+    "close": {
+      "asString": "6.8134e-06",
+      "asFormattedString": "0.000007"
+    },
+    "date_raw": {
+      "asString": "2018-11-26",
+      "asFormattedString": "Nov 26, 2018"
+    },
+    "high": {
+      "asString": "9.57614e-06",
+      "asFormattedString": "0.000010"
+    },
+    "low": {
+      "asString": "6.59082e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "41843.5861023",
+      "asFormattedString": "41,844"
+    },
+    "open": {
+      "asString": "9.4116e-06",
+      "asFormattedString": "0.000009"
+    },
+    "volume": {
+      "asString": "5545.48",
+      "asFormattedString": "5,545"
+    }
+  },
+  {
+    "close": {
+      "asString": "9.4547e-06",
+      "asFormattedString": "0.000009"
+    },
+    "date_raw": {
+      "asString": "2018-11-25",
+      "asFormattedString": "Nov 25, 2018"
+    },
+    "high": {
+      "asString": "9.62964e-06",
+      "asFormattedString": "0.000010"
+    },
+    "low": {
+      "asString": "7.49875e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "58064.7772803",
+      "asFormattedString": "58,065"
+    },
+    "open": {
+      "asString": "8.2897e-06",
+      "asFormattedString": "0.000008"
+    },
+    "volume": {
+      "asString": "9413.13",
+      "asFormattedString": "9,413"
+    }
+  },
+  {
+    "close": {
+      "asString": "8.2807e-06",
+      "asFormattedString": "0.000008"
+    },
+    "date_raw": {
+      "asString": "2018-11-24",
+      "asFormattedString": "Nov 24, 2018"
+    },
+    "high": {
+      "asString": "9.85786e-06",
+      "asFormattedString": "0.000010"
+    },
+    "low": {
+      "asString": "8.11695e-06",
+      "asFormattedString": "0.000008"
+    },
+    "market_cap": {
+      "asString": "50854.7882376",
+      "asFormattedString": "50,855"
+    },
+    "open": {
+      "asString": "9.5587e-06",
+      "asFormattedString": "0.000010"
+    },
+    "volume": {
+      "asString": "7549.0",
+      "asFormattedString": "7,549"
+    }
+  },
+  {
+    "close": {
+      "asString": "9.5673e-06",
+      "asFormattedString": "0.000010"
+    },
+    "date_raw": {
+      "asString": "2018-11-23",
+      "asFormattedString": "Nov 23, 2018"
+    },
+    "high": {
+      "asString": "1.01255e-05",
+      "asFormattedString": "0.000010"
+    },
+    "low": {
+      "asString": "8.57489e-06",
+      "asFormattedString": "0.000009"
+    },
+    "market_cap": {
+      "asString": "58756.2664395",
+      "asFormattedString": "58,756"
+    },
+    "open": {
+      "asString": "8.9822e-06",
+      "asFormattedString": "0.000009"
+    },
+    "volume": {
+      "asString": "8573.07",
+      "asFormattedString": "8,573"
+    }
+  },
+  {
+    "close": {
+      "asString": "9.042e-06",
+      "asFormattedString": "0.000009"
+    },
+    "date_raw": {
+      "asString": "2018-11-22",
+      "asFormattedString": "Nov 22, 2018"
+    },
+    "high": {
+      "asString": "9.41334e-06",
+      "asFormattedString": "0.000009"
+    },
+    "low": {
+      "asString": "8.97486e-06",
+      "asFormattedString": "0.000009"
+    },
+    "market_cap": {
+      "asString": "55530.2082245",
+      "asFormattedString": "55,530"
+    },
+    "open": {
+      "asString": "9.046e-06",
+      "asFormattedString": "0.000009"
+    },
+    "volume": {
+      "asString": "5590.68",
+      "asFormattedString": "5,591"
+    }
+  },
+  {
+    "close": {
+      "asString": "9.1272e-06",
+      "asFormattedString": "0.000009"
+    },
+    "date_raw": {
+      "asString": "2018-11-21",
+      "asFormattedString": "Nov 21, 2018"
+    },
+    "high": {
+      "asString": "1.08139e-05",
+      "asFormattedString": "0.000011"
+    },
+    "low": {
+      "asString": "8.39988e-06",
+      "asFormattedString": "0.000008"
+    },
+    "market_cap": {
+      "asString": "56053.4523896",
+      "asFormattedString": "56,053"
+    },
+    "open": {
+      "asString": "8.7041e-06",
+      "asFormattedString": "0.000009"
+    },
+    "volume": {
+      "asString": "3441.48",
+      "asFormattedString": "3,441"
+    }
+  },
+  {
+    "close": {
+      "asString": "8.6904e-06",
+      "asFormattedString": "0.000009"
+    },
+    "date_raw": {
+      "asString": "2018-11-20",
+      "asFormattedString": "Nov 20, 2018"
+    },
+    "high": {
+      "asString": "9.03903e-06",
+      "asFormattedString": "0.000009"
+    },
+    "low": {
+      "asString": "7.47979e-06",
+      "asFormattedString": "0.000007"
+    },
+    "market_cap": {
+      "asString": "53370.904839",
+      "asFormattedString": "53,371"
+    },
+    "open": {
+      "asString": "8.8133e-06",
+      "asFormattedString": "0.000009"
+    },
+    "volume": {
+      "asString": "2063.35",
+      "asFormattedString": "2,063"
+    }
+  },
+  {
+    "close": {
+      "asString": "8.8488e-06",
+      "asFormattedString": "0.000009"
+    },
+    "date_raw": {
+      "asString": "2018-11-19",
+      "asFormattedString": "Nov 19, 2018"
+    },
+    "high": {
+      "asString": "1.20503e-05",
+      "asFormattedString": "0.000012"
+    },
+    "low": {
+      "asString": "8.65424e-06",
+      "asFormattedString": "0.000009"
+    },
+    "market_cap": {
+      "asString": "54343.6968079",
+      "asFormattedString": "54,344"
+    },
+    "open": {
+      "asString": "1.19396e-05",
+      "asFormattedString": "0.000012"
+    },
+    "volume": {
+      "asString": "3619.47",
+      "asFormattedString": "3,619"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.19497e-05",
+      "asFormattedString": "0.000012"
+    },
+    "date_raw": {
+      "asString": "2018-11-18",
+      "asFormattedString": "Nov 18, 2018"
+    },
+    "high": {
+      "asString": "1.4616e-05",
+      "asFormattedString": "0.000015"
+    },
+    "low": {
+      "asString": "1.17095e-05",
+      "asFormattedString": "0.000012"
+    },
+    "market_cap": {
+      "asString": "73387.450699",
+      "asFormattedString": "73,387"
+    },
+    "open": {
+      "asString": "1.1745e-05",
+      "asFormattedString": "0.000012"
+    },
+    "volume": {
+      "asString": "7216.78",
+      "asFormattedString": "7,217"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.18299e-05",
+      "asFormattedString": "0.000012"
+    },
+    "date_raw": {
+      "asString": "2018-11-17",
+      "asFormattedString": "Nov 17, 2018"
+    },
+    "high": {
+      "asString": "1.18742e-05",
+      "asFormattedString": "0.000012"
+    },
+    "low": {
+      "asString": "1.13336e-05",
+      "asFormattedString": "0.000011"
+    },
+    "market_cap": {
+      "asString": "72651.7153589",
+      "asFormattedString": "72,652"
+    },
+    "open": {
+      "asString": "1.16307e-05",
+      "asFormattedString": "0.000012"
+    },
+    "volume": {
+      "asString": "6420.61",
+      "asFormattedString": "6,421"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.1645e-05",
+      "asFormattedString": "0.000012"
+    },
+    "date_raw": {
+      "asString": "2018-11-16",
+      "asFormattedString": "Nov 16, 2018"
+    },
+    "high": {
+      "asString": "1.21414e-05",
+      "asFormattedString": "0.000012"
+    },
+    "low": {
+      "asString": "1.14029e-05",
+      "asFormattedString": "0.000011"
+    },
+    "market_cap": {
+      "asString": "71516.1772588",
+      "asFormattedString": "71,516"
+    },
+    "open": {
+      "asString": "1.20117e-05",
+      "asFormattedString": "0.000012"
+    },
+    "volume": {
+      "asString": "6932.03",
+      "asFormattedString": "6,932"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.20486e-05",
+      "asFormattedString": "0.000012"
+    },
+    "date_raw": {
+      "asString": "2018-11-15",
+      "asFormattedString": "Nov 15, 2018"
+    },
+    "high": {
+      "asString": "1.24627e-05",
+      "asFormattedString": "0.000012"
+    },
+    "low": {
+      "asString": "1.13425e-05",
+      "asFormattedString": "0.000011"
+    },
+    "market_cap": {
+      "asString": "73994.8315432",
+      "asFormattedString": "73,995"
+    },
+    "open": {
+      "asString": "1.23044e-05",
+      "asFormattedString": "0.000012"
+    },
+    "volume": {
+      "asString": "3677.23",
+      "asFormattedString": "3,677"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.22565e-05",
+      "asFormattedString": "0.000012"
+    },
+    "date_raw": {
+      "asString": "2018-11-14",
+      "asFormattedString": "Nov 14, 2018"
+    },
+    "high": {
+      "asString": "1.46953e-05",
+      "asFormattedString": "0.000015"
+    },
+    "low": {
+      "asString": "1.17494e-05",
+      "asFormattedString": "0.000012"
+    },
+    "market_cap": {
+      "asString": "75271.6210024",
+      "asFormattedString": "75,272"
+    },
+    "open": {
+      "asString": "1.46452e-05",
+      "asFormattedString": "0.000015"
+    },
+    "volume": {
+      "asString": "3992.51",
+      "asFormattedString": "3,993"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.46472e-05",
+      "asFormattedString": "0.000015"
+    },
+    "date_raw": {
+      "asString": "2018-11-13",
+      "asFormattedString": "Nov 13, 2018"
+    },
+    "high": {
+      "asString": "1.66731e-05",
+      "asFormattedString": "0.000017"
+    },
+    "low": {
+      "asString": "1.45766e-05",
+      "asFormattedString": "0.000015"
+    },
+    "market_cap": {
+      "asString": "89652.0345406",
+      "asFormattedString": "89,652"
+    },
+    "open": {
+      "asString": "1.6157e-05",
+      "asFormattedString": "0.000016"
+    },
+    "volume": {
+      "asString": "4345.96",
+      "asFormattedString": "4,346"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.6192e-05",
+      "asFormattedString": "0.000016"
+    },
+    "date_raw": {
+      "asString": "2018-11-12",
+      "asFormattedString": "Nov 12, 2018"
+    },
+    "high": {
+      "asString": "1.96288e-05",
+      "asFormattedString": "0.000020"
+    },
+    "low": {
+      "asString": "1.61252e-05",
+      "asFormattedString": "0.000016"
+    },
+    "market_cap": {
+      "asString": "99107.3886669",
+      "asFormattedString": "99,107"
+    },
+    "open": {
+      "asString": "1.80453e-05",
+      "asFormattedString": "0.000018"
+    },
+    "volume": {
+      "asString": "6443.24",
+      "asFormattedString": "6,443"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.80306e-05",
+      "asFormattedString": "0.000018"
+    },
+    "date_raw": {
+      "asString": "2018-11-11",
+      "asFormattedString": "Nov 11, 2018"
+    },
+    "high": {
+      "asString": "1.85929e-05",
+      "asFormattedString": "0.000019"
+    },
+    "low": {
+      "asString": "1.66901e-05",
+      "asFormattedString": "0.000017"
+    },
+    "market_cap": {
+      "asString": "110361.022857",
+      "asFormattedString": "110,361"
+    },
+    "open": {
+      "asString": "1.81015e-05",
+      "asFormattedString": "0.000018"
+    },
+    "volume": {
+      "asString": "2517.17",
+      "asFormattedString": "2,517"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.81171e-05",
+      "asFormattedString": "0.000018"
+    },
+    "date_raw": {
+      "asString": "2018-11-10",
+      "asFormattedString": "Nov 10, 2018"
+    },
+    "high": {
+      "asString": "1.81566e-05",
+      "asFormattedString": "0.000018"
+    },
+    "low": {
+      "asString": "1.48186e-05",
+      "asFormattedString": "0.000015"
+    },
+    "market_cap": {
+      "asString": "110890.468825",
+      "asFormattedString": "110,890"
+    },
+    "open": {
+      "asString": "1.48988e-05",
+      "asFormattedString": "0.000015"
+    },
+    "volume": {
+      "asString": "5934.9",
+      "asFormattedString": "5,935"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.48512e-05",
+      "asFormattedString": "0.000015"
+    },
+    "date_raw": {
+      "asString": "2018-11-09",
+      "asFormattedString": "Nov 09, 2018"
+    },
+    "high": {
+      "asString": "1.61913e-05",
+      "asFormattedString": "0.000016"
+    },
+    "low": {
+      "asString": "1.45787e-05",
+      "asFormattedString": "0.000015"
+    },
+    "market_cap": {
+      "asString": "90900.6701192",
+      "asFormattedString": "90,901"
+    },
+    "open": {
+      "asString": "1.46325e-05",
+      "asFormattedString": "0.000015"
+    },
+    "volume": {
+      "asString": "6565.82",
+      "asFormattedString": "6,566"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.46341e-05",
+      "asFormattedString": "0.000015"
+    },
+    "date_raw": {
+      "asString": "2018-11-08",
+      "asFormattedString": "Nov 08, 2018"
+    },
+    "high": {
+      "asString": "1.75172e-05",
+      "asFormattedString": "0.000018"
+    },
+    "low": {
+      "asString": "1.3627e-05",
+      "asFormattedString": "0.000014"
+    },
+    "market_cap": {
+      "asString": "89571.85255",
+      "asFormattedString": "89,572"
+    },
+    "open": {
+      "asString": "1.73009e-05",
+      "asFormattedString": "0.000017"
+    },
+    "volume": {
+      "asString": "5632.71",
+      "asFormattedString": "5,633"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.73639e-05",
+      "asFormattedString": "0.000017"
+    },
+    "date_raw": {
+      "asString": "2018-11-07",
+      "asFormattedString": "Nov 07, 2018"
+    },
+    "high": {
+      "asString": "2.04375e-05",
+      "asFormattedString": "0.000020"
+    },
+    "low": {
+      "asString": "1.72418e-05",
+      "asFormattedString": "0.000017"
+    },
+    "market_cap": {
+      "asString": "106280.310405",
+      "asFormattedString": "106,280"
+    },
+    "open": {
+      "asString": "1.72879e-05",
+      "asFormattedString": "0.000017"
+    },
+    "volume": {
+      "asString": "7825.91",
+      "asFormattedString": "7,826"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.73212e-05",
+      "asFormattedString": "0.000017"
+    },
+    "date_raw": {
+      "asString": "2018-11-06",
+      "asFormattedString": "Nov 06, 2018"
+    },
+    "high": {
+      "asString": "1.81923e-05",
+      "asFormattedString": "0.000018"
+    },
+    "low": {
+      "asString": "1.4404e-05",
+      "asFormattedString": "0.000014"
+    },
+    "market_cap": {
+      "asString": "105949.789222",
+      "asFormattedString": "105,950"
+    },
+    "open": {
+      "asString": "1.72499e-05",
+      "asFormattedString": "0.000017"
+    },
+    "volume": {
+      "asString": "10333.0",
+      "asFormattedString": "10,333"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.72707e-05",
+      "asFormattedString": "0.000017"
+    },
+    "date_raw": {
+      "asString": "2018-11-05",
+      "asFormattedString": "Nov 05, 2018"
+    },
+    "high": {
+      "asString": "2.08929e-05",
+      "asFormattedString": "0.000021"
+    },
+    "low": {
+      "asString": "1.72051e-05",
+      "asFormattedString": "0.000017"
+    },
+    "market_cap": {
+      "asString": "105709.855327",
+      "asFormattedString": "105,710"
+    },
+    "open": {
+      "asString": "2.06749e-05",
+      "asFormattedString": "0.000021"
+    },
+    "volume": {
+      "asString": "6924.91",
+      "asFormattedString": "6,925"
+    }
+  },
+  {
+    "close": {
+      "asString": "2.06743e-05",
+      "asFormattedString": "0.000021"
+    },
+    "date_raw": {
+      "asString": "2018-11-04",
+      "asFormattedString": "Nov 04, 2018"
+    },
+    "high": {
+      "asString": "2.06743e-05",
+      "asFormattedString": "0.000021"
+    },
+    "low": {
+      "asString": "1.61945e-05",
+      "asFormattedString": "0.000016"
+    },
+    "market_cap": {
+      "asString": "126542.483048",
+      "asFormattedString": "126,542"
+    },
+    "open": {
+      "asString": "1.62517e-05",
+      "asFormattedString": "0.000016"
+    },
+    "volume": {
+      "asString": "3059.3",
+      "asFormattedString": "3,059"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.62517e-05",
+      "asFormattedString": "0.000016"
+    },
+    "date_raw": {
+      "asString": "2018-11-03",
+      "asFormattedString": "Nov 03, 2018"
+    },
+    "high": {
+      "asString": "2.13278e-05",
+      "asFormattedString": "0.000021"
+    },
+    "low": {
+      "asString": "1.32419e-05",
+      "asFormattedString": "0.000013"
+    },
+    "market_cap": {
+      "asString": "99472.7981965",
+      "asFormattedString": "99,473"
+    },
+    "open": {
+      "asString": "1.96653e-05",
+      "asFormattedString": "0.000020"
+    },
+    "volume": {
+      "asString": "4308.43",
+      "asFormattedString": "4,308"
+    }
+  },
+  {
+    "close": {
+      "asString": "1.958e-05",
+      "asFormattedString": "0.000020"
+    },
+    "date_raw": {
+      "asString": "2018-11-02",
+      "asFormattedString": "Nov 02, 2018"
+    },
+    "high": {
+      "asString": "2.50062e-05",
+      "asFormattedString": "0.000025"
+    },
+    "low": {
+      "asString": "1.958e-05",
+      "asFormattedString": "0.000020"
+    },
+    "market_cap": {
+      "asString": "119844.532491",
+      "asFormattedString": "119,845"
+    },
+    "open": {
+      "asString": "2.49748e-05",
+      "asFormattedString": "0.000025"
+    },
+    "volume": {
+      "asString": "4023.26",
+      "asFormattedString": "4,023"
+    }
+  },
+  {
+    "close": {
+      "asString": "2.49737e-05",
+      "asFormattedString": "0.000025"
+    },
+    "date_raw": {
+      "asString": "2018-11-01",
+      "asFormattedString": "Nov 01, 2018"
+    },
+    "high": {
+      "asString": "3.00971e-05",
+      "asFormattedString": "0.000030"
+    },
+    "low": {
+      "asString": "2.44491e-05",
+      "asFormattedString": "0.000024"
+    },
+    "market_cap": {
+      "asString": "152858.089943",
+      "asFormattedString": "152,858"
+    },
+    "open": {
+      "asString": "2.47985e-05",
+      "asFormattedString": "0.000025"
+    },
+    "volume": {
+      "asString": "3839.49",
+      "asFormattedString": "3,839"
+    }
+  },
+  {
+    "close": {
+      "asString": "2.47968e-05",
+      "asFormattedString": "0.000025"
+    },
+    "date_raw": {
+      "asString": "2018-10-31",
+      "asFormattedString": "Oct 31, 2018"
+    },
+    "high": {
+      "asString": "2.68633e-05",
+      "asFormattedString": "0.000027"
+    },
+    "low": {
+      "asString": "2.4537e-05",
+      "asFormattedString": "0.000025"
+    },
+    "market_cap": {
+      "asString": "151775.327032",
+      "asFormattedString": "151,775"
+    },
+    "open": {
+      "asString": "2.62948e-05",
+      "asFormattedString": "0.000026"
+    },
+    "volume": {
+      "asString": "4810.57",
+      "asFormattedString": "4,811"
+    }
+  },
+  {
+    "close": {
+      "asString": "2.62418e-05",
+      "asFormattedString": "0.000026"
+    },
+    "date_raw": {
+      "asString": "2018-10-30",
+      "asFormattedString": "Oct 30, 2018"
+    },
+    "high": {
+      "asString": "3.01728e-05",
+      "asFormattedString": "0.000030"
+    },
+    "low": {
+      "asString": "2.56764e-05",
+      "asFormattedString": "0.000026"
+    },
+    "market_cap": {
+      "asString": "160619.829046",
+      "asFormattedString": "160,620"
+    },
+    "open": {
+      "asString": "2.92441e-05",
+      "asFormattedString": "0.000029"
+    },
+    "volume": {
+      "asString": "4900.7",
+      "asFormattedString": "4,901"
+    }
+  },
+  {
+    "close": {
+      "asString": "2.92522e-05",
+      "asFormattedString": "0.000029"
+    },
+    "date_raw": {
+      "asString": "2018-10-29",
+      "asFormattedString": "Oct 29, 2018"
+    },
+    "high": {
+      "asString": "3.1785e-05",
+      "asFormattedString": "0.000032"
+    },
+    "low": {
+      "asString": "2.87556e-05",
+      "asFormattedString": "0.000029"
+    },
+    "market_cap": {
+      "asString": "243400.612898",
+      "asFormattedString": "243,401"
+    },
+    "open": {
+      "asString": "3.02473e-05",
+      "asFormattedString": "0.000030"
+    },
+    "volume": {
+      "asString": "5135.88",
+      "asFormattedString": "5,136"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.02587e-05",
+      "asFormattedString": "0.000030"
+    },
+    "date_raw": {
+      "asString": "2018-10-28",
+      "asFormattedString": "Oct 28, 2018"
+    },
+    "high": {
+      "asString": "3.6297e-05",
+      "asFormattedString": "0.000036"
+    },
+    "low": {
+      "asString": "2.52574e-05",
+      "asFormattedString": "0.000025"
+    },
+    "market_cap": {
+      "asString": "251775.33946",
+      "asFormattedString": "251,775"
+    },
+    "open": {
+      "asString": "3.6297e-05",
+      "asFormattedString": "0.000036"
+    },
+    "volume": {
+      "asString": "7163.9",
+      "asFormattedString": "7,164"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.62547e-05",
+      "asFormattedString": "0.000036"
+    },
+    "date_raw": {
+      "asString": "2018-10-27",
+      "asFormattedString": "Oct 27, 2018"
+    },
+    "high": {
+      "asString": "4.08254e-05",
+      "asFormattedString": "0.000041"
+    },
+    "low": {
+      "asString": "3.24058e-05",
+      "asFormattedString": "0.000032"
+    },
+    "market_cap": {
+      "asString": "301666.608266",
+      "asFormattedString": "301,667"
+    },
+    "open": {
+      "asString": "3.30003e-05",
+      "asFormattedString": "0.000033"
+    },
+    "volume": {
+      "asString": "8076.41",
+      "asFormattedString": "8,076"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.29626e-05",
+      "asFormattedString": "0.000033"
+    },
+    "date_raw": {
+      "asString": "2018-10-26",
+      "asFormattedString": "Oct 26, 2018"
+    },
+    "high": {
+      "asString": "3.69687e-05",
+      "asFormattedString": "0.000037"
+    },
+    "low": {
+      "asString": "3.25527e-05",
+      "asFormattedString": "0.000033"
+    },
+    "market_cap": {
+      "asString": "274273.812377",
+      "asFormattedString": "274,274"
+    },
+    "open": {
+      "asString": "3.4627e-05",
+      "asFormattedString": "0.000035"
+    },
+    "volume": {
+      "asString": "4254.81",
+      "asFormattedString": "4,255"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.46499e-05",
+      "asFormattedString": "0.000035"
+    },
+    "date_raw": {
+      "asString": "2018-10-25",
+      "asFormattedString": "Oct 25, 2018"
+    },
+    "high": {
+      "asString": "3.74986e-05",
+      "asFormattedString": "0.000037"
+    },
+    "low": {
+      "asString": "3.38454e-05",
+      "asFormattedString": "0.000034"
+    },
+    "market_cap": {
+      "asString": "204460.66908",
+      "asFormattedString": "204,461"
+    },
+    "open": {
+      "asString": "3.46647e-05",
+      "asFormattedString": "0.000035"
+    },
+    "volume": {
+      "asString": "7107.57",
+      "asFormattedString": "7,108"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.68934e-05",
+      "asFormattedString": "0.000037"
+    },
+    "date_raw": {
+      "asString": "2018-10-24",
+      "asFormattedString": "Oct 24, 2018"
+    },
+    "high": {
+      "asString": "4.06789e-05",
+      "asFormattedString": "0.000041"
+    },
+    "low": {
+      "asString": "3.27432e-05",
+      "asFormattedString": "0.000033"
+    },
+    "market_cap": {
+      "asString": "217699.019294",
+      "asFormattedString": "217,699"
+    },
+    "open": {
+      "asString": "3.64997e-05",
+      "asFormattedString": "0.000036"
+    },
+    "volume": {
+      "asString": "13584.1",
+      "asFormattedString": "13,584"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.65045e-05",
+      "asFormattedString": "0.000037"
+    },
+    "date_raw": {
+      "asString": "2018-10-23",
+      "asFormattedString": "Oct 23, 2018"
+    },
+    "high": {
+      "asString": "4.43641e-05",
+      "asFormattedString": "0.000044"
+    },
+    "low": {
+      "asString": "3.15964e-05",
+      "asFormattedString": "0.000032"
+    },
+    "market_cap": {
+      "asString": "215389.466752",
+      "asFormattedString": "215,389"
+    },
+    "open": {
+      "asString": "3.26177e-05",
+      "asFormattedString": "0.000033"
+    },
+    "volume": {
+      "asString": "42263.5",
+      "asFormattedString": "42,264"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.25935e-05",
+      "asFormattedString": "0.000033"
+    },
+    "date_raw": {
+      "asString": "2018-10-22",
+      "asFormattedString": "Oct 22, 2018"
+    },
+    "high": {
+      "asString": "3.48771e-05",
+      "asFormattedString": "0.000035"
+    },
+    "low": {
+      "asString": "3.00988e-05",
+      "asFormattedString": "0.000030"
+    },
+    "market_cap": {
+      "asString": "192313.156809",
+      "asFormattedString": "192,313"
+    },
+    "open": {
+      "asString": "3.48771e-05",
+      "asFormattedString": "0.000035"
+    },
+    "volume": {
+      "asString": "6844.32",
+      "asFormattedString": "6,844"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.48667e-05",
+      "asFormattedString": "0.000035"
+    },
+    "date_raw": {
+      "asString": "2018-10-21",
+      "asFormattedString": "Oct 21, 2018"
+    },
+    "high": {
+      "asString": "3.67909e-05",
+      "asFormattedString": "0.000037"
+    },
+    "low": {
+      "asString": "3.14482e-05",
+      "asFormattedString": "0.000031"
+    },
+    "market_cap": {
+      "asString": "205725.83934",
+      "asFormattedString": "205,726"
+    },
+    "open": {
+      "asString": "3.64805e-05",
+      "asFormattedString": "0.000036"
+    },
+    "volume": {
+      "asString": "11010.3",
+      "asFormattedString": "11,010"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.39263e-05",
+      "asFormattedString": "0.000034"
+    },
+    "date_raw": {
+      "asString": "2018-10-20",
+      "asFormattedString": "Oct 20, 2018"
+    },
+    "high": {
+      "asString": "3.64807e-05",
+      "asFormattedString": "0.000036"
+    },
+    "low": {
+      "asString": "2.88394e-05",
+      "asFormattedString": "0.000029"
+    },
+    "market_cap": {
+      "asString": "200177.147341",
+      "asFormattedString": "200,177"
+    },
+    "open": {
+      "asString": "3.04073e-05",
+      "asFormattedString": "0.000030"
+    },
+    "volume": {
+      "asString": "9998.77",
+      "asFormattedString": "9,999"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.04408e-05",
+      "asFormattedString": "0.000030"
+    },
+    "date_raw": {
+      "asString": "2018-10-19",
+      "asFormattedString": "Oct 19, 2018"
+    },
+    "high": {
+      "asString": "3.65937e-05",
+      "asFormattedString": "0.000037"
+    },
+    "low": {
+      "asString": "2.45756e-05",
+      "asFormattedString": "0.000025"
+    },
+    "market_cap": {
+      "asString": "179610.005662",
+      "asFormattedString": "179,610"
+    },
+    "open": {
+      "asString": "3.64287e-05",
+      "asFormattedString": "0.000036"
+    },
+    "volume": {
+      "asString": "31603.6",
+      "asFormattedString": "31,604"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.64273e-05",
+      "asFormattedString": "0.000036"
+    },
+    "date_raw": {
+      "asString": "2018-10-18",
+      "asFormattedString": "Oct 18, 2018"
+    },
+    "high": {
+      "asString": "4.48175e-05",
+      "asFormattedString": "0.000045"
+    },
+    "low": {
+      "asString": "3.25354e-05",
+      "asFormattedString": "0.000033"
+    },
+    "market_cap": {
+      "asString": "214932.181784",
+      "asFormattedString": "214,932"
+    },
+    "open": {
+      "asString": "3.73748e-05",
+      "asFormattedString": "0.000037"
+    },
+    "volume": {
+      "asString": "32903.0",
+      "asFormattedString": "32,903"
+    }
+  },
+  {
+    "close": {
+      "asString": "3.53374e-05",
+      "asFormattedString": "0.000035"
+    },
+    "date_raw": {
+      "asString": "2018-10-17",
+      "asFormattedString": "Oct 17, 2018"
+    },
+    "high": {
+      "asString": "4.07316e-05",
+      "asFormattedString": "0.000041"
+    },
+    "low": {
+      "asString": "2.2888e-05",
+      "asFormattedString": "0.000023"
+    },
+    "market_cap": {
+      "asString": "196133.34932",
+      "asFormattedString": "196,133"
+    },
+    "open": {
+      "asString": "2.29286e-05",
+      "asFormattedString": "0.000023"
+    },
+    "volume": {
+      "asString": "46933.0",
+      "asFormattedString": "46,933"
+    }
+  },
+  {
+    "close": {
+      "asString": "2.28884e-05",
+      "asFormattedString": "0.000023"
+    },
+    "date_raw": {
+      "asString": "2018-10-16",
+      "asFormattedString": "Oct 16, 2018"
+    },
+    "high": {
+      "asString": "2.97249e-05",
+      "asFormattedString": "0.000030"
+    },
+    "low": {
+      "asString": "2.28884e-05",
+      "asFormattedString": "0.000023"
+    },
+    "market_cap": {
+      "asString": "127037.601878",
+      "asFormattedString": "127,038"
+    },
+    "open": {
+      "asString": "2.4249e-05",
+      "asFormattedString": "0.000024"
+    },
+    "volume": {
+      "asString": "5565.38",
+      "asFormattedString": "5,565"
+    }
+  },
+  {
+    "close": {
+      "asString": "2.4249e-05",
+      "asFormattedString": "0.000024"
+    },
+    "date_raw": {
+      "asString": "2018-10-15",
+      "asFormattedString": "Oct 15, 2018"
+    },
+    "high": {
+      "asString": "2.42821e-05",
+      "asFormattedString": "0.000024"
+    },
+    "low": {
+      "asString": "2.33171e-05",
+      "asFormattedString": "0.000023"
+    },
+    "market_cap": {
+      "asString": "-",
+      "asFormattedString": "-"
+    },
+    "open": {
+      "asString": "2.33171e-05",
+      "asFormattedString": "0.000023"
+    },
+    "volume": {
+      "asString": "16646.6",
+      "asFormattedString": "16,647"
+    }
+  }
+]
