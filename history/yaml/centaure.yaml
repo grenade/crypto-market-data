@@ -1,0 +1,6259 @@
+---
+- close:
+    asString: "0.00011010382919"
+    asFormattedString: "0.000110"
+  date_raw:
+    asString: 2019-06-24
+    asFormattedString: "Jun 24, 2019"
+  high:
+    asString: "0.000110741550252"
+    asFormattedString: "0.000111"
+  low:
+    asString: "0.000106028755781"
+    asFormattedString: "0.000106"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00010846140026"
+    asFormattedString: "0.000108"
+  volume:
+    asString: "0.000330311487571"
+    asFormattedString: "0"
+- close:
+    asString: "0.00010846140026"
+    asFormattedString: "0.000108"
+  date_raw:
+    asString: 2019-06-23
+    asFormattedString: "Jun 23, 2019"
+  high:
+    asString: "0.000112535040855"
+    asFormattedString: "0.000113"
+  low:
+    asString: "0.000105338864344"
+    asFormattedString: "0.000105"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000107003080373"
+    asFormattedString: "0.000107"
+  volume:
+    asString: "0.000325384200781"
+    asFormattedString: "0"
+- close:
+    asString: "0.000106985291901"
+    asFormattedString: "0.000107"
+  date_raw:
+    asString: 2019-06-22
+    asFormattedString: "Jun 22, 2019"
+  high:
+    asString: "0.000111718387451"
+    asFormattedString: "0.000112"
+  low:
+    asString: "0.000100806568053"
+    asFormattedString: "0.000101"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000101606843794"
+    asFormattedString: "0.000102"
+  volume:
+    asString: "0.000320955875703"
+    asFormattedString: "0"
+- close:
+    asString: "0.00010131018427"
+    asFormattedString: "0.000101"
+  date_raw:
+    asString: 2019-06-21
+    asFormattedString: "Jun 21, 2019"
+  high:
+    asString: "0.00010131018427"
+    asFormattedString: "0.000101"
+  low:
+    asString: "9.51784549951e-05"
+    asFormattedString: "0.000095"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "9.51893221255e-05"
+    asFormattedString: "0.000095"
+  volume:
+    asString: "0.00030393055281"
+    asFormattedString: "0"
+- close:
+    asString: "9.51211598913e-05"
+    asFormattedString: "0.000095"
+  date_raw:
+    asString: 2019-06-20
+    asFormattedString: "Jun 20, 2019"
+  high:
+    asString: "9.58468657701e-05"
+    asFormattedString: "0.000096"
+  low:
+    asString: "9.21952360847e-05"
+    asFormattedString: "0.000092"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "9.26913951171e-05"
+    asFormattedString: "0.000093"
+  volume:
+    asString: "3.11036680729"
+    asFormattedString: "3"
+- close:
+    asString: "9.27092497569e-05"
+    asFormattedString: "0.000093"
+  date_raw:
+    asString: 2019-06-19
+    asFormattedString: "Jun 19, 2019"
+  high:
+    asString: "9.28423813611e-05"
+    asFormattedString: "0.000093"
+  low:
+    asString: "9.05992824169e-05"
+    asFormattedString: "0.000091"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "9.0683832445e-05"
+    asFormattedString: "0.000091"
+  volume:
+    asString: "0.000185418499514"
+    asFormattedString: "0"
+- close:
+    asString: "9.06225390692e-05"
+    asFormattedString: "0.000091"
+  date_raw:
+    asString: 2019-06-18
+    asFormattedString: "Jun 18, 2019"
+  high:
+    asString: "0.00018712246175"
+    asFormattedString: "0.000187"
+  low:
+    asString: "8.98546256455e-05"
+    asFormattedString: "0.000090"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000186548238567"
+    asFormattedString: "0.000187"
+  volume:
+    asString: "0.0463987400034"
+    asFormattedString: "0"
+- close:
+    asString: "0.000186628881569"
+    asFormattedString: "0.000187"
+  date_raw:
+    asString: 2019-06-17
+    asFormattedString: "Jun 17, 2019"
+  high:
+    asString: "0.000188449044779"
+    asFormattedString: "0.000188"
+  low:
+    asString: "8.98150473813e-05"
+    asFormattedString: "0.000090"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.98630188176e-05"
+    asFormattedString: "0.000090"
+  volume:
+    asString: "6.28739856339"
+    asFormattedString: "6"
+- close:
+    asString: "8.98630188176e-05"
+    asFormattedString: "0.000090"
+  date_raw:
+    asString: 2019-06-16
+    asFormattedString: "Jun 16, 2019"
+  high:
+    asString: "9.3378368831e-05"
+    asFormattedString: "0.000093"
+  low:
+    asString: "8.80051922539e-05"
+    asFormattedString: "0.000088"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.83302337772e-05"
+    asFormattedString: "0.000088"
+  volume:
+    asString: "0.000629041131723"
+    asFormattedString: "0"
+- close:
+    asString: "8.83302337772e-05"
+    asFormattedString: "0.000088"
+  date_raw:
+    asString: 2019-06-15
+    asFormattedString: "Jun 15, 2019"
+  high:
+    asString: "0.000174164602854"
+    asFormattedString: "0.000174"
+  low:
+    asString: "8.61428235227e-05"
+    asFormattedString: "0.000086"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.67801434401e-05"
+    asFormattedString: "0.000087"
+  volume:
+    asString: "0.000882949370157"
+    asFormattedString: "0"
+- close:
+    asString: "8.67427566474e-05"
+    asFormattedString: "0.000087"
+  date_raw:
+    asString: 2019-06-14
+    asFormattedString: "Jun 14, 2019"
+  high:
+    asString: "8.70842115245e-05"
+    asFormattedString: "0.000087"
+  low:
+    asString: "8.16842470376e-05"
+    asFormattedString: "0.000082"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.22770604973e-05"
+    asFormattedString: "0.000082"
+  volume:
+    asString: "17.5633263949"
+    asFormattedString: "18"
+- close:
+    asString: "8.21975961205e-05"
+    asFormattedString: "0.000082"
+  date_raw:
+    asString: 2019-06-13
+    asFormattedString: "Jun 13, 2019"
+  high:
+    asString: "0.000164009328431"
+    asFormattedString: "0.000164"
+  low:
+    asString: "8.06775113683e-05"
+    asFormattedString: "0.000081"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.12956829267e-05"
+    asFormattedString: "0.000081"
+  volume:
+    asString: "2.20294221762"
+    asFormattedString: "2"
+- close:
+    asString: "8.1238534266e-05"
+    asFormattedString: "0.000081"
+  date_raw:
+    asString: 2019-06-12
+    asFormattedString: "Jun 12, 2019"
+  high:
+    asString: "0.000159543311707"
+    asFormattedString: "0.000160"
+  low:
+    asString: "7.83471408039e-05"
+    asFormattedString: "0.000078"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.91444059131e-05"
+    asFormattedString: "0.000079"
+  volume:
+    asString: "0.00186816165893"
+    asFormattedString: "0"
+- close:
+    asString: "7.89837245261e-05"
+    asFormattedString: "0.000079"
+  date_raw:
+    asString: 2019-06-11
+    asFormattedString: "Jun 11, 2019"
+  high:
+    asString: "0.000159505830055"
+    asFormattedString: "0.000160"
+  low:
+    asString: "7.73708110852e-05"
+    asFormattedString: "0.000077"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.73708110852e-05"
+    asFormattedString: "0.000077"
+  volume:
+    asString: "31.1687098166"
+    asFormattedString: "31"
+- close:
+    asString: "7.73708110852e-05"
+    asFormattedString: "0.000077"
+  date_raw:
+    asString: 2019-06-10
+    asFormattedString: "Jun 10, 2019"
+  high:
+    asString: "7.75973398292e-05"
+    asFormattedString: "0.000078"
+  low:
+    asString: "7.55191688866e-05"
+    asFormattedString: "0.000076"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.64513034095e-05"
+    asFormattedString: "0.000076"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "7.66433466191e-05"
+    asFormattedString: "0.000077"
+  date_raw:
+    asString: 2019-06-09
+    asFormattedString: "Jun 09, 2019"
+  high:
+    asString: "7.93459523304e-05"
+    asFormattedString: "0.000079"
+  low:
+    asString: "7.54083284256e-05"
+    asFormattedString: "0.000075"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.93459523304e-05"
+    asFormattedString: "0.000079"
+  volume:
+    asString: "0.153133559678"
+    asFormattedString: "0"
+- close:
+    asString: "7.93459523304e-05"
+    asFormattedString: "0.000079"
+  date_raw:
+    asString: 2019-06-08
+    asFormattedString: "Jun 08, 2019"
+  high:
+    asString: "8.0645752118e-05"
+    asFormattedString: "0.000081"
+  low:
+    asString: "7.80457136499e-05"
+    asFormattedString: "0.000078"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.01073666407e-05"
+    asFormattedString: "0.000080"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "8.01223501664e-05"
+    asFormattedString: "0.000080"
+  date_raw:
+    asString: 2019-06-07
+    asFormattedString: "Jun 07, 2019"
+  high:
+    asString: "8.07327593536e-05"
+    asFormattedString: "0.000081"
+  low:
+    asString: "7.91794810913e-05"
+    asFormattedString: "0.000079"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.91794810913e-05"
+    asFormattedString: "0.000079"
+  volume:
+    asString: "0.800423078586"
+    asFormattedString: "1"
+- close:
+    asString: "7.91794810913e-05"
+    asFormattedString: "0.000079"
+  date_raw:
+    asString: 2019-06-06
+    asFormattedString: "Jun 06, 2019"
+  high:
+    asString: "7.91794810913e-05"
+    asFormattedString: "0.000079"
+  low:
+    asString: "7.91794810913e-05"
+    asFormattedString: "0.000079"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.91794810913e-05"
+    asFormattedString: "0.000079"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "7.91794810913e-05"
+    asFormattedString: "0.000079"
+  date_raw:
+    asString: 2019-06-05
+    asFormattedString: "Jun 05, 2019"
+  high:
+    asString: "7.91794810913e-05"
+    asFormattedString: "0.000079"
+  low:
+    asString: "7.91794810913e-05"
+    asFormattedString: "0.000079"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.91794810913e-05"
+    asFormattedString: "0.000079"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "7.91794810913e-05"
+    asFormattedString: "0.000079"
+  date_raw:
+    asString: 2019-06-04
+    asFormattedString: "Jun 04, 2019"
+  high:
+    asString: "8.16279061102e-05"
+    asFormattedString: "0.000082"
+  low:
+    asString: "7.80358059052e-05"
+    asFormattedString: "0.000078"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.16279061102e-05"
+    asFormattedString: "0.000082"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "8.17268745634e-05"
+    asFormattedString: "0.000082"
+  date_raw:
+    asString: 2019-06-03
+    asFormattedString: "Jun 03, 2019"
+  high:
+    asString: "8.72952102605e-05"
+    asFormattedString: "0.000087"
+  low:
+    asString: "8.13311913345e-05"
+    asFormattedString: "0.000081"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.72952102605e-05"
+    asFormattedString: "0.000087"
+  volume:
+    asString: "16.581892651"
+    asFormattedString: "17"
+- close:
+    asString: "8.72952102605e-05"
+    asFormattedString: "0.000087"
+  date_raw:
+    asString: 2019-06-02
+    asFormattedString: "Jun 02, 2019"
+  high:
+    asString: "0.000175902887822"
+    asFormattedString: "0.000176"
+  low:
+    asString: "8.54691577477e-05"
+    asFormattedString: "0.000085"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.55242928163e-05"
+    asFormattedString: "0.000086"
+  volume:
+    asString: "1.37830372597"
+    asFormattedString: "1"
+- close:
+    asString: "8.55242928163e-05"
+    asFormattedString: "0.000086"
+  date_raw:
+    asString: 2019-06-01
+    asFormattedString: "Jun 01, 2019"
+  high:
+    asString: "8.60146742983e-05"
+    asFormattedString: "0.000086"
+  low:
+    asString: "8.46482736532e-05"
+    asFormattedString: "0.000085"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.55602975114e-05"
+    asFormattedString: "0.000086"
+  volume:
+    asString: "8.55242928163e-05"
+    asFormattedString: "0"
+- close:
+    asString: "8.55757833775e-05"
+    asFormattedString: "0.000086"
+  date_raw:
+    asString: 2019-05-31
+    asFormattedString: "May 31, 2019"
+  high:
+    asString: "8.5691571211e-05"
+    asFormattedString: "0.000086"
+  low:
+    asString: "8.13943611807e-05"
+    asFormattedString: "0.000081"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.28345855924e-05"
+    asFormattedString: "0.000083"
+  volume:
+    asString: "0.000427878916888"
+    asFormattedString: "0"
+- close:
+    asString: "8.28345855924e-05"
+    asFormattedString: "0.000083"
+  date_raw:
+    asString: 2019-05-30
+    asFormattedString: "May 30, 2019"
+  high:
+    asString: "9.00922804956e-05"
+    asFormattedString: "0.000090"
+  low:
+    asString: "8.13815384061e-05"
+    asFormattedString: "0.000081"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.66089368647e-05"
+    asFormattedString: "0.000087"
+  volume:
+    asString: "0.13700840457"
+    asFormattedString: "0"
+- close:
+    asString: "8.66089368647e-05"
+    asFormattedString: "0.000087"
+  date_raw:
+    asString: 2019-05-29
+    asFormattedString: "May 29, 2019"
+  high:
+    asString: "8.74974486877e-05"
+    asFormattedString: "0.000087"
+  low:
+    asString: "8.46891619308e-05"
+    asFormattedString: "0.000085"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.72395018581e-05"
+    asFormattedString: "0.000087"
+  volume:
+    asString: "0.000173217873729"
+    asFormattedString: "0"
+- close:
+    asString: "8.72597248672e-05"
+    asFormattedString: "0.000087"
+  date_raw:
+    asString: 2019-05-28
+    asFormattedString: "May 28, 2019"
+  high:
+    asString: "8.79783520418e-05"
+    asFormattedString: "0.000088"
+  low:
+    asString: "8.61057995638e-05"
+    asFormattedString: "0.000086"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.79783520418e-05"
+    asFormattedString: "0.000088"
+  volume:
+    asString: "0.0265269563596"
+    asFormattedString: "0"
+- close:
+    asString: "8.80251371058e-05"
+    asFormattedString: "0.000088"
+  date_raw:
+    asString: 2019-05-27
+    asFormattedString: "May 27, 2019"
+  high:
+    asString: "8.89833239853e-05"
+    asFormattedString: "0.000089"
+  low:
+    asString: "7.97962754095e-05"
+    asFormattedString: "0.000080"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.97962754095e-05"
+    asFormattedString: "0.000080"
+  volume:
+    asString: "0.000176050274212"
+    asFormattedString: "0"
+- close:
+    asString: "7.97962754095e-05"
+    asFormattedString: "0.000080"
+  date_raw:
+    asString: 2019-05-26
+    asFormattedString: "May 26, 2019"
+  high:
+    asString: "8.07110703903e-05"
+    asFormattedString: "0.000081"
+  low:
+    asString: "7.91108776372e-05"
+    asFormattedString: "0.000079"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.04626111485e-05"
+    asFormattedString: "0.000080"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "8.05635027451e-05"
+    asFormattedString: "0.000081"
+  date_raw:
+    asString: 2019-05-25
+    asFormattedString: "May 25, 2019"
+  high:
+    asString: "0.000162312836964"
+    asFormattedString: "0.000162"
+  low:
+    asString: "7.95264488945e-05"
+    asFormattedString: "0.000080"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.98818419899e-05"
+    asFormattedString: "0.000080"
+  volume:
+    asString: "0.0161771674478"
+    asFormattedString: "0"
+- close:
+    asString: "7.98818419899e-05"
+    asFormattedString: "0.000080"
+  date_raw:
+    asString: 2019-05-24
+    asFormattedString: "May 24, 2019"
+  high:
+    asString: "8.14156180589e-05"
+    asFormattedString: "0.000081"
+  low:
+    asString: "7.80078188263e-05"
+    asFormattedString: "0.000078"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.87681207858e-05"
+    asFormattedString: "0.000079"
+  volume:
+    asString: "0.0401805665209"
+    asFormattedString: "0"
+- close:
+    asString: "7.87399263746e-05"
+    asFormattedString: "0.000079"
+  date_raw:
+    asString: 2019-05-23
+    asFormattedString: "May 23, 2019"
+  high:
+    asString: "0.000229406976822"
+    asFormattedString: "0.000229"
+  low:
+    asString: "7.51544402211e-05"
+    asFormattedString: "0.000075"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.65365293919e-05"
+    asFormattedString: "0.000077"
+  volume:
+    asString: "0.000629683427438"
+    asFormattedString: "0"
+- close:
+    asString: "7.65365293919e-05"
+    asFormattedString: "0.000077"
+  date_raw:
+    asString: 2019-05-22
+    asFormattedString: "May 22, 2019"
+  high:
+    asString: "0.000237787237157"
+    asFormattedString: "0.000238"
+  low:
+    asString: "7.65365293919e-05"
+    asFormattedString: "0.000077"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000158972704916"
+    asFormattedString: "0.000159"
+  volume:
+    asString: "2.59619377846"
+    asFormattedString: "3"
+- close:
+    asString: "0.000158972704916"
+    asFormattedString: "0.000159"
+  date_raw:
+    asString: 2019-05-21
+    asFormattedString: "May 21, 2019"
+  high:
+    asString: "0.0001613458434"
+    asFormattedString: "0.000161"
+  low:
+    asString: "0.000156581844691"
+    asFormattedString: "0.000157"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000159442654606"
+    asFormattedString: "0.000159"
+  volume:
+    asString: "0.000476918114749"
+    asFormattedString: "0"
+- close:
+    asString: "0.000159534684321"
+    asFormattedString: "0.000160"
+  date_raw:
+    asString: 2019-05-20
+    asFormattedString: "May 20, 2019"
+  high:
+    asString: "0.000163934959708"
+    asFormattedString: "0.000164"
+  low:
+    asString: "0.00015298773145"
+    asFormattedString: "0.000153"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000163933339097"
+    asFormattedString: "0.000164"
+  volume:
+    asString: "0.000957208105928"
+    asFormattedString: "0"
+- close:
+    asString: "0.000163914096355"
+    asFormattedString: "0.000164"
+  date_raw:
+    asString: 2019-05-19
+    asFormattedString: "May 19, 2019"
+  high:
+    asString: "0.000165053137058"
+    asFormattedString: "0.000165"
+  low:
+    asString: "0.000144670692169"
+    asFormattedString: "0.000145"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000144901490659"
+    asFormattedString: "0.000145"
+  volume:
+    asString: "0.000491742289064"
+    asFormattedString: "0"
+- close:
+    asString: "0.000144878244877"
+    asFormattedString: "0.000145"
+  date_raw:
+    asString: 2019-05-18
+    asFormattedString: "May 18, 2019"
+  high:
+    asString: "0.000148711042203"
+    asFormattedString: "0.000149"
+  low:
+    asString: "0.000144513335763"
+    asFormattedString: "0.000145"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000146391149411"
+    asFormattedString: "0.000146"
+  volume:
+    asString: "0.0339015093013"
+    asFormattedString: "0"
+- close:
+    asString: "0.000146391149411"
+    asFormattedString: "0.000146"
+  date_raw:
+    asString: 2019-05-17
+    asFormattedString: "May 17, 2019"
+  high:
+    asString: "0.000158489198741"
+    asFormattedString: "0.000158"
+  low:
+    asString: "0.000140329590125"
+    asFormattedString: "0.000140"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000157471003663"
+    asFormattedString: "0.000157"
+  volume:
+    asString: "0.000731955747053"
+    asFormattedString: "0"
+- close:
+    asString: "0.000157613684348"
+    asFormattedString: "0.000158"
+  date_raw:
+    asString: 2019-05-16
+    asFormattedString: "May 16, 2019"
+  high:
+    asString: "0.000166393279235"
+    asFormattedString: "0.000166"
+  low:
+    asString: "0.000153813505102"
+    asFormattedString: "0.000154"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000163607323363"
+    asFormattedString: "0.000164"
+  volume:
+    asString: "0.00141852315914"
+    asFormattedString: "0"
+- close:
+    asString: "0.000163751256754"
+    asFormattedString: "0.000164"
+  date_raw:
+    asString: 2019-05-15
+    asFormattedString: "May 15, 2019"
+  high:
+    asString: "0.000164659854074"
+    asFormattedString: "0.000165"
+  low:
+    asString: "0.000157674982248"
+    asFormattedString: "0.000158"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000159541670013"
+    asFormattedString: "0.000160"
+  volume:
+    asString: "1.17999155617"
+    asFormattedString: "1"
+- close:
+    asString: "0.000159632594384"
+    asFormattedString: "0.000160"
+  date_raw:
+    asString: 2019-05-14
+    asFormattedString: "May 14, 2019"
+  high:
+    asString: "0.000331728045619"
+    asFormattedString: "0.000332"
+  low:
+    asString: "0.000153397427306"
+    asFormattedString: "0.000153"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000156291054509"
+    asFormattedString: "0.000156"
+  volume:
+    asString: "1.44674797028"
+    asFormattedString: "1"
+- close:
+    asString: "0.000156196658138"
+    asFormattedString: "0.000156"
+  date_raw:
+    asString: 2019-05-13
+    asFormattedString: "May 13, 2019"
+  high:
+    asString: "0.000232833059717"
+    asFormattedString: "0.000233"
+  low:
+    asString: "0.000137616981699"
+    asFormattedString: "0.000138"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000139406039034"
+    asFormattedString: "0.000139"
+  volume:
+    asString: "1.84092288997"
+    asFormattedString: "2"
+- close:
+    asString: "0.000139406039034"
+    asFormattedString: "0.000139"
+  date_raw:
+    asString: 2019-05-12
+    asFormattedString: "May 12, 2019"
+  high:
+    asString: "0.000150068814347"
+    asFormattedString: "0.000150"
+  low:
+    asString: "0.00013613026638"
+    asFormattedString: "0.000136"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000144036377632"
+    asFormattedString: "0.000144"
+  volume:
+    asString: "0.235735612006"
+    asFormattedString: "0"
+- close:
+    asString: "0.000143925468838"
+    asFormattedString: "0.000144"
+  date_raw:
+    asString: 2019-05-11
+    asFormattedString: "May 11, 2019"
+  high:
+    asString: "0.000146838894862"
+    asFormattedString: "0.000147"
+  low:
+    asString: "0.00012734281886"
+    asFormattedString: "0.000127"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000127582927875"
+    asFormattedString: "0.000128"
+  volume:
+    asString: "0.00287850937676"
+    asFormattedString: "0"
+- close:
+    asString: "0.000127369293423"
+    asFormattedString: "0.000127"
+  date_raw:
+    asString: 2019-05-10
+    asFormattedString: "May 10, 2019"
+  high:
+    asString: "0.000254133333032"
+    asFormattedString: "0.000254"
+  low:
+    asString: "0.000122956755993"
+    asFormattedString: "0.000123"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000123337685144"
+    asFormattedString: "0.000123"
+  volume:
+    asString: "0.336872694796"
+    asFormattedString: "0"
+- close:
+    asString: "0.000123398710478"
+    asFormattedString: "0.000123"
+  date_raw:
+    asString: 2019-05-09
+    asFormattedString: "May 09, 2019"
+  high:
+    asString: "0.000183315420393"
+    asFormattedString: "0.000183"
+  low:
+    asString: "0.000121604915482"
+    asFormattedString: "0.000122"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000179322190539"
+    asFormattedString: "0.000179"
+  volume:
+    asString: "1.49965546769"
+    asFormattedString: "1"
+- close:
+    asString: "0.000179335302549"
+    asFormattedString: "0.000179"
+  date_raw:
+    asString: 2019-05-08
+    asFormattedString: "May 08, 2019"
+  high:
+    asString: "0.000297130213932"
+    asFormattedString: "0.000297"
+  low:
+    asString: "0.000175248314521"
+    asFormattedString: "0.000175"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000233347090953"
+    asFormattedString: "0.000233"
+  volume:
+    asString: "10.8122678769"
+    asFormattedString: "11"
+- close:
+    asString: "0.000233582646334"
+    asFormattedString: "0.000234"
+  date_raw:
+    asString: 2019-05-07
+    asFormattedString: "May 07, 2019"
+  high:
+    asString: "0.000414674742294"
+    asFormattedString: "0.000415"
+  low:
+    asString: "5.74049062448e-05"
+    asFormattedString: "0.000057"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.74049062448e-05"
+    asFormattedString: "0.000057"
+  volume:
+    asString: "165.607886024"
+    asFormattedString: "166"
+- close:
+    asString: "5.74219164977e-05"
+    asFormattedString: "0.000057"
+  date_raw:
+    asString: 2019-05-06
+    asFormattedString: "May 06, 2019"
+  high:
+    asString: "5.80371976692e-05"
+    asFormattedString: "0.000058"
+  low:
+    asString: "5.6445861352e-05"
+    asFormattedString: "0.000056"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.78081857606e-05"
+    asFormattedString: "0.000058"
+  volume:
+    asString: "1.20700753749"
+    asFormattedString: "1"
+- close:
+    asString: "5.78378653408e-05"
+    asFormattedString: "0.000058"
+  date_raw:
+    asString: 2019-05-05
+    asFormattedString: "May 05, 2019"
+  high:
+    asString: "5.83435867824e-05"
+    asFormattedString: "0.000058"
+  low:
+    asString: "5.73909175215e-05"
+    asFormattedString: "0.000057"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.83284746588e-05"
+    asFormattedString: "0.000058"
+  volume:
+    asString: "0.0553533216746"
+    asFormattedString: "0"
+- close:
+    asString: "5.8338093085e-05"
+    asFormattedString: "0.000058"
+  date_raw:
+    asString: 2019-05-04
+    asFormattedString: "May 04, 2019"
+  high:
+    asString: "5.89814236564e-05"
+    asFormattedString: "0.000059"
+  low:
+    asString: "5.63631832802e-05"
+    asFormattedString: "0.000056"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.77124179756e-05"
+    asFormattedString: "0.000058"
+  volume:
+    asString: "1.27962124462"
+    asFormattedString: "1"
+- close:
+    asString: "5.77104598257e-05"
+    asFormattedString: "0.000058"
+  date_raw:
+    asString: 2019-05-03
+    asFormattedString: "May 03, 2019"
+  high:
+    asString: "5.88468486479e-05"
+    asFormattedString: "0.000059"
+  low:
+    asString: "5.48628152046e-05"
+    asFormattedString: "0.000055"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.5045252578e-05"
+    asFormattedString: "0.000055"
+  volume:
+    asString: "1.3460371507"
+    asFormattedString: "1"
+- close:
+    asString: "5.50540803659e-05"
+    asFormattedString: "0.000055"
+  date_raw:
+    asString: 2019-05-02
+    asFormattedString: "May 02, 2019"
+  high:
+    asString: "5.52451664949e-05"
+    asFormattedString: "0.000055"
+  low:
+    asString: "5.38750907436e-05"
+    asFormattedString: "0.000054"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.40129809017e-05"
+    asFormattedString: "0.000054"
+  volume:
+    asString: "0.051915997785"
+    asFormattedString: "0"
+- close:
+    asString: "5.39963098418e-05"
+    asFormattedString: "0.000054"
+  date_raw:
+    asString: 2019-05-01
+    asFormattedString: "May 01, 2019"
+  high:
+    asString: "0.000107838138727"
+    asFormattedString: "0.000108"
+  low:
+    asString: "5.34532243204e-05"
+    asFormattedString: "0.000053"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.34781062109e-05"
+    asFormattedString: "0.000053"
+  volume:
+    asString: "0.00587987988213"
+    asFormattedString: "0"
+- close:
+    asString: "5.34878646493e-05"
+    asFormattedString: "0.000053"
+  date_raw:
+    asString: 2019-04-30
+    asFormattedString: "Apr 30, 2019"
+  high:
+    asString: "5.36318176575e-05"
+    asFormattedString: "0.000054"
+  low:
+    asString: "5.21599705711e-05"
+    asFormattedString: "0.000052"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.24210881672e-05"
+    asFormattedString: "0.000052"
+  volume:
+    asString: "0.000213951458597"
+    asFormattedString: "0"
+- close:
+    asString: "5.24155485496e-05"
+    asFormattedString: "0.000052"
+  date_raw:
+    asString: 2019-04-29
+    asFormattedString: "Apr 29, 2019"
+  high:
+    asString: "5.30267077038e-05"
+    asFormattedString: "0.000053"
+  low:
+    asString: "5.19873831684e-05"
+    asFormattedString: "0.000052"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.27687575424e-05"
+    asFormattedString: "0.000053"
+  volume:
+    asString: "0.000104831097099"
+    asFormattedString: "0"
+- close:
+    asString: "5.2739754719e-05"
+    asFormattedString: "0.000053"
+  date_raw:
+    asString: 2019-04-28
+    asFormattedString: "Apr 28, 2019"
+  high:
+    asString: "5.32055248332e-05"
+    asFormattedString: "0.000053"
+  low:
+    asString: "5.23623146243e-05"
+    asFormattedString: "0.000052"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.25973422642e-05"
+    asFormattedString: "0.000053"
+  volume:
+    asString: "0.00105479509438"
+    asFormattedString: "0"
+- close:
+    asString: "5.26130199934e-05"
+    asFormattedString: "0.000053"
+  date_raw:
+    asString: 2019-04-27
+    asFormattedString: "Apr 27, 2019"
+  high:
+    asString: "5.30794603123e-05"
+    asFormattedString: "0.000053"
+  low:
+    asString: "5.22499959344e-05"
+    asFormattedString: "0.000052"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.26235451838e-05"
+    asFormattedString: "0.000053"
+  volume:
+    asString: "1.31774569876"
+    asFormattedString: "1"
+- close:
+    asString: "5.25915013472e-05"
+    asFormattedString: "0.000053"
+  date_raw:
+    asString: 2019-04-26
+    asFormattedString: "Apr 26, 2019"
+  high:
+    asString: "5.3727207415e-05"
+    asFormattedString: "0.000054"
+  low:
+    asString: "5.13842900468e-05"
+    asFormattedString: "0.000051"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.19828045396e-05"
+    asFormattedString: "0.000052"
+  volume:
+    asString: "0.000315549008083"
+    asFormattedString: "0"
+- close:
+    asString: "5.18098064808e-05"
+    asFormattedString: "0.000052"
+  date_raw:
+    asString: 2019-04-25
+    asFormattedString: "Apr 25, 2019"
+  high:
+    asString: "5.51365252826e-05"
+    asFormattedString: "0.000055"
+  low:
+    asString: "5.10269333669e-05"
+    asFormattedString: "0.000051"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.44216504341e-05"
+    asFormattedString: "0.000054"
+  volume:
+    asString: "0.000103619612962"
+    asFormattedString: "0"
+- close:
+    asString: "5.44193166249e-05"
+    asFormattedString: "0.000054"
+  date_raw:
+    asString: 2019-04-24
+    asFormattedString: "Apr 24, 2019"
+  high:
+    asString: "5.61975667028e-05"
+    asFormattedString: "0.000056"
+  low:
+    asString: "5.38988702142e-05"
+    asFormattedString: "0.000054"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.54154370466e-05"
+    asFormattedString: "0.000055"
+  volume:
+    asString: "0.665929177539"
+    asFormattedString: "1"
+- close:
+    asString: "5.54497526476e-05"
+    asFormattedString: "0.000055"
+  date_raw:
+    asString: 2019-04-23
+    asFormattedString: "Apr 23, 2019"
+  high:
+    asString: "5.60931741127e-05"
+    asFormattedString: "0.000056"
+  low:
+    asString: "5.36282186554e-05"
+    asFormattedString: "0.000054"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.37689124653e-05"
+    asFormattedString: "0.000054"
+  volume:
+    asString: "0.000166349257943"
+    asFormattedString: "0"
+- close:
+    asString: "5.37689124653e-05"
+    asFormattedString: "0.000054"
+  date_raw:
+    asString: 2019-04-22
+    asFormattedString: "Apr 22, 2019"
+  high:
+    asString: "5.41064121307e-05"
+    asFormattedString: "0.000054"
+  low:
+    asString: "5.25380646399e-05"
+    asFormattedString: "0.000053"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.28803650301e-05"
+    asFormattedString: "0.000053"
+  volume:
+    asString: "0.657970181838"
+    asFormattedString: "1"
+- close:
+    asString: "5.29026106883e-05"
+    asFormattedString: "0.000053"
+  date_raw:
+    asString: 2019-04-21
+    asFormattedString: "Apr 21, 2019"
+  high:
+    asString: "0.000106751786391"
+    asFormattedString: "0.000107"
+  low:
+    asString: "5.230185112e-05"
+    asFormattedString: "0.000052"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.31727114984e-05"
+    asFormattedString: "0.000053"
+  volume:
+    asString: "0.00195549400386"
+    asFormattedString: "0"
+- close:
+    asString: "5.31511879694e-05"
+    asFormattedString: "0.000053"
+  date_raw:
+    asString: 2019-04-20
+    asFormattedString: "Apr 20, 2019"
+  high:
+    asString: "5.34964640517e-05"
+    asFormattedString: "0.000053"
+  low:
+    asString: "5.27128582063e-05"
+    asFormattedString: "0.000053"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.28628962366e-05"
+    asFormattedString: "0.000053"
+  volume:
+    asString: "0.000106302375939"
+    asFormattedString: "0"
+- close:
+    asString: "5.28456356942e-05"
+    asFormattedString: "0.000053"
+  date_raw:
+    asString: 2019-04-19
+    asFormattedString: "Apr 19, 2019"
+  high:
+    asString: "5.32606845165e-05"
+    asFormattedString: "0.000053"
+  low:
+    asString: "5.2112381545e-05"
+    asFormattedString: "0.000052"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.2843678462e-05"
+    asFormattedString: "0.000053"
+  volume:
+    asString: "0.00443903339831"
+    asFormattedString: "0"
+- close:
+    asString: "5.28378601434e-05"
+    asFormattedString: "0.000053"
+  date_raw:
+    asString: 2019-04-18
+    asFormattedString: "Apr 18, 2019"
+  high:
+    asString: "0.000105874406094"
+    asFormattedString: "0.000106"
+  low:
+    asString: "5.23048100741e-05"
+    asFormattedString: "0.000052"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.23228966972e-05"
+    asFormattedString: "0.000052"
+  volume:
+    asString: "0.0349175910839"
+    asFormattedString: "0"
+- close:
+    asString: "5.23016580772e-05"
+    asFormattedString: "0.000052"
+  date_raw:
+    asString: 2019-04-17
+    asFormattedString: "Apr 17, 2019"
+  high:
+    asString: "0.000105168168747"
+    asFormattedString: "0.000105"
+  low:
+    asString: "5.19884165044e-05"
+    asFormattedString: "0.000052"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000104296224141"
+    asFormattedString: "0.000104"
+  volume:
+    asString: "0.535621280369"
+    asFormattedString: "1"
+- close:
+    asString: "0.000104328873809"
+    asFormattedString: "0.000104"
+  date_raw:
+    asString: 2019-04-16
+    asFormattedString: "Apr 16, 2019"
+  high:
+    asString: "0.000104535662469"
+    asFormattedString: "0.000105"
+  low:
+    asString: "5.03344899947e-05"
+    asFormattedString: "0.000050"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.04814802744e-05"
+    asFormattedString: "0.000050"
+  volume:
+    asString: "0.0450622566375"
+    asFormattedString: "0"
+- close:
+    asString: "5.04819810386e-05"
+    asFormattedString: "0.000050"
+  date_raw:
+    asString: 2019-04-15
+    asFormattedString: "Apr 15, 2019"
+  high:
+    asString: "0.000103453209603"
+    asFormattedString: "0.000103"
+  low:
+    asString: "5.04478960088e-05"
+    asFormattedString: "0.000050"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.15436519047e-05"
+    asFormattedString: "0.000052"
+  volume:
+    asString: "1.90115191023"
+    asFormattedString: "2"
+- close:
+    asString: "5.15436519047e-05"
+    asFormattedString: "0.000052"
+  date_raw:
+    asString: 2019-04-14
+    asFormattedString: "Apr 14, 2019"
+  high:
+    asString: "5.17821300371e-05"
+    asFormattedString: "0.000052"
+  low:
+    asString: "5.03643310315e-05"
+    asFormattedString: "0.000050"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.0818179377e-05"
+    asFormattedString: "0.000051"
+  volume:
+    asString: "0.0107210795962"
+    asFormattedString: "0"
+- close:
+    asString: "5.0818179377e-05"
+    asFormattedString: "0.000051"
+  date_raw:
+    asString: 2019-04-13
+    asFormattedString: "Apr 13, 2019"
+  high:
+    asString: "5.11509868185e-05"
+    asFormattedString: "0.000051"
+  low:
+    asString: "5.04179489378e-05"
+    asFormattedString: "0.000050"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.08038612239e-05"
+    asFormattedString: "0.000051"
+  volume:
+    asString: "0.000203272717508"
+    asFormattedString: "0"
+- close:
+    asString: "5.08040510691e-05"
+    asFormattedString: "0.000051"
+  date_raw:
+    asString: 2019-04-12
+    asFormattedString: "Apr 12, 2019"
+  high:
+    asString: "5.09822745162e-05"
+    asFormattedString: "0.000051"
+  low:
+    asString: "4.94241839366e-05"
+    asFormattedString: "0.000049"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.05276434281e-05"
+    asFormattedString: "0.000051"
+  volume:
+    asString: "0.000203216204276"
+    asFormattedString: "0"
+- close:
+    asString: "5.05421624387e-05"
+    asFormattedString: "0.000051"
+  date_raw:
+    asString: 2019-04-11
+    asFormattedString: "Apr 11, 2019"
+  high:
+    asString: "5.34095826079e-05"
+    asFormattedString: "0.000053"
+  low:
+    asString: "4.99902838277e-05"
+    asFormattedString: "0.000050"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.31602817448e-05"
+    asFormattedString: "0.000053"
+  volume:
+    asString: "0.000252710812194"
+    asFormattedString: "0"
+- close:
+    asString: "5.31350967019e-05"
+    asFormattedString: "0.000053"
+  date_raw:
+    asString: 2019-04-10
+    asFormattedString: "Apr 10, 2019"
+  high:
+    asString: "5.41749951654e-05"
+    asFormattedString: "0.000054"
+  low:
+    asString: "5.19653184438e-05"
+    asFormattedString: "0.000052"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.2199318865e-05"
+    asFormattedString: "0.000052"
+  volume:
+    asString: "5.31350967019e-05"
+    asFormattedString: "0"
+- close:
+    asString: "5.2199318865e-05"
+    asFormattedString: "0.000052"
+  date_raw:
+    asString: 2019-04-09
+    asFormattedString: "Apr 09, 2019"
+  high:
+    asString: "5.28089031736e-05"
+    asFormattedString: "0.000053"
+  low:
+    asString: "5.15094569446e-05"
+    asFormattedString: "0.000052"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.28066243919e-05"
+    asFormattedString: "0.000053"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "5.28066243919e-05"
+    asFormattedString: "0.000053"
+  date_raw:
+    asString: 2019-04-08
+    asFormattedString: "Apr 08, 2019"
+  high:
+    asString: "0.000105041776319"
+    asFormattedString: "0.000105"
+  low:
+    asString: "5.18226755465e-05"
+    asFormattedString: "0.000052"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.19403912567e-05"
+    asFormattedString: "0.000052"
+  volume:
+    asString: "14.3714392033"
+    asFormattedString: "14"
+- close:
+    asString: "5.19309365942e-05"
+    asFormattedString: "0.000052"
+  date_raw:
+    asString: 2019-04-07
+    asFormattedString: "Apr 07, 2019"
+  high:
+    asString: "5.22629123706e-05"
+    asFormattedString: "0.000052"
+  low:
+    asString: "5.01940652738e-05"
+    asFormattedString: "0.000050"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.01940652738e-05"
+    asFormattedString: "0.000050"
+  volume:
+    asString: "0.000415447492754"
+    asFormattedString: "0"
+- close:
+    asString: "5.01940652738e-05"
+    asFormattedString: "0.000050"
+  date_raw:
+    asString: 2019-04-06
+    asFormattedString: "Apr 06, 2019"
+  high:
+    asString: "5.21473321627e-05"
+    asFormattedString: "0.000052"
+  low:
+    asString: "4.98627410473e-05"
+    asFormattedString: "0.000050"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "5.03742068657e-05"
+    asFormattedString: "0.000050"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "5.03616891982e-05"
+    asFormattedString: "0.000050"
+  date_raw:
+    asString: 2019-04-05
+    asFormattedString: "Apr 05, 2019"
+  high:
+    asString: "5.05378611886e-05"
+    asFormattedString: "0.000051"
+  low:
+    asString: "4.91238073827e-05"
+    asFormattedString: "0.000049"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.91320780976e-05"
+    asFormattedString: "0.000049"
+  volume:
+    asString: "0.0355049908847"
+    asFormattedString: "0"
+- close:
+    asString: "4.91347920836e-05"
+    asFormattedString: "0.000049"
+  date_raw:
+    asString: 2019-04-04
+    asFormattedString: "Apr 04, 2019"
+  high:
+    asString: "5.06017509903e-05"
+    asFormattedString: "0.000051"
+  low:
+    asString: "4.82363517301e-05"
+    asFormattedString: "0.000048"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.96704116342e-05"
+    asFormattedString: "0.000050"
+  volume:
+    asString: "7.26929594961"
+    asFormattedString: "7"
+- close:
+    asString: "4.96443939928e-05"
+    asFormattedString: "0.000050"
+  date_raw:
+    asString: 2019-04-03
+    asFormattedString: "Apr 03, 2019"
+  high:
+    asString: "5.30316173716e-05"
+    asFormattedString: "0.000053"
+  low:
+    asString: "4.87266577011e-05"
+    asFormattedString: "0.000049"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.87491982096e-05"
+    asFormattedString: "0.000049"
+  volume:
+    asString: "9.92887879855e-05"
+    asFormattedString: "0"
+- close:
+    asString: "4.87491982096e-05"
+    asFormattedString: "0.000049"
+  date_raw:
+    asString: 2019-04-02
+    asFormattedString: "Apr 02, 2019"
+  high:
+    asString: "4.90882150693e-05"
+    asFormattedString: "0.000049"
+  low:
+    asString: "4.14717879183e-05"
+    asFormattedString: "0.000041"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.15303867309e-05"
+    asFormattedString: "0.000042"
+  volume:
+    asString: "0.000243745991048"
+    asFormattedString: "0"
+- close:
+    asString: "4.1493943793e-05"
+    asFormattedString: "0.000041"
+  date_raw:
+    asString: 2019-04-01
+    asFormattedString: "Apr 01, 2019"
+  high:
+    asString: "4.15838972973e-05"
+    asFormattedString: "0.000042"
+  low:
+    asString: "4.07965089268e-05"
+    asFormattedString: "0.000041"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.09715449842e-05"
+    asFormattedString: "0.000041"
+  volume:
+    asString: "0.000124481831379"
+    asFormattedString: "0"
+- close:
+    asString: "4.09937541448e-05"
+    asFormattedString: "0.000041"
+  date_raw:
+    asString: 2019-03-31
+    asFormattedString: "Mar 31, 2019"
+  high:
+    asString: "8.21343185245e-05"
+    asFormattedString: "0.000082"
+  low:
+    asString: "4.08385644992e-05"
+    asFormattedString: "0.000041"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.20238872741e-05"
+    asFormattedString: "0.000082"
+  volume:
+    asString: "5.34925523911"
+    asFormattedString: "5"
+- close:
+    asString: "8.20238872741e-05"
+    asFormattedString: "0.000082"
+  date_raw:
+    asString: 2019-03-30
+    asFormattedString: "Mar 30, 2019"
+  high:
+    asString: "8.20353668114e-05"
+    asFormattedString: "0.000082"
+  low:
+    asString: "4.03583196692e-05"
+    asFormattedString: "0.000040"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.07998386693e-05"
+    asFormattedString: "0.000041"
+  volume:
+    asString: "5.73630528051"
+    asFormattedString: "6"
+- close:
+    asString: "4.08822345303e-05"
+    asFormattedString: "0.000041"
+  date_raw:
+    asString: 2019-03-29
+    asFormattedString: "Mar 29, 2019"
+  high:
+    asString: "4.11136934687e-05"
+    asFormattedString: "0.000041"
+  low:
+    asString: "4.02510845083e-05"
+    asFormattedString: "0.000040"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.06318550451e-05"
+    asFormattedString: "0.000041"
+  volume:
+    asString: "0.000327057876242"
+    asFormattedString: "0"
+- close:
+    asString: "4.06318550451e-05"
+    asFormattedString: "0.000041"
+  date_raw:
+    asString: 2019-03-28
+    asFormattedString: "Mar 28, 2019"
+  high:
+    asString: "8.15064112045e-05"
+    asFormattedString: "0.000082"
+  low:
+    asString: "4.02999317742e-05"
+    asFormattedString: "0.000040"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.08074800073e-05"
+    asFormattedString: "0.000041"
+  volume:
+    asString: "0.877161732991"
+    asFormattedString: "1"
+- close:
+    asString: "4.08074800073e-05"
+    asFormattedString: "0.000041"
+  date_raw:
+    asString: 2019-03-27
+    asFormattedString: "Mar 27, 2019"
+  high:
+    asString: "4.08233955683e-05"
+    asFormattedString: "0.000041"
+  low:
+    asString: "3.96998255909e-05"
+    asFormattedString: "0.000040"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "3.98022632359e-05"
+    asFormattedString: "0.000040"
+  volume:
+    asString: "0.000816149600146"
+    asFormattedString: "0"
+- close:
+    asString: "3.97808371996e-05"
+    asFormattedString: "0.000040"
+  date_raw:
+    asString: 2019-03-26
+    asFormattedString: "Mar 26, 2019"
+  high:
+    asString: "7.91020119562e-05"
+    asFormattedString: "0.000079"
+  low:
+    asString: "3.93413632364e-05"
+    asFormattedString: "0.000039"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "3.95068569842e-05"
+    asFormattedString: "0.000040"
+  volume:
+    asString: "0.00139153448006"
+    asFormattedString: "0"
+- close:
+    asString: "3.96563231526e-05"
+    asFormattedString: "0.000040"
+  date_raw:
+    asString: 2019-03-25
+    asFormattedString: "Mar 25, 2019"
+  high:
+    asString: "8.06052921459e-05"
+    asFormattedString: "0.000081"
+  low:
+    asString: "3.92566548708e-05"
+    asFormattedString: "0.000039"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.02124538133e-05"
+    asFormattedString: "0.000040"
+  volume:
+    asString: "0.190239503588"
+    asFormattedString: "0"
+- close:
+    asString: "4.01438398167e-05"
+    asFormattedString: "0.000040"
+  date_raw:
+    asString: 2019-03-24
+    asFormattedString: "Mar 24, 2019"
+  high:
+    asString: "4.0349375853e-05"
+    asFormattedString: "0.000040"
+  low:
+    asString: "3.99748590703e-05"
+    asFormattedString: "0.000040"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.02763264795e-05"
+    asFormattedString: "0.000040"
+  volume:
+    asString: "0.000401438398167"
+    asFormattedString: "0"
+- close:
+    asString: "4.0316299451e-05"
+    asFormattedString: "0.000040"
+  date_raw:
+    asString: 2019-03-23
+    asFormattedString: "Mar 23, 2019"
+  high:
+    asString: "4.04898268261e-05"
+    asFormattedString: "0.000040"
+  low:
+    asString: "4.00689546192e-05"
+    asFormattedString: "0.000040"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.01478028118e-05"
+    asFormattedString: "0.000040"
+  volume:
+    asString: "0.000161265197804"
+    asFormattedString: "0"
+- close:
+    asString: "4.01924234562e-05"
+    asFormattedString: "0.000040"
+  date_raw:
+    asString: 2019-03-22
+    asFormattedString: "Mar 22, 2019"
+  high:
+    asString: "8.06249190956e-05"
+    asFormattedString: "0.000081"
+  low:
+    asString: "4.01382755397e-05"
+    asFormattedString: "0.000040"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.02240032972e-05"
+    asFormattedString: "0.000040"
+  volume:
+    asString: "0.000963895421987"
+    asFormattedString: "0"
+- close:
+    asString: "4.02623084256e-05"
+    asFormattedString: "0.000040"
+  date_raw:
+    asString: 2019-03-21
+    asFormattedString: "Mar 21, 2019"
+  high:
+    asString: "4.09672682851e-05"
+    asFormattedString: "0.000041"
+  low:
+    asString: "3.99662963355e-05"
+    asFormattedString: "0.000040"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.08159951998e-05"
+    asFormattedString: "0.000041"
+  volume:
+    asString: "0.00587306815931"
+    asFormattedString: "0"
+- close:
+    asString: "4.07553047258e-05"
+    asFormattedString: "0.000041"
+  date_raw:
+    asString: 2019-03-20
+    asFormattedString: "Mar 20, 2019"
+  high:
+    asString: "4.08726710991e-05"
+    asFormattedString: "0.000041"
+  low:
+    asString: "4.02490269864e-05"
+    asFormattedString: "0.000040"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.07335523217e-05"
+    asFormattedString: "0.000041"
+  volume:
+    asString: "0.00248607358827"
+    asFormattedString: "0"
+- close:
+    asString: "4.07317992701e-05"
+    asFormattedString: "0.000041"
+  date_raw:
+    asString: 2019-03-19
+    asFormattedString: "Mar 19, 2019"
+  high:
+    asString: "8.14551212418e-05"
+    asFormattedString: "0.000081"
+  low:
+    asString: "4.01731660546e-05"
+    asFormattedString: "0.000040"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.02846893763e-05"
+    asFormattedString: "0.000040"
+  volume:
+    asString: "0.00459829867817"
+    asFormattedString: "0"
+- close:
+    asString: "4.02581058435e-05"
+    asFormattedString: "0.000040"
+  date_raw:
+    asString: 2019-03-18
+    asFormattedString: "Mar 18, 2019"
+  high:
+    asString: "0.0001220417153"
+    asFormattedString: "0.000122"
+  low:
+    asString: "4.00602038044e-05"
+    asFormattedString: "0.000040"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.02224826798e-05"
+    asFormattedString: "0.000040"
+  volume:
+    asString: "2.12386656562"
+    asFormattedString: "2"
+- close:
+    asString: "4.01877512346e-05"
+    asFormattedString: "0.000040"
+  date_raw:
+    asString: 2019-03-17
+    asFormattedString: "Mar 17, 2019"
+  high:
+    asString: "4.05340901282e-05"
+    asFormattedString: "0.000041"
+  low:
+    asString: "3.99926653914e-05"
+    asFormattedString: "0.000040"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.04565552806e-05"
+    asFormattedString: "0.000040"
+  volume:
+    asString: "0.000200938756173"
+    asFormattedString: "0"
+- close:
+    asString: "4.04510929642e-05"
+    asFormattedString: "0.000040"
+  date_raw:
+    asString: 2019-03-16
+    asFormattedString: "Mar 16, 2019"
+  high:
+    asString: "8.00613061402e-05"
+    asFormattedString: "0.000080"
+  low:
+    asString: "4.00278482948e-05"
+    asFormattedString: "0.000040"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.92641500238e-05"
+    asFormattedString: "0.000079"
+  volume:
+    asString: "0.391566579894"
+    asFormattedString: "0"
+- close:
+    asString: "7.92082050566e-05"
+    asFormattedString: "0.000079"
+  date_raw:
+    asString: 2019-03-15
+    asFormattedString: "Mar 15, 2019"
+  high:
+    asString: "7.92695029993e-05"
+    asFormattedString: "0.000079"
+  low:
+    asString: "3.91100118068e-05"
+    asFormattedString: "0.000039"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "3.91785492843e-05"
+    asFormattedString: "0.000039"
+  volume:
+    asString: "1.43532911431"
+    asFormattedString: "1"
+- close:
+    asString: "3.92075262716e-05"
+    asFormattedString: "0.000039"
+  date_raw:
+    asString: 2019-03-14
+    asFormattedString: "Mar 14, 2019"
+  high:
+    asString: "3.94292364545e-05"
+    asFormattedString: "0.000039"
+  low:
+    asString: "3.89698827219e-05"
+    asFormattedString: "0.000039"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "3.8988454104e-05"
+    asFormattedString: "0.000039"
+  volume:
+    asString: "0.000666527946617"
+    asFormattedString: "0"
+- close:
+    asString: "3.9001086926e-05"
+    asFormattedString: "0.000039"
+  date_raw:
+    asString: 2019-03-13
+    asFormattedString: "Mar 13, 2019"
+  high:
+    asString: "7.84367531301e-05"
+    asFormattedString: "0.000078"
+  low:
+    asString: "3.89315712746e-05"
+    asFormattedString: "0.000039"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.82315994633e-05"
+    asFormattedString: "0.000078"
+  volume:
+    asString: "1.38009246196"
+    asFormattedString: "1"
+- close:
+    asString: "7.80487773938e-05"
+    asFormattedString: "0.000078"
+  date_raw:
+    asString: 2019-03-12
+    asFormattedString: "Mar 12, 2019"
+  high:
+    asString: "0.000117760196957"
+    asFormattedString: "0.000118"
+  low:
+    asString: "7.71554417612e-05"
+    asFormattedString: "0.000077"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.80640433736e-05"
+    asFormattedString: "0.000078"
+  volume:
+    asString: "0.0025744400919"
+    asFormattedString: "0"
+- close:
+    asString: "7.79764460178e-05"
+    asFormattedString: "0.000078"
+  date_raw:
+    asString: 2019-03-11
+    asFormattedString: "Mar 11, 2019"
+  high:
+    asString: "0.000157142417365"
+    asFormattedString: "0.000157"
+  low:
+    asString: "7.78415988141e-05"
+    asFormattedString: "0.000078"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.89717044005e-05"
+    asFormattedString: "0.000079"
+  volume:
+    asString: "0.884018423214"
+    asFormattedString: "1"
+- close:
+    asString: "7.89171937508e-05"
+    asFormattedString: "0.000079"
+  date_raw:
+    asString: 2019-03-10
+    asFormattedString: "Mar 10, 2019"
+  high:
+    asString: "7.93461012765e-05"
+    asFormattedString: "0.000079"
+  low:
+    asString: "7.84011894715e-05"
+    asFormattedString: "0.000078"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.93442802295e-05"
+    asFormattedString: "0.000079"
+  volume:
+    asString: "0.0822317158883"
+    asFormattedString: "0"
+- close:
+    asString: "7.92511661341e-05"
+    asFormattedString: "0.000079"
+  date_raw:
+    asString: 2019-03-09
+    asFormattedString: "Mar 09, 2019"
+  high:
+    asString: "0.000118927135517"
+    asFormattedString: "0.000119"
+  low:
+    asString: "7.78452695007e-05"
+    asFormattedString: "0.000078"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.79137173164e-05"
+    asFormattedString: "0.000078"
+  volume:
+    asString: "1.18439062666"
+    asFormattedString: "1"
+- close:
+    asString: "7.79683633901e-05"
+    asFormattedString: "0.000078"
+  date_raw:
+    asString: 2019-03-08
+    asFormattedString: "Mar 08, 2019"
+  high:
+    asString: "0.000118264015968"
+    asFormattedString: "0.000118"
+  low:
+    asString: "7.73935132973e-05"
+    asFormattedString: "0.000077"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.8212439964e-05"
+    asFormattedString: "0.000078"
+  volume:
+    asString: "0.205282678088"
+    asFormattedString: "0"
+- close:
+    asString: "7.81236233975e-05"
+    asFormattedString: "0.000078"
+  date_raw:
+    asString: 2019-03-07
+    asFormattedString: "Mar 07, 2019"
+  high:
+    asString: "0.000117517740648"
+    asFormattedString: "0.000118"
+  low:
+    asString: "3.89577157184e-05"
+    asFormattedString: "0.000039"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "3.90156002432e-05"
+    asFormattedString: "0.000039"
+  volume:
+    asString: "0.0171739684224"
+    asFormattedString: "0"
+- close:
+    asString: "3.90120086759e-05"
+    asFormattedString: "0.000039"
+  date_raw:
+    asString: 2019-03-06
+    asFormattedString: "Mar 06, 2019"
+  high:
+    asString: "0.000116962474484"
+    asFormattedString: "0.000117"
+  low:
+    asString: "3.87110906236e-05"
+    asFormattedString: "0.000039"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "3.89487115254e-05"
+    asFormattedString: "0.000039"
+  volume:
+    asString: "0.719726927616"
+    asFormattedString: "1"
+- close:
+    asString: "3.90103655778e-05"
+    asFormattedString: "0.000039"
+  date_raw:
+    asString: 2019-03-05
+    asFormattedString: "Mar 05, 2019"
+  high:
+    asString: "7.76591591716e-05"
+    asFormattedString: "0.000078"
+  low:
+    asString: "3.74355441771e-05"
+    asFormattedString: "0.000037"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.52389932485e-05"
+    asFormattedString: "0.000075"
+  volume:
+    asString: "5.70533638707"
+    asFormattedString: "6"
+- close:
+    asString: "7.51877788793e-05"
+    asFormattedString: "0.000075"
+  date_raw:
+    asString: 2019-03-04
+    asFormattedString: "Mar 04, 2019"
+  high:
+    asString: "7.5414820365e-05"
+    asFormattedString: "0.000075"
+  low:
+    asString: "3.73582062705e-05"
+    asFormattedString: "0.000037"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "3.84583405283e-05"
+    asFormattedString: "0.000038"
+  volume:
+    asString: "0.0399630180455"
+    asFormattedString: "0"
+- close:
+    asString: "3.84063439098e-05"
+    asFormattedString: "0.000038"
+  date_raw:
+    asString: 2019-03-03
+    asFormattedString: "Mar 03, 2019"
+  high:
+    asString: "7.72084005749e-05"
+    asFormattedString: "0.000077"
+  low:
+    asString: "3.82729679285e-05"
+    asFormattedString: "0.000038"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "3.85651167023e-05"
+    asFormattedString: "0.000039"
+  volume:
+    asString: "0.0659235493059"
+    asFormattedString: "0"
+- close:
+    asString: "3.86051732766e-05"
+    asFormattedString: "0.000039"
+  date_raw:
+    asString: 2019-03-02
+    asFormattedString: "Mar 02, 2019"
+  high:
+    asString: "7.74305795609e-05"
+    asFormattedString: "0.000077"
+  low:
+    asString: "3.84521148159e-05"
+    asFormattedString: "0.000038"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.70529001511e-05"
+    asFormattedString: "0.000077"
+  volume:
+    asString: "3.77329404872"
+    asFormattedString: "4"
+- close:
+    asString: "7.70529001511e-05"
+    asFormattedString: "0.000077"
+  date_raw:
+    asString: 2019-03-01
+    asFormattedString: "Mar 01, 2019"
+  high:
+    asString: "7.80826996966e-05"
+    asFormattedString: "0.000078"
+  low:
+    asString: "7.68962728945e-05"
+    asFormattedString: "0.000077"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.69176551969e-05"
+    asFormattedString: "0.000077"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "7.70138152376e-05"
+    asFormattedString: "0.000077"
+  date_raw:
+    asString: 2019-02-28
+    asFormattedString: "Feb 28, 2019"
+  high:
+    asString: "0.000116151840367"
+    asFormattedString: "0.000116"
+  low:
+    asString: "7.68500561709e-05"
+    asFormattedString: "0.000077"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.69468875514e-05"
+    asFormattedString: "0.000077"
+  volume:
+    asString: "0.0259895083207"
+    asFormattedString: "0"
+- close:
+    asString: "7.68544500048e-05"
+    asFormattedString: "0.000077"
+  date_raw:
+    asString: 2019-02-27
+    asFormattedString: "Feb 27, 2019"
+  high:
+    asString: "0.000123924655107"
+    asFormattedString: "0.000124"
+  low:
+    asString: "7.6128439322e-05"
+    asFormattedString: "0.000076"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000123924655107"
+    asFormattedString: "0.000124"
+  volume:
+    asString: "0.0768544500048"
+    asFormattedString: "0"
+- close:
+    asString: "0.000123924655107"
+    asFormattedString: "0.000124"
+  date_raw:
+    asString: 2019-02-26
+    asFormattedString: "Feb 26, 2019"
+  high:
+    asString: "0.000123924655107"
+    asFormattedString: "0.000124"
+  low:
+    asString: "0.000123924655107"
+    asFormattedString: "0.000124"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000123924655107"
+    asFormattedString: "0.000124"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000123924655107"
+    asFormattedString: "0.000124"
+  date_raw:
+    asString: 2019-02-25
+    asFormattedString: "Feb 25, 2019"
+  high:
+    asString: "0.000123924655107"
+    asFormattedString: "0.000124"
+  low:
+    asString: "0.000123924655107"
+    asFormattedString: "0.000124"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000123924655107"
+    asFormattedString: "0.000124"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000123924655107"
+    asFormattedString: "0.000124"
+  date_raw:
+    asString: 2019-02-24
+    asFormattedString: "Feb 24, 2019"
+  high:
+    asString: "0.000123924655107"
+    asFormattedString: "0.000124"
+  low:
+    asString: "0.000123924655107"
+    asFormattedString: "0.000124"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000123924655107"
+    asFormattedString: "0.000124"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000123924655107"
+    asFormattedString: "0.000124"
+  date_raw:
+    asString: 2019-02-23
+    asFormattedString: "Feb 23, 2019"
+  high:
+    asString: "0.00012496487101"
+    asFormattedString: "0.000125"
+  low:
+    asString: "0.000118772598642"
+    asFormattedString: "0.000119"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000119883168459"
+    asFormattedString: "0.000120"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000120094632116"
+    asFormattedString: "0.000120"
+  date_raw:
+    asString: 2019-02-22
+    asFormattedString: "Feb 22, 2019"
+  high:
+    asString: "0.000120209922506"
+    asFormattedString: "0.000120"
+  low:
+    asString: "0.000118300450929"
+    asFormattedString: "0.000118"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000118427447697"
+    asFormattedString: "0.000118"
+  volume:
+    asString: "0.0751041355685"
+    asFormattedString: "0"
+- close:
+    asString: "0.000118635325803"
+    asFormattedString: "0.000119"
+  date_raw:
+    asString: 2019-02-21
+    asFormattedString: "Feb 21, 2019"
+  high:
+    asString: "0.000118903627586"
+    asFormattedString: "0.000119"
+  low:
+    asString: "7.86958807997e-05"
+    asFormattedString: "0.000079"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.00463997715e-05"
+    asFormattedString: "0.000080"
+  volume:
+    asString: "0.0355550426982"
+    asFormattedString: "0"
+- close:
+    asString: "8.00759469339e-05"
+    asFormattedString: "0.000080"
+  date_raw:
+    asString: 2019-02-20
+    asFormattedString: "Feb 20, 2019"
+  high:
+    asString: "8.00759469339e-05"
+    asFormattedString: "0.000080"
+  low:
+    asString: "7.85343506354e-05"
+    asFormattedString: "0.000079"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.89568457489e-05"
+    asFormattedString: "0.000079"
+  volume:
+    asString: "0.0410789607771"
+    asFormattedString: "0"
+- close:
+    asString: "7.90193180306e-05"
+    asFormattedString: "0.000079"
+  date_raw:
+    asString: 2019-02-19
+    asFormattedString: "Feb 19, 2019"
+  high:
+    asString: "0.000120474818219"
+    asFormattedString: "0.000120"
+  low:
+    asString: "7.89557195416e-05"
+    asFormattedString: "0.000079"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000117561022595"
+    asFormattedString: "0.000118"
+  volume:
+    asString: "0.00229013929632"
+    asFormattedString: "0"
+- close:
+    asString: "0.000117421291575"
+    asFormattedString: "0.000117"
+  date_raw:
+    asString: 2019-02-18
+    asFormattedString: "Feb 18, 2019"
+  high:
+    asString: "0.00014493024955"
+    asFormattedString: "0.000145"
+  low:
+    asString: "7.4288685558e-05"
+    asFormattedString: "0.000074"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00014493024955"
+    asFormattedString: "0.000145"
+  volume:
+    asString: "10.5396688942"
+    asFormattedString: "11"
+- close:
+    asString: "0.00014493024955"
+    asFormattedString: "0.000145"
+  date_raw:
+    asString: 2019-02-17
+    asFormattedString: "Feb 17, 2019"
+  high:
+    asString: "0.000145431116005"
+    asFormattedString: "0.000145"
+  low:
+    asString: "0.000144798025971"
+    asFormattedString: "0.000145"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.0001451349599"
+    asFormattedString: "0.000145"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000145165290489"
+    asFormattedString: "0.000145"
+  date_raw:
+    asString: 2019-02-16
+    asFormattedString: "Feb 16, 2019"
+  high:
+    asString: "0.000146036835072"
+    asFormattedString: "0.000146"
+  low:
+    asString: "0.000108336518796"
+    asFormattedString: "0.000108"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000108444467745"
+    asFormattedString: "0.000108"
+  volume:
+    asString: "0.0010151418911"
+    asFormattedString: "0"
+- close:
+    asString: "0.00010836746413"
+    asFormattedString: "0.000108"
+  date_raw:
+    asString: 2019-02-15
+    asFormattedString: "Feb 15, 2019"
+  high:
+    asString: "0.00010886214638"
+    asFormattedString: "0.000109"
+  low:
+    asString: "7.20657035225e-05"
+    asFormattedString: "0.000072"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.22661928084e-05"
+    asFormattedString: "0.000072"
+  volume:
+    asString: "0.0324777614773"
+    asFormattedString: "0"
+- close:
+    asString: "7.21752614683e-05"
+    asFormattedString: "0.000072"
+  date_raw:
+    asString: 2019-02-14
+    asFormattedString: "Feb 14, 2019"
+  high:
+    asString: "0.000108694171294"
+    asFormattedString: "0.000109"
+  low:
+    asString: "7.21428844065e-05"
+    asFormattedString: "0.000072"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.25413443274e-05"
+    asFormattedString: "0.000073"
+  volume:
+    asString: "7.95265591627"
+    asFormattedString: "8"
+- close:
+    asString: "7.25413443274e-05"
+    asFormattedString: "0.000073"
+  date_raw:
+    asString: 2019-02-13
+    asFormattedString: "Feb 13, 2019"
+  high:
+    asString: "7.33554324041e-05"
+    asFormattedString: "0.000073"
+  low:
+    asString: "7.22426177915e-05"
+    asFormattedString: "0.000072"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.29116262519e-05"
+    asFormattedString: "0.000073"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "7.29328818144e-05"
+    asFormattedString: "0.000073"
+  date_raw:
+    asString: 2019-02-12
+    asFormattedString: "Feb 12, 2019"
+  high:
+    asString: "0.000110075716023"
+    asFormattedString: "0.000110"
+  low:
+    asString: "7.2718277774e-05"
+    asFormattedString: "0.000073"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000109418299339"
+    asFormattedString: "0.000109"
+  volume:
+    asString: "6.88932351377"
+    asFormattedString: "7"
+- close:
+    asString: "0.000109205592366"
+    asFormattedString: "0.000109"
+  date_raw:
+    asString: 2019-02-11
+    asFormattedString: "Feb 11, 2019"
+  high:
+    asString: "0.000110186062337"
+    asFormattedString: "0.000110"
+  low:
+    asString: "7.29017161712e-05"
+    asFormattedString: "0.000073"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.39337948651e-05"
+    asFormattedString: "0.000074"
+  volume:
+    asString: "1.42752764846"
+    asFormattedString: "1"
+- close:
+    asString: "7.39842707896e-05"
+    asFormattedString: "0.000074"
+  date_raw:
+    asString: 2019-02-10
+    asFormattedString: "Feb 10, 2019"
+  high:
+    asString: "0.000146396368835"
+    asFormattedString: "0.000146"
+  low:
+    asString: "7.35518465669e-05"
+    asFormattedString: "0.000074"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000110054507149"
+    asFormattedString: "0.000110"
+  volume:
+    asString: "3.90247153919"
+    asFormattedString: "4"
+- close:
+    asString: "0.000109942752046"
+    asFormattedString: "0.000110"
+  date_raw:
+    asString: 2019-02-09
+    asFormattedString: "Feb 09, 2019"
+  high:
+    asString: "0.000184343779183"
+    asFormattedString: "0.000184"
+  low:
+    asString: "3.65477112457e-05"
+    asFormattedString: "0.000037"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000183430281835"
+    asFormattedString: "0.000183"
+  volume:
+    asString: "77.0274956439"
+    asFormattedString: "77"
+- close:
+    asString: "0.000183467956109"
+    asFormattedString: "0.000183"
+  date_raw:
+    asString: 2019-02-08
+    asFormattedString: "Feb 08, 2019"
+  high:
+    asString: "0.000183467956109"
+    asFormattedString: "0.000183"
+  low:
+    asString: "0.000101558511713"
+    asFormattedString: "0.000102"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000101977616871"
+    asFormattedString: "0.000102"
+  volume:
+    asString: "41.3848621308"
+    asFormattedString: "41"
+- close:
+    asString: "0.000101951114564"
+    asFormattedString: "0.000102"
+  date_raw:
+    asString: 2019-02-07
+    asFormattedString: "Feb 07, 2019"
+  high:
+    asString: "0.000171242324197"
+    asFormattedString: "0.000171"
+  low:
+    asString: "0.000101755683425"
+    asFormattedString: "0.000102"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00017040979544"
+    asFormattedString: "0.000170"
+  volume:
+    asString: "3.44808864567"
+    asFormattedString: "3"
+- close:
+    asString: "0.00017037634664"
+    asFormattedString: "0.000170"
+  date_raw:
+    asString: 2019-02-06
+    asFormattedString: "Feb 06, 2019"
+  high:
+    asString: "0.000173788884734"
+    asFormattedString: "0.000174"
+  low:
+    asString: "0.000169652727591"
+    asFormattedString: "0.000170"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000173788884734"
+    asFormattedString: "0.000174"
+  volume:
+    asString: "0.00742466418217"
+    asFormattedString: "0"
+- close:
+    asString: "0.000173175287151"
+    asFormattedString: "0.000173"
+  date_raw:
+    asString: 2019-02-05
+    asFormattedString: "Feb 05, 2019"
+  high:
+    asString: "0.000173765210234"
+    asFormattedString: "0.000174"
+  low:
+    asString: "0.000137866794913"
+    asFormattedString: "0.000138"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000138069757239"
+    asFormattedString: "0.000138"
+  volume:
+    asString: "0.00671331906271"
+    asFormattedString: "0"
+- close:
+    asString: "0.000138521084806"
+    asFormattedString: "0.000139"
+  date_raw:
+    asString: 2019-02-04
+    asFormattedString: "Feb 04, 2019"
+  high:
+    asString: "0.000173736003882"
+    asFormattedString: "0.000174"
+  low:
+    asString: "0.000103042597798"
+    asFormattedString: "0.000103"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000104024629658"
+    asFormattedString: "0.000104"
+  volume:
+    asString: "19.5163130634"
+    asFormattedString: "20"
+- close:
+    asString: "0.000103668330076"
+    asFormattedString: "0.000104"
+  date_raw:
+    asString: 2019-02-03
+    asFormattedString: "Feb 03, 2019"
+  high:
+    asString: "0.000211280121136"
+    asFormattedString: "0.000211"
+  low:
+    asString: "0.000103109358509"
+    asFormattedString: "0.000103"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000210854576351"
+    asFormattedString: "0.000211"
+  volume:
+    asString: "5.04650519588"
+    asFormattedString: "5"
+- close:
+    asString: "0.000210812839511"
+    asFormattedString: "0.000211"
+  date_raw:
+    asString: 2019-02-02
+    asFormattedString: "Feb 02, 2019"
+  high:
+    asString: "0.000211586675239"
+    asFormattedString: "0.000212"
+  low:
+    asString: "0.000173044754755"
+    asFormattedString: "0.000173"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000208814636881"
+    asFormattedString: "0.000209"
+  volume:
+    asString: "2.98878814227"
+    asFormattedString: "3"
+- close:
+    asString: "0.000209067129038"
+    asFormattedString: "0.000209"
+  date_raw:
+    asString: 2019-02-01
+    asFormattedString: "Feb 01, 2019"
+  high:
+    asString: "0.000210179200857"
+    asFormattedString: "0.000210"
+  low:
+    asString: "0.000104252177877"
+    asFormattedString: "0.000104"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000172911024885"
+    asFormattedString: "0.000173"
+  volume:
+    asString: "18.1114426422"
+    asFormattedString: "18"
+- close:
+    asString: "0.000172685175766"
+    asFormattedString: "0.000173"
+  date_raw:
+    asString: 2019-01-31
+    asFormattedString: "Jan 31, 2019"
+  high:
+    asString: "0.000420200015335"
+    asFormattedString: "0.000420"
+  low:
+    asString: "0.000137963758539"
+    asFormattedString: "0.000138"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000417941211207"
+    asFormattedString: "0.000418"
+  volume:
+    asString: "123.17236694"
+    asFormattedString: "123"
+- close:
+    asString: "0.000418052360207"
+    asFormattedString: "0.000418"
+  date_raw:
+    asString: 2019-01-30
+    asFormattedString: "Jan 30, 2019"
+  high:
+    asString: "0.000865022125096"
+    asFormattedString: "0.000865"
+  low:
+    asString: "0.000172816585833"
+    asFormattedString: "0.000173"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000344075600758"
+    asFormattedString: "0.000344"
+  volume:
+    asString: "318.806040952"
+    asFormattedString: "319"
+- close:
+    asString: "0.000343796197031"
+    asFormattedString: "0.000344"
+  date_raw:
+    asString: 2019-01-29
+    asFormattedString: "Jan 29, 2019"
+  high:
+    asString: "0.000414154003011"
+    asFormattedString: "0.000414"
+  low:
+    asString: "0.000137558959548"
+    asFormattedString: "0.000138"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000208053436291"
+    asFormattedString: "0.000208"
+  volume:
+    asString: "26.8223997159"
+    asFormattedString: "27"
+- close:
+    asString: "0.000207907338397"
+    asFormattedString: "0.000208"
+  date_raw:
+    asString: 2019-01-28
+    asFormattedString: "Jan 28, 2019"
+  high:
+    asString: "0.000209158225625"
+    asFormattedString: "0.000209"
+  low:
+    asString: "0.000137982310567"
+    asFormattedString: "0.000138"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000178986697408"
+    asFormattedString: "0.000179"
+  volume:
+    asString: "5.41968245724"
+    asFormattedString: "5"
+- close:
+    asString: "0.00017882597787"
+    asFormattedString: "0.000179"
+  date_raw:
+    asString: 2019-01-27
+    asFormattedString: "Jan 27, 2019"
+  high:
+    asString: "0.000215659108096"
+    asFormattedString: "0.000216"
+  low:
+    asString: "0.000106141713762"
+    asFormattedString: "0.000106"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000144011101884"
+    asFormattedString: "0.000144"
+  volume:
+    asString: "88.0567934357"
+    asFormattedString: "88"
+- close:
+    asString: "0.000143929190451"
+    asFormattedString: "0.000144"
+  date_raw:
+    asString: 2019-01-26
+    asFormattedString: "Jan 26, 2019"
+  high:
+    asString: "0.000146306619159"
+    asFormattedString: "0.000146"
+  low:
+    asString: "0.000107826102886"
+    asFormattedString: "0.000108"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000108076955072"
+    asFormattedString: "0.000108"
+  volume:
+    asString: "0.0720364879279"
+    asFormattedString: "0"
+- close:
+    asString: "0.000108084773353"
+    asFormattedString: "0.000108"
+  date_raw:
+    asString: 2019-01-25
+    asFormattedString: "Jan 25, 2019"
+  high:
+    asString: "0.000144561944594"
+    asFormattedString: "0.000145"
+  low:
+    asString: "0.000108084773353"
+    asFormattedString: "0.000108"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000144429897577"
+    asFormattedString: "0.000144"
+  volume:
+    asString: "3.96145271206"
+    asFormattedString: "4"
+- close:
+    asString: "0.000144109388921"
+    asFormattedString: "0.000144"
+  date_raw:
+    asString: 2019-01-24
+    asFormattedString: "Jan 24, 2019"
+  high:
+    asString: "0.000180481558962"
+    asFormattedString: "0.000180"
+  low:
+    asString: "0.000106972543632"
+    asFormattedString: "0.000107"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000107450939098"
+    asFormattedString: "0.000107"
+  volume:
+    asString: "13.2955490658"
+    asFormattedString: "13"
+- close:
+    asString: "0.000107466105382"
+    asFormattedString: "0.000107"
+  date_raw:
+    asString: 2019-01-23
+    asFormattedString: "Jan 23, 2019"
+  high:
+    asString: "0.000180653384307"
+    asFormattedString: "0.000181"
+  low:
+    asString: "0.000107466105382"
+    asFormattedString: "0.000107"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000144158188792"
+    asFormattedString: "0.000144"
+  volume:
+    asString: "1.27085887701"
+    asFormattedString: "1"
+- close:
+    asString: "0.00014415487802"
+    asFormattedString: "0.000144"
+  date_raw:
+    asString: 2019-01-22
+    asFormattedString: "Jan 22, 2019"
+  high:
+    asString: "0.000178765086723"
+    asFormattedString: "0.000179"
+  low:
+    asString: "7.19686727164e-05"
+    asFormattedString: "0.000072"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000143013524195"
+    asFormattedString: "0.000143"
+  volume:
+    asString: "32.0121059221"
+    asFormattedString: "32"
+- close:
+    asString: "0.000142924889786"
+    asFormattedString: "0.000143"
+  date_raw:
+    asString: 2019-01-21
+    asFormattedString: "Jan 21, 2019"
+  high:
+    asString: "0.000251877581125"
+    asFormattedString: "0.000252"
+  low:
+    asString: "0.000141818109111"
+    asFormattedString: "0.000142"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000215995388349"
+    asFormattedString: "0.000216"
+  volume:
+    asString: "44.2515601407"
+    asFormattedString: "44"
+- close:
+    asString: "0.000215764423751"
+    asFormattedString: "0.000216"
+  date_raw:
+    asString: 2019-01-20
+    asFormattedString: "Jan 20, 2019"
+  high:
+    asString: "0.000216736599158"
+    asFormattedString: "0.000217"
+  low:
+    asString: "0.000143565933889"
+    asFormattedString: "0.000144"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000186181694581"
+    asFormattedString: "0.000186"
+  volume:
+    asString: "24.1120675226"
+    asFormattedString: "24"
+- close:
+    asString: "0.000186362402866"
+    asFormattedString: "0.000186"
+  date_raw:
+    asString: 2019-01-19
+    asFormattedString: "Jan 19, 2019"
+  high:
+    asString: "0.000548581868541"
+    asFormattedString: "0.000549"
+  low:
+    asString: "7.47240686298e-05"
+    asFormattedString: "0.000075"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000219317758347"
+    asFormattedString: "0.000219"
+  volume:
+    asString: "355.720683872"
+    asFormattedString: "356"
+- close:
+    asString: "0.000219277026827"
+    asFormattedString: "0.000219"
+  date_raw:
+    asString: 2019-01-18
+    asFormattedString: "Jan 18, 2019"
+  high:
+    asString: "0.00022085825367"
+    asFormattedString: "0.000221"
+  low:
+    asString: "0.000109012737876"
+    asFormattedString: "0.000109"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000220524411685"
+    asFormattedString: "0.000221"
+  volume:
+    asString: "328.370304554"
+    asFormattedString: "328"
+- close:
+    asString: "0.000220596468199"
+    asFormattedString: "0.000221"
+  date_raw:
+    asString: 2019-01-17
+    asFormattedString: "Jan 17, 2019"
+  high:
+    asString: "0.000582382853345"
+    asFormattedString: "0.000582"
+  low:
+    asString: "0.000109754112339"
+    asFormattedString: "0.000110"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000547634526597"
+    asFormattedString: "0.000548"
+  volume:
+    asString: "127.158004546"
+    asFormattedString: "127"
+- close:
+    asString: "0.000547605398016"
+    asFormattedString: "0.000548"
+  date_raw:
+    asString: 2019-01-16
+    asFormattedString: "Jan 16, 2019"
+  high:
+    asString: "0.0020243992586"
+    asFormattedString: "0.002024"
+  low:
+    asString: "0.000254638578542"
+    asFormattedString: "0.000255"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000797791642502"
+    asFormattedString: "0.000798"
+  volume:
+    asString: "1238.28465068"
+    asFormattedString: "1,238"
+- close:
+    asString: "0.000798695653676"
+    asFormattedString: "0.000799"
+  date_raw:
+    asString: 2019-01-15
+    asFormattedString: "Jan 15, 2019"
+  high:
+    asString: "0.00271955055078"
+    asFormattedString: "0.002720"
+  low:
+    asString: "0.000110050757759"
+    asFormattedString: "0.000110"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00011090474917"
+    asFormattedString: "0.000111"
+  volume:
+    asString: "25839.9369084"
+    asFormattedString: "25,840"
+- close:
+    asString: "0.000110983607789"
+    asFormattedString: "0.000111"
+  date_raw:
+    asString: 2019-01-14
+    asFormattedString: "Jan 14, 2019"
+  high:
+    asString: "0.000111839389773"
+    asFormattedString: "0.000112"
+  low:
+    asString: "0.000106222001021"
+    asFormattedString: "0.000106"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000106417418324"
+    asFormattedString: "0.000106"
+  volume:
+    asString: "0.0554918038945"
+    asFormattedString: "0"
+- close:
+    asString: "0.000106365694705"
+    asFormattedString: "0.000106"
+  date_raw:
+    asString: 2019-01-13
+    asFormattedString: "Jan 13, 2019"
+  high:
+    asString: "0.000121174575938"
+    asFormattedString: "0.000121"
+  low:
+    asString: "0.0001059840295"
+    asFormattedString: "0.000106"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000121174575938"
+    asFormattedString: "0.000121"
+  volume:
+    asString: "0.000106365694705"
+    asFormattedString: "0"
+- close:
+    asString: "0.000121174575938"
+    asFormattedString: "0.000121"
+  date_raw:
+    asString: 2019-01-12
+    asFormattedString: "Jan 12, 2019"
+  high:
+    asString: "0.000121174575938"
+    asFormattedString: "0.000121"
+  low:
+    asString: "0.000121174575938"
+    asFormattedString: "0.000121"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000121174575938"
+    asFormattedString: "0.000121"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000121174575938"
+    asFormattedString: "0.000121"
+  date_raw:
+    asString: 2019-01-11
+    asFormattedString: "Jan 11, 2019"
+  high:
+    asString: "0.000121174575938"
+    asFormattedString: "0.000121"
+  low:
+    asString: "0.000121174575938"
+    asFormattedString: "0.000121"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000121174575938"
+    asFormattedString: "0.000121"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000121174575938"
+    asFormattedString: "0.000121"
+  date_raw:
+    asString: 2019-01-10
+    asFormattedString: "Jan 10, 2019"
+  high:
+    asString: "0.000121174575938"
+    asFormattedString: "0.000121"
+  low:
+    asString: "0.000121174575938"
+    asFormattedString: "0.000121"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000121174575938"
+    asFormattedString: "0.000121"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000121174575938"
+    asFormattedString: "0.000121"
+  date_raw:
+    asString: 2019-01-09
+    asFormattedString: "Jan 09, 2019"
+  high:
+    asString: "0.000122052898304"
+    asFormattedString: "0.000122"
+  low:
+    asString: "0.00012060687706"
+    asFormattedString: "0.000121"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000121026825923"
+    asFormattedString: "0.000121"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000120807847865"
+    asFormattedString: "0.000121"
+  date_raw:
+    asString: 2019-01-08
+    asFormattedString: "Jan 08, 2019"
+  high:
+    asString: "0.000162564585347"
+    asFormattedString: "0.000163"
+  low:
+    asString: "0.000119851960035"
+    asFormattedString: "0.000120"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000120826379919"
+    asFormattedString: "0.000121"
+  volume:
+    asString: "10.8897184907"
+    asFormattedString: "11"
+- close:
+    asString: "0.000120644689828"
+    asFormattedString: "0.000121"
+  date_raw:
+    asString: 2019-01-07
+    asFormattedString: "Jan 07, 2019"
+  high:
+    asString: "0.000122770913733"
+    asFormattedString: "0.000123"
+  low:
+    asString: "0.000120378021616"
+    asFormattedString: "0.000120"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000122363567633"
+    asFormattedString: "0.000122"
+  volume:
+    asString: "6.26290713837"
+    asFormattedString: "6"
+- close:
+    asString: "0.000122334434522"
+    asFormattedString: "0.000122"
+  date_raw:
+    asString: 2019-01-06
+    asFormattedString: "Jan 06, 2019"
+  high:
+    asString: "0.000122918837395"
+    asFormattedString: "0.000123"
+  low:
+    asString: "0.000114663551944"
+    asFormattedString: "0.000115"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000115072182175"
+    asFormattedString: "0.000115"
+  volume:
+    asString: "36.7048567306"
+    asFormattedString: "37"
+- close:
+    asString: "0.000115073143982"
+    asFormattedString: "0.000115"
+  date_raw:
+    asString: 2019-01-05
+    asFormattedString: "Jan 05, 2019"
+  high:
+    asString: "0.000117099507763"
+    asFormattedString: "0.000117"
+  low:
+    asString: "0.000114840661835"
+    asFormattedString: "0.000115"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000115416223546"
+    asFormattedString: "0.000115"
+  volume:
+    asString: "2.04680601201"
+    asFormattedString: "2"
+- close:
+    asString: "0.000115720240395"
+    asFormattedString: "0.000116"
+  date_raw:
+    asString: 2019-01-04
+    asFormattedString: "Jan 04, 2019"
+  high:
+    asString: "0.000193512768132"
+    asFormattedString: "0.000194"
+  low:
+    asString: "0.00011332880494"
+    asFormattedString: "0.000113"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000191921069822"
+    asFormattedString: "0.000192"
+  volume:
+    asString: "0.267390902139"
+    asFormattedString: "0"
+- close:
+    asString: "0.000191763615676"
+    asFormattedString: "0.000192"
+  date_raw:
+    asString: 2019-01-03
+    asFormattedString: "Jan 03, 2019"
+  high:
+    asString: "0.000192650618379"
+    asFormattedString: "0.000193"
+  low:
+    asString: "0.000114633222515"
+    asFormattedString: "0.000115"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000157439890121"
+    asFormattedString: "0.000157"
+  volume:
+    asString: "54.2286748684"
+    asFormattedString: "54"
+- close:
+    asString: "0.000157399543661"
+    asFormattedString: "0.000157"
+  date_raw:
+    asString: 2019-01-02
+    asFormattedString: "Jan 02, 2019"
+  high:
+    asString: "0.000269474924163"
+    asFormattedString: "0.000269"
+  low:
+    asString: "0.000114489519659"
+    asFormattedString: "0.000114"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000154532551981"
+    asFormattedString: "0.000155"
+  volume:
+    asString: "20.4498154076"
+    asFormattedString: "20"
+- close:
+    asString: "0.000154142950851"
+    asFormattedString: "0.000154"
+  date_raw:
+    asString: 2019-01-01
+    asFormattedString: "Jan 01, 2019"
+  high:
+    asString: "0.000338164788543"
+    asFormattedString: "0.000338"
+  low:
+    asString: "0.000148248703172"
+    asFormattedString: "0.000148"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000337713906742"
+    asFormattedString: "0.000338"
+  volume:
+    asString: "3.72723825008"
+    asFormattedString: "4"
+- close:
+    asString: "0.000337034182278"
+    asFormattedString: "0.000337"
+  date_raw:
+    asString: 2018-12-31
+    asFormattedString: "Dec 31, 2018"
+  high:
+    asString: "0.000337923174655"
+    asFormattedString: "0.000338"
+  low:
+    asString: "3.89057957149e-05"
+    asFormattedString: "0.000039"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "3.89057957149e-05"
+    asFormattedString: "0.000039"
+  volume:
+    asString: "1701.54507732"
+    asFormattedString: "1,702"
+- close:
+    asString: "3.89057957149e-05"
+    asFormattedString: "0.000039"
+  date_raw:
+    asString: 2018-12-30
+    asFormattedString: "Dec 30, 2018"
+  high:
+    asString: "3.89057957149e-05"
+    asFormattedString: "0.000039"
+  low:
+    asString: "3.89057957149e-05"
+    asFormattedString: "0.000039"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "3.89057957149e-05"
+    asFormattedString: "0.000039"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "3.89057957149e-05"
+    asFormattedString: "0.000039"
+  date_raw:
+    asString: 2018-12-29
+    asFormattedString: "Dec 29, 2018"
+  high:
+    asString: "3.96042000983e-05"
+    asFormattedString: "0.000040"
+  low:
+    asString: "3.88239255345e-05"
+    asFormattedString: "0.000039"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "3.9403287789e-05"
+    asFormattedString: "0.000039"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "3.93418365767e-05"
+    asFormattedString: "0.000039"
+  date_raw:
+    asString: 2018-12-28
+    asFormattedString: "Dec 28, 2018"
+  high:
+    asString: "0.000115265193851"
+    asFormattedString: "0.000115"
+  low:
+    asString: "3.92564261265e-05"
+    asFormattedString: "0.000039"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000115265193851"
+    asFormattedString: "0.000115"
+  volume:
+    asString: "0.392631529036"
+    asFormattedString: "0"
+- close:
+    asString: "0.000115265193851"
+    asFormattedString: "0.000115"
+  date_raw:
+    asString: 2018-12-27
+    asFormattedString: "Dec 27, 2018"
+  high:
+    asString: "0.000115265193851"
+    asFormattedString: "0.000115"
+  low:
+    asString: "0.000115265193851"
+    asFormattedString: "0.000115"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000115265193851"
+    asFormattedString: "0.000115"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000115265193851"
+    asFormattedString: "0.000115"
+  date_raw:
+    asString: 2018-12-26
+    asFormattedString: "Dec 26, 2018"
+  high:
+    asString: "0.000116825565455"
+    asFormattedString: "0.000117"
+  low:
+    asString: "0.000112821066305"
+    asFormattedString: "0.000113"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000114608674722"
+    asFormattedString: "0.000115"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000114618133988"
+    asFormattedString: "0.000115"
+  date_raw:
+    asString: 2018-12-25
+    asFormattedString: "Dec 25, 2018"
+  high:
+    asString: "0.000119087372814"
+    asFormattedString: "0.000119"
+  low:
+    asString: "0.000113932832115"
+    asFormattedString: "0.000114"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000119087372814"
+    asFormattedString: "0.000119"
+  volume:
+    asString: "0.00767174323359"
+    asFormattedString: "0"
+- close:
+    asString: "0.000119087372814"
+    asFormattedString: "0.000119"
+  date_raw:
+    asString: 2018-12-24
+    asFormattedString: "Dec 24, 2018"
+  high:
+    asString: "0.000119087372814"
+    asFormattedString: "0.000119"
+  low:
+    asString: "0.000119087372814"
+    asFormattedString: "0.000119"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000119087372814"
+    asFormattedString: "0.000119"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000119087372814"
+    asFormattedString: "0.000119"
+  date_raw:
+    asString: 2018-12-23
+    asFormattedString: "Dec 23, 2018"
+  high:
+    asString: "0.000119087372814"
+    asFormattedString: "0.000119"
+  low:
+    asString: "0.000119087372814"
+    asFormattedString: "0.000119"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000119087372814"
+    asFormattedString: "0.000119"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000119087372814"
+    asFormattedString: "0.000119"
+  date_raw:
+    asString: 2018-12-22
+    asFormattedString: "Dec 22, 2018"
+  high:
+    asString: "0.000119539093602"
+    asFormattedString: "0.000120"
+  low:
+    asString: "0.000115734018929"
+    asFormattedString: "0.000116"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000117009629321"
+    asFormattedString: "0.000117"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000116872749327"
+    asFormattedString: "0.000117"
+  date_raw:
+    asString: 2018-12-21
+    asFormattedString: "Dec 21, 2018"
+  high:
+    asString: "0.000123681887234"
+    asFormattedString: "0.000124"
+  low:
+    asString: "8.04746518644e-05"
+    asFormattedString: "0.000080"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000123181006742"
+    asFormattedString: "0.000123"
+  volume:
+    asString: "50.9324236168"
+    asFormattedString: "51"
+- close:
+    asString: "0.000123181006742"
+    asFormattedString: "0.000123"
+  date_raw:
+    asString: 2018-12-20
+    asFormattedString: "Dec 20, 2018"
+  high:
+    asString: "0.000124316291016"
+    asFormattedString: "0.000124"
+  low:
+    asString: "0.000112008541238"
+    asFormattedString: "0.000112"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000112303211479"
+    asFormattedString: "0.000112"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000112582482398"
+    asFormattedString: "0.000113"
+  date_raw:
+    asString: 2018-12-19
+    asFormattedString: "Dec 19, 2018"
+  high:
+    asString: "0.000118932534503"
+    asFormattedString: "0.000119"
+  low:
+    asString: "0.000110593240558"
+    asFormattedString: "0.000111"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000111454243354"
+    asFormattedString: "0.000111"
+  volume:
+    asString: "1.67557824453"
+    asFormattedString: "2"
+- close:
+    asString: "0.000111113692606"
+    asFormattedString: "0.000111"
+  date_raw:
+    asString: 2018-12-18
+    asFormattedString: "Dec 18, 2018"
+  high:
+    asString: "0.000111113692606"
+    asFormattedString: "0.000111"
+  low:
+    asString: "7.10092946846e-05"
+    asFormattedString: "0.000071"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.10092946846e-05"
+    asFormattedString: "0.000071"
+  volume:
+    asString: "0.0112112716817"
+    asFormattedString: "0"
+- close:
+    asString: "7.09977608612e-05"
+    asFormattedString: "0.000071"
+  date_raw:
+    asString: 2018-12-17
+    asFormattedString: "Dec 17, 2018"
+  high:
+    asString: "0.000104365627089"
+    asFormattedString: "0.000104"
+  low:
+    asString: "6.50241164704e-05"
+    asFormattedString: "0.000065"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "6.50576770389e-05"
+    asFormattedString: "0.000065"
+  volume:
+    asString: "148.089181553"
+    asFormattedString: "148"
+- close:
+    asString: "6.497100639e-05"
+    asFormattedString: "0.000065"
+  date_raw:
+    asString: 2018-12-16
+    asFormattedString: "Dec 16, 2018"
+  high:
+    asString: "6.6042667936e-05"
+    asFormattedString: "0.000066"
+  low:
+    asString: "6.46410109613e-05"
+    asFormattedString: "0.000065"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "6.46928818317e-05"
+    asFormattedString: "0.000065"
+  volume:
+    asString: "8.11261347522"
+    asFormattedString: "8"
+- close:
+    asString: "6.47030635968e-05"
+    asFormattedString: "0.000065"
+  date_raw:
+    asString: 2018-12-15
+    asFormattedString: "Dec 15, 2018"
+  high:
+    asString: "6.51458264721e-05"
+    asFormattedString: "0.000065"
+  low:
+    asString: "3.19453501643e-05"
+    asFormattedString: "0.000032"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "3.24078659367e-05"
+    asFormattedString: "0.000032"
+  volume:
+    asString: "6.211752659"
+    asFormattedString: "6"
+- close:
+    asString: "3.24058964316e-05"
+    asFormattedString: "0.000032"
+  date_raw:
+    asString: 2018-12-14
+    asFormattedString: "Dec 14, 2018"
+  high:
+    asString: "6.6545078279e-05"
+    asFormattedString: "0.000067"
+  low:
+    asString: "3.19668431249e-05"
+    asFormattedString: "0.000032"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "6.61624391863e-05"
+    asFormattedString: "0.000066"
+  volume:
+    asString: "0.00372667808963"
+    asFormattedString: "0"
+- close:
+    asString: "6.62035259923e-05"
+    asFormattedString: "0.000066"
+  date_raw:
+    asString: 2018-12-13
+    asFormattedString: "Dec 13, 2018"
+  high:
+    asString: "6.98347934914e-05"
+    asFormattedString: "0.000070"
+  low:
+    asString: "6.56564413408e-05"
+    asFormattedString: "0.000066"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "6.98097197898e-05"
+    asFormattedString: "0.000070"
+  volume:
+    asString: "4.3757819048"
+    asFormattedString: "4"
+- close:
+    asString: "6.97743829211e-05"
+    asFormattedString: "0.000070"
+  date_raw:
+    asString: 2018-12-12
+    asFormattedString: "Dec 12, 2018"
+  high:
+    asString: "7.07147560666e-05"
+    asFormattedString: "0.000071"
+  low:
+    asString: "3.45114898857e-05"
+    asFormattedString: "0.000035"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "6.8401319151e-05"
+    asFormattedString: "0.000068"
+  volume:
+    asString: "3.5567871933"
+    asFormattedString: "4"
+- close:
+    asString: "6.84918108701e-05"
+    asFormattedString: "0.000068"
+  date_raw:
+    asString: 2018-12-11
+    asFormattedString: "Dec 11, 2018"
+  high:
+    asString: "7.03324090313e-05"
+    asFormattedString: "0.000070"
+  low:
+    asString: "3.4012338714e-05"
+    asFormattedString: "0.000034"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "6.99870433985e-05"
+    asFormattedString: "0.000070"
+  volume:
+    asString: "13.2248939202"
+    asFormattedString: "13"
+- close:
+    asString: "7.00626432455e-05"
+    asFormattedString: "0.000070"
+  date_raw:
+    asString: 2018-12-10
+    asFormattedString: "Dec 10, 2018"
+  high:
+    asString: "7.30151174648e-05"
+    asFormattedString: "0.000073"
+  low:
+    asString: "3.61933789209e-05"
+    asFormattedString: "0.000036"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.00239697367e-05"
+    asFormattedString: "0.000070"
+  volume:
+    asString: "33.159935718"
+    asFormattedString: "33"
+- close:
+    asString: "7.00239697367e-05"
+    asFormattedString: "0.000070"
+  date_raw:
+    asString: 2018-12-09
+    asFormattedString: "Dec 09, 2018"
+  high:
+    asString: "7.02314865467e-05"
+    asFormattedString: "0.000070"
+  low:
+    asString: "6.94042367406e-05"
+    asFormattedString: "0.000069"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "6.94046097082e-05"
+    asFormattedString: "0.000069"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "6.96059053602e-05"
+    asFormattedString: "0.000070"
+  date_raw:
+    asString: 2018-12-08
+    asFormattedString: "Dec 08, 2018"
+  high:
+    asString: "7.02713062897e-05"
+    asFormattedString: "0.000070"
+  low:
+    asString: "6.6951366591e-05"
+    asFormattedString: "0.000067"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "6.83546760136e-05"
+    asFormattedString: "0.000068"
+  volume:
+    asString: "0.00799668243432"
+    asFormattedString: "0"
+- close:
+    asString: "6.83973069844e-05"
+    asFormattedString: "0.000068"
+  date_raw:
+    asString: 2018-12-07
+    asFormattedString: "Dec 07, 2018"
+  high:
+    asString: "0.00010531896657"
+    asFormattedString: "0.000105"
+  low:
+    asString: "6.55180570567e-05"
+    asFormattedString: "0.000066"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00010531896657"
+    asFormattedString: "0.000105"
+  volume:
+    asString: "0.00973687936641"
+    asFormattedString: "0"
+- close:
+    asString: "0.000105501041616"
+    asFormattedString: "0.000106"
+  date_raw:
+    asString: 2018-12-06
+    asFormattedString: "Dec 06, 2018"
+  high:
+    asString: "0.000114806805214"
+    asFormattedString: "0.000115"
+  low:
+    asString: "3.72932116761e-05"
+    asFormattedString: "0.000037"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "3.74781151201e-05"
+    asFormattedString: "0.000037"
+  volume:
+    asString: "0.0132131008166"
+    asFormattedString: "0"
+- close:
+    asString: "3.74936821548e-05"
+    asFormattedString: "0.000037"
+  date_raw:
+    asString: 2018-12-05
+    asFormattedString: "Dec 05, 2018"
+  high:
+    asString: "0.000117492132986"
+    asFormattedString: "0.000117"
+  low:
+    asString: "3.74936821548e-05"
+    asFormattedString: "0.000037"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "3.9545473522e-05"
+    asFormattedString: "0.000040"
+  volume:
+    asString: "0.12717122845"
+    asFormattedString: "0"
+- close:
+    asString: "3.95360507041e-05"
+    asFormattedString: "0.000040"
+  date_raw:
+    asString: 2018-12-04
+    asFormattedString: "Dec 04, 2018"
+  high:
+    asString: "0.000121464641897"
+    asFormattedString: "0.000121"
+  low:
+    asString: "3.91348649418e-05"
+    asFormattedString: "0.000039"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000116223988973"
+    asFormattedString: "0.000116"
+  volume:
+    asString: "35.767646872"
+    asFormattedString: "36"
+- close:
+    asString: "0.000116336138174"
+    asFormattedString: "0.000116"
+  date_raw:
+    asString: 2018-12-03
+    asFormattedString: "Dec 03, 2018"
+  high:
+    asString: "0.000124905429602"
+    asFormattedString: "0.000125"
+  low:
+    asString: "0.000114925974301"
+    asFormattedString: "0.000115"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000124905429602"
+    asFormattedString: "0.000125"
+  volume:
+    asString: "0.000116219918372"
+    asFormattedString: "0"
+- close:
+    asString: "0.000124120918445"
+    asFormattedString: "0.000124"
+  date_raw:
+    asString: 2018-12-02
+    asFormattedString: "Dec 02, 2018"
+  high:
+    asString: "0.000129394237551"
+    asFormattedString: "0.000129"
+  low:
+    asString: "0.000123079334424"
+    asFormattedString: "0.000123"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00012573522716"
+    asFormattedString: "0.000126"
+  volume:
+    asString: "0.00210794766553"
+    asFormattedString: "0"
+- close:
+    asString: "0.000125836424322"
+    asFormattedString: "0.000126"
+  date_raw:
+    asString: 2018-12-01
+    asFormattedString: "Dec 01, 2018"
+  high:
+    asString: "0.000129716471568"
+    asFormattedString: "0.000130"
+  low:
+    asString: "3.95631558919e-05"
+    asFormattedString: "0.000040"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "4.02367174153e-05"
+    asFormattedString: "0.000040"
+  volume:
+    asString: "5.42552442647"
+    asFormattedString: "5"
+- close:
+    asString: "4.01364153032e-05"
+    asFormattedString: "0.000040"
+  date_raw:
+    asString: 2018-11-30
+    asFormattedString: "Nov 30, 2018"
+  high:
+    asString: "0.000120723016318"
+    asFormattedString: "0.000121"
+  low:
+    asString: "3.93653977697e-05"
+    asFormattedString: "0.000039"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.57657760485e-05"
+    asFormattedString: "0.000086"
+  volume:
+    asString: "0.170605827647"
+    asFormattedString: "0"
+- close:
+    asString: "8.55651640471e-05"
+    asFormattedString: "0.000086"
+  date_raw:
+    asString: 2018-11-29
+    asFormattedString: "Nov 29, 2018"
+  high:
+    asString: "0.000132413470749"
+    asFormattedString: "0.000132"
+  low:
+    asString: "8.33986409749e-05"
+    asFormattedString: "0.000083"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000128053216031"
+    asFormattedString: "0.000128"
+  volume:
+    asString: "15.6980545135"
+    asFormattedString: "16"
+- close:
+    asString: "0.000127527"
+    asFormattedString: "0.000128"
+  date_raw:
+    asString: 2018-11-28
+    asFormattedString: "Nov 28, 2018"
+  high:
+    asString: "0.000131661"
+    asFormattedString: "0.000132"
+  low:
+    asString: "0.000114693"
+    asFormattedString: "0.000115"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000114693"
+    asFormattedString: "0.000115"
+  volume:
+    asString: "6.39892"
+    asFormattedString: "6"
+- close:
+    asString: "0.000114584"
+    asFormattedString: "0.000115"
+  date_raw:
+    asString: 2018-11-27
+    asFormattedString: "Nov 27, 2018"
+  high:
+    asString: "0.000115691"
+    asFormattedString: "0.000116"
+  low:
+    asString: "0.000109487"
+    asFormattedString: "0.000109"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000113015"
+    asFormattedString: "0.000113"
+  volume:
+    asString: "0.458795"
+    asFormattedString: "0"
+- close:
+    asString: "0.000113086"
+    asFormattedString: "0.000113"
+  date_raw:
+    asString: 2018-11-26
+    asFormattedString: "Nov 26, 2018"
+  high:
+    asString: "0.000122658"
+    asFormattedString: "0.000123"
+  low:
+    asString: "3.97745e-05"
+    asFormattedString: "0.000040"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "8.02781e-05"
+    asFormattedString: "0.000080"
+  volume:
+    asString: "5.27288"
+    asFormattedString: "5"
+- close:
+    asString: "8.01093e-05"
+    asFormattedString: "0.000080"
+  date_raw:
+    asString: 2018-11-25
+    asFormattedString: "Nov 25, 2018"
+  high:
+    asString: "0.000117782"
+    asFormattedString: "0.000118"
+  low:
+    asString: "3.8113e-05"
+    asFormattedString: "0.000038"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "7.73492e-05"
+    asFormattedString: "0.000077"
+  volume:
+    asString: "16.0357"
+    asFormattedString: "16"
+- close:
+    asString: "7.73173e-05"
+    asFormattedString: "0.000077"
+  date_raw:
+    asString: 2018-11-24
+    asFormattedString: "Nov 24, 2018"
+  high:
+    asString: "0.000176662"
+    asFormattedString: "0.000177"
+  low:
+    asString: "7.73173e-05"
+    asFormattedString: "0.000077"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000173304"
+    asFormattedString: "0.000173"
+  volume:
+    asString: "14.7847"
+    asFormattedString: "15"
+- close:
+    asString: "0.000173481"
+    asFormattedString: "0.000173"
+  date_raw:
+    asString: 2018-11-23
+    asFormattedString: "Nov 23, 2018"
+  high:
+    asString: "0.00017525"
+    asFormattedString: "0.000175"
+  low:
+    asString: "0.000127395"
+    asFormattedString: "0.000127"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000173441"
+    asFormattedString: "0.000173"
+  volume:
+    asString: "0.0117849"
+    asFormattedString: "0"
+- close:
+    asString: "0.000174324"
+    asFormattedString: "0.000174"
+  date_raw:
+    asString: 2018-11-22
+    asFormattedString: "Nov 22, 2018"
+  high:
+    asString: "0.000183429"
+    asFormattedString: "0.000183"
+  low:
+    asString: "0.000134467"
+    asFormattedString: "0.000134"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.0001378"
+    asFormattedString: "0.000138"
+  volume:
+    asString: "73.2251"
+    asFormattedString: "73"
+- close:
+    asString: "0.000138304"
+    asFormattedString: "0.000138"
+  date_raw:
+    asString: 2018-11-21
+    asFormattedString: "Nov 21, 2018"
+  high:
+    asString: "0.000140424"
+    asFormattedString: "0.000140"
+  low:
+    asString: "9.1013e-05"
+    asFormattedString: "0.000091"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000103628"
+    asFormattedString: "0.000104"
+  volume:
+    asString: "5.44971"
+    asFormattedString: "5"
+- close:
+    asString: "0.000103197"
+    asFormattedString: "0.000103"
+  date_raw:
+    asString: 2018-11-20
+    asFormattedString: "Nov 20, 2018"
+  high:
+    asString: "0.000193404"
+    asFormattedString: "0.000193"
+  low:
+    asString: "9.97546e-05"
+    asFormattedString: "0.000100"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000193404"
+    asFormattedString: "0.000193"
+  volume:
+    asString: "1091.39"
+    asFormattedString: "1,091"
+- close:
+    asString: "0.000194329"
+    asFormattedString: "0.000194"
+  date_raw:
+    asString: 2018-11-19
+    asFormattedString: "Nov 19, 2018"
+  high:
+    asString: "0.000510537"
+    asFormattedString: "0.000511"
+  low:
+    asString: "0.000151042"
+    asFormattedString: "0.000151"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00027756"
+    asFormattedString: "0.000278"
+  volume:
+    asString: "869.738"
+    asFormattedString: "870"
+- close:
+    asString: "0.000276621"
+    asFormattedString: "0.000277"
+  date_raw:
+    asString: 2018-11-18
+    asFormattedString: "Nov 18, 2018"
+  high:
+    asString: "0.00119426"
+    asFormattedString: "0.001194"
+  low:
+    asString: "0.00027196"
+    asFormattedString: "0.000272"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00103008"
+    asFormattedString: "0.001030"
+  volume:
+    asString: "1661.01"
+    asFormattedString: "1,661"
+- close:
+    asString: "0.00102926"
+    asFormattedString: "0.001029"
+  date_raw:
+    asString: 2018-11-17
+    asFormattedString: "Nov 17, 2018"
+  high:
+    asString: "0.00103883"
+    asFormattedString: "0.001039"
+  low:
+    asString: "0.000210206"
+    asFormattedString: "0.000210"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000447332"
+    asFormattedString: "0.000447"
+  volume:
+    asString: "109.209"
+    asFormattedString: "109"
+- close:
+    asString: "0.000447332"
+    asFormattedString: "0.000447"
+  date_raw:
+    asString: 2018-11-16
+    asFormattedString: "Nov 16, 2018"
+  high:
+    asString: "0.000452027"
+    asFormattedString: "0.000452"
+  low:
+    asString: "0.000442084"
+    asFormattedString: "0.000442"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000451078"
+    asFormattedString: "0.000451"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.000451192"
+    asFormattedString: "0.000451"
+  date_raw:
+    asString: 2018-11-15
+    asFormattedString: "Nov 15, 2018"
+  high:
+    asString: "0.000460219"
+    asFormattedString: "0.000460"
+  low:
+    asString: "0.000425696"
+    asFormattedString: "0.000426"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00045852"
+    asFormattedString: "0.000459"
+  volume:
+    asString: "0.00315519"
+    asFormattedString: "0"
+- close:
+    asString: "0.000456006"
+    asFormattedString: "0.000456"
+  date_raw:
+    asString: 2018-11-14
+    asFormattedString: "Nov 14, 2018"
+  high:
+    asString: "0.00057231"
+    asFormattedString: "0.000572"
+  low:
+    asString: "0.000439967"
+    asFormattedString: "0.000440"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000571258"
+    asFormattedString: "0.000571"
+  volume:
+    asString: "0.0227775"
+    asFormattedString: "0"
+- close:
+    asString: "0.000572891"
+    asFormattedString: "0.000573"
+  date_raw:
+    asString: 2018-11-13
+    asFormattedString: "Nov 13, 2018"
+  high:
+    asString: "0.000574716"
+    asFormattedString: "0.000575"
+  low:
+    asString: "0.000320137"
+    asFormattedString: "0.000320"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000326713"
+    asFormattedString: "0.000327"
+  volume:
+    asString: "0.171696"
+    asFormattedString: "0"
+- close:
+    asString: "0.000326404"
+    asFormattedString: "0.000326"
+  date_raw:
+    asString: 2018-11-12
+    asFormattedString: "Nov 12, 2018"
+  high:
+    asString: "0.000580146"
+    asFormattedString: "0.000580"
+  low:
+    asString: "0.000324836"
+    asFormattedString: "0.000325"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000578824"
+    asFormattedString: "0.000579"
+  volume:
+    asString: "221.351"
+    asFormattedString: "221"
+- close:
+    asString: "0.000575278"
+    asFormattedString: "0.000575"
+  date_raw:
+    asString: 2018-11-11
+    asFormattedString: "Nov 11, 2018"
+  high:
+    asString: "0.000643515"
+    asFormattedString: "0.000644"
+  low:
+    asString: "0.000570442"
+    asFormattedString: "0.000570"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000641921"
+    asFormattedString: "0.000642"
+  volume:
+    asString: "0.172411"
+    asFormattedString: "0"
+- close:
+    asString: "0.000642384"
+    asFormattedString: "0.000642"
+  date_raw:
+    asString: 2018-11-10
+    asFormattedString: "Nov 10, 2018"
+  high:
+    asString: "0.000772105"
+    asFormattedString: "0.000772"
+  low:
+    asString: "0.000637548"
+    asFormattedString: "0.000638"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000765872"
+    asFormattedString: "0.000766"
+  volume:
+    asString: "0.707876"
+    asFormattedString: "1"
+- close:
+    asString: "0.000766096"
+    asFormattedString: "0.000766"
+  date_raw:
+    asString: 2018-11-09
+    asFormattedString: "Nov 09, 2018"
+  high:
+    asString: "0.00173187"
+    asFormattedString: "0.001732"
+  low:
+    asString: "0.000764103"
+    asFormattedString: "0.000764"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00141406"
+    asFormattedString: "0.001414"
+  volume:
+    asString: "0.342189"
+    asFormattedString: "0"
+- close:
+    asString: "0.00141432"
+    asFormattedString: "0.001414"
+  date_raw:
+    asString: 2018-11-08
+    asFormattedString: "Nov 08, 2018"
+  high:
+    asString: "0.00142615"
+    asFormattedString: "0.001426"
+  low:
+    asString: "0.00125262"
+    asFormattedString: "0.001253"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00127982"
+    asFormattedString: "0.001280"
+  volume:
+    asString: "29.8161"
+    asFormattedString: "30"
+- close:
+    asString: "0.00128038"
+    asFormattedString: "0.001280"
+  date_raw:
+    asString: 2018-11-07
+    asFormattedString: "Nov 07, 2018"
+  high:
+    asString: "0.00216488"
+    asFormattedString: "0.002165"
+  low:
+    asString: "0.00127667"
+    asFormattedString: "0.001277"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00213834"
+    asFormattedString: "0.002138"
+  volume:
+    asString: "52.9837"
+    asFormattedString: "53"
+- close:
+    asString: "0.00213757"
+    asFormattedString: "0.002138"
+  date_raw:
+    asString: 2018-11-06
+    asFormattedString: "Nov 06, 2018"
+  high:
+    asString: "0.00271358"
+    asFormattedString: "0.002714"
+  low:
+    asString: "0.00211735"
+    asFormattedString: "0.002117"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00270842"
+    asFormattedString: "0.002708"
+  volume:
+    asString: "1.20739"
+    asFormattedString: "1"
+- close:
+    asString: "0.00269517"
+    asFormattedString: "0.002695"
+  date_raw:
+    asString: 2018-11-05
+    asFormattedString: "Nov 05, 2018"
+  high:
+    asString: "0.00270698"
+    asFormattedString: "0.002707"
+  low:
+    asString: "0.00053934"
+    asFormattedString: "0.000539"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000543379"
+    asFormattedString: "0.000543"
+  volume:
+    asString: "1.04713"
+    asFormattedString: "1"
+- close:
+    asString: "0.000541982"
+    asFormattedString: "0.000542"
+  date_raw:
+    asString: 2018-11-04
+    asFormattedString: "Nov 04, 2018"
+  high:
+    asString: "0.000860522"
+    asFormattedString: "0.000861"
+  low:
+    asString: "0.000519459"
+    asFormattedString: "0.000519"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000859277"
+    asFormattedString: "0.000859"
+  volume:
+    asString: "200.899"
+    asFormattedString: "201"
+- close:
+    asString: "0.000859277"
+    asFormattedString: "0.000859"
+  date_raw:
+    asString: 2018-11-03
+    asFormattedString: "Nov 03, 2018"
+  high:
+    asString: "0.000859277"
+    asFormattedString: "0.000859"
+  low:
+    asString: "0.000706981"
+    asFormattedString: "0.000707"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000706981"
+    asFormattedString: "0.000707"
+  volume:
+    asString: "134.533"
+    asFormattedString: "135"
+- close:
+    asString: "0.000706981"
+    asFormattedString: "0.000707"
+  date_raw:
+    asString: 2018-11-02
+    asFormattedString: "Nov 02, 2018"
+  high:
+    asString: "0.00151722"
+    asFormattedString: "0.001517"
+  low:
+    asString: "0.000706981"
+    asFormattedString: "0.000707"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000818805"
+    asFormattedString: "0.000819"
+  volume:
+    asString: "666.686"
+    asFormattedString: "667"
+- close:
+    asString: "0.000818805"
+    asFormattedString: "0.000819"
+  date_raw:
+    asString: 2018-11-01
+    asFormattedString: "Nov 01, 2018"
+  high:
+    asString: "0.0015713"
+    asFormattedString: "0.001571"
+  low:
+    asString: "0.000702454"
+    asFormattedString: "0.000702"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.0015713"
+    asFormattedString: "0.001571"
+  volume:
+    asString: "345.055"
+    asFormattedString: "345"
+- close:
+    asString: "0.0015713"
+    asFormattedString: "0.001571"
+  date_raw:
+    asString: 2018-10-31
+    asFormattedString: "Oct 31, 2018"
+  high:
+    asString: "0.00270352"
+    asFormattedString: "0.002704"
+  low:
+    asString: "0.000929679"
+    asFormattedString: "0.000930"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.000931026"
+    asFormattedString: "0.000931"
+  volume:
+    asString: "392.757"
+    asFormattedString: "393"
+- close:
+    asString: "0.000930958"
+    asFormattedString: "0.000931"
+  date_raw:
+    asString: 2018-10-30
+    asFormattedString: "Oct 30, 2018"
+  high:
+    asString: "0.000936767"
+    asFormattedString: "0.000937"
+  low:
+    asString: "0.000918726"
+    asFormattedString: "0.000919"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00093605"
+    asFormattedString: "0.000936"
+  volume:
+    asString: "131.274"
+    asFormattedString: "131"
+- close:
+    asString: "0.000936309"
+    asFormattedString: "0.000936"
+  date_raw:
+    asString: 2018-10-29
+    asFormattedString: "Oct 29, 2018"
+  high:
+    asString: "0.00111732"
+    asFormattedString: "0.001117"
+  low:
+    asString: "0.000887084"
+    asFormattedString: "0.000887"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00111522"
+    asFormattedString: "0.001115"
+  volume:
+    asString: "88.6639"
+    asFormattedString: "89"
+- close:
+    asString: "0.00111564"
+    asFormattedString: "0.001116"
+  date_raw:
+    asString: 2018-10-28
+    asFormattedString: "Oct 28, 2018"
+  high:
+    asString: "0.00187901"
+    asFormattedString: "0.001879"
+  low:
+    asString: "0.00110704"
+    asFormattedString: "0.001107"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.0018769"
+    asFormattedString: "0.001877"
+  volume:
+    asString: "13.3877"
+    asFormattedString: "13"
+- close:
+    asString: "0.00186685"
+    asFormattedString: "0.001867"
+  date_raw:
+    asString: 2018-10-27
+    asFormattedString: "Oct 27, 2018"
+  high:
+    asString: "0.00188113"
+    asFormattedString: "0.001881"
+  low:
+    asString: "0.00174636"
+    asFormattedString: "0.001746"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00174636"
+    asFormattedString: "0.001746"
+  volume:
+    asString: "0.560056"
+    asFormattedString: "1"
+- close:
+    asString: "0.00174636"
+    asFormattedString: "0.001746"
+  date_raw:
+    asString: 2018-10-26
+    asFormattedString: "Oct 26, 2018"
+  high:
+    asString: "0.00183869"
+    asFormattedString: "0.001839"
+  low:
+    asString: "0.00173792"
+    asFormattedString: "0.001738"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00181591"
+    asFormattedString: "0.001816"
+  volume:
+    asString: "-"
+    asFormattedString: "-"
+- close:
+    asString: "0.00181873"
+    asFormattedString: "0.001819"
+  date_raw:
+    asString: 2018-10-25
+    asFormattedString: "Oct 25, 2018"
+  high:
+    asString: "0.00304241"
+    asFormattedString: "0.003042"
+  low:
+    asString: "0.00106031"
+    asFormattedString: "0.001060"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00107029"
+    asFormattedString: "0.001070"
+  volume:
+    asString: "99.4417"
+    asFormattedString: "99"
+- close:
+    asString: "0.00107037"
+    asFormattedString: "0.001070"
+  date_raw:
+    asString: 2018-10-24
+    asFormattedString: "Oct 24, 2018"
+  high:
+    asString: "0.0014388"
+    asFormattedString: "0.001439"
+  low:
+    asString: "0.0010676"
+    asFormattedString: "0.001068"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00143131"
+    asFormattedString: "0.001431"
+  volume:
+    asString: "265.408"
+    asFormattedString: "265"
+- close:
+    asString: "0.00143146"
+    asFormattedString: "0.001431"
+  date_raw:
+    asString: 2018-10-23
+    asFormattedString: "Oct 23, 2018"
+  high:
+    asString: "0.00143388"
+    asFormattedString: "0.001434"
+  low:
+    asString: "0.00126625"
+    asFormattedString: "0.001266"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00127061"
+    asFormattedString: "0.001271"
+  volume:
+    asString: "88.2899"
+    asFormattedString: "88"
+- close:
+    asString: "0.00126995"
+    asFormattedString: "0.001270"
+  date_raw:
+    asString: 2018-10-22
+    asFormattedString: "Oct 22, 2018"
+  high:
+    asString: "0.00176139"
+    asFormattedString: "0.001761"
+  low:
+    asString: "0.00126995"
+    asFormattedString: "0.001270"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00175008"
+    asFormattedString: "0.001750"
+  volume:
+    asString: "84.7818"
+    asFormattedString: "85"
+- close:
+    asString: "0.00175096"
+    asFormattedString: "0.001751"
+  date_raw:
+    asString: 2018-10-21
+    asFormattedString: "Oct 21, 2018"
+  high:
+    asString: "0.00176941"
+    asFormattedString: "0.001769"
+  low:
+    asString: "0.00143782"
+    asFormattedString: "0.001438"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00143782"
+    asFormattedString: "0.001438"
+  volume:
+    asString: "0.87548"
+    asFormattedString: "1"
+- close:
+    asString: "0.00143884"
+    asFormattedString: "0.001439"
+  date_raw:
+    asString: 2018-10-20
+    asFormattedString: "Oct 20, 2018"
+  high:
+    asString: "0.00191228"
+    asFormattedString: "0.001912"
+  low:
+    asString: "0.00143015"
+    asFormattedString: "0.001430"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00190746"
+    asFormattedString: "0.001907"
+  volume:
+    asString: "45.3982"
+    asFormattedString: "45"
+- close:
+    asString: "0.00190937"
+    asFormattedString: "0.001909"
+  date_raw:
+    asString: 2018-10-19
+    asFormattedString: "Oct 19, 2018"
+  high:
+    asString: "0.00323666"
+    asFormattedString: "0.003237"
+  low:
+    asString: "0.00166751"
+    asFormattedString: "0.001668"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00167845"
+    asFormattedString: "0.001678"
+  volume:
+    asString: "31.6972"
+    asFormattedString: "32"
+- close:
+    asString: "0.00167844"
+    asFormattedString: "0.001678"
+  date_raw:
+    asString: 2018-10-18
+    asFormattedString: "Oct 18, 2018"
+  high:
+    asString: "0.0017056"
+    asFormattedString: "0.001706"
+  low:
+    asString: "0.00123627"
+    asFormattedString: "0.001236"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00159462"
+    asFormattedString: "0.001595"
+  volume:
+    asString: "80.5153"
+    asFormattedString: "81"
+- close:
+    asString: "0.00159825"
+    asFormattedString: "0.001598"
+  date_raw:
+    asString: 2018-10-17
+    asFormattedString: "Oct 17, 2018"
+  high:
+    asString: "0.00159952"
+    asFormattedString: "0.001600"
+  low:
+    asString: "0.00159474"
+    asFormattedString: "0.001595"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00159823"
+    asFormattedString: "0.001598"
+  volume:
+    asString: "33.2104"
+    asFormattedString: "33"
+- close:
+    asString: "0.00162624"
+    asFormattedString: "0.001626"
+  date_raw:
+    asString: 2018-10-16
+    asFormattedString: "Oct 16, 2018"
+  high:
+    asString: "0.00163152"
+    asFormattedString: "0.001632"
+  low:
+    asString: "0.00160196"
+    asFormattedString: "0.001602"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00161675"
+    asFormattedString: "0.001617"
+  volume:
+    asString: "136.029"
+    asFormattedString: "136"
+- close:
+    asString: "0.00161675"
+    asFormattedString: "0.001617"
+  date_raw:
+    asString: 2018-10-15
+    asFormattedString: "Oct 15, 2018"
+  high:
+    asString: "0.00172977"
+    asFormattedString: "0.001730"
+  low:
+    asString: "0.00151431"
+    asFormattedString: "0.001514"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00152467"
+    asFormattedString: "0.001525"
+  volume:
+    asString: "135.236"
+    asFormattedString: "135"
+- close:
+    asString: "0.00152178"
+    asFormattedString: "0.001522"
+  date_raw:
+    asString: 2018-10-14
+    asFormattedString: "Oct 14, 2018"
+  high:
+    asString: "0.00370979"
+    asFormattedString: "0.003710"
+  low:
+    asString: "0.00152094"
+    asFormattedString: "0.001521"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00367263"
+    asFormattedString: "0.003673"
+  volume:
+    asString: "550.699"
+    asFormattedString: "551"
+- close:
+    asString: "0.00367276"
+    asFormattedString: "0.003673"
+  date_raw:
+    asString: 2018-10-13
+    asFormattedString: "Oct 13, 2018"
+  high:
+    asString: "0.00368502"
+    asFormattedString: "0.003685"
+  low:
+    asString: "0.00159777"
+    asFormattedString: "0.001598"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.0023111"
+    asFormattedString: "0.002311"
+  volume:
+    asString: "739.893"
+    asFormattedString: "740"
+- close:
+    asString: "0.00231424"
+    asFormattedString: "0.002314"
+  date_raw:
+    asString: 2018-10-12
+    asFormattedString: "Oct 12, 2018"
+  high:
+    asString: "0.0023456"
+    asFormattedString: "0.002346"
+  low:
+    asString: "0.00136662"
+    asFormattedString: "0.001367"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00137023"
+    asFormattedString: "0.001370"
+  volume:
+    asString: "132.37"
+    asFormattedString: "132"
+- close:
+    asString: "0.00137073"
+    asFormattedString: "0.001371"
+  date_raw:
+    asString: 2018-10-11
+    asFormattedString: "Oct 11, 2018"
+  high:
+    asString: "0.0016304"
+    asFormattedString: "0.001630"
+  low:
+    asString: "0.0013703"
+    asFormattedString: "0.001370"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00162914"
+    asFormattedString: "0.001629"
+  volume:
+    asString: "289.944"
+    asFormattedString: "290"
+- close:
+    asString: "0.00163031"
+    asFormattedString: "0.001630"
+  date_raw:
+    asString: 2018-10-10
+    asFormattedString: "Oct 10, 2018"
+  high:
+    asString: "0.0019051"
+    asFormattedString: "0.001905"
+  low:
+    asString: "0.00162233"
+    asFormattedString: "0.001622"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00189848"
+    asFormattedString: "0.001898"
+  volume:
+    asString: "344.571"
+    asFormattedString: "345"
+- close:
+    asString: "0.00225543"
+    asFormattedString: "0.002255"
+  date_raw:
+    asString: 2018-10-09
+    asFormattedString: "Oct 09, 2018"
+  high:
+    asString: "0.00227005"
+    asFormattedString: "0.002270"
+  low:
+    asString: "0.00225375"
+    asFormattedString: "0.002254"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.0022607"
+    asFormattedString: "0.002261"
+  volume:
+    asString: "26.2861"
+    asFormattedString: "26"
+- close:
+    asString: "0.00226159"
+    asFormattedString: "0.002262"
+  date_raw:
+    asString: 2018-10-08
+    asFormattedString: "Oct 08, 2018"
+  high:
+    asString: "0.0022881"
+    asFormattedString: "0.002288"
+  low:
+    asString: "0.0022118"
+    asFormattedString: "0.002212"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00228415"
+    asFormattedString: "0.002284"
+  volume:
+    asString: "26.3579"
+    asFormattedString: "26"
+- close:
+    asString: "0.00228016"
+    asFormattedString: "0.002280"
+  date_raw:
+    asString: 2018-10-07
+    asFormattedString: "Oct 07, 2018"
+  high:
+    asString: "0.00231573"
+    asFormattedString: "0.002316"
+  low:
+    asString: "0.00175423"
+    asFormattedString: "0.001754"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00177084"
+    asFormattedString: "0.001771"
+  volume:
+    asString: "115.769"
+    asFormattedString: "116"
+- close:
+    asString: "0.0017699"
+    asFormattedString: "0.001770"
+  date_raw:
+    asString: 2018-10-06
+    asFormattedString: "Oct 06, 2018"
+  high:
+    asString: "0.00177515"
+    asFormattedString: "0.001775"
+  low:
+    asString: "0.00176835"
+    asFormattedString: "0.001768"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00177479"
+    asFormattedString: "0.001775"
+  volume:
+    asString: "35.205"
+    asFormattedString: "35"
+- close:
+    asString: "0.00378308"
+    asFormattedString: "0.003783"
+  date_raw:
+    asString: 2018-10-03
+    asFormattedString: "Oct 03, 2018"
+  high:
+    asString: "0.00389049"
+    asFormattedString: "0.003890"
+  low:
+    asString: "0.00366321"
+    asFormattedString: "0.003663"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00389049"
+    asFormattedString: "0.003890"
+  volume:
+    asString: "229.052"
+    asFormattedString: "229"
+- close:
+    asString: "0.00388905"
+    asFormattedString: "0.003889"
+  date_raw:
+    asString: 2018-10-02
+    asFormattedString: "Oct 02, 2018"
+  high:
+    asString: "0.00396725"
+    asFormattedString: "0.003967"
+  low:
+    asString: "0.00166248"
+    asFormattedString: "0.001662"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00167937"
+    asFormattedString: "0.001679"
+  volume:
+    asString: "670.574"
+    asFormattedString: "671"
+- close:
+    asString: "0.00242113"
+    asFormattedString: "0.002421"
+  date_raw:
+    asString: 2018-09-30
+    asFormattedString: "Sep 30, 2018"
+  high:
+    asString: "0.0024662"
+    asFormattedString: "0.002466"
+  low:
+    asString: "0.00237646"
+    asFormattedString: "0.002376"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00240719"
+    asFormattedString: "0.002407"
+  volume:
+    asString: "192.41"
+    asFormattedString: "192"
+- close:
+    asString: "0.00241004"
+    asFormattedString: "0.002410"
+  date_raw:
+    asString: 2018-09-29
+    asFormattedString: "Sep 29, 2018"
+  high:
+    asString: "0.00259565"
+    asFormattedString: "0.002596"
+  low:
+    asString: "0.00232064"
+    asFormattedString: "0.002321"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00238965"
+    asFormattedString: "0.002390"
+  volume:
+    asString: "1585.1"
+    asFormattedString: "1,585"
+- close:
+    asString: "0.00239429"
+    asFormattedString: "0.002394"
+  date_raw:
+    asString: 2018-09-28
+    asFormattedString: "Sep 28, 2018"
+  high:
+    asString: "0.00428142"
+    asFormattedString: "0.004281"
+  low:
+    asString: "0.00234724"
+    asFormattedString: "0.002347"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00424152"
+    asFormattedString: "0.004242"
+  volume:
+    asString: "785.177"
+    asFormattedString: "785"
+- close:
+    asString: "0.00423858"
+    asFormattedString: "0.004239"
+  date_raw:
+    asString: 2018-09-27
+    asFormattedString: "Sep 27, 2018"
+  high:
+    asString: "0.00428482"
+    asFormattedString: "0.004285"
+  low:
+    asString: "0.00341822"
+    asFormattedString: "0.003418"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00356772"
+    asFormattedString: "0.003568"
+  volume:
+    asString: "141.282"
+    asFormattedString: "141"
+- close:
+    asString: "0.00356952"
+    asFormattedString: "0.003570"
+  date_raw:
+    asString: 2018-09-26
+    asFormattedString: "Sep 26, 2018"
+  high:
+    asString: "0.00470079"
+    asFormattedString: "0.004701"
+  low:
+    asString: "0.0034877"
+    asFormattedString: "0.003488"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00379646"
+    asFormattedString: "0.003796"
+  volume:
+    asString: "133.685"
+    asFormattedString: "134"
+- close:
+    asString: "0.00444504"
+    asFormattedString: "0.004445"
+  date_raw:
+    asString: 2018-09-25
+    asFormattedString: "Sep 25, 2018"
+  high:
+    asString: "0.00480583"
+    asFormattedString: "0.004806"
+  low:
+    asString: "0.00434372"
+    asFormattedString: "0.004344"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00480583"
+    asFormattedString: "0.004806"
+  volume:
+    asString: "41.5762"
+    asFormattedString: "42"
+- close:
+    asString: "0.00480451"
+    asFormattedString: "0.004805"
+  date_raw:
+    asString: 2018-09-24
+    asFormattedString: "Sep 24, 2018"
+  high:
+    asString: "0.00619543"
+    asFormattedString: "0.006195"
+  low:
+    asString: "0.00477686"
+    asFormattedString: "0.004777"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00562804"
+    asFormattedString: "0.005628"
+  volume:
+    asString: "964.874"
+    asFormattedString: "965"
+- close:
+    asString: "0.00561777"
+    asFormattedString: "0.005618"
+  date_raw:
+    asString: 2018-09-23
+    asFormattedString: "Sep 23, 2018"
+  high:
+    asString: "0.00626535"
+    asFormattedString: "0.006265"
+  low:
+    asString: "0.00368434"
+    asFormattedString: "0.003684"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00457076"
+    asFormattedString: "0.004571"
+  volume:
+    asString: "31088.0"
+    asFormattedString: "31,088"
+- close:
+    asString: "0.00456799"
+    asFormattedString: "0.004568"
+  date_raw:
+    asString: 2018-09-22
+    asFormattedString: "Sep 22, 2018"
+  high:
+    asString: "0.00608282"
+    asFormattedString: "0.006083"
+  low:
+    asString: "0.00450269"
+    asFormattedString: "0.004503"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00602409"
+    asFormattedString: "0.006024"
+  volume:
+    asString: "100.269"
+    asFormattedString: "100"
+- close:
+    asString: "0.00601391"
+    asFormattedString: "0.006014"
+  date_raw:
+    asString: 2018-09-21
+    asFormattedString: "Sep 21, 2018"
+  high:
+    asString: "0.00643419"
+    asFormattedString: "0.006434"
+  low:
+    asString: "0.00457191"
+    asFormattedString: "0.004572"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00580684"
+    asFormattedString: "0.005807"
+  volume:
+    asString: "54.5542"
+    asFormattedString: "55"
+- close:
+    asString: "0.0058081"
+    asFormattedString: "0.005808"
+  date_raw:
+    asString: 2018-09-20
+    asFormattedString: "Sep 20, 2018"
+  high:
+    asString: "0.00581558"
+    asFormattedString: "0.005816"
+  low:
+    asString: "0.00378063"
+    asFormattedString: "0.003781"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00382105"
+    asFormattedString: "0.003821"
+  volume:
+    asString: "571.362"
+    asFormattedString: "571"
+- close:
+    asString: "0.00381828"
+    asFormattedString: "0.003818"
+  date_raw:
+    asString: 2018-09-19
+    asFormattedString: "Sep 19, 2018"
+  high:
+    asString: "0.00552086"
+    asFormattedString: "0.005521"
+  low:
+    asString: "0.00310071"
+    asFormattedString: "0.003101"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00548032"
+    asFormattedString: "0.005480"
+  volume:
+    asString: "597.226"
+    asFormattedString: "597"
+- close:
+    asString: "0.00548725"
+    asFormattedString: "0.005487"
+  date_raw:
+    asString: 2018-09-18
+    asFormattedString: "Sep 18, 2018"
+  high:
+    asString: "0.00549333"
+    asFormattedString: "0.005493"
+  low:
+    asString: "0.00391755"
+    asFormattedString: "0.003918"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00395984"
+    asFormattedString: "0.003960"
+  volume:
+    asString: "427.952"
+    asFormattedString: "428"
+- close:
+    asString: "0.00396039"
+    asFormattedString: "0.003960"
+  date_raw:
+    asString: 2018-09-17
+    asFormattedString: "Sep 17, 2018"
+  high:
+    asString: "0.00743711"
+    asFormattedString: "0.007437"
+  low:
+    asString: "0.00395606"
+    asFormattedString: "0.003956"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00588492"
+    asFormattedString: "0.005885"
+  volume:
+    asString: "9247.53"
+    asFormattedString: "9,248"
+- close:
+    asString: "0.00580092"
+    asFormattedString: "0.005801"
+  date_raw:
+    asString: 2018-09-16
+    asFormattedString: "Sep 16, 2018"
+  high:
+    asString: "0.0110709"
+    asFormattedString: "0.011071"
+  low:
+    asString: "0.00433469"
+    asFormattedString: "0.004335"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.0110709"
+    asFormattedString: "0.011071"
+  volume:
+    asString: "5352.02"
+    asFormattedString: "5,352"
+- close:
+    asString: "0.0110674"
+    asFormattedString: "0.011067"
+  date_raw:
+    asString: 2018-09-15
+    asFormattedString: "Sep 15, 2018"
+  high:
+    asString: "0.0122256"
+    asFormattedString: "0.012226"
+  low:
+    asString: "0.00607676"
+    asFormattedString: "0.006077"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00650562"
+    asFormattedString: "0.006506"
+  volume:
+    asString: "21977.3"
+    asFormattedString: "21,977"
+- close:
+    asString: "0.006515"
+    asFormattedString: "0.006515"
+  date_raw:
+    asString: 2018-09-14
+    asFormattedString: "Sep 14, 2018"
+  high:
+    asString: "0.0173674"
+    asFormattedString: "0.017367"
+  low:
+    asString: "0.00528089"
+    asFormattedString: "0.005281"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.0164808"
+    asFormattedString: "0.016481"
+  volume:
+    asString: "78.5181"
+    asFormattedString: "79"
+- close:
+    asString: "0.0165436"
+    asFormattedString: "0.016544"
+  date_raw:
+    asString: 2018-09-13
+    asFormattedString: "Sep 13, 2018"
+  high:
+    asString: "0.0166516"
+    asFormattedString: "0.016652"
+  low:
+    asString: "0.00379916"
+    asFormattedString: "0.003799"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00637449"
+    asFormattedString: "0.006374"
+  volume:
+    asString: "1307.93"
+    asFormattedString: "1,308"
+- close:
+    asString: "0.0063678"
+    asFormattedString: "0.006368"
+  date_raw:
+    asString: 2018-09-12
+    asFormattedString: "Sep 12, 2018"
+  high:
+    asString: "0.0063732"
+    asFormattedString: "0.006373"
+  low:
+    asString: "0.00459984"
+    asFormattedString: "0.004600"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00527945"
+    asFormattedString: "0.005279"
+  volume:
+    asString: "232.43"
+    asFormattedString: "232"
+- close:
+    asString: "0.0052797"
+    asFormattedString: "0.005280"
+  date_raw:
+    asString: 2018-09-11
+    asFormattedString: "Sep 11, 2018"
+  high:
+    asString: "0.00612846"
+    asFormattedString: "0.006128"
+  low:
+    asString: "0.00431596"
+    asFormattedString: "0.004316"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00481359"
+    asFormattedString: "0.004814"
+  volume:
+    asString: "162.427"
+    asFormattedString: "162"
+- close:
+    asString: "0.00480586"
+    asFormattedString: "0.004806"
+  date_raw:
+    asString: 2018-09-10
+    asFormattedString: "Sep 10, 2018"
+  high:
+    asString: "0.00491271"
+    asFormattedString: "0.004913"
+  low:
+    asString: "0.00301963"
+    asFormattedString: "0.003020"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00431934"
+    asFormattedString: "0.004319"
+  volume:
+    asString: "40.9642"
+    asFormattedString: "41"
+- close:
+    asString: "0.00431666"
+    asFormattedString: "0.004317"
+  date_raw:
+    asString: 2018-09-09
+    asFormattedString: "Sep 09, 2018"
+  high:
+    asString: "0.00581565"
+    asFormattedString: "0.005816"
+  low:
+    asString: "0.00379163"
+    asFormattedString: "0.003792"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00396183"
+    asFormattedString: "0.003962"
+  volume:
+    asString: "288.579"
+    asFormattedString: "289"
+- close:
+    asString: "0.00397781"
+    asFormattedString: "0.003978"
+  date_raw:
+    asString: 2018-09-08
+    asFormattedString: "Sep 08, 2018"
+  high:
+    asString: "0.0113258"
+    asFormattedString: "0.011326"
+  low:
+    asString: "0.00392191"
+    asFormattedString: "0.003922"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.011242"
+    asFormattedString: "0.011242"
+  volume:
+    asString: "77.344"
+    asFormattedString: "77"
+- close:
+    asString: "0.01123"
+    asFormattedString: "0.011230"
+  date_raw:
+    asString: 2018-09-07
+    asFormattedString: "Sep 07, 2018"
+  high:
+    asString: "0.0112994"
+    asFormattedString: "0.011299"
+  low:
+    asString: "0.00622467"
+    asFormattedString: "0.006225"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00636334"
+    asFormattedString: "0.006363"
+  volume:
+    asString: "73.1626"
+    asFormattedString: "73"
+- close:
+    asString: "0.00635371"
+    asFormattedString: "0.006354"
+  date_raw:
+    asString: 2018-09-06
+    asFormattedString: "Sep 06, 2018"
+  high:
+    asString: "0.00637529"
+    asFormattedString: "0.006375"
+  low:
+    asString: "0.00435964"
+    asFormattedString: "0.004360"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.004652"
+    asFormattedString: "0.004652"
+  volume:
+    asString: "221.41"
+    asFormattedString: "221"
+- close:
+    asString: "0.00465196"
+    asFormattedString: "0.004652"
+  date_raw:
+    asString: 2018-09-05
+    asFormattedString: "Sep 05, 2018"
+  high:
+    asString: "0.00589918"
+    asFormattedString: "0.005899"
+  low:
+    asString: "0.00465196"
+    asFormattedString: "0.004652"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.0058621"
+    asFormattedString: "0.005862"
+  volume:
+    asString: "107.28"
+    asFormattedString: "107"
+- close:
+    asString: "0.00586644"
+    asFormattedString: "0.005866"
+  date_raw:
+    asString: 2018-09-04
+    asFormattedString: "Sep 04, 2018"
+  high:
+    asString: "0.00588125"
+    asFormattedString: "0.005881"
+  low:
+    asString: "0.0057069"
+    asFormattedString: "0.005707"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00578583"
+    asFormattedString: "0.005786"
+  volume:
+    asString: "16.789"
+    asFormattedString: "17"
+- close:
+    asString: "0.00578497"
+    asFormattedString: "0.005785"
+  date_raw:
+    asString: 2018-09-03
+    asFormattedString: "Sep 03, 2018"
+  high:
+    asString: "0.00946756"
+    asFormattedString: "0.009468"
+  low:
+    asString: "0.00534663"
+    asFormattedString: "0.005347"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00545023"
+    asFormattedString: "0.005450"
+  volume:
+    asString: "90.1215"
+    asFormattedString: "90"
+- close:
+    asString: "0.00544617"
+    asFormattedString: "0.005446"
+  date_raw:
+    asString: 2018-09-02
+    asFormattedString: "Sep 02, 2018"
+  high:
+    asString: "0.0118515"
+    asFormattedString: "0.011851"
+  low:
+    asString: "0.00538575"
+    asFormattedString: "0.005386"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.0117034"
+    asFormattedString: "0.011703"
+  volume:
+    asString: "716.041"
+    asFormattedString: "716"
+- close:
+    asString: "0.0117019"
+    asFormattedString: "0.011702"
+  date_raw:
+    asString: 2018-09-01
+    asFormattedString: "Sep 01, 2018"
+  high:
+    asString: "0.011862"
+    asFormattedString: "0.011862"
+  low:
+    asString: "0.00566201"
+    asFormattedString: "0.005662"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00566434"
+    asFormattedString: "0.005664"
+  volume:
+    asString: "1759.13"
+    asFormattedString: "1,759"
+- close:
+    asString: "0.00566629"
+    asFormattedString: "0.005666"
+  date_raw:
+    asString: 2018-08-31
+    asFormattedString: "Aug 31, 2018"
+  high:
+    asString: "0.0126916"
+    asFormattedString: "0.012692"
+  low:
+    asString: "0.0056504"
+    asFormattedString: "0.005650"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00852624"
+    asFormattedString: "0.008526"
+  volume:
+    asString: "1363.04"
+    asFormattedString: "1,363"
+- close:
+    asString: "0.00852357"
+    asFormattedString: "0.008524"
+  date_raw:
+    asString: 2018-08-30
+    asFormattedString: "Aug 30, 2018"
+  high:
+    asString: "0.0173558"
+    asFormattedString: "0.017356"
+  low:
+    asString: "0.0084976"
+    asFormattedString: "0.008498"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.0173558"
+    asFormattedString: "0.017356"
+  volume:
+    asString: "629.528"
+    asFormattedString: "630"
+- close:
+    asString: "0.0173453"
+    asFormattedString: "0.017345"
+  date_raw:
+    asString: 2018-08-29
+    asFormattedString: "Aug 29, 2018"
+  high:
+    asString: "0.0207579"
+    asFormattedString: "0.020758"
+  low:
+    asString: "0.00900713"
+    asFormattedString: "0.009007"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.0207579"
+    asFormattedString: "0.020758"
+  volume:
+    asString: "1049.7"
+    asFormattedString: "1,050"
+- close:
+    asString: "0.0207625"
+    asFormattedString: "0.020762"
+  date_raw:
+    asString: 2018-08-28
+    asFormattedString: "Aug 28, 2018"
+  high:
+    asString: "0.0208301"
+    asFormattedString: "0.020830"
+  low:
+    asString: "0.00871564"
+    asFormattedString: "0.008716"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.0132855"
+    asFormattedString: "0.013286"
+  volume:
+    asString: "2559.76"
+    asFormattedString: "2,560"
