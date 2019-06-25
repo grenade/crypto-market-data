@@ -4,18 +4,18 @@ rank: 2096
 symbol: SZC
 name: ShopZcoin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.000338956708088"
-  BTC: "2.99906697102e-08"
+  BTC: "3.00039176048e-08"
+  USD: "0.000338717952614"
 volume:
-  USD: "822.199377818"
-  BTC: "0.0727476677338"
+  BTC: "0.0727798028425"
+  USD: "821.620234237"
 supply:
   SZC: "0"
 change:
-  1h: "0.98"
-  24h: "-47.76"
-  7d: "-26.27"
+  1h: "0.77"
+  24h: "-47.83"
+  7d: "-26.01"
 isMineable: true

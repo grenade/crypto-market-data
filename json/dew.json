@@ -1,6 +1,6 @@
 {
   "id": "dew",
-  "rank": 1170,
+  "rank": 1168,
   "symbol": "DEW",
   "name": "DEW",
   "marketCap": {
@@ -12,15 +12,15 @@
     "USD": "0.218727687326"
   },
   "volume": {
-    "USD": "0.0",
-    "BTC": "0.0"
+    "BTC": "0.0",
+    "USD": "0.0"
   },
   "supply": {
     "DEW": "103244552.962"
   },
   "change": {
     "1h": "0.00",
-    "24h": "2.03",
+    "24h": "2.00",
     "7d": "-0.92"
   },
   "isMineable": false

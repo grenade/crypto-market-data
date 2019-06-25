@@ -1,21 +1,21 @@
 ---
 id: business-credit-alliance-chain
-rank: 1171
+rank: 1170
 symbol: BCAC
 name: Business Credit Alliance Chain
 marketCap:
-  USD: "19555460.9466"
-  BTC: "1730.25450238"
+  BTC: "1723.85483685"
+  USD: "19460811.3724"
 price:
-  BTC: "2.04494637819e-06"
-  USD: "0.0231121311816"
+  BTC: "2.03738276669e-06"
+  USD: "0.0230002671156"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   BCAC: "846112407.069"
 change:
-  24h: "13.30"
-  7d: "168.45"
-  1h: "-3.67"
+  1h: "-3.29"
+  24h: "12.83"
+  7d: "166.93"
 isMineable: false

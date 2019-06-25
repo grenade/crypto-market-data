@@ -1,21 +1,21 @@
 ---
 id: gene-source-code-chain
-rank: 626
+rank: 624
 symbol: GENE
 name: Gene Source Code Chain
 marketCap:
-  USD: "2992556.20991"
-  BTC: "264.77943271"
+  BTC: "268.62732989"
+  USD: "3032567.29322"
 price:
-  BTC: "7.09779183142e-07"
-  USD: "0.00802197542474"
+  BTC: "7.20094022515e-07"
+  USD: "0.00812923086274"
 volume:
-  BTC: "5.74311878902"
-  USD: "64909.1419995"
+  BTC: "5.74228270187"
+  USD: "64825.3426679"
 supply:
   GENE: "373044799.0"
 change:
-  1h: "0.98"
-  7d: "11.46"
-  24h: "5.96"
+  1h: "1.95"
+  24h: "7.34"
+  7d: "12.79"
 isMineable: false

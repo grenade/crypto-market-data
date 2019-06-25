@@ -4,18 +4,18 @@ rank: 1981
 symbol: RBTC
 name: RSK Smart Bitcoin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "11336.3112115"
-  BTC: "1.00302946413"
+  BTC: "1.00220802681"
+  USD: "11314.0508984"
 volume:
-  BTC: "9.55452256646"
-  USD: "107985.901874"
+  BTC: "9.60768162495"
+  USD: "108462.31123"
 supply:
   RBTC: "0"
 change:
-  24h: "5.31"
-  1h: "0.91"
-  7d: "22.69"
+  1h: "0.49"
+  24h: "5.03"
+  7d: "22.48"
 isMineable: true

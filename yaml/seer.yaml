@@ -1,21 +1,21 @@
 ---
 id: seer
-rank: 2042
+rank: 2041
 symbol: SEER
 name: SEER
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.000665992488919"
-  BTC: "5.89265835078e-08"
+  BTC: "5.94475625452e-08"
+  USD: "0.000671110917529"
 volume:
-  BTC: "1.46187977023"
-  USD: "16522.2704036"
+  BTC: "1.48139754719"
+  USD: "16723.680914"
 supply:
   SEER: "0"
 change:
-  24h: "-2.40"
-  1h: "0.80"
-  7d: "5.09"
+  1h: "1.01"
+  24h: "-1.54"
+  7d: "5.95"
 isMineable: false

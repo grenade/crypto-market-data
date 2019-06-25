@@ -1,21 +1,21 @@
 ---
 id: litecoin-plus
-rank: 1584
+rank: 1583
 symbol: LCP
 name: Litecoin Plus
 marketCap:
-  BTC: "6.85604742345"
-  USD: "77463.4421714"
+  BTC: "6.85607269684"
+  USD: "77399.0562646"
 price:
-  USD: "0.0322008872683"
   BTC: "2.85e-06"
+  USD: "0.0321740039973"
 volume:
   BTC: "0.011090721889"
-  USD: "125.309152727"
+  USD: "125.204536979"
 supply:
-  LCP: "2405630.67489"
+  LCP: "2405639.54275"
 change:
-  7d: "7.29"
-  1h: "-5.05"
-  24h: "4.71"
+  1h: "-3.66"
+  24h: "5.41"
+  7d: "7.18"
 isMineable: true

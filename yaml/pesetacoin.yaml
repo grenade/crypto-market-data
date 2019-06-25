@@ -1,21 +1,21 @@
 ---
 id: pesetacoin
-rank: 1015
+rank: 1013
 symbol: PTC
 name: Pesetacoin
 marketCap:
-  USD: "329474.608025"
-  BTC: "29.1607689269"
+  BTC: "29.1607836269"
+  USD: "329199.708413"
 price:
   BTC: "2.1e-07"
-  USD: "0.00237269695661"
+  USD: "0.00237071608401"
 volume:
   BTC: "0.108971095377"
-  USD: "1231.21612553"
+  USD: "1230.18823097"
 supply:
-  PTC: "138860804.414"
+  PTC: "138860874.414"
 change:
-  1h: "0.95"
-  7d: "97.56"
-  24h: "4.97"
+  1h: "0.73"
+  24h: "4.81"
+  7d: "97.45"
 isMineable: true

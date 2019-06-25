@@ -4,18 +4,18 @@ rank: 2077
 symbol: ALLN
 name: Airline & Life Networking Token
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.529129763029"
-  BTC: "4.68170582798e-05"
+  BTC: "4.67953036752e-05"
+  USD: "0.528277995614"
 volume:
-  USD: "3828.93777653"
-  BTC: "0.338781931311"
+  BTC: "0.338624508628"
+  USD: "3822.7741383"
 supply:
   ALLN: "0"
 change:
-  7d: "-6.12"
-  1h: "0.12"
-  24h: "5.02"
+  1h: "0.02"
+  24h: "4.76"
+  7d: "-6.26"
 isMineable: false

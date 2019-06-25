@@ -4,8 +4,8 @@ rank: 1337
 symbol: ERT
 name: Eristica
 marketCap:
-  USD: "467648.812735"
   BTC: "43.1159328758"
+  USD: "467648.812735"
 price:
   BTC: "2.49994353081e-07"
   USD: "0.00271151647688"
@@ -16,6 +16,6 @@ supply:
   ERT: "172467627.146"
 change:
   1h: "0.00"
+  24h: "0.72"
   7d: "-26.49"
-  24h: "0.76"
 isMineable: false

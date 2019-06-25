@@ -1,21 +1,21 @@
 ---
 id: ocean-protocol
-rank: 406
+rank: 407
 symbol: OCEAN
 name: Ocean Protocol
 marketCap:
-  BTC: "738.311366192"
-  USD: "8344448.21159"
+  BTC: "739.430578329"
+  USD: "8347523.64313"
 price:
-  USD: "0.0355329046884"
-  BTC: "3.14392836291e-06"
+  BTC: "3.1486942692e-06"
+  USD: "0.035546000703"
 volume:
-  USD: "927059.472944"
-  BTC: "82.0256209463"
+  BTC: "82.2185977573"
+  USD: "928175.962419"
 supply:
   OCEAN: "234837210.32"
 change:
-  7d: "15.54"
-  1h: "-2.75"
-  24h: "-2.30"
+  1h: "-2.17"
+  24h: "-2.31"
+  7d: "15.85"
 isMineable: false

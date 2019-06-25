@@ -4,18 +4,18 @@ rank: 1920
 symbol: IIC
 name: Intelligent Investment Chain
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "4.10013298602e-08"
-  USD: "0.000463399981758"
+  BTC: "4.12149469441e-08"
+  USD: "0.000465280655343"
 volume:
-  BTC: "50.8481606214"
-  USD: "574689.571893"
+  BTC: "51.7047159101"
+  USD: "583700.96013"
 supply:
   IIC: "0"
 change:
-  7d: "36.95"
-  1h: "-0.12"
-  24h: "-8.03"
+  1h: "0.36"
+  24h: "-7.93"
+  7d: "37.59"
 isMineable: false

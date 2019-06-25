@@ -1,21 +1,21 @@
 ---
 id: quantis-network
-rank: 1153
+rank: 1152
 symbol: QUAN
 name: Quantis Network
 marketCap:
-  BTC: "1.82782021275"
-  USD: "20658.1556289"
+  BTC: "1.82862762285"
+  USD: "20643.6043674"
 price:
-  USD: "0.00372852378896"
-  BTC: "3.29897366813e-07"
+  BTC: "3.30043093653e-07"
+  USD: "0.00372589747876"
 volume:
-  USD: "5974.20903465"
-  BTC: "0.528594140971"
+  BTC: "0.538365884313"
+  USD: "6077.6793382"
 supply:
   QUAN: "5540572.30105"
 change:
-  1h: "3.22"
-  7d: "130.36"
-  24h: "-8.85"
+  1h: "2.34"
+  24h: "-8.95"
+  7d: "130.25"
 isMineable: true

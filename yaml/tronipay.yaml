@@ -1,21 +1,21 @@
 ---
 id: tronipay
-rank: 2059
+rank: 2058
 symbol: TRP
 name: Tronipay
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "5.61519423396e-06"
-  USD: "0.063463329469"
+  BTC: "5.61397865383e-06"
+  USD: "0.063376902333"
 volume:
-  USD: "8684.8074981"
-  BTC: "0.768426135131"
+  BTC: "0.768316300796"
+  USD: "8673.61815192"
 supply:
   TRP: "0"
 change:
-  24h: "761.42"
-  1h: "2.43"
-  7d: "1436.95"
+  1h: "0.18"
+  24h: "759.75"
+  7d: "1435.24"
 isMineable: false

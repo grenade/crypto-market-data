@@ -1,21 +1,21 @@
 ---
 id: kwhcoin
-rank: 1559
+rank: 1557
 symbol: KWH
 name: KWHCoin
 marketCap:
-  BTC: "7.99696330663"
-  USD: "90382.2549913"
+  BTC: "7.99310241325"
+  USD: "90235.1259629"
 price:
-  BTC: "4.44167490532e-09"
-  USD: "5.02001295352e-05"
+  BTC: "4.43953048717e-09"
+  USD: "5.01184111018e-05"
 volume:
-  USD: "0.0"
   BTC: "0.0"
+  USD: "0.0"
 supply:
   KWH: "1800438680.7"
 change:
-  24h: "-20.25"
-  1h: "6.96"
-  7d: "60.26"
+  1h: "9.10"
+  24h: "-20.14"
+  7d: "60.24"
 isMineable: false

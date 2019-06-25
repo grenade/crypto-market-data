@@ -1,21 +1,21 @@
 ---
 id: usdcoin
-rank: 1962
+rank: 1963
 symbol: USC
 name: USDCoin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "8.83696206834e-05"
-  USD: "0.998759814676"
+  BTC: "8.82792313254e-05"
+  USD: "0.996595207558"
 volume:
-  BTC: "12.6957311338"
-  USD: "143488.067238"
+  BTC: "12.6857334866"
+  USD: "143210.82102"
 supply:
   USC: "0"
 change:
-  1h: "0.20"
-  24h: "0.06"
-  7d: "-0.59"
+  1h: "0.09"
+  24h: "-0.16"
+  7d: "-0.80"
 isMineable: false

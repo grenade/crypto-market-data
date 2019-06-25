@@ -1,21 +1,21 @@
 ---
 id: artbyte
-rank: 869
+rank: 871
 symbol: ABY
 name: ArtByte
 marketCap:
-  USD: "895452.724326"
   BTC: "79.253725"
+  USD: "894705.145598"
 price:
   BTC: "1e-07"
-  USD: "0.00112985569363"
+  USD: "0.00112891242096"
 volume:
-  USD: "2339.16001499"
   BTC: "0.20703175"
+  USD: "2337.20714108"
 supply:
   ABY: "792537250.0"
 change:
-  24h: "16.27"
-  1h: "0.95"
-  7d: "8.19"
+  1h: "0.74"
+  24h: "16.10"
+  7d: "7.99"
 isMineable: true

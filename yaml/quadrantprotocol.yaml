@@ -1,21 +1,21 @@
 ---
 id: quadrantprotocol
-rank: 876
+rank: 877
 symbol: EQUAD
 name: QuadrantProtocol
 marketCap:
-  BTC: "76.4482555575"
-  USD: "864023.687807"
+  BTC: "76.3784073159"
+  USD: "862245.32712"
 price:
-  BTC: "2.18321594077e-07"
-  USD: "0.00246748637319"
+  BTC: "2.1812212086e-07"
+  USD: "0.00246240771525"
 volume:
-  BTC: "24.591973921"
-  USD: "277940.259627"
+  BTC: "24.5902711358"
+  USD: "277602.6252"
 supply:
   EQUAD: "350163509.39"
 change:
-  1h: "1.28"
-  24h: "4.83"
-  7d: "-16.28"
+  1h: "0.48"
+  24h: "4.53"
+  7d: "-16.34"
 isMineable: false

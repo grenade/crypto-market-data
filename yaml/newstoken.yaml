@@ -1,21 +1,21 @@
 ---
 id: newstoken
-rank: 2049
+rank: 2047
 symbol: NEWOS
 name: NewsToken
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "8.41142185195e-08"
-  USD: "0.000950664953073"
+  BTC: "9.40625521969e-08"
+  USD: "0.00106188383522"
 volume:
-  USD: "10892.5839904"
-  BTC: "0.963768767371"
+  BTC: "1.07751148269"
+  USD: "12164.1609653"
 supply:
   NEWOS: "0"
 change:
-  24h: "5.41"
-  7d: "-9.77"
-  1h: "-7.38"
+  1h: "2.22"
+  24h: "8.82"
+  7d: "0.77"
 isMineable: false

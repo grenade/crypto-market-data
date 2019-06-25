@@ -1,21 +1,21 @@
 ---
 id: cryptojacks
-rank: 1644
+rank: 1642
 symbol: CJ
 name: Cryptojacks
 marketCap:
-  BTC: "4.05628275133"
-  USD: "45830.1416155"
+  BTC: "4.06621673411"
+  USD: "45904.0257743"
 price:
-  USD: "0.000112724258016"
-  BTC: "9.97687214852e-09"
+  BTC: "1.00013058683e-08"
+  USD: "0.000112905984205"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   CJ: "406568580.908"
 change:
-  1h: "0.72"
-  7d: "21.85"
-  24h: "4.72"
+  1h: "0.78"
+  24h: "4.85"
+  7d: "22.05"
 isMineable: true

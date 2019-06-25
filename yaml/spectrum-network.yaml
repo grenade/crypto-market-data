@@ -4,18 +4,18 @@ rank: 1832
 symbol: SPEC
 name: SpectrumNetwork
 marketCap:
-  USD: "2652.86237192"
   BTC: "0.283926003851"
+  USD: "2652.86237192"
 price:
-  USD: "2.79391972211e-06"
   BTC: "2.9902284799e-10"
+  USD: "2.79391972211e-06"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   SPEC: "949512740.445"
 change:
+  1h: "0.00"
   24h: "0.00"
   7d: "0.00"
-  1h: "0.00"
 isMineable: false

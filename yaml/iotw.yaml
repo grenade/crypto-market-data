@@ -1,21 +1,21 @@
 ---
 id: iotw
-rank: 2001
+rank: 2000
 symbol: IOTW
 name: IOTW
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "9.7337222355e-07"
-  USD: "0.0110011229434"
+  BTC: "9.73406237471e-07"
+  USD: "0.0109889039212"
 volume:
-  USD: "61795.0129276"
-  BTC: "5.46758266832"
+  BTC: "5.48388038092"
+  USD: "61908.2067706"
 supply:
   IOTW: "0"
 change:
-  1h: "0.56"
-  24h: "2.09"
-  7d: "17.96"
+  1h: "0.29"
+  24h: "2.22"
+  7d: "17.85"
 isMineable: false

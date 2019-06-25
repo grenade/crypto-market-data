@@ -1,21 +1,21 @@
 ---
 id: crave
-rank: 1543
+rank: 1542
 symbol: CRAVE
 name: Crave
 marketCap:
   BTC: "11.4364584819"
   USD: "106794.706192"
 price:
-  USD: "0.00694977226286"
   BTC: "7.44238968177e-07"
+  USD: "0.00694977226286"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   CRAVE: "15366648.3091"
 change:
   1h: "0.00"
-  7d: "0.00"
   24h: "0.00"
+  7d: "0.00"
 isMineable: false

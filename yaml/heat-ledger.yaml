@@ -1,21 +1,21 @@
 ---
 id: heat-ledger
-rank: 1245
+rank: 1244
 symbol: HEAT
 name: HEAT
 marketCap:
-  BTC: "139.768797513"
-  USD: "1305173.94776"
+  BTC: "139.769421752"
+  USD: "1305179.77696"
 price:
-  USD: "0.031680459657"
   BTC: "3.39260506887e-06"
+  USD: "0.031680459657"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
-  HEAT: "41198074.8351"
+  HEAT: "41198258.8351"
 change:
-  24h: "0.00"
   1h: "0.00"
+  24h: "0.00"
   7d: "0.00"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: blockcdn
-rank: 1996
+rank: 1997
 symbol: BCDN
 name: BlockCDN
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.012211841757"
-  BTC: "1.08049583899e-06"
+  BTC: "1.07998861775e-06"
+  USD: "0.0121921256507"
 volume:
-  BTC: "6.01640898586"
-  USD: "67997.8874783"
+  BTC: "6.09854019427"
+  USD: "68847.1777502"
 supply:
   BCDN: "0"
 change:
-  7d: "-15.77"
-  1h: "-0.65"
-  24h: "-0.70"
+  1h: "-1.23"
+  24h: "-0.84"
+  7d: "-15.92"
 isMineable: false

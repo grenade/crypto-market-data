@@ -4,24 +4,24 @@
   "symbol": "BET",
   "name": "BetaCoin",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
     "BTC": "4.60005988881e-07",
     "USD": "0.00379060146889"
   },
   "volume": {
-    "USD": "0",
-    "BTC": "0"
+    "BTC": "0",
+    "USD": "0"
   },
   "supply": {
     "BET": "0"
   },
   "change": {
-    "7d": "0.00",
     "1h": "0.00",
-    "24h": "0.00"
+    "24h": "0.00",
+    "7d": "0.00"
   },
   "isMineable": true
 }

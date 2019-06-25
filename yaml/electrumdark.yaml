@@ -1,21 +1,21 @@
 ---
 id: electrumdark
-rank: 1113
+rank: 1104
 symbol: ELD
 name: electrumdark
 marketCap:
-  USD: "87638.9478812"
-  BTC: "7.7542372726"
+  BTC: "8.54714087143"
+  USD: "96489.7349346"
 price:
-  BTC: "1.98861667773e-06"
-  USD: "0.0224754888519"
+  BTC: "2.19196115444e-06"
+  USD: "0.0247453217351"
 volume:
-  USD: "1945.23746254"
-  BTC: "0.172113349154"
+  BTC: "0.175316359388"
+  USD: "1979.1681571"
 supply:
   ELD: "3899312.2"
 change:
-  24h: "44.79"
-  7d: "5.07"
-  1h: "2.73"
+  1h: "17.05"
+  24h: "59.44"
+  7d: "15.16"
 isMineable: false

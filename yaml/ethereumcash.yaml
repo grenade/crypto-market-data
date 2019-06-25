@@ -1,21 +1,21 @@
 ---
 id: ethereumcash
-rank: 1512
+rank: 1511
 symbol: ECASH
 name: Ethereum Cash
 marketCap:
-  USD: "137006.301409"
-  BTC: "12.1222286969"
+  BTC: "12.1275834959"
+  USD: "136909.796447"
 price:
-  BTC: "8.59732531693e-07"
-  USD: "0.00971675896518"
+  BTC: "8.60112304671e-07"
+  USD: "0.00970991464161"
 volume:
-  BTC: "0.000498804818621"
-  USD: "5.63752796891"
+  BTC: "0.000499025157603"
+  USD: "5.63355698788"
 supply:
   ECASH: "14100000.0"
 change:
-  1h: "0.99"
-  24h: "6.20"
-  7d: "-4.36"
+  1h: "0.77"
+  24h: "6.08"
+  7d: "-4.33"
 isMineable: false

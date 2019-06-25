@@ -1,21 +1,21 @@
 ---
 id: cybereits
-rank: 1978
+rank: 1982
 symbol: CRE
 name: Cybereits
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "3.14321107945e-07"
-  USD: "0.00355247978991"
+  BTC: "3.08021006118e-07"
+  USD: "0.00347728739722"
 volume:
-  USD: "109697.575405"
-  BTC: "9.70597033039"
+  BTC: "9.49966426908"
+  USD: "107242.889883"
 supply:
   CRE: "0"
 change:
-  1h: "0.50"
-  24h: "1.59"
-  7d: "14.52"
+  1h: "-1.74"
+  24h: "-0.52"
+  7d: "12.27"
 isMineable: false

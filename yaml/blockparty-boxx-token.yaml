@@ -1,21 +1,21 @@
 ---
 id: blockparty-boxx-token
-rank: 701
+rank: 700
 symbol: BOXX
 name: Blockparty (BOXX Token)
 marketCap:
-  BTC: "181.24020131"
-  USD: "2048389.80265"
+  BTC: "181.320261245"
+  USD: "2046946.9509"
 price:
-  USD: "0.0757726275085"
-  BTC: "6.70431294163e-06"
+  BTC: "6.70727446372e-06"
+  USD: "0.0757192545286"
 volume:
-  USD: "68450.5939981"
-  BTC: "6.05646416514"
+  BTC: "6.05913951049"
+  USD: "68402.378537"
 supply:
   BOXX: "27033374.32"
 change:
-  24h: "-2.73"
-  1h: "-0.69"
-  7d: "-6.48"
+  1h: "-0.30"
+  24h: "-2.43"
+  7d: "-6.54"
 isMineable: false

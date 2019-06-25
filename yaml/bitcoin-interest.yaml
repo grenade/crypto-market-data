@@ -1,21 +1,21 @@
 ---
 id: bitcoin-interest
-rank: 750
+rank: 752
 symbol: BCI
 name: Bitcoin Interest
 marketCap:
-  BTC: "143.042499824"
-  USD: "1616676.63062"
+  BTC: "143.108584607"
+  USD: "1615570.58709"
 price:
-  BTC: "7.80506065768e-06"
-  USD: "0.0882133574379"
+  BTC: "7.80866654922e-06"
+  USD: "0.0881530065853"
 volume:
-  BTC: "2.06721523763"
-  USD: "23363.8154342"
+  BTC: "2.07392974713"
+  USD: "23412.8505172"
 supply:
   BCI: "18326891.5"
 change:
-  7d: "-7.91"
-  24h: "-0.09"
-  1h: "-0.29"
+  1h: "-0.36"
+  24h: "-0.13"
+  7d: "-7.94"
 isMineable: true

@@ -4,18 +4,18 @@ rank: 2195
 symbol: TOK
 name: TOKOK
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.0106832150667"
-  BTC: "9.45243940788e-07"
+  BTC: "9.36463462137e-07"
+  USD: "0.0105718523418"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   TOK: "0"
 change:
-  24h: "-8.62"
-  1h: "4.29"
-  7d: "-13.79"
+  1h: "3.12"
+  24h: "-9.84"
+  7d: "-14.89"
 isMineable: false

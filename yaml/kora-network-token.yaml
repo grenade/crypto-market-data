@@ -4,11 +4,11 @@ rank: 1516
 symbol: KNT
 name: Kora Network Token
 marketCap:
-  USD: "132859.414719"
   BTC: "12.0572076712"
+  USD: "132859.414719"
 price:
-  USD: "0.000395856729143"
   BTC: "3.59246411061e-08"
+  USD: "0.000395856729143"
 volume:
   BTC: "0.0"
   USD: "0.0"
@@ -16,6 +16,6 @@ supply:
   KNT: "335625000.0"
 change:
   1h: "0.00"
-  7d: "74.37"
-  24h: "1.78"
+  24h: "1.75"
+  7d: "73.56"
 isMineable: false

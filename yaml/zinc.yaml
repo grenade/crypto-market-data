@@ -1,21 +1,21 @@
 ---
 id: zinc
-rank: 1657
+rank: 1655
 symbol: ZINC
 name: ZINC
 marketCap:
-  USD: "41905.9817491"
   BTC: "4.48763836249"
+  USD: "41905.9817491"
 price:
   BTC: "8.22577951091e-07"
   USD: "0.00768130892492"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   ZINC: "5455578.23005"
 change:
-  24h: "0.00"
   1h: "0.00"
+  24h: "0.00"
   7d: "0.00"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: sentinel-chain
-rank: 844
+rank: 843
 symbol: SENC
 name: Sentinel Chain
 marketCap:
-  BTC: "90.6132911413"
-  USD: "1024117.93971"
+  BTC: "90.5711856271"
+  USD: "1022469.36435"
 price:
-  USD: "0.00519146182595"
-  BTC: "4.59337175575e-07"
+  BTC: "4.59123734172e-07"
+  USD: "0.00518310486263"
 volume:
-  USD: "7465.03307546"
-  BTC: "0.660501285268"
+  BTC: "0.660194368413"
+  USD: "7453.01622747"
 supply:
   SENC: "197269665.857"
 change:
-  1h: "0.14"
-  7d: "13.64"
-  24h: "4.94"
+  1h: "0.03"
+  24h: "4.83"
+  7d: "13.45"
 isMineable: false

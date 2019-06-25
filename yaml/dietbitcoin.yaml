@@ -4,18 +4,18 @@ rank: 1844
 symbol: DDX
 name: dietbitcoin
 marketCap:
-  USD: "1004.56187075"
-  BTC: "0.0888829828426"
+  BTC: "0.0888518084556"
+  USD: "1003.0591019"
 price:
-  USD: "0.000343497637214"
-  BTC: "3.03924481745e-08"
+  BTC: "3.03817884744e-08"
+  USD: "0.000342983783797"
 volume:
-  USD: "0.0"
   BTC: "0.0"
+  USD: "0.0"
 supply:
   DDX: "2924508.82312"
 change:
-  1h: "0.40"
-  7d: "-1.65"
-  24h: "2.84"
+  1h: "0.11"
+  24h: "2.65"
+  7d: "-1.77"
 isMineable: true

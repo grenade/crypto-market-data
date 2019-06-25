@@ -1,21 +1,21 @@
 ---
 id: uttoken
-rank: 1173
+rank: 1172
 symbol: UTT
 name: United Traders Token
 marketCap:
-  USD: "13526480.7523"
-  BTC: "1196.81424472"
+  BTC: "1197.01654523"
+  USD: "13513268.4599"
 price:
-  USD: "0.360619616227"
-  BTC: "3.19073897735e-05"
+  BTC: "3.19127831594e-05"
+  USD: "0.360267372959"
 volume:
-  USD: "234.691290321"
-  BTC: "0.0207653331648"
+  BTC: "0.0207684968486"
+  USD: "234.458140569"
 supply:
   UTT: "37508998.7999"
 change:
-  1h: "0.74"
-  7d: "18.81"
-  24h: "-2.55"
+  1h: "0.54"
+  24h: "-2.66"
+  7d: "18.72"
 isMineable: false

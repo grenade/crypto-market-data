@@ -1,21 +1,21 @@
 ---
 id: hiveterminal-token
-rank: 643
+rank: 644
 symbol: HVN
 name: Hiveterminal Token
 marketCap:
-  USD: "2798927.74289"
-  BTC: "247.647311521"
+  BTC: "247.511610092"
+  USD: "2794189.30964"
 price:
-  USD: "0.00682185806753"
-  BTC: "6.0359357768e-07"
+  BTC: "6.03262831062e-07"
+  USD: "0.00681030903088"
 volume:
-  BTC: "4.97674779767"
-  USD: "56247.5618844"
+  BTC: "4.9712272119"
+  USD: "56120.8014692"
 supply:
   HVN: "410288181.781"
 change:
-  24h: "8.57"
-  1h: "-0.24"
-  7d: "-0.53"
+  1h: "-0.56"
+  24h: "8.33"
+  7d: "-0.64"
 isMineable: false

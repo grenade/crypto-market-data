@@ -1,21 +1,21 @@
 ---
 id: data-exchange
-rank: 675
+rank: 679
 symbol: DTX
 name: DaTa eXchange
 marketCap:
-  USD: "2260112.12116"
-  BTC: "199.973254745"
+  BTC: "199.93009018"
+  USD: "2257035.62127"
 price:
-  BTC: "2.66077598874e-06"
-  USD: "0.0300722817735"
+  BTC: "2.66020165575e-06"
+  USD: "0.0300313469143"
 volume:
-  USD: "982.40789462"
-  BTC: "0.0869228134015"
+  BTC: "0.0869039573166"
+  USD: "981.06956845"
 supply:
   DTX: "75155990.4295"
 change:
-  1h: "0.16"
-  7d: "19.58"
-  24h: "0.71"
+  1h: "0.00"
+  24h: "0.55"
+  7d: "19.44"
 isMineable: false

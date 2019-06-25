@@ -1,21 +1,21 @@
 ---
 id: stealth
-rank: 512
+rank: 513
 symbol: XST
 name: Stealth
 marketCap:
-  USD: "4985049.5551"
-  BTC: "441.211172649"
+  BTC: "441.21250532"
+  USD: "4980902.77536"
 price:
-  USD: "0.153886345472"
   BTC: "1.362e-05"
+  USD: "0.153757871734"
 volume:
   BTC: "0.71755064"
-  USD: "8107.28676069"
+  USD: "8100.51830162"
 supply:
-  XST: "32394359.2254"
+  XST: "32394457.0719"
 change:
-  7d: "4.43"
-  1h: "0.95"
-  24h: "2.96"
+  1h: "0.73"
+  24h: "2.80"
+  7d: "4.46"
 isMineable: true

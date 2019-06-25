@@ -1,11 +1,11 @@
 ---
 id: vit
-rank: 1475
+rank: 1473
 symbol: VIT
 name: VIT
 marketCap:
-  USD: "175646.76372"
   BTC: "17.7530550263"
+  USD: "175646.76372"
 price:
   BTC: "3.11628077094e-08"
   USD: "0.000308321374235"
@@ -16,6 +16,6 @@ supply:
   VIT: "569687275.674"
 change:
   1h: "0.00"
-  7d: "-55.03"
   24h: "0.00"
+  7d: "-55.03"
 isMineable: false

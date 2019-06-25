@@ -1,21 +1,21 @@
 ---
 id: communitygeneration
-rank: 1640
+rank: 1639
 symbol: CGEN
 name: CommunityGeneration
 marketCap:
-  USD: "47407.4166887"
-  BTC: "4.19457748378"
+  BTC: "4.19643037074"
+  USD: "47374.023692"
 price:
-  BTC: "9.99688990341e-09"
-  USD: "0.000112985569363"
+  BTC: "1.00013058683e-08"
+  USD: "0.000112905984205"
 volume:
-  USD: "0.00428915818414"
-  BTC: "3.79501934513e-07"
+  BTC: "3.79669573371e-07"
+  USD: "0.00428613697238"
 supply:
   CGEN: "419588244.375"
 change:
-  24h: "4.50"
-  1h: "1.02"
-  7d: "22.31"
+  1h: "0.77"
+  24h: "4.42"
+  7d: "22.25"
 isMineable: true

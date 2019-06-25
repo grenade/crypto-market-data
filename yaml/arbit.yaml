@@ -4,8 +4,8 @@ rank: 1791
 symbol: ARB
 name: ARbit
 marketCap:
-  USD: "9321.38228157"
   BTC: "0.866404"
+  USD: "9321.38228157"
 price:
   BTC: "8e-08"
   USD: "0.000860696144669"
@@ -15,7 +15,7 @@ volume:
 supply:
   ARB: "10830050.0"
 change:
+  1h: "0.00"
   24h: "0.00"
   7d: "36.50"
-  1h: "0.00"
 isMineable: true

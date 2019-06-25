@@ -1,21 +1,21 @@
 ---
 id: valor-token
-rank: 1930
+rank: 1929
 symbol: VALOR
 name: Valor Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "3.08492635426"
-  BTC: "0.000272952283178"
+  BTC: "0.000276975221942"
+  USD: "3.12680768347"
 volume:
-  BTC: "39.8364718796"
-  USD: "450234.673004"
+  BTC: "40.5883814631"
+  USD: "458207.279802"
 supply:
   VALOR: "0"
 change:
-  7d: "-12.76"
-  24h: "-1.67"
-  1h: "-2.01"
+  1h: "-1.41"
+  24h: "-0.30"
+  7d: "-11.60"
 isMineable: false

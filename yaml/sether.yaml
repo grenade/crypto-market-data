@@ -1,6 +1,6 @@
 ---
 id: sether
-rank: 1287
+rank: 1286
 symbol: SETH
 name: Sether
 marketCap:
@@ -15,7 +15,7 @@ volume:
 supply:
   SETH: "20136682.8653"
 change:
-  24h: "-0.22"
   1h: "0.00"
-  7d: "26.35"
+  24h: "-0.23"
+  7d: "26.75"
 isMineable: false

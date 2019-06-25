@@ -1,21 +1,21 @@
 ---
 id: golfcoin
-rank: 1331
+rank: 1330
 symbol: GOLF
 name: Golfcoin
 marketCap:
-  USD: "488744.199204"
   BTC: "52.7366204648"
+  USD: "488744.199204"
 price:
   BTC: "1.85916348977e-09"
   USD: "1.72300644787e-05"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
   GOLF: "28365778886.6"
 change:
-  7d: "0.00"
   1h: "0.00"
   24h: "0.00"
+  7d: "0.00"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: tagcoin
-rank: 1386
+rank: 1385
 symbol: TAG
 name: TagCoin
 marketCap:
-  USD: "326534.207557"
   BTC: "30.4164510605"
+  USD: "326534.207557"
 price:
   BTC: "4.72755463924e-06"
   USD: "0.0507524137098"
 volume:
-  USD: "0.0"
   BTC: "0.0"
+  USD: "0.0"
 supply:
   TAG: "6433865.57779"
 change:
-  24h: "0.00"
-  7d: "54.75"
   1h: "0.00"
+  24h: "0.00"
+  7d: "54.79"
 isMineable: true

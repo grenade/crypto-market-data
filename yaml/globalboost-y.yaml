@@ -1,21 +1,21 @@
 ---
 id: globalboost-y
-rank: 959
+rank: 958
 symbol: BSTY
 name: GlobalBoost-Y
 marketCap:
-  BTC: "43.4011672697"
-  USD: "490370.559497"
+  BTC: "43.4074699742"
+  USD: "490032.320161"
 price:
-  BTC: "2.54e-06"
-  USD: "0.0286983346181"
+  BTC: "2.54033169054e-06"
+  USD: "0.028678119988"
 volume:
-  BTC: "0.0536305"
-  USD: "605.94725777"
+  BTC: "0.0536375034368"
+  USD: "605.520438589"
 supply:
-  BSTY: "17087073.7282"
+  BSTY: "17087323.7285"
 change:
-  24h: "-0.74"
-  7d: "-12.37"
-  1h: "0.95"
+  1h: "0.78"
+  24h: "-0.61"
+  7d: "-10.49"
 isMineable: true

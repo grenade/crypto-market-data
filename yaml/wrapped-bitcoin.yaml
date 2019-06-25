@@ -4,18 +4,18 @@ rank: 2092
 symbol: WBTC
 name: Wrapped Bitcoin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "0.995978290102"
-  USD: "11256.618335"
+  BTC: "0.993567054547"
+  USD: "11216.5018893"
 volume:
-  USD: "967.246502006"
-  BTC: "0.0855813432155"
+  BTC: "0.0853738876399"
+  USD: "963.796421821"
 supply:
   WBTC: "0"
 change:
-  24h: "6.87"
-  1h: "0.78"
-  7d: "21.85"
+  1h: "0.29"
+  24h: "6.42"
+  7d: "21.42"
 isMineable: false

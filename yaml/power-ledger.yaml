@@ -1,21 +1,21 @@
 ---
 id: power-ledger
-rank: 126
+rank: 127
 symbol: POWR
 name: Power Ledger
 marketCap:
-  USD: "47937964.8905"
-  BTC: "4241.52004461"
+  BTC: "4233.06269995"
+  USD: "47787570.6069"
 price:
-  USD: "0.117290306778"
-  BTC: "1.03777702782e-05"
+  BTC: "1.03570776069e-05"
+  USD: "0.116922335553"
 volume:
-  BTC: "102.078126525"
-  USD: "1153694.33457"
+  BTC: "102.137757154"
+  USD: "1153045.827"
 supply:
   POWR: "408712076.96"
 change:
-  24h: "0.50"
-  7d: "-1.33"
-  1h: "-0.29"
+  1h: "-0.53"
+  24h: "0.19"
+  7d: "-1.64"
 isMineable: false

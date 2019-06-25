@@ -4,8 +4,8 @@ rank: 1484
 symbol: SGN
 name: Signals Network
 marketCap:
-  USD: "163077.498275"
   BTC: "14.9418517946"
+  USD: "163077.498275"
 price:
   BTC: "1.69526479263e-07"
   USD: "0.00185023613603"
@@ -15,7 +15,7 @@ volume:
 supply:
   SGN: "88138748.9409"
 change:
-  7d: "52.14"
-  24h: "0.70"
   1h: "0.00"
+  24h: "0.66"
+  7d: "52.18"
 isMineable: false

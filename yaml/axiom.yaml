@@ -4,8 +4,8 @@ rank: 2166
 symbol: AXIOM
 name: Axiom
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
   BTC: "6.29853961863e-07"
   USD: "0.00689635756072"
@@ -15,7 +15,7 @@ volume:
 supply:
   AXIOM: "0"
 change:
-  7d: "24.02"
   1h: "0.00"
-  24h: "1.70"
+  24h: "1.66"
+  7d: "24.02"
 isMineable: true

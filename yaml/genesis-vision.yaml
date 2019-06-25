@@ -1,21 +1,21 @@
 ---
 id: genesis-vision
-rank: 268
+rank: 267
 symbol: GVT
 name: Genesis Vision
 marketCap:
-  USD: "15509216.6141"
-  BTC: "1372.24542793"
+  BTC: "1368.40726961"
+  USD: "15448119.636"
 price:
-  BTC: "0.000309980031379"
-  USD: "3.50341663004"
+  BTC: "0.000309113019974"
+  USD: "3.48961527729"
 volume:
-  USD: "5801927.59006"
-  BTC: "513.350790482"
+  BTC: "510.327471897"
+  USD: "5761150.21781"
 supply:
   GVT: "4426883.31189"
 change:
-  7d: "2.96"
-  1h: "-0.78"
-  24h: "-7.06"
+  1h: "-1.12"
+  24h: "-7.78"
+  7d: "2.56"
 isMineable: false

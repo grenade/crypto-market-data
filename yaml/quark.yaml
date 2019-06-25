@@ -1,21 +1,21 @@
 ---
 id: quark
-rank: 1244
+rank: 1243
 symbol: QRK
 name: Quark
 marketCap:
-  USD: "1360501.39938"
-  BTC: "168.159164034"
+  BTC: "168.15920563"
+  USD: "1360501.73592"
 price:
   BTC: "6.49939205023e-07"
   USD: "0.00525837056235"
 volume:
-  USD: "0"
   BTC: "0"
+  USD: "0"
 supply:
-  QRK: "258730605.47"
+  QRK: "258730669.47"
 change:
   1h: "0.00"
-  7d: "0.00"
   24h: "0.00"
+  7d: "0.00"
 isMineable: true

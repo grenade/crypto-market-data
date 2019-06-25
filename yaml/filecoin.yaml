@@ -1,21 +1,21 @@
 ---
 id: filecoin
-rank: 1869
+rank: 1870
 symbol: FIL
 name: "Filecoin [Futures]"
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.000568534551313"
-  USD: "6.42561842764"
+  BTC: "0.000569301269122"
+  USD: "6.42691273978"
 volume:
-  USD: "5391708.50597"
-  BTC: "477.054871959"
+  BTC: "478.157750307"
+  USD: "5397982.23498"
 supply:
   FIL: "0"
 change:
-  7d: "21.82"
-  24h: "4.20"
-  1h: "0.69"
+  1h: "0.33"
+  24h: "4.11"
+  7d: "21.88"
 isMineable: true

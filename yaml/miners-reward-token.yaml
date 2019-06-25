@@ -1,21 +1,21 @@
 ---
 id: miners-reward-token
-rank: 1259
+rank: 1251
 symbol: MRT
 name: "Miners' Reward Token"
 marketCap:
-  USD: "1009854.36258"
-  BTC: "89.3790568369"
+  BTC: "96.9126538635"
+  USD: "1094058.98694"
 price:
-  USD: "0.100985436258"
-  BTC: "8.93790568369e-06"
+  BTC: "9.69126538635e-06"
+  USD: "0.109405898694"
 volume:
-  USD: "0.0"
-  BTC: "0.0"
+  BTC: "0.001900508749"
+  USD: "21.4550793289"
 supply:
   MRT: "10000000.0"
 change:
-  7d: "35.98"
-  24h: "-4.28"
-  1h: "-1.69"
+  1h: "5.68"
+  24h: "3.69"
+  7d: "47.35"
 isMineable: false

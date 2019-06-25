@@ -1,21 +1,21 @@
 ---
 id: roulettetoken
-rank: 1110
+rank: 1113
 symbol: RLT
 name: RouletteToken
 marketCap:
-  USD: "88699.3086264"
-  BTC: "7.85049888466"
+  BTC: "7.66531659701"
+  USD: "86534.7111693"
 price:
-  USD: "0.00867976786722"
-  BTC: "7.68219155436e-07"
+  BTC: "7.5009794012e-07"
+  USD: "0.00846794881536"
 volume:
-  BTC: "0.132854081123"
-  USD: "1501.05939978"
+  BTC: "0.130235441851"
+  USD: "1470.24407955"
 supply:
   RLT: "10219087.6511"
 change:
-  7d: "21.05"
-  1h: "2.05"
-  24h: "5.71"
+  1h: "-0.10"
+  24h: "3.02"
+  7d: "18.11"
 isMineable: false

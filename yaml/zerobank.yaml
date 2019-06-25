@@ -4,18 +4,18 @@ rank: 1959
 symbol: ZB
 name: Zerobank
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.0364252520056"
-  BTC: "3.22288267483e-06"
+  BTC: "3.20430925198e-06"
+  USD: "0.0361738451515"
 volume:
-  BTC: "13.3043304755"
-  USD: "150366.50081"
+  BTC: "13.3170688944"
+  USD: "150338.044856"
 supply:
   ZB: "0"
 change:
-  7d: "8.11"
-  1h: "3.78"
-  24h: "-0.74"
+  1h: "3.34"
+  24h: "-1.45"
+  7d: "7.47"
 isMineable: false

@@ -4,18 +4,18 @@ rank: 2105
 symbol: SUP
 name: Superior Coin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.000112985569363"
-  BTC: "9.99688990341e-09"
+  BTC: "1.00013058683e-08"
+  USD: "0.000112905984205"
 volume:
-  USD: "480.308551453"
-  BTC: "0.0424973891412"
+  BTC: "0.0425161616773"
+  USD: "479.970230089"
 supply:
   SUP: "0"
 change:
-  24h: "4.96"
-  1h: "0.99"
-  7d: "22.30"
+  1h: "0.79"
+  24h: "4.84"
+  7d: "22.24"
 isMineable: true

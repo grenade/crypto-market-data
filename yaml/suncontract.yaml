@@ -1,21 +1,21 @@
 ---
 id: suncontract
-rank: 510
+rank: 507
 symbol: SNC
 name: SunContract
 marketCap:
-  BTC: "447.291422013"
-  USD: "5053747.5987"
+  BTC: "455.719728355"
+  USD: "5144676.61815"
 price:
-  BTC: "3.64518397161e-06"
-  USD: "0.0411853186463"
+  BTC: "3.71387012492e-06"
+  USD: "0.0419263411384"
 volume:
-  BTC: "67.7156981213"
-  USD: "765089.670701"
+  BTC: "67.9155198771"
+  USD: "766706.73965"
 supply:
   SNC: "122707502.693"
 change:
-  24h: "3.42"
-  1h: "0.44"
-  7d: "4.16"
+  1h: "2.25"
+  24h: "5.26"
+  7d: "6.07"
 isMineable: false

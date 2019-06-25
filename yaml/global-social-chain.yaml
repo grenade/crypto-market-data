@@ -1,21 +1,21 @@
 ---
 id: global-social-chain
-rank: 471
+rank: 469
 symbol: GSC
 name: Global Social Chain
 marketCap:
-  USD: "6156563.31968"
-  BTC: "544.72872985"
+  BTC: "544.513457425"
+  USD: "6147080.05464"
 price:
-  BTC: "1.0099089091e-06"
-  USD: "0.0114140631938"
+  BTC: "1.0095098012e-06"
+  USD: "0.0113964815365"
 volume:
-  BTC: "14.0174557825"
-  USD: "158426.294368"
+  BTC: "14.0099534472"
+  USD: "158160.104636"
 supply:
   GSC: "539384022.6"
 change:
-  24h: "1.02"
-  7d: "4.22"
-  1h: "0.01"
+  1h: "-0.09"
+  24h: "0.83"
+  7d: "4.09"
 isMineable: false

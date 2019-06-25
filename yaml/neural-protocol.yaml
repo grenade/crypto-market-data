@@ -1,21 +1,21 @@
 ---
 id: neural-protocol
-rank: 1151
+rank: 1149
 symbol: NRP
 name: Neural Protocol
 marketCap:
-  BTC: "1.92478851759"
-  USD: "21754.0983909"
+  BTC: "1.9502128288"
+  USD: "22016.1948594"
 price:
-  USD: "2.29038872431e-06"
-  BTC: "2.02652108956e-10"
+  BTC: "2.05328917467e-10"
+  USD: "2.3179836531e-06"
 volume:
-  BTC: "0.300945136329"
-  USD: "3401.30359577"
+  BTC: "0.316512752261"
+  USD: "3573.15177418"
 supply:
   NRP: "9497994013.0"
 change:
-  1h: "-0.32"
-  24h: "-2.87"
-  7d: "-9.19"
+  1h: "0.68"
+  24h: "-1.73"
+  7d: "-8.08"
 isMineable: false

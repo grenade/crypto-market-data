@@ -1,21 +1,21 @@
 ---
 id: x8x-token
-rank: 1275
+rank: 1274
 symbol: X8X
 name: X8X Token
 marketCap:
-  USD: "881783.320757"
-  BTC: "78.0196163637"
+  BTC: "77.9725178891"
+  USD: "880241.439385"
 price:
-  BTC: "9.9378753e-07"
-  USD: "0.0112318582066"
+  BTC: "9.93187605534e-07"
+  USD: "0.0112122182423"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   X8X: "78507340.8636"
 change:
-  7d: "-16.67"
-  24h: "-9.44"
-  1h: "0.18"
+  1h: "-0.07"
+  24h: "-9.63"
+  7d: "-16.73"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: sonder
-rank: 1620
+rank: 1619
 symbol: SNR
 name: SONDER
 marketCap:
-  USD: "57622.2093728"
   BTC: "5.22607430703"
+  USD: "57622.2093728"
 price:
   BTC: "3.09456508068e-08"
   USD: "0.000341203868374"
 volume:
-  USD: "0.0"
   BTC: "0.0"
+  USD: "0.0"
 supply:
   SNR: "168879121.0"
 change:
   1h: "0.00"
-  7d: "-13.38"
-  24h: "1.29"
+  24h: "1.25"
+  7d: "-13.35"
 isMineable: false

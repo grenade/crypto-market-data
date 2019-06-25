@@ -1,21 +1,21 @@
 ---
 id: content-neutrality-network
-rank: 393
+rank: 391
 symbol: CNN
 name: Content Neutrality Network
 marketCap:
-  USD: "8819701.24259"
-  BTC: "780.361446164"
+  BTC: "783.311065304"
+  USD: "8842895.91095"
 price:
-  BTC: "1.99912122918e-08"
-  USD: "0.000225942120485"
+  BTC: "2.00667753052e-08"
+  USD: "0.000226536318906"
 volume:
-  BTC: "122.209353724"
-  USD: "1381218.91362"
+  BTC: "122.07377534"
+  USD: "1378106.01254"
 supply:
   CNN: "39035223816.0"
 change:
-  7d: "21.25"
-  1h: "-5.54"
-  24h: "3.54"
+  1h: "-4.56"
+  24h: "3.62"
+  7d: "21.58"
 isMineable: false

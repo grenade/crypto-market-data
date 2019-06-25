@@ -1,21 +1,21 @@
 ---
 id: infinitecoin
-rank: 2084
+rank: 2085
 symbol: IFC
 name: Infinitecoin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "1.8077691098e-05"
   BTC: "1.6e-09"
+  USD: "1.80625987353e-05"
 volume:
-  USD: "2121.50040433"
   BTC: "0.1877673774"
+  USD: "2119.72924598"
 supply:
   IFC: "0"
 change:
-  7d: "2.67"
-  1h: "-3.08"
-  24h: "-1.21"
+  1h: "-1.90"
+  24h: "-1.36"
+  7d: "2.46"
 isMineable: true
