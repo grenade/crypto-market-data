@@ -1,21 +1,21 @@
 ---
 id: spectre-dividend
-rank: 1167
+rank: 1168
 symbol: SXDT
 name: Spectre.ai Dividend Token
 marketCap:
-  BTC: "2039.96126236"
-  USD: "22973884.2352"
+  BTC: "2050.32000031"
+  USD: "23172864.2456"
 price:
-  USD: "0.279918353938"
-  BTC: "2.48552918962e-05"
+  USD: "0.282342765779"
+  BTC: "2.49815048102e-05"
 volume:
-  BTC: "0.0293729897512"
-  USD: "330.796313949"
+  USD: "333.661386886"
+  BTC: "0.0295221431245"
 supply:
   SXDT: "82073518.6244"
 change:
-  7d: "2.02"
-  1h: "42.10"
-  24h: "-4.78"
+  1h: "23.58"
+  24h: "-4.04"
+  7d: "3.01"
 isMineable: false

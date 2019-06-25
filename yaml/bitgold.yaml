@@ -1,11 +1,11 @@
 ---
 id: bitgold
-rank: 1537
+rank: 1536
 symbol: BITGOLD
 name: bitGold
 marketCap:
-  USD: "110838.515891"
   BTC: "11.8695029968"
+  USD: "110838.515891"
 price:
   BTC: "0.0626408580987"
   USD: "584.946121811"
@@ -16,6 +16,6 @@ supply:
   BITGOLD: "189.485"
 change:
   7d: "0.00"
-  1h: "0.00"
   24h: "0.00"
+  1h: "0.00"
 isMineable: false

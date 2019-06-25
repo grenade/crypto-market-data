@@ -4,18 +4,18 @@ rank: 2085
 symbol: HPY
 name: Hyper Pay
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "2.78799793208e-07"
-  USD: "0.00313982147217"
+  BTC: "2.94417462729e-07"
+  USD: "0.00332752735882"
 volume:
-  USD: "1981.49925748"
-  BTC: "0.175946813576"
+  BTC: "0.185812130801"
+  USD: "2100.06207889"
 supply:
   HPY: "0"
 change:
-  1h: "-4.15"
-  7d: "10.94"
-  24h: "1.29"
+  7d: "17.61"
+  1h: "4.96"
+  24h: "7.74"
 isMineable: false

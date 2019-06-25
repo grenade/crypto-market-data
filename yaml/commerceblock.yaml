@@ -1,21 +1,21 @@
 ---
 id: commerceblock
-rank: 525
+rank: 524
 symbol: CBT
 name: CommerceBlock
 marketCap:
-  USD: "4695911.43691"
-  BTC: "416.972477299"
+  BTC: "416.791821117"
+  USD: "4710611.16702"
 price:
-  USD: "0.0270242331543"
-  BTC: "2.39961115043e-06"
+  BTC: "2.39857150246e-06"
+  USD: "0.0271088277935"
 volume:
-  BTC: "0.154078730508"
-  USD: "1735.2226158"
+  BTC: "0.15402388568"
+  USD: "1740.7890441"
 supply:
   CBT: "173766686.0"
 change:
-  7d: "-1.16"
-  1h: "0.82"
-  24h: "-20.95"
+  1h: "0.78"
+  7d: "-0.96"
+  24h: "-21.25"
 isMineable: false

@@ -1,11 +1,11 @@
 ---
 id: cazcoin
-rank: 1658
+rank: 1659
 symbol: CAZ
 name: Cazcoin
 marketCap:
-  BTC: "3.71432329777"
   USD: "40953.7659251"
+  BTC: "3.71432329777"
 price:
   BTC: "9.00146369646e-08"
   USD: "0.000992492595972"
@@ -16,6 +16,6 @@ supply:
   CAZ: "41263548.052"
 change:
   1h: "0.00"
-  7d: "-10.51"
-  24h: "2.56"
+  7d: "-10.27"
+  24h: "2.45"
 isMineable: false

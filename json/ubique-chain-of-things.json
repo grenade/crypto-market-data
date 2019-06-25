@@ -1,27 +1,27 @@
 {
   "id": "ubique-chain-of-things",
-  "rank": 1951,
+  "rank": 1952,
   "symbol": "UCT",
   "name": "Ubique Chain Of Things",
   "marketCap": {
-    "USD": "",
-    "BTC": ""
+    "BTC": "",
+    "USD": ""
   },
   "price": {
-    "USD": "0.0163711713365",
-    "BTC": "1.45367474668e-06"
+    "BTC": "1.46024951143e-06",
+    "USD": "0.0165038451013"
   },
   "volume": {
-    "USD": "182196.348147",
-    "BTC": "16.1780867596"
+    "USD": "183710.701675",
+    "BTC": "16.2546037435"
   },
   "supply": {
     "UCT": "0"
   },
   "change": {
-    "24h": "1.68",
-    "1h": "1.86",
-    "7d": "3.91"
+    "7d": "4.89",
+    "1h": "2.21",
+    "24h": "3.19"
   },
   "isMineable": false
 }

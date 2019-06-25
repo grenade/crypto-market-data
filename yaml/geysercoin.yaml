@@ -1,21 +1,21 @@
 ---
 id: geysercoin
-rank: 1670
+rank: 1671
 symbol: GSR
 name: GeyserCoin
 marketCap:
-  USD: "37351.0696868"
-  BTC: "3.38195123027"
+  USD: "37351.1871824"
+  BTC: "3.38196186889"
 price:
   USD: "0.0348134909566"
   BTC: "3.15218625752e-06"
 volume:
-  USD: "3.09793910586"
-  BTC: "0.00027508085722"
+  USD: "3.10329882318"
+  BTC: "0.000274663290249"
 supply:
-  GSR: "1072890.67142"
+  GSR: "1072894.04642"
 change:
   1h: "0.00"
-  24h: "2.81"
   7d: "-0.84"
+  24h: "2.67"
 isMineable: true

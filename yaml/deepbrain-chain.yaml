@@ -1,21 +1,21 @@
 ---
 id: deepbrain-chain
-rank: 366
+rank: 365
 symbol: DBC
 name: DeepBrain Chain
 marketCap:
-  USD: "9730163.68435"
-  BTC: "863.987856352"
+  BTC: "868.455948282"
+  USD: "9815351.64746"
 price:
-  USD: "0.00304067615136"
-  BTC: "2.6999620511e-07"
+  BTC: "2.71392483838e-07"
+  USD: "0.00306729738983"
 volume:
-  BTC: "29.6631702559"
-  USD: "334064.304104"
+  USD: "335157.15204"
+  BTC: "29.6544874552"
 supply:
   DBC: "3200000000.0"
 change:
-  1h: "0.12"
-  7d: "-0.54"
-  24h: "4.46"
+  7d: "0.38"
+  1h: "0.47"
+  24h: "5.14"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: hypnoxys
-rank: 1070
+rank: 1073
 symbol: HYPX
 name: HYPNOXYS
 marketCap:
-  BTC: "15.1473488054"
-  USD: "170588.257898"
+  USD: "166801.836286"
+  BTC: "14.7585182997"
 price:
-  USD: "8.56e-06"
-  BTC: "7.60083415891e-10"
+  BTC: "7.40572171859e-10"
+  USD: "8.37e-06"
 volume:
-  USD: "604.00709056"
-  BTC: "0.0536326837167"
+  BTC: "0.0522993252682"
+  USD: "591.0907392"
 supply:
   HYPX: "19928534801.2"
 change:
-  1h: "0.08"
-  24h: "-25.57"
-  7d: "58.01"
+  1h: "-2.16"
+  24h: "-26.84"
+  7d: "54.58"
 isMineable: false

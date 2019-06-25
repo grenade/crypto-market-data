@@ -1,21 +1,21 @@
 ---
 id: ofcoin
-rank: 1968
+rank: 1969
 symbol: OF
 name: OFCOIN
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.6775165456e-08"
-  USD: "0.000188920601741"
+  USD: "0.000188446888128"
+  BTC: "1.66736584493e-08"
 volume:
-  USD: "127255.471354"
-  BTC: "11.2996230558"
+  BTC: "11.279749797"
+  USD: "127484.544233"
 supply:
   OF: "0"
 change:
-  7d: "5.10"
-  1h: "-1.15"
-  24h: "5.33"
+  24h: "5.14"
+  7d: "4.93"
+  1h: "-1.78"
 isMineable: false

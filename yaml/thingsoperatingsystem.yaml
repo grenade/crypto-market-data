@@ -4,18 +4,18 @@ rank: 1926
 symbol: TOS
 name: ThingsOperatingSystem
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "4.54197281655e-07"
-  USD: "0.005115134273"
+  USD: "0.00513559384934"
+  BTC: "4.54394013237e-07"
 volume:
-  USD: "512646.487269"
-  BTC: "45.5203379893"
+  USD: "515498.680925"
+  BTC: "45.6109889753"
 supply:
   TOS: "0"
 change:
-  24h: "4.43"
-  7d: "-5.00"
-  1h: "-2.44"
+  1h: "-0.58"
+  24h: "4.83"
+  7d: "-4.06"
 isMineable: false

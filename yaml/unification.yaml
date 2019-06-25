@@ -1,21 +1,21 @@
 ---
 id: unification
-rank: 661
+rank: 663
 symbol: UND
 name: Unification
 marketCap:
-  BTC: "221.096468886"
-  USD: "2489971.1454"
+  USD: "2465868.04818"
+  BTC: "218.17840573"
 price:
-  BTC: "5.71959176419e-06"
-  USD: "0.0644135952422"
+  BTC: "5.64410376533e-06"
+  USD: "0.0637900670737"
 volume:
-  USD: "792671.001511"
-  BTC: "70.3850563675"
+  USD: "800079.712802"
+  BTC: "70.7905341183"
 supply:
   UND: "38655987.7"
 change:
-  7d: "-3.10"
-  1h: "4.48"
-  24h: "13.99"
+  24h: "15.58"
+  7d: "-4.10"
+  1h: "2.68"
 isMineable: false

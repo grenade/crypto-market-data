@@ -1,21 +1,21 @@
 ---
 id: atomic-wallet-coin
-rank: 1952
+rank: 1951
 symbol: AWC
 name: Atomic Wallet Coin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.39821163796e-05"
-  USD: "0.157465501427"
+  BTC: "1.39978490868e-05"
+  USD: "0.158204698082"
 volume:
-  BTC: "16.0366046128"
-  USD: "180602.987272"
+  BTC: "16.28583535"
+  USD: "184063.683539"
 supply:
   AWC: "0"
 change:
-  1h: "-1.24"
-  7d: "10.51"
-  24h: "-1.15"
+  1h: "-0.54"
+  7d: "11.15"
+  24h: "-0.94"
 isMineable: false

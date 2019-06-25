@@ -1,27 +1,27 @@
 {
   "id": "decentralized-asset-trading-platform",
-  "rank": 1139,
+  "rank": 1140,
   "symbol": "DATP",
   "name": "Decentralized Asset Trading Platform",
   "marketCap": {
-    "BTC": "3.12383377775",
-    "USD": "35180.3717573"
+    "USD": "35232.9270641",
+    "BTC": "3.11738653726"
   },
   "price": {
-    "BTC": "2.64269870702e-10",
-    "USD": "2.97618662099e-06"
+    "USD": "2.98063269115e-06",
+    "BTC": "2.63724447503e-10"
   },
   "volume": {
-    "USD": "32685.0670098",
-    "BTC": "2.90226371278"
+    "BTC": "2.9142919943",
+    "USD": "32937.5379189"
   },
   "supply": {
     "DATP": "11820620222.2"
   },
   "change": {
-    "1h": "0.40",
-    "24h": "-0.68",
-    "7d": "-44.27"
+    "7d": "-44.16",
+    "24h": "-0.52",
+    "1h": "0.47"
   },
   "isMineable": false
 }

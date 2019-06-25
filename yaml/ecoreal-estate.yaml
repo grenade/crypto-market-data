@@ -1,21 +1,21 @@
 ---
 id: ecoreal-estate
-rank: 143
+rank: 141
 symbol: ECOREAL
 name: Ecoreal Estate
 marketCap:
-  BTC: "3663.14886651"
-  USD: "41254096.1186"
+  BTC: "3669.88043915"
+  USD: "41477252.9172"
 price:
-  BTC: "1.75068638938e-05"
-  USD: "0.197160932337"
+  BTC: "1.75390353207e-05"
+  USD: "0.198227439826"
 volume:
-  BTC: "4.94815660489"
-  USD: "55725.7527955"
+  BTC: "4.95897997096"
+  USD: "56046.7486278"
 supply:
   ECOREAL: "209240723.452"
 change:
-  7d: "4.13"
-  1h: "14.28"
-  24h: "-2.80"
+  7d: "4.81"
+  24h: "-2.32"
+  1h: "10.57"
 isMineable: false

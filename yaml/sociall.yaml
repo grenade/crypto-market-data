@@ -4,8 +4,8 @@ rank: 1402
 symbol: SCL
 name: Sociall
 marketCap:
-  BTC: "24.3983588167"
   USD: "268390.33241"
+  BTC: "24.3983588167"
 price:
   BTC: "1.45975410504e-06"
   USD: "0.0160577968556"
@@ -15,7 +15,7 @@ volume:
 supply:
   SCL: "16714019.6643"
 change:
-  7d: "4.06"
-  24h: "2.31"
   1h: "0.00"
+  7d: "2.92"
+  24h: "2.17"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: bitcoin-planet
-rank: 1795
+rank: 1796
 symbol: BTPL
 name: Bitcoin Planet
 marketCap:
-  USD: "8418.84592901"
-  BTC: "0.748145203975"
+  USD: "8437.18377654"
+  BTC: "0.746748794929"
 price:
-  USD: "0.00123727182483"
-  BTC: "1.09950816248e-07"
+  BTC: "1.09745593634e-07"
+  USD: "0.00123996683817"
 volume:
-  BTC: "0.0"
   USD: "0.0"
+  BTC: "0.0"
 supply:
   BTPL: "6804362.43682"
 change:
-  7d: "10.97"
-  24h: "4.61"
+  7d: "11.23"
   1h: "0.72"
+  24h: "4.72"
 isMineable: true

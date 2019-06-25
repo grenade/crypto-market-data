@@ -4,18 +4,18 @@ rank: 1867
 symbol: BTMX
 name: BitMax Token
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.105121086933"
-  BTC: "9.33420500445e-06"
+  USD: "0.105667202244"
+  BTC: "9.34936552688e-06"
 volume:
-  USD: "6797225.61691"
-  BTC: "603.558231949"
+  BTC: "605.964953458"
+  USD: "6848659.52729"
 supply:
   BTMX: "0"
 change:
-  7d: "1.91"
-  24h: "-7.53"
-  1h: "-0.32"
+  1h: "1.09"
+  24h: "-6.80"
+  7d: "2.48"
 isMineable: false

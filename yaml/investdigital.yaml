@@ -1,21 +1,21 @@
 ---
 id: investdigital
-rank: 1969
+rank: 1968
 symbol: IDT
 name: InvestDigital
 marketCap:
   USD: ""
   BTC: ""
 price:
-  USD: "0.0273816007179"
-  BTC: "2.43134352877e-06"
+  USD: "0.0274080214151"
+  BTC: "2.42504396006e-06"
 volume:
-  BTC: "11.1595826653"
-  USD: "125678.347426"
+  BTC: "11.4510250034"
+  USD: "129420.308946"
 supply:
   IDT: "0"
 change:
-  1h: "-0.69"
-  7d: "-30.18"
-  24h: "-6.80"
+  1h: "-1.03"
+  24h: "-6.48"
+  7d: "-30.10"
 isMineable: false

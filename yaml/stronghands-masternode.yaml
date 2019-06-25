@@ -1,21 +1,21 @@
 ---
 id: stronghands-masternode
-rank: 997
+rank: 999
 symbol: SHMN
 name: StrongHands Masternode
 marketCap:
-  BTC: "33.206218046"
-  USD: "373965.83129"
+  BTC: "33.2233717284"
+  USD: "375492.939019"
 price:
-  BTC: "2.58793832256e-05"
-  USD: "0.291451590417"
+  BTC: "2.58919448498e-05"
+  USD: "0.292632624649"
 volume:
-  USD: "20889.1335449"
-  BTC: "1.85484625932"
+  USD: "20973.7815023"
+  BTC: "1.85574658533"
 supply:
-  SHMN: "1283114.73873"
+  SHMN: "1283154.73871"
 change:
-  7d: "-22.18"
-  24h: "163.75"
-  1h: "0.81"
+  7d: "-21.70"
+  1h: "1.02"
+  24h: "134.52"
 isMineable: true

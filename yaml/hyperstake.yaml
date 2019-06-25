@@ -1,21 +1,21 @@
 ---
 id: hyperstake
-rank: 1339
+rank: 1338
 symbol: HYP
 name: HyperStake
 marketCap:
-  USD: "464557.288994"
-  BTC: "41.2831296193"
+  BTC: "41.3015965966"
+  USD: "466648.440705"
 price:
-  USD: "0.000337437770407"
-  BTC: "2.99865862493e-08"
+  USD: "0.000338956708088"
+  BTC: "3e-08"
 volume:
-  BTC: "0.0"
   USD: "0.0"
+  BTC: "0.0"
 supply:
   HYP: "1376719886.55"
 change:
-  1h: "0.72"
-  24h: "4.62"
-  7d: "-6.42"
+  1h: "0.95"
+  24h: "4.97"
+  7d: "-6.64"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: nucleus-vision
-rank: 295
+rank: 297
 symbol: NCASH
 name: Nucleus Vision
 marketCap:
-  BTC: "1188.45756889"
-  USD: "13384316.2172"
+  BTC: "1188.39145273"
+  USD: "13431285.7508"
 price:
-  USD: "0.00229671916648"
-  BTC: "2.03936699696e-07"
+  BTC: "2.03925354309e-07"
+  USD: "0.00230477903494"
 volume:
-  BTC: "90.2528084001"
-  USD: "1016420.07147"
+  BTC: "91.8004459418"
+  USD: "1037535.24873"
 supply:
   NCASH: "5827580669.21"
 change:
-  24h: "9.43"
-  1h: "4.70"
-  7d: "2.03"
+  7d: "2.45"
+  24h: "9.31"
+  1h: "4.51"
 isMineable: false

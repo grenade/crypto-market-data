@@ -1,21 +1,21 @@
 ---
 id: formosa-financial
-rank: 948
+rank: 954
 symbol: FMF
 name: Formosa Financial
 marketCap:
-  BTC: "48.6856058678"
-  USD: "548293.48663"
+  BTC: "46.1855472505"
+  USD: "521992.379913"
 price:
-  BTC: "5.33930980195e-08"
-  USD: "0.000601308895171"
+  USD: "0.000572464690731"
+  BTC: "5.06513045792e-08"
 volume:
-  BTC: "0.674986483383"
-  USD: "7601.6449997"
+  USD: "7652.03880184"
+  BTC: "0.677047430661"
 supply:
   FMF: "911833320.666"
 change:
-  24h: "-6.21"
-  1h: "0.66"
-  7d: "3.74"
+  1h: "-3.93"
+  7d: "-1.12"
+  24h: "-9.51"
 isMineable: false

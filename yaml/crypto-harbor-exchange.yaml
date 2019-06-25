@@ -4,18 +4,18 @@ rank: 2186
 symbol: CHE
 name: Crypto Harbor Exchange
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "8.79480480176e-05"
-  BTC: "7.80932859324e-09"
+  USD: "8.79968154033e-05"
+  BTC: "7.78590115889e-09"
 volume:
   USD: "0.0"
   BTC: "0.0"
 supply:
   CHE: "0"
 change:
-  7d: "-5.40"
-  1h: "0.90"
-  24h: "-5.40"
+  1h: "0.81"
+  24h: "-5.35"
+  7d: "-5.35"
 isMineable: false

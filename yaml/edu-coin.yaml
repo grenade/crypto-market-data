@@ -1,21 +1,21 @@
 ---
 id: edu-coin
-rank: 1906
+rank: 1905
 symbol: EDU
 name: EduCoin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "3.11433343393e-08"
-  USD: "0.00035073379628"
+  BTC: "3.08300273611e-08"
+  USD: "0.000348443188683"
 volume:
-  BTC: "80.903457037"
-  USD: "911128.407433"
+  BTC: "79.7881184271"
+  USD: "901771.058394"
 supply:
   EDU: "0"
 change:
-  7d: "3.06"
-  24h: "3.28"
-  1h: "-1.84"
+  7d: "2.42"
+  24h: "2.52"
+  1h: "-2.19"
 isMineable: false

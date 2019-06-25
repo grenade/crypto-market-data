@@ -5,17 +5,17 @@ symbol: LBTC
 name: LiteBitcoin
 marketCap:
   USD: "9260.61714691"
-  BTC: "0.822294569425"
+  BTC: "0.819628311754"
 price:
+  BTC: "2.83213158818e-08"
   USD: "0.00031999"
-  BTC: "2.84134453564e-08"
 volume:
-  BTC: "4.26208783929e-05"
+  BTC: "4.24826818777e-05"
   USD: "0.479993"
 supply:
   LBTC: "28940332.9695"
 change:
-  7d: "21.89"
   1h: "0.00"
-  24h: "-0.76"
+  7d: "21.74"
+  24h: "-0.89"
 isMineable: true

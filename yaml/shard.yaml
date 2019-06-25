@@ -1,21 +1,21 @@
 ---
 id: shard
-rank: 1360
+rank: 1361
 symbol: SHARD
 name: Shard
 marketCap:
-  BTC: "41.3601711513"
-  USD: "386448.723453"
+  BTC: "41.360487178"
+  USD: "386451.676249"
 price:
-  USD: "0.0254929922899"
   BTC: "2.72842025417e-06"
+  USD: "0.0254929922899"
 volume:
-  BTC: "0"
   USD: "0"
+  BTC: "0"
 supply:
-  SHARD: "15159017.7826"
+  SHARD: "15159133.6103"
 change:
+  24h: "0.00"
   7d: "0.00"
   1h: "0.00"
-  24h: "0.00"
 isMineable: true

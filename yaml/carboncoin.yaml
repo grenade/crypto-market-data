@@ -1,21 +1,21 @@
 ---
 id: carboncoin
-rank: 1394
+rank: 1395
 symbol: CARBON
 name: Carboncoin
 marketCap:
   USD: "292448.428232"
-  BTC: "25.9885845207"
+  BTC: "25.8836973502"
 price:
+  BTC: "1.68163068144e-09"
   USD: "1.9e-05"
-  BTC: "1.68844506663e-09"
 volume:
   USD: "2.77738"
-  BTC: "0.000246813345218"
+  BTC: "0.000245817232738"
 supply:
   CARBON: "15392022538.6"
 change:
+  1h: "0.00"
   24h: "-0.16"
   7d: "-27.43"
-  1h: "0.00"
 isMineable: true

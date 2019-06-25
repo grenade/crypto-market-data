@@ -1,21 +1,21 @@
 ---
 id: glitzkoin
-rank: 1882
+rank: 1883
 symbol: GTN
 name: GlitzKoin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.23030278923e-05"
-  USD: "0.251174956284"
+  USD: "0.251308212409"
+  BTC: "2.22355876547e-05"
 volume:
-  BTC: "192.619872225"
-  USD: "2169269.94035"
+  BTC: "194.567755488"
+  USD: "2199018.77942"
 supply:
   GTN: "0"
 change:
-  1h: "-0.18"
-  7d: "-0.90"
-  24h: "-0.17"
+  1h: "-0.17"
+  24h: "-0.16"
+  7d: "-0.83"
 isMineable: false

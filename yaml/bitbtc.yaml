@@ -4,8 +4,8 @@ rank: 1479
 symbol: BITBTC
 name: bitBTC
 marketCap:
-  USD: "169213.079215"
   BTC: "18.1207329843"
+  USD: "169213.079215"
 price:
   USD: "4144.43359413"
   BTC: "0.443820151957"
@@ -15,7 +15,7 @@ volume:
 supply:
   BITBTC: "40.829"
 change:
+  24h: "0.00"
   7d: "0.00"
   1h: "0.00"
-  24h: "0.00"
 isMineable: false

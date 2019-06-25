@@ -1,21 +1,21 @@
 ---
 id: polymath-network
-rank: 145
+rank: 144
 symbol: POLY
 name: Polymath
 marketCap:
-  BTC: "3586.26356273"
-  USD: "40388219.839"
+  BTC: "3567.15840919"
+  USD: "40316281.1396"
 price:
-  USD: "0.0941211010603"
-  BTC: "8.35746355156e-06"
+  USD: "0.0939534544143"
+  BTC: "8.31294071557e-06"
 volume:
-  BTC: "568.827838192"
-  USD: "6406094.63794"
+  BTC: "568.999444085"
+  USD: "6430872.67921"
 supply:
   POLY: "429109088.016"
 change:
-  24h: "0.71"
-  1h: "-0.12"
-  7d: "-4.21"
+  7d: "-4.31"
+  1h: "-0.33"
+  24h: "0.58"
 isMineable: false

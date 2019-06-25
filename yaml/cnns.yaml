@@ -1,21 +1,21 @@
 ---
 id: cnns
-rank: 1943
+rank: 1942
 symbol: CNNS
 name: CNNS
 marketCap:
   USD: ""
   BTC: ""
 price:
-  USD: "0.00860046496119"
-  BTC: "7.63676493686e-07"
+  USD: "0.008491506721"
+  BTC: "7.51323007733e-07"
 volume:
-  BTC: "23.8780911665"
-  USD: "268913.195726"
+  USD: "275799.018323"
+  BTC: "24.4025182791"
 supply:
   CNNS: "0"
 change:
-  1h: "0.58"
-  24h: "-1.84"
-  7d: "9.96"
+  1h: "-0.43"
+  24h: "-3.07"
+  7d: "8.59"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: rabbitcoin
-rank: 2165
+rank: 2158
 symbol: RBBT
 name: RabbitCoin
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "2.23387127554e-10"
   USD: "2.49e-06"
+  BTC: "2.20382126147e-10"
 volume:
-  USD: "0.0"
-  BTC: "0.0"
+  BTC: "3.32225612632e-05"
+  USD: "0.375367"
 supply:
   RBBT: "0"
 change:
-  7d: "-5.67"
+  24h: "0.00"
   1h: "0.00"
-  24h: "-0.31"
+  7d: "-5.64"
 isMineable: true

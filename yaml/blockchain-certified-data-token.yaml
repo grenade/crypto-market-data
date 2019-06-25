@@ -1,21 +1,21 @@
 ---
 id: blockchain-certified-data-token
-rank: 838
+rank: 839
 symbol: BCDT
 name: Blockchain Certified Data Token
 marketCap:
-  USD: "1086406.04295"
-  BTC: "96.4671981506"
+  BTC: "96.2681007369"
+  USD: "1088029.00485"
 price:
-  BTC: "3.06830950647e-06"
-  USD: "0.0345550617554"
+  USD: "0.0346066829233"
+  BTC: "3.06197686181e-06"
 volume:
-  BTC: "0.133602846525"
-  USD: "1504.62481136"
+  BTC: "0.133327105323"
+  USD: "1506.87254255"
 supply:
   BCDT: "31439852.4488"
 change:
-  7d: "35.60"
-  1h: "0.36"
-  24h: "24.27"
+  1h: "0.30"
+  7d: "35.95"
+  24h: "24.46"
 isMineable: false

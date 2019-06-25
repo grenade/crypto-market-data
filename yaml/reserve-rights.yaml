@@ -1,21 +1,21 @@
 ---
 id: reserve-rights
-rank: 329
+rank: 327
 symbol: RSR
 name: Reserve Rights
 marketCap:
-  BTC: "998.576749411"
-  USD: "11245893.2747"
+  BTC: "997.45933229"
+  USD: "11273357.1805"
 price:
-  BTC: "2.73880983884e-07"
-  USD: "0.00308442622616"
+  BTC: "2.73574508392e-07"
+  USD: "0.00309195878843"
 volume:
-  USD: "26747614.5526"
-  BTC: "2375.04885936"
+  USD: "27276501.4059"
+  BTC: "2413.40715494"
 supply:
   RSR: "3646024398.08"
 change:
-  1h: "-0.46"
-  24h: "5.74"
-  7d: "18.53"
+  1h: "-0.50"
+  24h: "6.33"
+  7d: "18.63"
 isMineable: false

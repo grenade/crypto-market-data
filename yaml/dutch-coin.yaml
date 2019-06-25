@@ -4,8 +4,8 @@ rank: 2216
 symbol: DUTCH
 name: Dutch Coin
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
   BTC: "1.00012000746e-08"
   USD: "7.1421853972e-05"
@@ -15,7 +15,7 @@ volume:
 supply:
   DUTCH: "0"
 change:
-  7d: "0.00"
   1h: "0.00"
   24h: "0.00"
+  7d: "0.00"
 isMineable: true

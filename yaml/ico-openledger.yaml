@@ -1,11 +1,11 @@
 ---
 id: ico-openledger
-rank: 1566
+rank: 1567
 symbol: ICOO
 name: ICO OpenLedger
 marketCap:
-  BTC: "8.66335527991"
   USD: "84980.9161018"
+  BTC: "8.66335527991"
 price:
   USD: "0.18238142877"
   BTC: "1.85928227933e-05"
@@ -15,7 +15,7 @@ volume:
 supply:
   ICOO: "465951.5866"
 change:
-  24h: "0.00"
   7d: "93.94"
   1h: "0.00"
+  24h: "0.00"
 isMineable: false

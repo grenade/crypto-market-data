@@ -1,21 +1,21 @@
 ---
 id: incodium
-rank: 1361
+rank: 1363
 symbol: INCO
 name: Incodium
 marketCap:
-  USD: "386404.125053"
-  BTC: "34.3106737482"
+  USD: "386079.679915"
+  BTC: "34.1600796972"
 price:
-  BTC: "3.84636140487e-09"
-  USD: "4.33174214005e-05"
+  BTC: "3.82947921975e-09"
+  USD: "4.32810498251e-05"
 volume:
   USD: "0.0"
   BTC: "0.0"
 supply:
   INCO: "8920293788.51"
 change:
-  7d: "-26.64"
-  1h: "0.05"
-  24h: "0.25"
+  7d: "-26.41"
+  24h: "0.16"
+  1h: "-0.08"
 isMineable: false

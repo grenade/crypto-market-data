@@ -1,19 +1,19 @@
 ---
 id: bitbook-gambling
-rank: 1911
+rank: 1908
 symbol: BXK
 name: Bitbook Gambling
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "1.66311414503e-05"
-  USD: "0.18729861465"
+  USD: "0.178693501492"
+  BTC: "1.58106851251e-05"
 volume:
-  BTC: "70.0463959842"
-  USD: "788857.034754"
+  USD: "808145.392806"
+  BTC: "71.5041802543"
 supply:
   BXK: "0"
 change:
-  1h: "5.22"
+  1h: "2.10"
 isMineable: false

@@ -1,11 +1,11 @@
 ---
 id: tokyo
-rank: 1560
+rank: 1561
 symbol: TOKC
 name: TOKYO
 marketCap:
-  BTC: "8.18462871693"
   USD: "88851.3302975"
+  BTC: "8.18462871693"
 price:
   USD: "0.000325824078043"
   BTC: "3.00136092154e-08"
@@ -15,7 +15,7 @@ volume:
 supply:
   TOKC: "272697250.71"
 change:
-  24h: "0.00"
   1h: "0.00"
-  7d: "12.11"
+  7d: "11.93"
+  24h: "0.00"
 isMineable: false

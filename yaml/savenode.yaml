@@ -1,21 +1,21 @@
 ---
 id: savenode
-rank: 2161
+rank: 2162
 symbol: SNO
 name: SaveNode
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "2.99761195663e-08"
-  USD: "0.000337588714769"
+  USD: "0.000338956708088"
+  BTC: "2.99906697102e-08"
 volume:
-  BTC: "5.99522391326e-06"
-  USD: "0.0675177429538"
+  USD: "0.0677913416175"
+  BTC: "5.99813394205e-06"
 supply:
   SNO: "0"
 change:
-  24h: "-21.51"
-  7d: "-26.94"
-  1h: "0.82"
+  1h: "1.03"
+  24h: "-21.28"
+  7d: "-26.62"
 isMineable: true

@@ -1,21 +1,21 @@
 ---
 id: bitcoin-cz
-rank: 2073
+rank: 2072
 symbol: BCZ
 name: Bitcoin CZ
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.81855125369e-05"
-  USD: "0.204803820293"
+  BTC: "1.81943396242e-05"
+  USD: "0.20563373624"
 volume:
-  BTC: "0.409177030075"
-  USD: "4608.11971978"
+  BTC: "0.409375640995"
+  USD: "4626.79296539"
 supply:
   BCZ: "0"
 change:
-  1h: "0.81"
-  7d: "4.35"
-  24h: "9.88"
+  7d: "4.51"
+  1h: "1.08"
+  24h: "10.19"
 isMineable: true

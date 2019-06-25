@@ -1,21 +1,21 @@
 ---
 id: lemochain
-rank: 2037
+rank: 2038
 symbol: LEMO
 name: LemoChain
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.00731490850594"
-  BTC: "6.49525776182e-07"
+  USD: "0.00708745640138"
+  BTC: "6.27093546013e-07"
 volume:
-  USD: "20263.1886894"
-  BTC: "1.79926561634"
+  BTC: "1.69247251781"
+  USD: "19128.4462371"
 supply:
   LEMO: "0"
 change:
-  24h: "-15.05"
-  1h: "-11.64"
-  7d: "10.91"
+  1h: "-23.52"
+  24h: "-17.93"
+  7d: "7.63"
 isMineable: false

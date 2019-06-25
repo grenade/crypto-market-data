@@ -4,18 +4,18 @@ rank: 2149
 symbol: SJCX
 name: Storjcoin X
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.198764947098"
-  BTC: "1.7663352334e-05"
+  BTC: "1.7583465716e-05"
+  USD: "0.198667788529"
 volume:
-  USD: "4.92937068804"
-  BTC: "0.000438051137884"
+  BTC: "0.000436069949757"
+  USD: "4.92696115552"
 supply:
   SJCX: "0"
 change:
-  7d: "34.75"
-  1h: "-0.03"
-  24h: "-11.03"
+  1h: "-0.13"
+  24h: "-11.07"
+  7d: "34.16"
 isMineable: false

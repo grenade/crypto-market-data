@@ -1,21 +1,21 @@
 ---
 id: you-coin
-rank: 1900
+rank: 1899
 symbol: YOU
 name: YOU COIN
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.04283177239e-06"
-  USD: "0.0230062116947"
+  USD: "0.0230946703782"
+  BTC: "2.04340145763e-06"
 volume:
-  BTC: "122.153493112"
-  USD: "1375683.08843"
+  BTC: "122.332205245"
+  USD: "1382607.39035"
 supply:
   YOU: "0"
 change:
-  1h: "0.22"
-  7d: "-6.01"
-  24h: "1.02"
+  1h: "0.59"
+  24h: "1.27"
+  7d: "-5.41"
 isMineable: false

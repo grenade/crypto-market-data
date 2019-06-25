@@ -4,8 +4,8 @@ rank: 1794
 symbol: XRH
 name: Rhenium
 marketCap:
-  USD: "9172.86037607"
   BTC: "1.01770157523"
+  USD: "9172.86037607"
 price:
   USD: "0.000270650205514"
   BTC: "3.00278352876e-08"
@@ -15,7 +15,7 @@ volume:
 supply:
   XRH: "33891939.445"
 change:
+  1h: "0.00"
   24h: "0.00"
   7d: "0.00"
-  1h: "0.00"
 isMineable: true

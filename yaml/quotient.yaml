@@ -4,18 +4,18 @@ rank: 2140
 symbol: XQN
 name: Quotient
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.00123727182483"
-  BTC: "1.09950816248e-07"
+  USD: "0.00123996683817"
+  BTC: "1.09745593634e-07"
 volume:
-  USD: "34.8269522837"
-  BTC: "0.00309491556679"
+  USD: "34.9028120094"
+  BTC: "0.00308913892335"
 supply:
   XQN: "0"
 change:
-  7d: "33.39"
-  24h: "-11.48"
   1h: "0.72"
+  24h: "-11.38"
+  7d: "33.68"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: digital-asset-guarantee-token
-rank: 782
+rank: 783
 symbol: DAGT
 name: Digital Asset Guarantee Token
 marketCap:
-  BTC: "125.047057734"
-  USD: "1408270.18697"
+  USD: "1410373.97576"
+  BTC: "124.788974715"
 price:
-  USD: "0.0610901464308"
-  BTC: "5.42448681967e-06"
+  BTC: "5.41329129086e-06"
+  USD: "0.0611814078711"
 volume:
-  USD: "62078.2795493"
-  BTC: "5.51222789398"
+  USD: "62171.0171434"
+  BTC: "5.50085127749"
 supply:
   DAGT: "23052329.5367"
 change:
-  24h: "5.09"
-  7d: "6.37"
-  1h: "0.39"
+  24h: "5.15"
+  7d: "6.72"
+  1h: "0.29"
 isMineable: false

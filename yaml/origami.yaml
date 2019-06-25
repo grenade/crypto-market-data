@@ -1,21 +1,21 @@
 ---
 id: origami
-rank: 1564
+rank: 1565
 symbol: ORI
 name: Origami
 marketCap:
   BTC: "8.63537514745"
   USD: "85629.6829496"
 price:
-  BTC: "2.04345064008e-06"
   USD: "0.0202631648823"
+  BTC: "2.04345064008e-06"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   ORI: "4225879.0"
 change:
-  1h: "0.00"
-  7d: "-7.64"
   24h: "0.00"
+  1h: "0.00"
+  7d: "-7.60"
 isMineable: false

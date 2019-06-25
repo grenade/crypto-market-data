@@ -4,18 +4,18 @@ rank: 2128
 symbol: GMBC
 name: Gamblica
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.000253759069789"
-  BTC: "2.25324837125e-08"
+  BTC: "2.24859792082e-08"
+  USD: "0.000254138155772"
 volume:
-  USD: "83.019942378"
-  BTC: "0.00737173848011"
+  BTC: "0.00735652404356"
+  USD: "83.143964335"
 supply:
   GMBC: "0"
 change:
-  24h: "2.40"
-  7d: "-81.46"
-  1h: "0.35"
+  1h: "0.29"
+  24h: "2.45"
+  7d: "-81.43"
 isMineable: false

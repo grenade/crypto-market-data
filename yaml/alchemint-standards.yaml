@@ -1,21 +1,21 @@
 ---
 id: alchemint-standards
-rank: 931
+rank: 933
 symbol: SDS
 name: Alchemint Standards
 marketCap:
-  USD: "617190.162078"
-  BTC: "54.8032718045"
+  USD: "614173.70462"
+  BTC: "54.3416910789"
 price:
-  USD: "0.00194117432841"
-  BTC: "1.72366169904e-07"
+  BTC: "1.70914415307e-07"
+  USD: "0.00193168702589"
 volume:
-  BTC: "0.837277720462"
-  USD: "9429.35622238"
+  USD: "9656.29202445"
+  BTC: "0.854382455992"
 supply:
   SDS: "317946798.0"
 change:
-  1h: "0.68"
-  24h: "24.02"
-  7d: "19.15"
+  7d: "18.36"
+  1h: "-0.22"
+  24h: "22.63"
 isMineable: false

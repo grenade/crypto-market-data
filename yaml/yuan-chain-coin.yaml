@@ -4,18 +4,18 @@ rank: 1903
 symbol: YCC
 name: Yuan Chain Coin
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "1.67013943789e-06"
-  USD: "0.0188089797639"
+  BTC: "1.71985710202e-06"
+  USD: "0.0194379487792"
 volume:
-  BTC: "103.834180851"
-  USD: "1169372.42611"
+  USD: "1174845.88197"
+  BTC: "103.949601721"
 supply:
   YCC: "0"
 change:
-  24h: "26.61"
-  1h: "3.27"
-  7d: "127.11"
+  7d: "134.68"
+  24h: "30.00"
+  1h: "6.53"
 isMineable: false

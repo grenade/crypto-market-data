@@ -1,21 +1,21 @@
 ---
 id: blue-whale-exchange
-rank: 358
+rank: 361
 symbol: BWX
 name: Blue Whale EXchange
 marketCap:
-  USD: "9981790.32776"
-  BTC: "886.330991704"
+  USD: "10004509.4844"
+  BTC: "885.192511018"
 price:
-  BTC: "1.46299710873e-05"
-  USD: "0.164761590491"
+  BTC: "1.46111790788e-05"
+  USD: "0.165136597805"
 volume:
-  USD: "270651.504106"
-  BTC: "24.0324438968"
+  BTC: "24.1412886848"
+  USD: "272846.582642"
 supply:
   BWX: "60583236.0444"
 change:
-  7d: "3.95"
-  24h: "8.09"
-  1h: "0.94"
+  1h: "0.99"
+  7d: "4.23"
+  24h: "8.25"
 isMineable: false

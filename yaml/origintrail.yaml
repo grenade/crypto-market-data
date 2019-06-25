@@ -1,21 +1,21 @@
 ---
 id: origintrail
-rank: 439
+rank: 441
 symbol: TRAC
 name: OriginTrail
 marketCap:
-  USD: "6870383.28989"
-  BTC: "610.054252274"
+  BTC: "609.739055339"
+  USD: "6891314.69844"
 price:
-  BTC: "2.13732524298e-06"
-  USD: "0.0240703897722"
+  USD: "0.0241437229679"
+  BTC: "2.13622095043e-06"
 volume:
-  USD: "18006.2735117"
-  BTC: "1.59886330353"
+  BTC: "1.59816726581"
+  USD: "18062.60149"
 supply:
   TRAC: "285428834.137"
 change:
-  1h: "-1.48"
-  24h: "4.51"
-  7d: "3.00"
+  7d: "3.38"
+  1h: "-1.68"
+  24h: "4.54"
 isMineable: false

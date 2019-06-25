@@ -1,21 +1,21 @@
 ---
 id: education-ecosystem
-rank: 739
+rank: 754
 symbol: LEDU
 name: Education Ecosystem
 marketCap:
-  USD: "1691851.31401"
-  BTC: "150.227584805"
+  BTC: "141.13420558"
+  USD: "1595108.95169"
 price:
-  BTC: "6.89782284461e-07"
-  USD: "0.00776827415458"
+  BTC: "6.48029287473e-07"
+  USD: "0.00732407365853"
 volume:
-  BTC: "4.17987698444"
-  USD: "47073.4477806"
+  BTC: "3.38764948726"
+  USD: "38287.4583812"
 supply:
   LEDU: "217789856.582"
 change:
-  1h: "1.79"
-  7d: "14.22"
-  24h: "-2.43"
+  7d: "7.74"
+  24h: "-8.10"
+  1h: "-4.24"
 isMineable: false

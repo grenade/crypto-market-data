@@ -4,18 +4,18 @@ rank: 2189
 symbol: COBRA
 name: Cobrabytes
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "9.99203985544e-09"
-  USD: "0.00011252957159"
+  USD: "0.000112985569363"
+  BTC: "9.99688990341e-09"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   COBRA: "0"
 change:
-  7d: "21.76"
-  1h: "0.81"
-  24h: "4.66"
+  1h: "1.02"
+  24h: "4.97"
+  7d: "22.30"
 isMineable: true

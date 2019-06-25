@@ -1,21 +1,21 @@
 ---
 id: cryptaldash
-rank: 2060
+rank: 2061
 symbol: CRD
 name: CryptalDash
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.00429823166937"
-  BTC: "3.81660585227e-07"
+  USD: "0.00430465273719"
+  BTC: "3.80872882518e-07"
 volume:
-  BTC: "0.725477100455"
-  USD: "8170.26638138"
+  BTC: "0.723979807791"
+  USD: "8182.47190682"
 supply:
   CRD: "0"
 change:
-  7d: "6.58"
-  1h: "0.40"
-  24h: "1.81"
+  1h: "0.26"
+  24h: "1.87"
+  7d: "7.20"
 isMineable: false

@@ -4,8 +4,8 @@ rank: 1758
 symbol: PUREX
 name: Pure
 marketCap:
-  USD: "15439.1554968"
   BTC: "1.77533729996"
+  USD: "15439.1554968"
 price:
   USD: "0.000869725501988"
   BTC: "1.00009105079e-07"
@@ -16,6 +16,6 @@ supply:
   PUREX: "17751756.6882"
 change:
   1h: "0.00"
-  7d: "0.00"
   24h: "0.00"
+  7d: "0.00"
 isMineable: true

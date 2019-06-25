@@ -1,21 +1,21 @@
 ---
 id: moving-cloud-coin
-rank: 2001
+rank: 1998
 symbol: MCC
 name: Moving Cloud Coin
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  USD: "0.00875586787455"
-  BTC: "7.77475462988e-07"
+  USD: "0.00965169921007"
+  BTC: "8.54241764194e-07"
 volume:
-  USD: "60397.3510843"
-  BTC: "5.36297020127"
+  BTC: "5.93536122519"
+  USD: "67061.01674"
 supply:
   MCC: "0"
 change:
-  1h: "-2.48"
-  24h: "-10.15"
-  7d: "-6.96"
+  24h: "-1.50"
+  7d: "2.88"
+  1h: "11.19"
 isMineable: false

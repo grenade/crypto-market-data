@@ -1,21 +1,21 @@
 ---
 id: dynamic-trading-rights
-rank: 196
+rank: 195
 symbol: DTR
 name: Dynamic Trading Rights
 marketCap:
-  USD: "25306521.4345"
-  BTC: "2247.0872963"
+  BTC: "2258.17304129"
+  USD: "25522034.2781"
 price:
-  BTC: "1.76750874469e-06"
-  USD: "0.0199055452838"
+  USD: "0.0200750628795"
+  BTC: "1.77622854443e-06"
 volume:
-  USD: "1859.02587156"
-  BTC: "0.1650718148"
+  BTC: "0.166221287732"
+  USD: "1878.64496019"
 supply:
   DTR: "1271330228.52"
 change:
-  1h: "0.43"
-  7d: "9.63"
-  24h: "20.70"
+  7d: "10.72"
+  24h: "21.60"
+  1h: "0.91"
 isMineable: false

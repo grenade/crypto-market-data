@@ -1,21 +1,21 @@
 ---
 id: merebel
-rank: 1996
+rank: 1995
 symbol: MERI
 name: Merebel
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.446179751353"
-  BTC: "3.96184380268e-05"
+  USD: "0.441095662791"
+  BTC: "3.90278581829e-05"
 volume:
-  BTC: "6.26269559092"
-  USD: "70529.9880744"
+  BTC: "6.2322440877"
+  USD: "70437.2713373"
 supply:
   MERI: "0"
 change:
-  7d: "17.30"
-  24h: "1.32"
-  1h: "1.14"
+  7d: "16.12"
+  1h: "-0.28"
+  24h: "-0.25"
 isMineable: true

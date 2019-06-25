@@ -1,21 +1,21 @@
 ---
 id: palletone
-rank: 1910
+rank: 1909
 symbol: PTN
 name: PalletOne
 marketCap:
   BTC: ""
   USD: ""
 price:
-  USD: "0.0120912637147"
-  BTC: "1.07364124143e-06"
+  USD: "0.012117348665"
+  BTC: "1.07213515149e-06"
 volume:
-  BTC: "70.8146225137"
-  USD: "797508.741862"
+  BTC: "71.4559669226"
+  USD: "807600.482261"
 supply:
   PTN: "0"
 change:
-  7d: "56.99"
-  1h: "0.38"
-  24h: "5.41"
+  7d: "57.47"
+  24h: "5.52"
+  1h: "0.16"
 isMineable: false

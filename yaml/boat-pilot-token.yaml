@@ -1,21 +1,21 @@
 ---
 id: boat-pilot-token
-rank: 1014
+rank: 1016
 symbol: NAVY
 name: BoatPilot Token
 marketCap:
-  USD: "327593.272919"
-  BTC: "29.0885763906"
+  BTC: "29.1027055087"
+  USD: "328920.872757"
 price:
-  BTC: "3.93816120794e-07"
-  USD: "0.0044351263605"
+  USD: "0.0044531000905"
+  BTC: "3.94007408068e-07"
 volume:
-  USD: "3551.60396824"
-  BTC: "0.31536393412"
+  USD: "3565.9965921"
+  BTC: "0.315517065836"
 supply:
   NAVY: "73863346.0"
 change:
-  1h: "-23.97"
-  7d: "0.30"
-  24h: "12.56"
+  1h: "-23.74"
+  24h: "13.23"
+  7d: "0.57"
 isMineable: false

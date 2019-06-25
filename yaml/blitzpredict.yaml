@@ -1,21 +1,21 @@
 ---
 id: blitzpredict
-rank: 962
+rank: 964
 symbol: XBP
 name: BlitzPredict
 marketCap:
-  USD: "469432.582071"
-  BTC: "41.683168284"
+  USD: "470134.636942"
+  BTC: "41.5972077834"
 price:
-  USD: "0.00126678572723"
-  BTC: "1.12483974621e-07"
+  BTC: "1.12252006199e-07"
+  USD: "0.00126868025506"
 volume:
-  USD: "19523.2064409"
-  BTC: "1.73355904682"
+  USD: "19552.4254919"
+  BTC: "1.72998592732"
 supply:
   XBP: "370569838.277"
 change:
-  24h: "2.41"
-  7d: "-11.15"
-  1h: "0.40"
+  1h: "0.27"
+  24h: "2.43"
+  7d: "-10.90"
 isMineable: false

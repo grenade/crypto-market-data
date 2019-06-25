@@ -1,21 +1,21 @@
 ---
 id: puregold-token
-rank: 1388
+rank: 1389
 symbol: PGTS
 name: Puregold Token
 marketCap:
-  USD: "319671.144367"
-  BTC: "28.385132637"
+  USD: "320966.53124"
+  BTC: "28.3989105298"
 price:
-  USD: "0.0281323928974"
-  BTC: "2.49800996386e-06"
+  USD: "0.0282463923406"
+  BTC: "2.49922247585e-06"
 volume:
-  USD: "13.368738164"
-  BTC: "0.00118707431891"
+  USD: "13.4229116114"
+  BTC: "0.00118765051431"
 supply:
   PGTS: "11363098.2453"
 change:
-  24h: "33.27"
-  1h: "0.81"
-  7d: "51.13"
+  7d: "51.74"
+  24h: "33.68"
+  1h: "0.98"
 isMineable: false

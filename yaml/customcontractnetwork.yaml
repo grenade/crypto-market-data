@@ -1,21 +1,21 @@
 ---
 id: customcontractnetwork
-rank: 1725
+rank: 1724
 symbol: CCN
 name: CustomContractNetwork
 marketCap:
-  USD: "23590.3079553"
-  BTC: "2.0946964781"
+  USD: "24040.2313836"
+  BTC: "2.12706408217"
 price:
-  BTC: "4.09349144105e-09"
-  USD: "4.61005805453e-05"
+  BTC: "4.15674476276e-09"
+  USD: "4.69798285519e-05"
 volume:
-  USD: "29.3466223137"
-  BTC: "0.0026058272118"
+  BTC: "0.00229055073469"
+  USD: "25.8879692998"
 supply:
   CCN: "511713902.0"
 change:
-  7d: "60.73"
-  1h: "0.60"
-  24h: "-6.22"
+  24h: "-3.77"
+  7d: "62.70"
+  1h: "2.34"
 isMineable: false

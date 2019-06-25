@@ -1,21 +1,21 @@
 ---
 id: albos
-rank: 1302
+rank: 1303
 symbol: ALB
 name: ALBOS
 marketCap:
-  USD: "673713.466062"
-  BTC: "59.8222468008"
+  BTC: "59.5596791068"
+  USD: "673147.780955"
 price:
-  BTC: "6.15417824779e-09"
-  USD: "6.93078742409e-05"
+  BTC: "6.12716675161e-09"
+  USD: "6.92496797202e-05"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   ALB: "9720590530.88"
 change:
-  24h: "-0.01"
-  7d: "-18.74"
-  1h: "-0.52"
+  1h: "-0.55"
+  24h: "-0.52"
+  7d: "-18.59"
 isMineable: false

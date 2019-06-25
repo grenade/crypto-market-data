@@ -1,21 +1,21 @@
 ---
 id: the-midas-touch-gold
-rank: 2058
+rank: 2060
 symbol: TMTG
 name: The Midas Touch Gold
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.74256635252e-07"
-  USD: "0.00196246460135"
+  USD: "0.00198518169846"
+  BTC: "1.75647589243e-07"
 volume:
-  BTC: "0.814598063593"
-  USD: "9173.93970001"
+  BTC: "0.747167742522"
+  USD: "8444.54361444"
 supply:
   TMTG: "0"
 change:
-  24h: "-1.50"
-  1h: "1.67"
-  7d: "-12.72"
+  7d: "-11.77"
+  1h: "2.74"
+  24h: "1.11"
 isMineable: false

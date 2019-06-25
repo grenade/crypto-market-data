@@ -1,21 +1,21 @@
 ---
 id: connect-coin
-rank: 409
+rank: 408
 symbol: XCON
 name: Connect Coin
 marketCap:
-  BTC: "730.638621522"
-  USD: "8228395.02809"
+  BTC: "731.447295821"
+  USD: "8266869.9941"
 price:
-  BTC: "1.87394671193e-05"
-  USD: "0.211042413488"
+  BTC: "1.87602080506e-05"
+  USD: "0.212029221931"
 volume:
-  USD: "16617.5457036"
-  BTC: "1.47555150726"
+  BTC: "1.47417476637"
+  USD: "16661.2293351"
 supply:
   XCON: "38989295.5264"
 change:
-  7d: "9.26"
-  24h: "-3.84"
-  1h: "-0.54"
+  24h: "-3.27"
+  1h: "-0.12"
+  7d: "10.43"
 isMineable: false

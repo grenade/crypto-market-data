@@ -1,21 +1,21 @@
 ---
 id: w-green-pay
-rank: 1905
+rank: 1904
 symbol: WGP
 name: W Green Pay
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "3.54805567176e-05"
-  USD: "0.399579255583"
+  USD: "0.395826128114"
+  BTC: "3.5022439113e-05"
 volume:
-  BTC: "95.6271371677"
-  USD: "1076945.34184"
+  USD: "1079767.04159"
+  BTC: "95.5370875857"
 supply:
   WGP: "0"
 change:
-  24h: "-14.66"
-  1h: "6.20"
-  7d: "-9.64"
+  7d: "-10.48"
+  24h: "-18.60"
+  1h: "-1.06"
 isMineable: false

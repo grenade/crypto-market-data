@@ -10,12 +10,12 @@ price:
   BTC: "1.85916348977e-09"
   USD: "1.72300644787e-05"
 volume:
-  BTC: "0"
   USD: "0"
+  BTC: "0"
 supply:
   GOLF: "28365778886.6"
 change:
-  24h: "0.00"
-  1h: "0.00"
   7d: "0.00"
+  1h: "0.00"
+  24h: "0.00"
 isMineable: false

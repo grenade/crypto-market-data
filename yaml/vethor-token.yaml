@@ -1,21 +1,21 @@
 ---
 id: vethor-token
-rank: 1888
+rank: 1890
 symbol: VTHO
 name: VeThor Token
 marketCap:
   USD: ""
   BTC: ""
 price:
-  BTC: "1.05741894603e-07"
-  USD: "0.00119085694922"
+  USD: "0.00117367566117"
+  BTC: "1.03846061344e-07"
 volume:
-  BTC: "169.580623034"
-  USD: "1909803.71736"
+  USD: "1853223.8056"
+  BTC: "163.97204046"
 supply:
   VTHO: "0"
 change:
-  24h: "10.13"
-  1h: "-2.31"
-  7d: "20.24"
+  1h: "-9.35"
+  7d: "18.59"
+  24h: "8.42"
 isMineable: false

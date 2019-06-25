@@ -4,18 +4,18 @@ rank: 2241
 symbol: QUSD
 name: QUSD
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  BTC: "1.07240545955e-05"
   USD: "0.100142212865"
+  BTC: "1.07240545955e-05"
 volume:
   USD: "0"
   BTC: "0"
 supply:
   QUSD: "0"
 change:
-  1h: "0.00"
   24h: "0.00"
   7d: "0.00"
+  1h: "0.00"
 isMineable: false

@@ -4,17 +4,17 @@ rank: 1853
 symbol: ALGO
 name: Algorand
 marketCap:
-  BTC: ""
   USD: ""
+  BTC: ""
 price:
-  BTC: "0.000123564596442"
-  USD: "1.3915748238"
+  BTC: "0.000119721178552"
+  USD: "1.3530973787"
 volume:
-  BTC: "16323.9952164"
-  USD: "183839557.779"
+  BTC: "16209.9638355"
+  USD: "183206178.221"
 supply:
   ALGO: "0"
 change:
-  24h: "-18.70"
-  1h: "0.48"
+  1h: "-2.40"
+  24h: "-20.70"
 isMineable: true

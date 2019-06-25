@@ -4,18 +4,18 @@ rank: 1902
 symbol: DPN
 name: DIPNET
 marketCap:
-  USD: ""
   BTC: ""
+  USD: ""
 price:
-  USD: "0.00089060622333"
-  BTC: "7.90811939769e-08"
+  USD: "0.000893293091187"
+  BTC: "7.90379933868e-08"
 volume:
-  USD: "1245266.28851"
-  BTC: "110.573160545"
+  USD: "1248981.05495"
+  BTC: "110.509033748"
 supply:
   DPN: "0"
 change:
-  7d: "-8.04"
-  1h: "0.34"
-  24h: "5.74"
+  7d: "-7.58"
+  24h: "5.92"
+  1h: "0.27"
 isMineable: false
