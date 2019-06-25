@@ -1,0 +1,21 @@
+---
+id: coinonat
+rank: 1825
+symbol: CXT
+name: Coinonat
+marketCap:
+  BTC: "0.345053790533"
+  USD: "3915.60173118"
+price:
+  BTC: "4.0014587454e-08"
+  USD: "0.000454077573428"
+volume:
+  BTC: "0.0131802048885"
+  USD: "149.566341523"
+supply:
+  CXT: "8623200.0"
+change:
+  1h: "1.01"
+  24h: "54.93"
+  7d: "147.61"
+isMineable: true

@@ -1,0 +1,21 @@
+---
+id: maker
+rank: 24
+symbol: MKR
+name: Maker
+marketCap:
+  BTC: "62866.1501778"
+  USD: "713392558.559"
+price:
+  BTC: "0.0628661501778"
+  USD: "713.392558559"
+volume:
+  BTC: "54.4661512346"
+  USD: "618071.042592"
+supply:
+  MKR: "1000000.0"
+change:
+  1h: "-2.50"
+  24h: "-1.50"
+  7d: "-3.26"
+isMineable: false

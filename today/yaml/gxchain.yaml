@@ -1,0 +1,21 @@
+---
+id: gxchain
+rank: 66
+symbol: GXC
+name: GXChain
+marketCap:
+  BTC: "12563.5421552"
+  USD: "142568575.574"
+price:
+  BTC: "0.000209392369254"
+  USD: "2.37614292623"
+volume:
+  BTC: "4757.39132355"
+  USD: "53985929.7694"
+supply:
+  GXC: "60000000.0"
+change:
+  1h: "-0.19"
+  24h: "-10.33"
+  7d: "0.99"
+isMineable: false

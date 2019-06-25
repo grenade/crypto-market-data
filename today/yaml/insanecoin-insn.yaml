@@ -1,0 +1,21 @@
+---
+id: insanecoin-insn
+rank: 1434
+symbol: INSN
+name: InsaneCoin
+marketCap:
+  BTC: "19.3547170609"
+  USD: "219633.476605"
+price:
+  BTC: "8.20299042806e-07"
+  USD: "0.00930859025527"
+volume:
+  BTC: "0.0286465119635"
+  USD: "325.074915605"
+supply:
+  INSN: "23594708.8208"
+change:
+  1h: "-0.21"
+  24h: "3.43"
+  7d: "14.81"
+isMineable: true

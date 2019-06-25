@@ -1,0 +1,21 @@
+---
+id: minereum
+rank: 1672
+symbol: MNE
+name: Minereum
+marketCap:
+  BTC: "3.20340032694"
+  USD: "36351.5492656"
+price:
+  BTC: "5.20189636902e-07"
+  USD: "0.00590300845456"
+volume:
+  BTC: "0.0321974550232"
+  USD: "365.370310622"
+supply:
+  MNE: "6158139.45472"
+change:
+  1h: "1.01"
+  24h: "5.45"
+  7d: "1.62"
+isMineable: false

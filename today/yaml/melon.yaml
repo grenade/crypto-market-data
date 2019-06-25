@@ -1,0 +1,21 @@
+---
+id: melon
+rank: 513
+symbol: MLN
+name: Melon
+marketCap:
+  BTC: "434.889353911"
+  USD: "4935037.82241"
+price:
+  BTC: "0.000366442506962"
+  USD: "4.15831662774"
+volume:
+  BTC: "1.89116441042"
+  USD: "21460.5572886"
+supply:
+  MLN: "1186787.41044"
+change:
+  1h: "-0.25"
+  24h: "0.76"
+  7d: "-9.46"
+isMineable: false
