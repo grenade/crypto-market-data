@@ -1,0 +1,21 @@
+---
+id: neoworld-cash
+rank: 612
+symbol: NASH
+name: NeoWorld Cash
+marketCap:
+  BTC: "281.551882736"
+  USD: "3194994.7217"
+price:
+  BTC: "2.02051774329e-08"
+  USD: "0.000229284331619"
+volume:
+  BTC: "22.434942867"
+  USD: "254587.265925"
+supply:
+  NASH: "13934640449.0"
+change:
+  1h: "-0.77"
+  24h: "-5.38"
+  7d: "8.17"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: bluecoin
+rank: 1406
+symbol: BLU
+name: BlueCoin
+marketCap:
+  BTC: "22.9778689424"
+  USD: "260843.374298"
+price:
+  BTC: "3.99835073478e-08"
+  USD: "0.000453890349841"
+volume:
+  BTC: "0.00848684929027"
+  USD: "96.3421982943"
+supply:
+  BLU: "574683675.01"
+change:
+  1h: "0.91"
+  24h: "-15.15"
+  7d: "-29.77"
+isMineable: true

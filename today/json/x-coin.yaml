@@ -1,0 +1,21 @@
+---
+id: x-coin
+rank: 1659
+symbol: XCO
+name: X-Coin
+marketCap:
+  BTC: "3.59016214702"
+  USD: "40755.3028983"
+price:
+  BTC: "2.89880428272e-07"
+  USD: "0.00329070503635"
+volume:
+  BTC: "0.000199067887208"
+  USD: "2.25980657927"
+supply:
+  XCO: "12384976.0"
+change:
+  1h: "0.92"
+  24h: "9.73"
+  7d: "-8.60"
+isMineable: false

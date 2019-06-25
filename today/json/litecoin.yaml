@@ -1,0 +1,21 @@
+---
+id: litecoin
+rank: 5
+symbol: LTC
+name: Litecoin
+marketCap:
+  BTC: "747519.639422"
+  USD: "8482704072.59"
+price:
+  BTC: "0.0119832932301"
+  USD: "135.984026272"
+volume:
+  BTC: "360677.361269"
+  USD: "4092894901.99"
+supply:
+  LTC: "62380150.8541"
+change:
+  1h: "-0.05"
+  24h: "0.09"
+  7d: "2.71"
+isMineable: true

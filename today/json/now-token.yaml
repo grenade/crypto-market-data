@@ -1,0 +1,21 @@
+---
+id: now-token
+rank: 832
+symbol: NOW
+name: NOW Token
+marketCap:
+  BTC: "101.15822075"
+  USD: "1147923.35328"
+price:
+  BTC: "1.53894918568e-06"
+  USD: "0.0174636890276"
+volume:
+  BTC: "0.778442985088"
+  USD: "8833.61604383"
+supply:
+  NOW: "65732008.3672"
+change:
+  1h: "-14.56"
+  24h: "-11.10"
+  7d: "-54.73"
+isMineable: false

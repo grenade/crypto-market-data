@@ -1,0 +1,21 @@
+---
+id: smartmesh
+rank: 303
+symbol: SMT
+name: SmartMesh
+marketCap:
+  BTC: "1130.96838607"
+  USD: "12834004.1232"
+price:
+  BTC: "7.99996485146e-07"
+  USD: "0.00907820087221"
+volume:
+  BTC: "21.21635112"
+  USD: "240758.929344"
+supply:
+  SMT: "1413716693.85"
+change:
+  1h: "-0.02"
+  24h: "-2.19"
+  7d: "1.06"
+isMineable: false

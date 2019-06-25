@@ -1,0 +1,21 @@
+---
+id: biocoin
+rank: 1363
+symbol: BIO
+name: BioCoin
+marketCap:
+  BTC: "33.8437699841"
+  USD: "384052.365095"
+price:
+  BTC: "4.0014587454e-08"
+  USD: "0.000454077573428"
+volume:
+  BTC: "0.02212958621"
+  USD: "251.122139364"
+supply:
+  BIO: "845785803.064"
+change:
+  1h: "1.01"
+  24h: "5.29"
+  7d: "21.48"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: zclassic
+rank: 332
+symbol: ZCL
+name: ZClassic
+marketCap:
+  BTC: "972.030493279"
+  USD: "11034431.1921"
+price:
+  BTC: "0.000141237312402"
+  USD: "1.60331740232"
+volume:
+  BTC: "7.51554782916"
+  USD: "85316.0430312"
+supply:
+  ZCL: "6882250.0"
+change:
+  1h: "1.24"
+  24h: "-4.50"
+  7d: "-1.59"
+isMineable: true

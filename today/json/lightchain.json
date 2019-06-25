@@ -1,0 +1,27 @@
+{
+  "id": "lightchain",
+  "rank": 1921,
+  "symbol": "LIGHT",
+  "name": "LightChain",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "2.59053526276e-09",
+    "USD": "2.93968785095e-05"
+  },
+  "volume": {
+    "BTC": "50.4932553348",
+    "USD": "572987.410735"
+  },
+  "supply": {
+    "LIGHT": "0"
+  },
+  "change": {
+    "1h": "0.66",
+    "24h": "2.49",
+    "7d": "0.81"
+  },
+  "isMineable": false
+}

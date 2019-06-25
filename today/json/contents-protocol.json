@@ -1,0 +1,27 @@
+{
+  "id": "contents-protocol",
+  "rank": 211,
+  "symbol": "CPT",
+  "name": "Contents Protocol",
+  "marketCap": {
+    "BTC": "1956.76002872",
+    "USD": "22204923.3081"
+  },
+  "price": {
+    "BTC": "7.57770186405e-07",
+    "USD": "0.00859902523934"
+  },
+  "volume": {
+    "BTC": "289.291783112",
+    "USD": "3282825.57053"
+  },
+  "supply": {
+    "CPT": "2582260510.93"
+  },
+  "change": {
+    "1h": "-1.18",
+    "24h": "0.15",
+    "7d": "-10.50"
+  },
+  "isMineable": false
+}

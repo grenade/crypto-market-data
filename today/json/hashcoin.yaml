@@ -1,0 +1,21 @@
+---
+id: hashcoin
+rank: 716
+symbol: HSC
+name: HashCoin
+marketCap:
+  BTC: "172.379981411"
+  USD: "1956133.71639"
+price:
+  BTC: "1.34002774933e-08"
+  USD: "0.000152063681636"
+volume:
+  BTC: "1.45389941595"
+  USD: "16498.56117"
+supply:
+  HSC: "12863911325.5"
+change:
+  1h: "0.81"
+  24h: "2.21"
+  7d: "-3.90"
+isMineable: false

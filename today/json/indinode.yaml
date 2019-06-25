@@ -1,0 +1,21 @@
+---
+id: indinode
+rank: 1790
+symbol: XIND
+name: INDINODE
+marketCap:
+  BTC: "0.833668913832"
+  USD: "9460.30889036"
+price:
+  BTC: "1.00036468635e-09"
+  USD: "1.13519393357e-05"
+volume:
+  BTC: "0.0074120290324"
+  USD: "84.1102300774"
+supply:
+  XIND: "833364996.993"
+change:
+  1h: "-49.50"
+  24h: "5.29"
+  7d: "-32.92"
+isMineable: true

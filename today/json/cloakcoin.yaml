@@ -1,0 +1,21 @@
+---
+id: cloakcoin
+rank: 483
+symbol: CLOAK
+name: CloakCoin
+marketCap:
+  BTC: "517.473308897"
+  USD: "5874325.61047"
+price:
+  BTC: "9.7537934154e-05"
+  USD: "1.10724471145"
+volume:
+  BTC: "4.31409704218"
+  USD: "48973.3679111"
+supply:
+  CLOAK: "5305354.40785"
+change:
+  1h: "0.28"
+  24h: "50.13"
+  7d: "58.57"
+isMineable: false

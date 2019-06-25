@@ -1,0 +1,21 @@
+---
+id: ethereum-classic
+rank: 19
+symbol: ETC
+name: Ethereum Classic
+marketCap:
+  BTC: "90294.1505476"
+  USD: "1024640047.15"
+price:
+  BTC: "0.000810044754845"
+  USD: "9.19222663662"
+volume:
+  BTC: "67125.7933248"
+  USD: "761730141.099"
+supply:
+  ETC: "111468101.0"
+change:
+  1h: "0.24"
+  24h: "0.80"
+  7d: "6.01"
+isMineable: true

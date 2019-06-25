@@ -1,0 +1,21 @@
+---
+id: spider-vps
+rank: 960
+symbol: SPDR
+name: SPIDER VPS
+marketCap:
+  BTC: "41.9454065701"
+  USD: "475988.124424"
+price:
+  BTC: "2.27382893207e-05"
+  USD: "0.2580295811"
+volume:
+  BTC: "26.5157608015"
+  USD: "300895.575549"
+supply:
+  SPDR: "1844703.70565"
+change:
+  1h: "0.88"
+  24h: "10.40"
+  7d: "20.69"
+isMineable: true

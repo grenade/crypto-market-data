@@ -1,0 +1,21 @@
+---
+id: blockpass
+rank: 935
+symbol: PASS
+name: Blockpass
+marketCap:
+  BTC: "52.2707834352"
+  USD: "593158.445797"
+price:
+  BTC: "4.42723796485e-07"
+  USD: "0.00502394151727"
+volume:
+  BTC: "0.616240541745"
+  USD: "6992.97500356"
+supply:
+  PASS: "118066351.64"
+change:
+  1h: "-0.06"
+  24h: "-6.32"
+  7d: "-12.65"
+isMineable: false

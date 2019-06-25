@@ -1,0 +1,21 @@
+---
+id: bowscoin
+rank: 1769
+symbol: BSC
+name: BowsCoin
+marketCap:
+  BTC: "1.16571696997"
+  USD: "12827.2702137"
+price:
+  BTC: "2.10035217821e-07"
+  USD: "0.00231117720921"
+volume:
+  BTC: "0.0"
+  USD: "0.0"
+supply:
+  BSC: "5550102.41646"
+change:
+  1h: "0.00"
+  24h: "2.08"
+  7d: "44.50"
+isMineable: true

@@ -1,0 +1,21 @@
+---
+id: zcoin
+rank: 84
+symbol: XZC
+name: Zcoin
+marketCap:
+  BTC: "8728.70702752"
+  USD: "99087752.6553"
+price:
+  BTC: "0.00112141302246"
+  USD: "12.7302126012"
+volume:
+  BTC: "262.513622717"
+  USD: "2980038.71988"
+supply:
+  XZC: "7783668.32978"
+change:
+  1h: "-0.35"
+  24h: "-1.91"
+  7d: "6.92"
+isMineable: true

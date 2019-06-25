@@ -1,0 +1,21 @@
+---
+id: hbz-coin
+rank: 951
+symbol: HBZ
+name: HBZ coin
+marketCap:
+  BTC: "47.0263932203"
+  USD: "533646.149547"
+price:
+  BTC: "4.81185910828e-08"
+  USD: "0.000546040193486"
+volume:
+  BTC: "6.76222171146"
+  USD: "76736.3459451"
+supply:
+  HBZ: "977301956.731"
+change:
+  1h: "-0.87"
+  24h: "5.39"
+  7d: "8.36"
+isMineable: false

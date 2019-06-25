@@ -1,0 +1,21 @@
+---
+id: neutron
+rank: 1339
+symbol: NTRN
+name: Neutron
+marketCap:
+  BTC: "39.1055636766"
+  USD: "443923.986544"
+price:
+  BTC: "9.99587683696e-07"
+  USD: "0.011347258746"
+volume:
+  BTC: "0.0297739823378"
+  USD: "337.992441281"
+supply:
+  NTRN: "39121694.189"
+change:
+  1h: "0.92"
+  24h: "50.35"
+  7d: "19.02"
+isMineable: false

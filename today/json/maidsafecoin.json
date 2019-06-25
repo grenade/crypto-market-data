@@ -1,0 +1,27 @@
+{
+  "id": "maidsafecoin",
+  "rank": 81,
+  "symbol": "MAID",
+  "name": "MaidSafeCoin",
+  "marketCap": {
+    "BTC": "9123.63348444",
+    "USD": "103570933.837"
+  },
+  "price": {
+    "BTC": "2.01603908023e-05",
+    "USD": "0.228859533372"
+  },
+  "volume": {
+    "BTC": "64.5221162719",
+    "USD": "732451.149729"
+  },
+  "supply": {
+    "MAID": "452552412.0"
+  },
+  "change": {
+    "1h": "0.36",
+    "24h": "19.22",
+    "7d": "42.09"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,21 @@
+---
+id: vertcoin
+rank: 172
+symbol: VTC
+name: Vertcoin
+marketCap:
+  BTC: "2732.11356601"
+  USD: "31014787.4597"
+price:
+  BTC: "5.45739480118e-05"
+  USD: "0.61952014714"
+volume:
+  BTC: "48.9502295734"
+  USD: "555680.036586"
+supply:
+  VTC: "50062597.0"
+change:
+  1h: "0.97"
+  24h: "2.92"
+  7d: "15.12"
+isMineable: true

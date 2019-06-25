@@ -1,0 +1,27 @@
+{
+  "id": "quickx-protocol",
+  "rank": 1892,
+  "symbol": "QCX",
+  "name": "QuickX Protocol",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "7.07271798169e-06",
+    "USD": "0.0802597958146"
+  },
+  "volume": {
+    "BTC": "161.075683723",
+    "USD": "1827854.79638"
+  },
+  "supply": {
+    "QCX": "0"
+  },
+  "change": {
+    "1h": "-0.37",
+    "24h": "-7.29",
+    "7d": "-9.98"
+  },
+  "isMineable": false
+}

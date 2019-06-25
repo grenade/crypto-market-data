@@ -1,0 +1,27 @@
+{
+  "id": "aquariuscoin",
+  "rank": 1436,
+  "symbol": "ARCO",
+  "name": "AquariusCoin",
+  "marketCap": {
+    "BTC": "19.8522601276",
+    "USD": "219034.048249"
+  },
+  "price": {
+    "BTC": "8.44879453061e-06",
+    "USD": "0.0932172788873"
+  },
+  "volume": {
+    "BTC": "0.0",
+    "USD": "0.0"
+  },
+  "supply": {
+    "ARCO": "2349715.105"
+  },
+  "change": {
+    "1h": "0.00",
+    "24h": "2.32",
+    "7d": "34.64"
+  },
+  "isMineable": false
+}

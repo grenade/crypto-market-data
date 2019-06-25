@@ -1,0 +1,27 @@
+{
+  "id": "cyber-movie-chain",
+  "rank": 1147,
+  "symbol": "CMCT",
+  "name": "Cyber Movie Chain",
+  "marketCap": {
+    "BTC": "2.32497932104",
+    "USD": "26383.4025424"
+  },
+  "price": {
+    "BTC": "1.16248966052e-10",
+    "USD": "1.31917012712e-06"
+  },
+  "volume": {
+    "BTC": "1.18253077385",
+    "USD": "13419.1238361"
+  },
+  "supply": {
+    "CMCT": "20000000000.0"
+  },
+  "change": {
+    "1h": "0.20",
+    "24h": "-21.86",
+    "7d": "-0.24"
+  },
+  "isMineable": false
+}

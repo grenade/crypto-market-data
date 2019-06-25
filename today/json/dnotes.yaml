@@ -1,0 +1,21 @@
+---
+id: dnotes
+rank: 739
+symbol: NOTE
+name: DNotes
+marketCap:
+  BTC: "152.401391194"
+  USD: "1730051.34751"
+price:
+  BTC: "1.12853754162e-06"
+  USD: "0.0128110897105"
+volume:
+  BTC: "22.2645221075"
+  USD: "252745.504303"
+supply:
+  NOTE: "135043262.252"
+change:
+  1h: "2.91"
+  24h: "3.24"
+  7d: "3.24"
+isMineable: true

@@ -1,0 +1,21 @@
+---
+id: mediccoin
+rank: 1123
+symbol: MEDIC
+name: MedicCoin
+marketCap:
+  BTC: "5.78146908551"
+  USD: "65630.8863298"
+price:
+  BTC: "2.09913413576e-08"
+  USD: "0.000238292433666"
+volume:
+  BTC: "0.178774216305"
+  USD: "2029.43405828"
+supply:
+  MEDIC: "275421612.512"
+change:
+  1h: "-4.39"
+  24h: "-0.54"
+  7d: "-43.71"
+isMineable: true

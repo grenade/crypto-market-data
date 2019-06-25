@@ -1,0 +1,27 @@
+{
+  "id": "centaure",
+  "rank": 2164,
+  "symbol": "CEN",
+  "name": "Centaure",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "1.00036468635e-08",
+    "USD": "0.000113519393357"
+  },
+  "volume": {
+    "BTC": "3.00109405905e-08",
+    "USD": "0.000340558180071"
+  },
+  "supply": {
+    "CEN": "0"
+  },
+  "change": {
+    "1h": "1.01",
+    "24h": "5.29",
+    "7d": "22.96"
+  },
+  "isMineable": false
+}

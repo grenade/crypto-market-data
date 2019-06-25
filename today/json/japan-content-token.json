@@ -1,0 +1,27 @@
+{
+  "id": "japan-content-token",
+  "rank": 135,
+  "symbol": "JCT",
+  "name": "Japan Content Token",
+  "marketCap": {
+    "BTC": "3777.34511227",
+    "USD": "42864560.4445"
+  },
+  "price": {
+    "BTC": "1.28853318471e-05",
+    "USD": "0.146220180945"
+  },
+  "volume": {
+    "BTC": "46.2605983526",
+    "USD": "524956.061822"
+  },
+  "supply": {
+    "JCT": "293150782.385"
+  },
+  "change": {
+    "1h": "0.73",
+    "24h": "-13.28",
+    "7d": "-15.06"
+  },
+  "isMineable": false
+}

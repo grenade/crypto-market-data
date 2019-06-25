@@ -1,0 +1,21 @@
+---
+id: legolas-exchange
+rank: 288
+symbol: LGO
+name: LGO Exchange
+marketCap:
+  BTC: "1229.60824138"
+  USD: "13953349.5667"
+price:
+  BTC: "9.41063058519e-06"
+  USD: "0.106789962672"
+volume:
+  BTC: "0.458945836836"
+  USD: "5208.02600214"
+supply:
+  LGO: "130661620.414"
+change:
+  1h: "-1.15"
+  24h: "11.87"
+  7d: "22.15"
+isMineable: false

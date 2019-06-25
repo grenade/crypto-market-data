@@ -1,0 +1,27 @@
+{
+  "id": "youlive-coin",
+  "rank": 1945,
+  "symbol": "UC",
+  "name": "YouLive Coin",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "5.24318944314e-08",
+    "USD": "0.000594986701313"
+  },
+  "volume": {
+    "BTC": "22.4911447786",
+    "USD": "255225.034031"
+  },
+  "supply": {
+    "UC": "0"
+  },
+  "change": {
+    "1h": "-1.91",
+    "24h": "3.46",
+    "7d": "37.03"
+  },
+  "isMineable": false
+}

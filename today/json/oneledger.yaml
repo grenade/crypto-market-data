@@ -1,0 +1,21 @@
+---
+id: oneledger
+rank: 775
+symbol: OLT
+name: OneLedger
+marketCap:
+  BTC: "129.8726025"
+  USD: "1473768.44171"
+price:
+  BTC: "4.27753530868e-07"
+  USD: "0.00485406192292"
+volume:
+  BTC: "10.730010387"
+  USD: "121762.022037"
+supply:
+  OLT: "303615500.815"
+change:
+  1h: "0.81"
+  24h: "4.61"
+  7d: "24.09"
+isMineable: false

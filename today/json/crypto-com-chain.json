@@ -1,0 +1,27 @@
+{
+  "id": "crypto-com-chain",
+  "rank": 28,
+  "symbol": "CRO",
+  "name": "Crypto.com Chain",
+  "marketCap": {
+    "BTC": "37292.3054729",
+    "USD": "423185659.384"
+  },
+  "price": {
+    "BTC": "5.14457631406e-06",
+    "USD": "0.0583796279717"
+  },
+  "volume": {
+    "BTC": "432.726151393",
+    "USD": "4910490.23083"
+  },
+  "supply": {
+    "CRO": "7248858447.49"
+  },
+  "change": {
+    "1h": "0.56",
+    "24h": "-2.76",
+    "7d": "-12.80"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,21 @@
+---
+id: grid
+rank: 1200
+symbol: GRID
+name: Grid+
+marketCap:
+  BTC: "347.520115068"
+  USD: "3943589.09108"
+price:
+  BTC: "8.85706408018e-06"
+  USD: "0.100508200162"
+volume:
+  BTC: "0.029335706006"
+  USD: "332.895752413"
+supply:
+  GRID: "39236491.0"
+change:
+  1h: "0.21"
+  24h: "-13.77"
+  7d: "35.96"
+isMineable: false

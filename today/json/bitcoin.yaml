@@ -1,0 +1,21 @@
+---
+id: bitcoin
+rank: 1
+symbol: BTC
+name: Bitcoin
+marketCap:
+  BTC: "17779162.0"
+  USD: "2.01829020649e+11"
+price:
+  BTC: "1.0"
+  USD: "11351.9985165"
+volume:
+  BTC: "1805516.25913"
+  USD: "20488639116.2"
+supply:
+  BTC: "17779162.0"
+change:
+  1h: "0.92"
+  24h: "5.25"
+  7d: "22.94"
+isMineable: true

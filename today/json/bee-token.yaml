@@ -1,0 +1,21 @@
+---
+id: bee-token
+rank: 1062
+symbol: BEE
+name: Bee Token
+marketCap:
+  BTC: "16.8428032477"
+  USD: "191128.778654"
+price:
+  BTC: "7.11780548926e-08"
+  USD: "0.000807714398758"
+volume:
+  BTC: "0.322632735867"
+  USD: "3661.1720658"
+supply:
+  BEE: "236629158.707"
+change:
+  1h: "0.10"
+  24h: "3.99"
+  7d: "-40.50"
+isMineable: false

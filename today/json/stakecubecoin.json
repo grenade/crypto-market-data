@@ -1,0 +1,27 @@
+{
+  "id": "stakecubecoin",
+  "rank": 2107,
+  "symbol": "SCC",
+  "name": "StakeCubeCoin",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "1.24862541625e-05",
+    "USD": "0.141691526817"
+  },
+  "volume": {
+    "BTC": "0.0338168583968",
+    "USD": "383.746977759"
+  },
+  "supply": {
+    "SCC": "0"
+  },
+  "change": {
+    "1h": "0.62",
+    "24h": "-26.38",
+    "7d": "17.08"
+  },
+  "isMineable": true
+}

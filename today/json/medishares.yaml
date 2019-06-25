@@ -1,0 +1,21 @@
+---
+id: medishares
+rank: 291
+symbol: MDS
+name: MediShares
+marketCap:
+  BTC: "1216.77308632"
+  USD: "13807698.782"
+price:
+  BTC: "1.14631263403e-06"
+  USD: "0.0130081275947"
+volume:
+  BTC: "76.8304378238"
+  USD: "871856.515141"
+supply:
+  MDS: "1061467046.77"
+change:
+  1h: "-1.14"
+  24h: "-0.48"
+  7d: "7.65"
+isMineable: false

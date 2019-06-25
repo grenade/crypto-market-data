@@ -1,0 +1,27 @@
+{
+  "id": "kucoin-shares",
+  "rank": 63,
+  "symbol": "KCS",
+  "name": "KuCoin Shares",
+  "marketCap": {
+    "BTC": "13231.2668379",
+    "USD": "150145782.361"
+  },
+  "price": {
+    "BTC": "0.00014757253143",
+    "USD": "1.674623712"
+  },
+  "volume": {
+    "BTC": "2116.94467465",
+    "USD": "24022666.785"
+  },
+  "supply": {
+    "KCS": "89659414.9987"
+  },
+  "change": {
+    "1h": "1.03",
+    "24h": "-1.82",
+    "7d": "3.08"
+  },
+  "isMineable": false
+}

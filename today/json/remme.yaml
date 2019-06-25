@@ -1,0 +1,21 @@
+---
+id: remme
+rank: 536
+symbol: REM
+name: Remme
+marketCap:
+  BTC: "399.085373351"
+  USD: "4528741.37788"
+price:
+  BTC: "6.05302662859e-07"
+  USD: "0.00686885413117"
+volume:
+  BTC: "48.664156443"
+  USD: "552231.160598"
+supply:
+  REM: "659315410.023"
+change:
+  1h: "-0.20"
+  24h: "1.92"
+  7d: "5.07"
+isMineable: false

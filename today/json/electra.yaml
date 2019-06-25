@@ -1,0 +1,21 @@
+---
+id: electra
+rank: 366
+symbol: ECA
+name: Electra
+marketCap:
+  BTC: "857.942043817"
+  USD: "9735755.5378"
+price:
+  BTC: "3.00453052958e-08"
+  USD: "0.000340948143906"
+volume:
+  BTC: "2.02384956324"
+  USD: "22966.2419915"
+supply:
+  ECA: "28554945119.4"
+change:
+  1h: "-0.55"
+  24h: "-3.49"
+  7d: "2.59"
+isMineable: true

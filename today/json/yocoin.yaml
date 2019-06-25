@@ -1,0 +1,21 @@
+---
+id: yocoin
+rank: 872
+symbol: YOC
+name: Yocoin
+marketCap:
+  BTC: "77.7627446635"
+  USD: "882757.959998"
+price:
+  BTC: "2.1036331083e-07"
+  USD: "0.002388031543"
+volume:
+  BTC: "0.7133585717"
+  USD: "8098.00323053"
+supply:
+  YOC: "369659254.538"
+change:
+  1h: "-2.13"
+  24h: "9.37"
+  7d: "-9.74"
+isMineable: true

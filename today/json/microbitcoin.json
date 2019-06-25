@@ -1,0 +1,27 @@
+{
+  "id": "microbitcoin",
+  "rank": 2077,
+  "symbol": "MBC",
+  "name": "MicroBitcoin",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "4.98673648129e-09",
+    "USD": "5.65884929678e-05"
+  },
+  "volume": {
+    "BTC": "0.349821347863",
+    "USD": "3969.70302277"
+  },
+  "supply": {
+    "MBC": "0"
+  },
+  "change": {
+    "1h": "-9.64",
+    "24h": "-37.80",
+    "7d": "-38.84"
+  },
+  "isMineable": true
+}

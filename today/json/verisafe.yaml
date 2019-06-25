@@ -1,0 +1,21 @@
+---
+id: verisafe
+rank: 1095
+symbol: VSF
+name: VeriSafe
+marketCap:
+  BTC: "10.8993327434"
+  USD: "123683.458434"
+price:
+  BTC: "1.00172674517e-09"
+  USD: "1.13673957081e-05"
+volume:
+  BTC: "0.0661246444941"
+  USD: "750.369303449"
+supply:
+  VSF: "10880544815.2"
+change:
+  1h: "1.00"
+  24h: "-28.42"
+  7d: "-79.31"
+isMineable: false

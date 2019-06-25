@@ -1,0 +1,21 @@
+---
+id: digix-gold-token
+rank: 531
+symbol: DGX
+name: Digix Gold Token
+marketCap:
+  BTC: "407.302032257"
+  USD: "4621982.38759"
+price:
+  BTC: "0.00405539135368"
+  USD: "46.0197738461"
+volume:
+  BTC: "2.37315523007"
+  USD: "26930.0931686"
+supply:
+  DGX: "100434.704504"
+change:
+  1h: "0.05"
+  24h: "2.76"
+  7d: "7.73"
+isMineable: false

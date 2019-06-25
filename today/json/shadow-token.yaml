@@ -1,0 +1,21 @@
+---
+id: shadow-token
+rank: 1453
+symbol: SHDW
+name: Shadow Token
+marketCap:
+  BTC: "17.8565096513"
+  USD: "202632.117142"
+price:
+  BTC: "2.55092995019e-06"
+  USD: "0.028947445306"
+volume:
+  BTC: "0.00625755121158"
+  USD: "71.0094455684"
+supply:
+  SHDW: "7000000.0"
+change:
+  1h: "1.01"
+  24h: "-12.43"
+  7d: "-2.32"
+isMineable: false

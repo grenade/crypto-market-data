@@ -1,0 +1,27 @@
+{
+  "id": "vethor-token",
+  "rank": 1891,
+  "symbol": "VTHO",
+  "name": "VeThor Token",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "1.08237564272e-07",
+    "USD": "0.00122825833441"
+  },
+  "volume": {
+    "BTC": "162.764838893",
+    "USD": "1847022.99303"
+  },
+  "supply": {
+    "VTHO": "0"
+  },
+  "change": {
+    "1h": "0.42",
+    "24h": "13.27",
+    "7d": "24.30"
+  },
+  "isMineable": false
+}

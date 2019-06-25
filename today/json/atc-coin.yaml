@@ -1,0 +1,21 @@
+---
+id: atc-coin
+rank: 687
+symbol: ATCC
+name: ATC Coin
+marketCap:
+  BTC: "190.858068032"
+  USD: "2165819.36526"
+price:
+  BTC: "5.80169063199e-07"
+  USD: "0.00658364304513"
+volume:
+  BTC: "0.494930602324"
+  USD: "5616.37395804"
+supply:
+  ATCC: "328969743.714"
+change:
+  1h: "0.27"
+  24h: "-2.23"
+  7d: "-4.87"
+isMineable: false

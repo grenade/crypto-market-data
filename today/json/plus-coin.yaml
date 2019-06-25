@@ -1,0 +1,21 @@
+---
+id: plus-coin
+rank: 1018
+symbol: NPLC
+name: Plus-Coin
+marketCap:
+  BTC: "26.3940034776"
+  USD: "299513.897674"
+price:
+  BTC: "4.83399719659e-08"
+  USD: "0.000548552379681"
+volume:
+  BTC: "0.107002746489"
+  USD: "1214.245868"
+supply:
+  NPLC: "546007835.839"
+change:
+  1h: "0.93"
+  24h: "-9.45"
+  7d: "-3.53"
+isMineable: false

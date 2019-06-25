@@ -1,0 +1,21 @@
+---
+id: devery
+rank: 1050
+symbol: EVE
+name: Devery
+marketCap:
+  BTC: "18.6650045333"
+  USD: "211806.75613"
+price:
+  BTC: "2.9665499967e-07"
+  USD: "0.00336638188636"
+volume:
+  BTC: "0.354587513701"
+  USD: "4023.78852398"
+supply:
+  EVE: "62918220.0"
+change:
+  1h: "0.25"
+  24h: "-12.34"
+  7d: "15.64"
+isMineable: false

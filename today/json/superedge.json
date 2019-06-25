@@ -1,0 +1,27 @@
+{
+  "id": "superedge",
+  "rank": 2097,
+  "symbol": "ECT",
+  "name": "SuperEdge",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "6.58727673853e-09",
+    "USD": "7.47511052155e-05"
+  },
+  "volume": {
+    "BTC": "0.0662454623286",
+    "USD": "751.740320186"
+  },
+  "supply": {
+    "ECT": "0"
+  },
+  "change": {
+    "1h": "0.10",
+    "24h": "-0.20",
+    "7d": "-7.67"
+  },
+  "isMineable": false
+}

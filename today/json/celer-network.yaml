@@ -1,0 +1,21 @@
+---
+id: celer-network
+rank: 134
+symbol: CELR
+name: Celer Network
+marketCap:
+  BTC: "4008.71079089"
+  USD: "45490052.1114"
+price:
+  BTC: "1.40211564149e-06"
+  USD: "0.0159109292051"
+volume:
+  BTC: "1593.31242339"
+  USD: "18080592.2279"
+supply:
+  CELR: "2859044341.47"
+change:
+  1h: "-0.87"
+  24h: "-6.81"
+  7d: "-15.88"
+isMineable: false

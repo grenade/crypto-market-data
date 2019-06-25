@@ -1,0 +1,27 @@
+{
+  "id": "huobi-pool-token",
+  "rank": 1865,
+  "symbol": "HPT",
+  "name": "Huobi Pool Token",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "1.20336435888e-06",
+    "USD": "0.013655539212"
+  },
+  "volume": {
+    "BTC": "775.98141465",
+    "USD": "8805682.63248"
+  },
+  "supply": {
+    "HPT": "0"
+  },
+  "change": {
+    "1h": "0.03",
+    "24h": "7.85",
+    "7d": "26.50"
+  },
+  "isMineable": false
+}

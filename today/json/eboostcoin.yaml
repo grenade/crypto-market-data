@@ -1,0 +1,21 @@
+---
+id: eboostcoin
+rank: 729
+symbol: EBST
+name: eBoost
+marketCap:
+  BTC: "162.726994098"
+  USD: "1847266.96528"
+price:
+  BTC: "1.62743266174e-06"
+  USD: "0.018474516849"
+volume:
+  BTC: "0.124340450676"
+  USD: "1411.50525305"
+supply:
+  EBST: "99990001.3831"
+change:
+  1h: "-4.19"
+  24h: "-33.39"
+  7d: "-91.00"
+isMineable: false

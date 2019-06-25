@@ -1,0 +1,21 @@
+---
+id: tokenomy
+rank: 341
+symbol: TEN
+name: Tokenomy
+marketCap:
+  BTC: "931.56039297"
+  USD: "10571161.9101"
+price:
+  BTC: "4.65780196485e-06"
+  USD: "0.0528558095505"
+volume:
+  BTC: "40.0622668338"
+  USD: "454618.62954"
+supply:
+  TEN: "200000000.0"
+change:
+  1h: "0.71"
+  24h: "1.19"
+  7d: "4.54"
+isMineable: false

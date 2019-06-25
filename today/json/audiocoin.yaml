@@ -1,0 +1,21 @@
+---
+id: audiocoin
+rank: 1341
+symbol: ADC
+name: AudioCoin
+marketCap:
+  BTC: "38.9814967433"
+  USD: "442515.586245"
+price:
+  BTC: "3.99835073478e-08"
+  USD: "0.000453890349841"
+volume:
+  BTC: "0.000581180271054"
+  USD: "6.59752318011"
+supply:
+  ADC: "974939401.995"
+change:
+  1h: "0.92"
+  24h: "5.24"
+  7d: "-15.66"
+isMineable: true

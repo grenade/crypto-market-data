@@ -1,0 +1,21 @@
+---
+id: ethereumx
+rank: 1623
+symbol: ETX
+name: EthereumX
+marketCap:
+  BTC: "4.92873619484"
+  USD: "55930.3172622"
+price:
+  BTC: "5.65056288688e-08"
+  USD: "0.000641214628821"
+volume:
+  BTC: "0.0"
+  USD: "0.0"
+supply:
+  ETX: "87225579.0"
+change:
+  1h: "0.19"
+  24h: "-27.90"
+  7d: "-24.55"
+isMineable: false

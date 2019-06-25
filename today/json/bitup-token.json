@@ -1,0 +1,27 @@
+{
+  "id": "bitup-token",
+  "rank": 1913,
+  "symbol": "BUT",
+  "name": "BitUP Token",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "8.15994289951e-07",
+    "USD": "0.00925974077673"
+  },
+  "volume": {
+    "BTC": "66.657103754",
+    "USD": "756411.545143"
+  },
+  "supply": {
+    "BUT": "0"
+  },
+  "change": {
+    "1h": "-1.04",
+    "24h": "-1.93",
+    "7d": "22.52"
+  },
+  "isMineable": false
+}

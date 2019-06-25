@@ -1,0 +1,27 @@
+{
+  "id": "ethereum-gold-project",
+  "rank": 1589,
+  "symbol": "ETGP",
+  "name": "Ethereum Gold Project",
+  "marketCap": {
+    "BTC": "6.30859579578",
+    "USD": "71588.6893493"
+  },
+  "price": {
+    "BTC": "2.00037010354e-09",
+    "USD": "2.26998017565e-05"
+  },
+  "volume": {
+    "BTC": "0.0170539559002",
+    "USD": "193.524896925"
+  },
+  "supply": {
+    "ETGP": "3153714297.48"
+  },
+  "change": {
+    "1h": "1.00",
+    "24h": "-7.49",
+    "7d": "28.52"
+  },
+  "isMineable": false
+}

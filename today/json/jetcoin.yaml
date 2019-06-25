@@ -1,0 +1,21 @@
+---
+id: jetcoin
+rank: 1085
+symbol: JET
+name: Jetcoin
+marketCap:
+  BTC: "12.5587053498"
+  USD: "142513.68847"
+price:
+  BTC: "1.84067102288e-06"
+  USD: "0.0208875683777"
+volume:
+  BTC: "3.72055634147"
+  USD: "42220.1327773"
+supply:
+  JET: "6822895.1256"
+change:
+  1h: "8.24"
+  24h: "-3.56"
+  7d: "23.33"
+isMineable: false

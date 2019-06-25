@@ -1,0 +1,27 @@
+{
+  "id": "eternal-token",
+  "rank": 2000,
+  "symbol": "XET",
+  "name": "ETERNAL TOKEN",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "0.000179308173832",
+    "USD": "2.03475346492"
+  },
+  "volume": {
+    "BTC": "5.8362298422",
+    "USD": "66228.3745337"
+  },
+  "supply": {
+    "XET": "0"
+  },
+  "change": {
+    "1h": "-3.14",
+    "24h": "0.18",
+    "7d": "-16.54"
+  },
+  "isMineable": false
+}

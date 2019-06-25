@@ -1,0 +1,27 @@
+{
+  "id": "hollywoodcoin",
+  "rank": 1019,
+  "symbol": "HWC",
+  "name": "HollyWoodCoin",
+  "marketCap": {
+    "BTC": "26.211156945",
+    "USD": "297438.991618"
+  },
+  "price": {
+    "BTC": "1.2604595048e-06",
+    "USD": "0.014303443563"
+  },
+  "volume": {
+    "BTC": "10.8577962545",
+    "USD": "123212.110625"
+  },
+  "supply": {
+    "HWC": "20794921.8878"
+  },
+  "change": {
+    "1h": "-5.72",
+    "24h": "0.10",
+    "7d": "-4.53"
+  },
+  "isMineable": true
+}

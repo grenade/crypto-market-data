@@ -1,0 +1,21 @@
+---
+id: elcoin-el
+rank: 1372
+symbol: EL
+name: Elcoin
+marketCap:
+  BTC: "31.5962539156"
+  USD: "358678.757686"
+price:
+  BTC: "2.81883726802e-06"
+  USD: "0.0319992696638"
+volume:
+  BTC: "0.029901342627"
+  USD: "339.438227557"
+supply:
+  EL: "11208967.0"
+change:
+  1h: "-0.48"
+  24h: "1.94"
+  7d: "-7.22"
+isMineable: false

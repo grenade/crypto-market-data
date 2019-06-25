@@ -1,0 +1,21 @@
+---
+id: blockv
+rank: 373
+symbol: VEE
+name: BLOCKv
+marketCap:
+  BTC: "828.614867673"
+  USD: "9402956.58055"
+price:
+  BTC: "3.11301267717e-07"
+  USD: "0.00353258482078"
+volume:
+  BTC: "9.06859435359"
+  USD: "102908.603599"
+supply:
+  VEE: "2661778006.08"
+change:
+  1h: "-2.83"
+  24h: "-6.44"
+  7d: "-19.17"
+isMineable: false

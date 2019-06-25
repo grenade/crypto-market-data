@@ -1,0 +1,27 @@
+{
+  "id": "bitcoin2",
+  "rank": 2062,
+  "symbol": "BTC2",
+  "name": "Bitcoin 2",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "0.000214878334628",
+    "USD": "2.43839656931"
+  },
+  "volume": {
+    "BTC": "0.640657473051",
+    "USD": "7270.05347977"
+  },
+  "supply": {
+    "BTC2": "0"
+  },
+  "change": {
+    "1h": "12.26",
+    "24h": "31.27",
+    "7d": "45.14"
+  },
+  "isMineable": false
+}

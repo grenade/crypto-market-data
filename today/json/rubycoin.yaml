@@ -1,0 +1,21 @@
+---
+id: rubycoin
+rank: 371
+symbol: RBY
+name: Rubycoin
+marketCap:
+  BTC: "840.145851348"
+  USD: "9537284.73762"
+price:
+  BTC: "3.10371975788e-05"
+  USD: "0.352332384064"
+volume:
+  BTC: "0.0462743124764"
+  USD: "525.303188033"
+supply:
+  RBY: "27068998.3918"
+change:
+  1h: "0.92"
+  24h: "-24.77"
+  7d: "15.54"
+isMineable: false

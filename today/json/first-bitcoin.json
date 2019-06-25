@@ -1,0 +1,27 @@
+{
+  "id": "first-bitcoin",
+  "rank": 2109,
+  "symbol": "BIT",
+  "name": "First Bitcoin",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "7.39694885935e-07",
+    "USD": "0.00839697147206"
+  },
+  "volume": {
+    "BTC": "0.0309543900663",
+    "USD": "351.392358206"
+  },
+  "supply": {
+    "BIT": "0"
+  },
+  "change": {
+    "1h": "1.16",
+    "24h": "-0.05",
+    "7d": "7.81"
+  },
+  "isMineable": true
+}

@@ -1,0 +1,21 @@
+---
+id: stronghands
+rank: 1258
+symbol: SHND
+name: StrongHands
+marketCap:
+  BTC: "91.9132718254"
+  USD: "1043393.8859"
+price:
+  BTC: "9.88691564289e-12"
+  USD: "1.12235666595e-07"
+volume:
+  BTC: "0.014078390224"
+  USD: "159.817031767"
+supply:
+  SHND: "9.29645555249e+12"
+change:
+  1h: "3.78"
+  24h: "24.62"
+  7d: "1.96"
+isMineable: true

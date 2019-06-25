@@ -1,0 +1,21 @@
+---
+id: neo
+rank: 17
+symbol: NEO
+name: NEO
+marketCap:
+  BTC: "110723.694138"
+  USD: "1256470441.27"
+price:
+  BTC: "0.00156968427983"
+  USD: "17.8124647581"
+volume:
+  BTC: "58204.5071553"
+  USD: "660493161.451"
+supply:
+  NEO: "70538831.0"
+change:
+  1h: "0.32"
+  24h: "1.81"
+  7d: "28.89"
+isMineable: false

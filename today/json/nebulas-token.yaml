@@ -1,0 +1,21 @@
+---
+id: nebulas-token
+rank: 91
+symbol: NAS
+name: Nebulas
+marketCap:
+  BTC: "7275.1552022"
+  USD: "82557013.0972"
+price:
+  BTC: "0.000149609234757"
+  USD: "1.69773581594"
+volume:
+  BTC: "2204.08034573"
+  USD: "25011465.0358"
+supply:
+  NAS: "48627714.82"
+change:
+  1h: "-1.90"
+  24h: "-4.24"
+  7d: "10.08"
+isMineable: false

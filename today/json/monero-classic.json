@@ -1,0 +1,27 @@
+{
+  "id": "monero-classic",
+  "rank": 2029,
+  "symbol": "XMC",
+  "name": "Monero Classic",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "7.28997687986e-05",
+    "USD": "0.827252065452"
+  },
+  "volume": {
+    "BTC": "2.22455623443",
+    "USD": "25243.821345"
+  },
+  "supply": {
+    "XMC": "0"
+  },
+  "change": {
+    "1h": "-4.17",
+    "24h": "-1.63",
+    "7d": "-1.70"
+  },
+  "isMineable": false
+}

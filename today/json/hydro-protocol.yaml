@@ -1,0 +1,21 @@
+---
+id: hydro-protocol
+rank: 493
+symbol: HOT
+name: Hydro Protocol
+marketCap:
+  BTC: "492.916190772"
+  USD: "5593514.81672"
+price:
+  BTC: "7.02159815914e-07"
+  USD: "0.00796796982439"
+volume:
+  BTC: "13.4600555404"
+  USD: "152742.031016"
+supply:
+  HOT: "702000000.0"
+change:
+  1h: "-1.37"
+  24h: "3.05"
+  7d: "14.30"
+isMineable: false

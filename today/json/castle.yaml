@@ -1,0 +1,21 @@
+---
+id: castle
+rank: 1680
+symbol: CSTL
+name: Castle
+marketCap:
+  BTC: "3.01999586652"
+  USD: "34270.3119557"
+price:
+  BTC: "2.20080230997e-07"
+  USD: "0.00249742665385"
+volume:
+  BTC: "0.000118447180323"
+  USD: "1.3441150251"
+supply:
+  CSTL: "13722249.6216"
+change:
+  1h: "1.01"
+  24h: "110.57"
+  7d: "-1.71"
+isMineable: true

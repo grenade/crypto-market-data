@@ -1,0 +1,21 @@
+---
+id: omni
+rank: 747
+symbol: OMNI
+name: Omni
+marketCap:
+  BTC: "146.220966892"
+  USD: "1659891.54577"
+price:
+  BTC: "0.000260105130826"
+  USD: "2.95269766604"
+volume:
+  BTC: "0.223018712411"
+  USD: "2531.69489401"
+supply:
+  OMNI: "562161.024767"
+change:
+  1h: "0.89"
+  24h: "10.31"
+  7d: "47.72"
+isMineable: false

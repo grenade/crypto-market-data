@@ -1,0 +1,27 @@
+{
+  "id": "encryptotel-eth",
+  "rank": 2113,
+  "symbol": "ETT",
+  "name": "EncryptoTel [ETH]",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "1.02037198008e-06",
+    "USD": "0.0115789781224"
+  },
+  "volume": {
+    "BTC": "0.0266511629571",
+    "USD": "302.432092259"
+  },
+  "supply": {
+    "ETT": "0"
+  },
+  "change": {
+    "1h": "1.01",
+    "24h": "3.26",
+    "7d": "18.18"
+  },
+  "isMineable": false
+}

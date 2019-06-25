@@ -1,0 +1,27 @@
+{
+  "id": "quadrantprotocol",
+  "rank": 873,
+  "symbol": "EQUAD",
+  "name": "QuadrantProtocol",
+  "marketCap": {
+    "BTC": "77.7256702136",
+    "USD": "882015.434104"
+  },
+  "price": {
+    "BTC": "2.21969645978e-07",
+    "USD": "0.00251886735897"
+  },
+  "volume": {
+    "BTC": "24.9194996652",
+    "USD": "282781.521914"
+  },
+  "supply": {
+    "EQUAD": "350163509.39"
+  },
+  "change": {
+    "1h": "3.22",
+    "24h": "6.91",
+    "7d": "-14.22"
+  },
+  "isMineable": false
+}

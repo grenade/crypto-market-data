@@ -1,0 +1,21 @@
+---
+id: nuggets
+rank: 759
+symbol: NUG
+name: Nuggets
+marketCap:
+  BTC: "139.027238136"
+  USD: "1577653.42466"
+price:
+  BTC: "8.22046259941e-08"
+  USD: "0.000932841732753"
+volume:
+  BTC: "0.04971027215"
+  USD: "564.102273409"
+supply:
+  NUG: "1691233753.02"
+change:
+  1h: "0.21"
+  24h: "1.37"
+  7d: "13.54"
+isMineable: false

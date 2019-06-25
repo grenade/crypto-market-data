@@ -1,0 +1,21 @@
+---
+id: zap
+rank: 800
+symbol: ZAP
+name: Zap
+marketCap:
+  BTC: "114.755704474"
+  USD: "1302224.89197"
+price:
+  BTC: "8.72439675309e-07"
+  USD: "0.00990027177419"
+volume:
+  BTC: "4.81764076863"
+  USD: "54669.6284794"
+supply:
+  ZAP: "131534257.006"
+change:
+  1h: "1.26"
+  24h: "-5.02"
+  7d: "-13.28"
+isMineable: false

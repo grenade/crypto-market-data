@@ -1,0 +1,21 @@
+---
+id: qtum
+rank: 30
+symbol: QTUM
+name: Qtum
+marketCap:
+  BTC: "36034.3906617"
+  USD: "408911092.496"
+price:
+  BTC: "0.000376064406478"
+  USD: "4.26750402818"
+volume:
+  BTC: "23727.8152365"
+  USD: "269258524.225"
+supply:
+  QTUM: "95819732.0485"
+change:
+  1h: "-0.40"
+  24h: "10.43"
+  7d: "19.14"
+isMineable: false

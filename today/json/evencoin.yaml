@@ -1,0 +1,21 @@
+---
+id: evencoin
+rank: 650
+symbol: EVN
+name: EvenCoin
+marketCap:
+  BTC: "239.510710883"
+  USD: "2717919.87192"
+price:
+  BTC: "1.0008252505e-05"
+  USD: "0.11357165726"
+volume:
+  BTC: "130.084450996"
+  USD: "1476172.45628"
+supply:
+  EVN: "23931321.7531"
+change:
+  1h: "-6.39"
+  24h: "-3.33"
+  7d: "-24.70"
+isMineable: false

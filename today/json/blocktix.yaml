@@ -1,0 +1,21 @@
+---
+id: blocktix
+rank: 1465
+symbol: TIX
+name: Blocktix
+marketCap:
+  BTC: "16.7398511115"
+  USD: "189960.498306"
+price:
+  BTC: "4.18496277788e-07"
+  USD: "0.00474901245765"
+volume:
+  BTC: "0.000424822297416"
+  USD: "4.82079886917"
+supply:
+  TIX: "40000000.0"
+change:
+  1h: "-21.75"
+  24h: "-22.59"
+  7d: "-44.24"
+isMineable: false

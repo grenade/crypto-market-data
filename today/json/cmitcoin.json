@@ -1,0 +1,27 @@
+{
+  "id": "cmitcoin",
+  "rank": 2023,
+  "symbol": "CMIT",
+  "name": "CMITCOIN",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "1.30047409225e-09",
+    "USD": "1.47575211364e-05"
+  },
+  "volume": {
+    "BTC": "2.91058026194",
+    "USD": "33028.6854544"
+  },
+  "supply": {
+    "CMIT": "0"
+  },
+  "change": {
+    "1h": "4.44",
+    "24h": "9.74",
+    "7d": "-80.83"
+  },
+  "isMineable": false
+}

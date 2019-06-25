@@ -1,0 +1,21 @@
+---
+id: electroneum
+rank: 119
+symbol: ETN
+name: Electroneum
+marketCap:
+  BTC: "4813.95652701"
+  USD: "54627820.4389"
+price:
+  BTC: "4.98296133547e-07"
+  USD: "0.00565456533645"
+volume:
+  BTC: "17.9509519861"
+  USD: "203703.829958"
+supply:
+  ETN: "9660834597.98"
+change:
+  1h: "0.97"
+  24h: "-3.96"
+  7d: "-5.97"
+isMineable: true

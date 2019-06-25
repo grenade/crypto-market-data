@@ -1,0 +1,21 @@
+---
+id: diamond
+rank: 600
+symbol: DMD
+name: Diamond
+marketCap:
+  BTC: "299.331994065"
+  USD: "3397998.63786"
+price:
+  BTC: "9.22463960778e-05"
+  USD: "1.04717549221"
+volume:
+  BTC: "0.198586436038"
+  USD: "2254.3411748"
+supply:
+  DMD: "3244918.03249"
+change:
+  1h: "1.00"
+  24h: "4.01"
+  7d: "-21.34"
+isMineable: true

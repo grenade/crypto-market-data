@@ -1,0 +1,21 @@
+---
+id: centurion
+rank: 1795
+symbol: CNT
+name: Centurion
+marketCap:
+  BTC: "0.776318037954"
+  USD: "8812.71527205"
+price:
+  BTC: "9.99587683696e-09"
+  USD: "0.00011347258746"
+volume:
+  BTC: "0.000396118722423"
+  USD: "4.49671570667"
+supply:
+  CNT: "77663825.8571"
+change:
+  1h: "-28.91"
+  24h: "-9.81"
+  7d: "-54.12"
+isMineable: true

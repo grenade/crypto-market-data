@@ -1,0 +1,27 @@
+{
+  "id": "digitex-futures",
+  "rank": 146,
+  "symbol": "DGTX",
+  "name": "Digitex Futures",
+  "marketCap": {
+    "BTC": "3504.9020078",
+    "USD": "39772930.3254"
+  },
+  "price": {
+    "BTC": "4.65873157094e-06",
+    "USD": "0.0528663585353"
+  },
+  "volume": {
+    "BTC": "281.42538863",
+    "USD": "3193559.29177"
+  },
+  "supply": {
+    "DGTX": "752329674.812"
+  },
+  "change": {
+    "1h": "0.30",
+    "24h": "-7.84",
+    "7d": "-13.10"
+  },
+  "isMineable": false
+}

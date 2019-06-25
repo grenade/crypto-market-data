@@ -1,0 +1,21 @@
+---
+id: newyorkcoin
+rank: 711
+symbol: NYC
+name: NewYorkCoin
+marketCap:
+  BTC: "174.407787781"
+  USD: "1979866.62657"
+price:
+  BTC: "1.30131186669e-09"
+  USD: "1.47724133675e-05"
+volume:
+  BTC: "0.206051960999"
+  USD: "2339.08936126"
+supply:
+  NYC: "1.3402458876e+11"
+change:
+  1h: "-0.01"
+  24h: "15.33"
+  7d: "2.92"
+isMineable: true

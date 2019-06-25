@@ -1,0 +1,21 @@
+---
+id: tokencard
+rank: 269
+symbol: TKN
+name: TokenCard
+marketCap:
+  BTC: "1353.0815262"
+  USD: "15360099.4017"
+price:
+  BTC: "4.4614788581e-05"
+  USD: "0.506464373447"
+volume:
+  BTC: "0.433695827016"
+  USD: "4923.28871842"
+supply:
+  TKN: "30328094.5452"
+change:
+  1h: "0.12"
+  24h: "9.07"
+  7d: "10.56"
+isMineable: false

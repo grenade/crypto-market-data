@@ -1,0 +1,21 @@
+---
+id: lanacoin
+rank: 1416
+symbol: LANA
+name: LanaCoin
+marketCap:
+  BTC: "21.4061635052"
+  USD: "243001.469521"
+price:
+  BTC: "1.99917536739e-08"
+  USD: "0.00022694517492"
+volume:
+  BTC: "0.000645623689022"
+  USD: "7.32908095147"
+supply:
+  LANA: "1070749662.8"
+change:
+  1h: "0.93"
+  24h: "6.29"
+  7d: "24.28"
+isMineable: true

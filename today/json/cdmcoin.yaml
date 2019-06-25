@@ -1,0 +1,21 @@
+---
+id: cdmcoin
+rank: 1648
+symbol: CDM
+name: CDMCOIN
+marketCap:
+  BTC: "3.88764945373"
+  USD: "44116.2721549"
+price:
+  BTC: "2.0007293727e-09"
+  USD: "2.27038786714e-05"
+volume:
+  BTC: "0.00129046973813"
+  USD: "14.6439937172"
+supply:
+  CDM: "1943116098.95"
+change:
+  1h: "1.01"
+  24h: "-29.81"
+  7d: "-73.61"
+isMineable: false

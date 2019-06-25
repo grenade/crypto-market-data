@@ -1,0 +1,27 @@
+{
+  "id": "iquant",
+  "rank": 2162,
+  "symbol": "IQT",
+  "name": "iQuant",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "3.60104461706e-07",
+    "USD": "0.00408639375178"
+  },
+  "volume": {
+    "BTC": "1.16111731311e-06",
+    "USD": "0.013176128146"
+  },
+  "supply": {
+    "IQT": "0"
+  },
+  "change": {
+    "1h": "0.10",
+    "24h": "-0.21",
+    "7d": "-0.73"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,21 @@
+---
+id: iostoken
+rank: 59
+symbol: IOST
+name: IOST
+marketCap:
+  BTC: "14339.3148225"
+  USD: "162719690.33"
+price:
+  BTC: "1.19355384303e-06"
+  USD: "0.0135442114309"
+volume:
+  BTC: "4982.52245764"
+  USD: "56540673.0663"
+supply:
+  IOST: "12013965608.8"
+change:
+  1h: "0.13"
+  24h: "9.98"
+  7d: "8.22"
+isMineable: false

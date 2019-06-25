@@ -1,0 +1,27 @@
+{
+  "id": "bitcapitalvendor",
+  "rank": 318,
+  "symbol": "BCV",
+  "name": "BitCapitalVendor",
+  "marketCap": {
+    "BTC": "1012.44877073",
+    "USD": "11489067.1199"
+  },
+  "price": {
+    "BTC": "1.20671293357e-06",
+    "USD": "0.013693538171"
+  },
+  "volume": {
+    "BTC": "8.10173422786",
+    "USD": "91936.867348"
+  },
+  "supply": {
+    "BCV": "839013772.51"
+  },
+  "change": {
+    "1h": "-1.79",
+    "24h": "-1.24",
+    "7d": "3.24"
+  },
+  "isMineable": false
+}

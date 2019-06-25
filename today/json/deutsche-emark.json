@@ -1,0 +1,27 @@
+{
+  "id": "deutsche-emark",
+  "rank": 1371,
+  "symbol": "DEM",
+  "name": "Deutsche eMark",
+  "marketCap": {
+    "BTC": "32.3381655172",
+    "USD": "367100.893179"
+  },
+  "price": {
+    "BTC": "7.7e-07",
+    "USD": "0.00874099328848"
+  },
+  "volume": {
+    "BTC": "0.00091621",
+    "USD": "10.4007603388"
+  },
+  "supply": {
+    "DEM": "41997617.5548"
+  },
+  "change": {
+    "1h": "0.95",
+    "24h": "153.34",
+    "7d": "12.86"
+  },
+  "isMineable": true
+}

@@ -1,0 +1,27 @@
+{
+  "id": "coineal-token",
+  "rank": 1975,
+  "symbol": "NEAL",
+  "name": "Coineal Token",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "6.66456745226e-07",
+    "USD": "0.007562818485"
+  },
+  "volume": {
+    "BTC": "10.218576558",
+    "USD": "115958.372748"
+  },
+  "supply": {
+    "NEAL": "0"
+  },
+  "change": {
+    "1h": "0.04",
+    "24h": "-4.01",
+    "7d": "-20.48"
+  },
+  "isMineable": false
+}

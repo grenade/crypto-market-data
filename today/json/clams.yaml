@@ -1,0 +1,21 @@
+---
+id: clams
+rank: 282
+symbol: CLAM
+name: Clams
+marketCap:
+  BTC: "1277.53021004"
+  USD: "14502445.4439"
+price:
+  BTC: "0.000349849701013"
+  USD: "3.97147258251"
+volume:
+  BTC: "0.614654353978"
+  USD: "6977.51893878"
+supply:
+  CLAM: "3651654.42857"
+change:
+  1h: "0.93"
+  24h: "3.97"
+  7d: "-2.34"
+isMineable: false

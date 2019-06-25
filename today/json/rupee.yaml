@@ -1,0 +1,21 @@
+---
+id: rupee
+rank: 1355
+symbol: RUP
+name: Rupee
+marketCap:
+  BTC: "34.5757322008"
+  USD: "392358.526631"
+price:
+  BTC: "9.90361039486e-07"
+  USD: "0.0112384199423"
+volume:
+  BTC: "7.91497343049e-06"
+  USD: "0.0898175429947"
+supply:
+  RUP: "34912250.0"
+change:
+  1h: "1.01"
+  24h: "91.82"
+  7d: "134.11"
+isMineable: true

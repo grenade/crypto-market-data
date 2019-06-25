@@ -1,0 +1,27 @@
+{
+  "id": "bnktothefuture",
+  "rank": 219,
+  "symbol": "BFT",
+  "name": "BnkToTheFuture",
+  "marketCap": {
+    "BTC": "1869.6199114",
+    "USD": "21216074.6022"
+  },
+  "price": {
+    "BTC": "2.56115825303e-06",
+    "USD": "0.0290635140507"
+  },
+  "volume": {
+    "BTC": "34.5053617215",
+    "USD": "391559.97644"
+  },
+  "supply": {
+    "BFT": "729989999.325"
+  },
+  "change": {
+    "1h": "0.93",
+    "24h": "3.45",
+    "7d": "-8.25"
+  },
+  "isMineable": false
+}

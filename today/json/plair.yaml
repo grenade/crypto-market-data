@@ -1,0 +1,21 @@
+---
+id: plair
+rank: 676
+symbol: PLA
+name: Plair
+marketCap:
+  BTC: "200.846285987"
+  USD: "2279163.67445"
+price:
+  BTC: "1.01138654473e-08"
+  USD: "0.000114770131907"
+volume:
+  BTC: "10.0088975513"
+  USD: "113578.977117"
+supply:
+  PLA: "19858508800.0"
+change:
+  1h: "-0.46"
+  24h: "12.76"
+  7d: "29.59"
+isMineable: false

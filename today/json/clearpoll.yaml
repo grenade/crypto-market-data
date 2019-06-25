@@ -1,0 +1,21 @@
+---
+id: clearpoll
+rank: 1420
+symbol: POLL
+name: ClearPoll
+marketCap:
+  BTC: "21.0076314035"
+  USD: "238390.419547"
+price:
+  BTC: "3.00109405905e-06"
+  USD: "0.0340558180071"
+volume:
+  BTC: "0.00368945500337"
+  USD: "41.8672009834"
+supply:
+  POLL: "6999991.0"
+change:
+  1h: "1.01"
+  24h: "-26.03"
+  7d: "-10.24"
+isMineable: false

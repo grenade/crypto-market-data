@@ -1,0 +1,21 @@
+---
+id: candy
+rank: 2080
+symbol: CANDY
+name: Candy
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "2.49104927255e-09"
+  USD: "2.82679312955e-05"
+volume:
+  BTC: "0.271855600548"
+  USD: "3084.9632415"
+supply:
+  CANDY: "0"
+change:
+  1h: "0.21"
+  24h: "-7.84"
+  7d: "-12.57"
+isMineable: false

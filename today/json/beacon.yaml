@@ -1,0 +1,21 @@
+---
+id: beacon
+rank: 1608
+symbol: BECN
+name: Beacon
+marketCap:
+  BTC: "5.37923767639"
+  USD: "61042.5184014"
+price:
+  BTC: "6.40233399264e-07"
+  USD: "0.00726524117484"
+volume:
+  BTC: "0.00541645258622"
+  USD: "61.4648257904"
+supply:
+  BECN: "8401994.77655"
+change:
+  1h: "1.00"
+  24h: "-17.82"
+  7d: "-7.42"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: goldblocks
+rank: 1613
+symbol: GB
+name: GoldBlocks
+marketCap:
+  BTC: "5.28953508042"
+  USD: "60046.4813469"
+price:
+  BTC: "3.39859812457e-07"
+  USD: "0.00385806797365"
+volume:
+  BTC: "0.00129997377852"
+  USD: "14.7572234718"
+supply:
+  GB: "15563873.3576"
+change:
+  1h: "0.93"
+  24h: "2.24"
+  7d: "12.73"
+isMineable: true

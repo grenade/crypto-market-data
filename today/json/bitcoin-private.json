@@ -1,0 +1,27 @@
+{
+  "id": "bitcoin-private",
+  "rank": 548,
+  "symbol": "BTCP",
+  "name": "Bitcoin Private",
+  "marketCap": {
+    "BTC": "380.975551783",
+    "USD": "4323234.72753"
+  },
+  "price": {
+    "BTC": "8.09556249246e-05",
+    "USD": "0.918668317233"
+  },
+  "volume": {
+    "BTC": "0.467619062831",
+    "USD": "5306.44804431"
+  },
+  "supply": {
+    "BTCP": "4705980.0"
+  },
+  "change": {
+    "1h": "5.79",
+    "24h": "-44.27",
+    "7d": "-39.20"
+  },
+  "isMineable": true
+}

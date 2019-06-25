@@ -1,0 +1,21 @@
+---
+id: paymon
+rank: 1568
+symbol: PMNT
+name: Paymon
+marketCap:
+  BTC: "7.32516489537"
+  USD: "83124.5131409"
+price:
+  BTC: "1.19843689425e-08"
+  USD: "0.000135996233242"
+volume:
+  BTC: "8.64275074418e-05"
+  USD: "0.980762150846"
+supply:
+  PMNT: "611226584.438"
+change:
+  1h: "1.01"
+  24h: "4.85"
+  7d: "16.91"
+isMineable: false

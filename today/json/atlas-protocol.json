@@ -1,0 +1,27 @@
+{
+  "id": "atlas-protocol",
+  "rank": 1888,
+  "symbol": "ATP",
+  "name": "Atlas Protocol",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "1.5742020983e-06",
+    "USD": "0.0178637320627"
+  },
+  "volume": {
+    "BTC": "175.632577636",
+    "USD": "1993043.53092"
+  },
+  "supply": {
+    "ATP": "0"
+  },
+  "change": {
+    "1h": "-1.67",
+    "24h": "-1.89",
+    "7d": "-32.56"
+  },
+  "isMineable": false
+}

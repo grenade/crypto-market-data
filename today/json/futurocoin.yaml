@@ -1,0 +1,21 @@
+---
+id: futurocoin
+rank: 1917
+symbol: FTO
+name: FuturoCoin
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "0.000112365277506"
+  USD: "1.27509880256"
+volume:
+  BTC: "57.2134997143"
+  USD: "649247.406272"
+supply:
+  FTO: "0"
+change:
+  1h: "1.32"
+  24h: "3.03"
+  7d: "0.46"
+isMineable: true

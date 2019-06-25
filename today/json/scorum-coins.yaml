@@ -1,0 +1,21 @@
+---
+id: scorum-coins
+rank: 976
+symbol: SCR
+name: Scorum Coins
+marketCap:
+  BTC: "38.2081246693"
+  USD: "433578.193328"
+price:
+  BTC: "1.30558780156e-06"
+  USD: "0.0148155504917"
+volume:
+  BTC: "3.98177683484"
+  USD: "45184.4109395"
+supply:
+  SCR: "29265074.799"
+change:
+  1h: "-0.17"
+  24h: "0.71"
+  7d: "-18.08"
+isMineable: false

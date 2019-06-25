@@ -1,0 +1,21 @@
+---
+id: usechain-token
+rank: 2039
+symbol: USE
+name: Usechain Token
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "1.83799740588e-07"
+  USD: "0.00208572287042"
+volume:
+  BTC: "1.6043537381"
+  USD: "18205.8868695"
+supply:
+  USE: "0"
+change:
+  1h: "-3.30"
+  24h: "-8.66"
+  7d: "3.30"
+isMineable: false

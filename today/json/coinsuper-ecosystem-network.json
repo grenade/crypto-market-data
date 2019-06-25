@@ -1,0 +1,27 @@
+{
+  "id": "coinsuper-ecosystem-network",
+  "rank": 529,
+  "symbol": "CEN",
+  "name": "Coinsuper Ecosystem Network",
+  "marketCap": {
+    "BTC": "408.50792329",
+    "USD": "4635666.599"
+  },
+  "price": {
+    "BTC": "9.45370803997e-07",
+    "USD": "0.0107278797054"
+  },
+  "volume": {
+    "BTC": "7.62142641739",
+    "USD": "86486.4299212"
+  },
+  "supply": {
+    "CEN": "432113961.594"
+  },
+  "change": {
+    "1h": "0.56",
+    "24h": "-6.10",
+    "7d": "-1.93"
+  },
+  "isMineable": false
+}

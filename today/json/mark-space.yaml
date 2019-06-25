@@ -1,0 +1,21 @@
+---
+id: mark-space
+rank: 618
+symbol: MRK
+name: MARK.SPACE
+marketCap:
+  BTC: "274.943994365"
+  USD: "3120009.71979"
+price:
+  BTC: "3.6003656328e-07"
+  USD: "0.00408562325396"
+volume:
+  BTC: "9.33033813875"
+  USD: "105878.819972"
+supply:
+  MRK: "763655757.238"
+change:
+  1h: "0.45"
+  24h: "9.50"
+  7d: "-11.65"
+isMineable: false

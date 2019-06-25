@@ -1,0 +1,27 @@
+{
+  "id": "infinitecoin",
+  "rank": 2084,
+  "symbol": "IFC",
+  "name": "Infinitecoin",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "1.6e-09",
+    "USD": "1.81631029371e-05"
+  },
+  "volume": {
+    "BTC": "0.1877673774",
+    "USD": "2131.52387747"
+  },
+  "supply": {
+    "IFC": "0"
+  },
+  "change": {
+    "1h": "0.95",
+    "24h": "-0.91",
+    "7d": "2.78"
+  },
+  "isMineable": true
+}

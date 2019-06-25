@@ -1,0 +1,27 @@
+{
+  "id": "digital-asset-exchange-token",
+  "rank": 2134,
+  "symbol": "DAXT",
+  "name": "Digital Asset Exchange Token",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "2.02046238664e-07",
+    "USD": "0.00229278049857"
+  },
+  "volume": {
+    "BTC": "0.0045159571948",
+    "USD": "51.2461833344"
+  },
+  "supply": {
+    "DAXT": "0"
+  },
+  "change": {
+    "1h": "0.20",
+    "24h": "151.98",
+    "7d": "-9.86"
+  },
+  "isMineable": false
+}

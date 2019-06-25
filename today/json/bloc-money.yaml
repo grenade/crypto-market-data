@@ -1,0 +1,21 @@
+---
+id: bloc-money
+rank: 1582
+symbol: BLOC
+name: BLOC.MONEY
+marketCap:
+  BTC: "6.84373325629"
+  USD: "77661.3227308"
+price:
+  BTC: "6.50237046127e-07"
+  USD: "0.0073787605682"
+volume:
+  BTC: "0.0221935607381"
+  USD: "251.848109574"
+supply:
+  BLOC: "10524982.077"
+change:
+  1h: "1.00"
+  24h: "14.54"
+  7d: "12.64"
+isMineable: false

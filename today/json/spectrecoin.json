@@ -1,0 +1,27 @@
+{
+  "id": "spectrecoin",
+  "rank": 295,
+  "symbol": "XSPEC",
+  "name": "Spectrecoin",
+  "marketCap": {
+    "BTC": "1183.66876509",
+    "USD": "13436936.0148"
+  },
+  "price": {
+    "BTC": "5.27353514018e-05",
+    "USD": "0.598648509959"
+  },
+  "volume": {
+    "BTC": "1.61892883196",
+    "USD": "18377.9818892"
+  },
+  "supply": {
+    "XSPEC": "22445451.3646"
+  },
+  "change": {
+    "1h": "10.32",
+    "24h": "3.41",
+    "7d": "-10.21"
+  },
+  "isMineable": false
+}

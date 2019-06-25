@@ -1,0 +1,21 @@
+---
+id: pluracoin
+rank: 1668
+symbol: PLURA
+name: PluraCoin
+marketCap:
+  BTC: "3.31340821485"
+  USD: "37599.8968802"
+price:
+  BTC: "1.00036468635e-08"
+  USD: "0.000113519393357"
+volume:
+  BTC: "3.99745728665e-07"
+  USD: "0.00453623495854"
+supply:
+  PLURA: "331220030.061"
+change:
+  1h: "1.00"
+  24h: "5.83"
+  7d: "-15.49"
+isMineable: true

@@ -1,0 +1,27 @@
+{
+  "id": "bitcoin-file",
+  "rank": 1987,
+  "symbol": "BIFI",
+  "name": "Bitcoin File",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "1.86659540947e-07",
+    "USD": "0.00211817531564"
+  },
+  "volume": {
+    "BTC": "7.67840442328",
+    "USD": "87133.0049905"
+  },
+  "supply": {
+    "BIFI": "0"
+  },
+  "change": {
+    "1h": "4.84",
+    "24h": "-28.98",
+    "7d": "-64.58"
+  },
+  "isMineable": false
+}

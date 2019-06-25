@@ -1,0 +1,21 @@
+---
+id: vivid-coin
+rank: 1553
+symbol: VIVID
+name: Vivid Coin
+marketCap:
+  BTC: "8.56574108879"
+  USD: "97202.3248437"
+price:
+  BTC: "1.58757875724e-06"
+  USD: "0.0180155277257"
+volume:
+  BTC: "0.000578790255356"
+  USD: "6.56799660819"
+supply:
+  VIVID: "5395474.74399"
+change:
+  1h: "0.97"
+  24h: "-6.55"
+  7d: "-27.19"
+isMineable: true

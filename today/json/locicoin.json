@@ -1,0 +1,27 @@
+{
+  "id": "locicoin",
+  "rank": 1512,
+  "symbol": "LOCI",
+  "name": "LOCIcoin",
+  "marketCap": {
+    "BTC": "11.8942096271",
+    "USD": "134973.123277"
+  },
+  "price": {
+    "BTC": "2.87388384048e-07",
+    "USD": "0.00326122617683"
+  },
+  "volume": {
+    "BTC": "0.0",
+    "USD": "0.0"
+  },
+  "supply": {
+    "LOCI": "41387231.6602"
+  },
+  "change": {
+    "1h": "12.15",
+    "24h": "12.89",
+    "7d": "11.58"
+  },
+  "isMineable": false
+}

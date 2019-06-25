@@ -1,0 +1,21 @@
+---
+id: fanstime
+rank: 506
+symbol: FTI
+name: FansTime
+marketCap:
+  BTC: "459.713607858"
+  USD: "5216738.51487"
+price:
+  BTC: "1.61303020301e-07"
+  USD: "0.00183043456662"
+volume:
+  BTC: "48.3380464385"
+  USD: "548530.529179"
+supply:
+  FTI: "2850000000.0"
+change:
+  1h: "-10.92"
+  24h: "0.20"
+  7d: "-4.26"
+isMineable: false

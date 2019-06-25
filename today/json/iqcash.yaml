@@ -1,0 +1,21 @@
+---
+id: iqcash
+rank: 1100
+symbol: IQ
+name: IQ.cash
+marketCap:
+  BTC: "9.23727260416"
+  USD: "104822.730811"
+price:
+  BTC: "2.37086430665e-06"
+  USD: "0.0269040962256"
+volume:
+  BTC: "0.106167214259"
+  USD: "1204.76441457"
+supply:
+  IQ: "3896162.5"
+change:
+  1h: "5.45"
+  24h: "16.55"
+  7d: "28.95"
+isMineable: true

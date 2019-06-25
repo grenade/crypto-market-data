@@ -1,0 +1,21 @@
+---
+id: metal
+rank: 180
+symbol: MTL
+name: Metal
+marketCap:
+  BTC: "2513.57382209"
+  USD: "28523535.4001"
+price:
+  BTC: "5.57508714941e-05"
+  USD: "0.632649792369"
+volume:
+  BTC: "524.322761019"
+  USD: "5949910.32433"
+supply:
+  MTL: "45085821.167"
+change:
+  1h: "0.24"
+  24h: "2.68"
+  7d: "9.26"
+isMineable: false

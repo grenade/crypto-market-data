@@ -1,0 +1,21 @@
+---
+id: tolar
+rank: 628
+symbol: TOL
+name: Tolar
+marketCap:
+  BTC: "258.111280828"
+  USD: "2928995.43718"
+price:
+  BTC: "1.05288541849e-06"
+  USD: "0.0119479341497"
+volume:
+  BTC: "40.5104059609"
+  USD: "459704.02315"
+supply:
+  TOL: "245146600.281"
+change:
+  1h: "0.31"
+  24h: "-2.53"
+  7d: "30.06"
+isMineable: false

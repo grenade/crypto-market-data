@@ -1,0 +1,21 @@
+---
+id: sureremit
+rank: 1192
+symbol: RMT
+name: SureRemit
+marketCap:
+  BTC: "399.536624991"
+  USD: "4533862.09168"
+price:
+  BTC: "7.99073249983e-07"
+  USD: "0.00906772418336"
+volume:
+  BTC: "0.00197930471699"
+  USD: "22.4607559431"
+supply:
+  RMT: "500000000.0"
+change:
+  1h: "0.21"
+  24h: "247.80"
+  7d: "47.77"
+isMineable: false

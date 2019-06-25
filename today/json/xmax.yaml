@@ -1,0 +1,21 @@
+---
+id: xmax
+rank: 143
+symbol: XMX
+name: XMax
+marketCap:
+  BTC: "3604.25117979"
+  USD: "40900324.9533"
+price:
+  BTC: "2.02749768987e-07"
+  USD: "0.00230076402063"
+volume:
+  BTC: "765.844466474"
+  USD: "8690650.56236"
+supply:
+  XMX: "17776844816.1"
+change:
+  1h: "-2.10"
+  24h: "1.13"
+  7d: "563.02"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: litedoge
+rank: 1373
+symbol: LDOGE
+name: LiteDoge
+marketCap:
+  BTC: "31.4248977032"
+  USD: "356733.532357"
+price:
+  BTC: "2.05815831066e-09"
+  USD: "2.33640882859e-05"
+volume:
+  BTC: "0.00221240701855"
+  USD: "25.1151102604"
+supply:
+  LDOGE: "15268455074.8"
+change:
+  1h: "3.48"
+  24h: "15.80"
+  7d: "7.92"
+isMineable: false

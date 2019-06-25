@@ -1,0 +1,21 @@
+---
+id: aeternity
+rank: 62
+symbol: AE
+name: Aeternity
+marketCap:
+  BTC: "13333.1398431"
+  USD: "151301816.946"
+price:
+  BTC: "4.91761496048e-05"
+  USD: "0.558041157084"
+volume:
+  BTC: "5406.24381131"
+  USD: "61348978.6449"
+supply:
+  AE: "271130211.5"
+change:
+  1h: "-1.64"
+  24h: "-7.23"
+  7d: "6.24"
+isMineable: true

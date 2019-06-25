@@ -1,0 +1,21 @@
+---
+id: votecoin
+rank: 1646
+symbol: VOT
+name: VoteCoin
+marketCap:
+  BTC: "3.89308682998"
+  USD: "44177.9744183"
+price:
+  BTC: "6.74714679003e-08"
+  USD: "0.000765652787374"
+volume:
+  BTC: "0.00466062042103"
+  USD: "52.8877928301"
+supply:
+  VOT: "57699750.0"
+change:
+  1h: "0.96"
+  24h: "16.66"
+  7d: "18.34"
+isMineable: true

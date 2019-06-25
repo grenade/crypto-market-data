@@ -1,0 +1,21 @@
+---
+id: buddy
+rank: 1970
+symbol: BUD
+name: BUDDY
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "5.29832541344e-09"
+  USD: "6.01243421472e-05"
+volume:
+  BTC: "11.1486358426"
+  USD: "126512.500379"
+supply:
+  BUD: "0"
+change:
+  1h: "0.91"
+  24h: "5.94"
+  7d: "-10.86"
+isMineable: false

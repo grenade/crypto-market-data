@@ -1,0 +1,21 @@
+---
+id: gsenetwork
+rank: 2007
+symbol: GSE
+name: GSENetwork
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "3.04347874612e-08"
+  USD: "0.000345367909992"
+volume:
+  BTC: "5.19616133011"
+  USD: "58965.0044656"
+supply:
+  GSE: "0"
+change:
+  1h: "0.05"
+  24h: "1.28"
+  7d: "6.56"
+isMineable: false

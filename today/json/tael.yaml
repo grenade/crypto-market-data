@@ -1,0 +1,21 @@
+---
+id: tael
+rank: 270
+symbol: WABI
+name: Tael
+marketCap:
+  BTC: "1340.99728461"
+  USD: "15217370.257"
+price:
+  BTC: "2.35097262382e-05"
+  USD: "0.266783693683"
+volume:
+  BTC: "54.3623571151"
+  USD: "616893.207584"
+supply:
+  WABI: "57040106.3382"
+change:
+  1h: "0.07"
+  24h: "-2.57"
+  7d: "-11.97"
+isMineable: false

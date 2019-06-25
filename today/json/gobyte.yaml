@@ -1,0 +1,21 @@
+---
+id: gobyte
+rank: 1011
+symbol: GBX
+name: GoByte
+marketCap:
+  BTC: "29.416606395"
+  USD: "333813.793924"
+price:
+  BTC: "8.07763369331e-06"
+  USD: "0.0916633792793"
+volume:
+  BTC: "0.238074641343"
+  USD: "2701.62364063"
+supply:
+  GBX: "3641735.62603"
+change:
+  1h: "8.09"
+  24h: "21.72"
+  7d: "6.36"
+isMineable: true

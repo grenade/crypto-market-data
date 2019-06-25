@@ -1,0 +1,21 @@
+---
+id: potcoin
+rank: 698
+symbol: POT
+name: PotCoin
+marketCap:
+  BTC: "182.174299486"
+  USD: "2068031.59628"
+price:
+  BTC: "8.19525782956e-07"
+  USD: "0.00930320697215"
+volume:
+  BTC: "0.300961627428"
+  USD: "3416.49813694"
+supply:
+  POT: "222292334.511"
+change:
+  1h: "1.32"
+  24h: "0.88"
+  7d: "-3.08"
+isMineable: true

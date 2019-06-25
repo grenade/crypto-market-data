@@ -1,0 +1,201 @@
+---
+- id: bitcoin
+  rank: 1
+  symbol: BTC
+  name: Bitcoin
+  marketCap:
+    BTC: "17779162.0"
+    USD: "2.01829020649e+11"
+  price:
+    BTC: "1.0"
+    USD: "11351.9985165"
+  volume:
+    BTC: "1805516.25913"
+    USD: "20488639116.2"
+  supply:
+    BTC: "17779162.0"
+  change:
+    1h: "0.92"
+    24h: "5.25"
+    7d: "22.94"
+  isMineable: true
+- id: ethereum
+  rank: 2
+  symbol: ETH
+  name: Ethereum
+  marketCap:
+    BTC: "2954690.13419"
+    USD: "33529235504.6"
+  price:
+    BTC: "0.0277091706765"
+    USD: "314.43815326"
+  volume:
+    BTC: "729889.789577"
+    USD: "8282644045.8"
+  supply:
+    ETH: "106632210.999"
+  change:
+    1h: "0.32"
+    24h: "2.52"
+    7d: "16.24"
+  isMineable: true
+- id: ripple
+  rank: 3
+  symbol: XRP
+  name: XRP
+  marketCap:
+    BTC: "1762009.92326"
+    USD: "19994937876.8"
+  price:
+    BTC: "4.13941936089e-05"
+    USD: "0.469733069459"
+  volume:
+    BTC: "131787.187717"
+    USD: "1495494773.65"
+  supply:
+    XRP: "42566596173.0"
+  change:
+    1h: "0.30"
+    24h: "1.76"
+    7d: "5.76"
+  isMineable: false
+- id: bitcoin-cash
+  rank: 4
+  symbol: BCH
+  name: Bitcoin Cash
+  marketCap:
+    BTC: "760209.272744"
+    USD: "8626703505.62"
+  price:
+    BTC: "0.0425730730974"
+    USD: "483.110759237"
+  volume:
+    BTC: "161150.996985"
+    USD: "1828709436.29"
+  supply:
+    BCH: "17856575.0"
+  change:
+    1h: "0.43"
+    24h: "2.18"
+    7d: "14.04"
+  isMineable: true
+- id: litecoin
+  rank: 5
+  symbol: LTC
+  name: Litecoin
+  marketCap:
+    BTC: "747519.639422"
+    USD: "8482704072.59"
+  price:
+    BTC: "0.0119832932301"
+    USD: "135.984026272"
+  volume:
+    BTC: "360677.361269"
+    USD: "4092894901.99"
+  supply:
+    LTC: "62380150.8541"
+  change:
+    1h: "-0.05"
+    24h: "0.09"
+    7d: "2.71"
+  isMineable: true
+- id: eos
+  rank: 6
+  symbol: EOS
+  name: EOS
+  marketCap:
+    BTC: "589873.255273"
+    USD: "6693764285.14"
+  price:
+    BTC: "0.000640791881852"
+    USD: "7.27157872409"
+  volume:
+    BTC: "194419.004809"
+    USD: "2206228167.0"
+  supply:
+    EOS: "920537965.568"
+  change:
+    1h: "0.09"
+    24h: "1.29"
+    7d: "3.57"
+  isMineable: false
+- id: binance-coin
+  rank: 7
+  symbol: BNB
+  name: Binance Coin
+  marketCap:
+    BTC: "453608.72123"
+    USD: "5147461476.61"
+  price:
+    BTC: "0.00321308408742"
+    USD: "36.4614386519"
+  volume:
+    BTC: "29742.6319152"
+    USD: "337513466.632"
+  supply:
+    BNB: "141175490.242"
+  change:
+    1h: "-0.06"
+    24h: "-1.63"
+    7d: "5.49"
+  isMineable: false
+- id: bitcoin-sv
+  rank: 8
+  symbol: BSV
+  name: Bitcoin SV
+  marketCap:
+    BTC: "379710.263383"
+    USD: "4308876486.63"
+  price:
+    BTC: "0.021267177442"
+    USD: "241.335696329"
+  volume:
+    BTC: "36103.7137811"
+    USD: "409697757.457"
+  supply:
+    BSV: "17854285.7612"
+  change:
+    1h: "1.70"
+    24h: "1.51"
+    7d: "8.29"
+  isMineable: true
+- id: tether
+  rank: 9
+  symbol: USDT
+  name: Tether
+  marketCap:
+    BTC: "313553.692628"
+    USD: "3558144890.33"
+  price:
+    BTC: "8.78086079356e-05"
+    USD: "0.996434604339"
+  volume:
+    BTC: "1693538.02314"
+    USD: "19217932383.7"
+  supply:
+    USDT: "3570876477.83"
+  change:
+    1h: "0.10"
+    24h: "-0.23"
+    7d: "-0.82"
+  isMineable: false
+- id: tron
+  rank: 10
+  symbol: TRX
+  name: TRON
+  marketCap:
+    BTC: "234037.152251"
+    USD: "2655807018.08"
+  price:
+    BTC: "3.50974624152e-06"
+    USD: "0.0398279017253"
+  volume:
+    BTC: "88746.1926459"
+    USD: "1007074129.0"
+  supply:
+    TRX: "66682072191.4"
+  change:
+    1h: "3.10"
+    24h: "3.66"
+    7d: "19.10"
+  isMineable: true

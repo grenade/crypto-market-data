@@ -1,0 +1,21 @@
+---
+id: more-coin
+rank: 1529
+symbol: MORE
+name: More Coin
+marketCap:
+  BTC: "10.115827359"
+  USD: "114834.25851"
+price:
+  BTC: "5.0579136795e-06"
+  USD: "0.0574171292549"
+volume:
+  BTC: "0.0277276727127"
+  USD: "314.762858554"
+supply:
+  MORE: "2000000.0"
+change:
+  1h: "0.93"
+  24h: "3.14"
+  7d: "1.21"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: sentinel
+rank: 615
+symbol: SENT
+name: Sentinel
+marketCap:
+  BTC: "280.115061859"
+  USD: "3178689.96439"
+price:
+  BTC: "1.40059631883e-07"
+  USD: "0.0015893688234"
+volume:
+  BTC: "0.320053071139"
+  USD: "3631.89854396"
+supply:
+  SENT: "1999969999.15"
+change:
+  1h: "0.44"
+  24h: "-4.87"
+  7d: "42.97"
+isMineable: false

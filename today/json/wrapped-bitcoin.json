@@ -1,0 +1,27 @@
+{
+  "id": "wrapped-bitcoin",
+  "rank": 2092,
+  "symbol": "WBTC",
+  "name": "Wrapped Bitcoin",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "0.992250741213",
+    "USD": "11259.8639014"
+  },
+  "volume": {
+    "BTC": "0.0852610678438",
+    "USD": "967.52562647"
+  },
+  "supply": {
+    "WBTC": "0"
+  },
+  "change": {
+    "1h": "0.58",
+    "24h": "6.59",
+    "7d": "21.89"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": "apollo-currency",
+  "rank": 188,
+  "symbol": "APL",
+  "name": "Apollo Currency",
+  "marketCap": {
+    "BTC": "2431.06760395",
+    "USD": "27587271.2598"
+  },
+  "price": {
+    "BTC": "1.65546586556e-07",
+    "USD": "0.00187858971179"
+  },
+  "volume": {
+    "BTC": "16.2420836167",
+    "USD": "184311.931857"
+  },
+  "supply": {
+    "APL": "14685096531.0"
+  },
+  "change": {
+    "1h": "3.16",
+    "24h": "22.74",
+    "7d": "14.30"
+  },
+  "isMineable": false
+}

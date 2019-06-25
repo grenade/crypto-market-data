@@ -1,0 +1,21 @@
+---
+id: greenpower
+rank: 1984
+symbol: GRN
+name: GreenPower
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "1.20101055186e-06"
+  USD: "0.0136288286784"
+volume:
+  BTC: "8.82413777485"
+  USD: "100134.559003"
+supply:
+  GRN: "0"
+change:
+  1h: "0.62"
+  24h: "8.16"
+  7d: "12.13"
+isMineable: false

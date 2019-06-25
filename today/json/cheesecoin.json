@@ -1,0 +1,27 @@
+{
+  "id": "cheesecoin",
+  "rank": 1712,
+  "symbol": "CHEESE",
+  "name": "Cheesecoin",
+  "marketCap": {
+    "BTC": "2.32642851878",
+    "USD": "26399.8477499"
+  },
+  "price": {
+    "BTC": "7.00548009725e-09",
+    "USD": "7.94967936859e-05"
+  },
+  "volume": {
+    "BTC": "0.00204912151622",
+    "USD": "23.2530230835"
+  },
+  "supply": {
+    "CHEESE": "332086950.0"
+  },
+  "change": {
+    "1h": "1.00",
+    "24h": "5.33",
+    "7d": "-8.51"
+  },
+  "isMineable": true
+}

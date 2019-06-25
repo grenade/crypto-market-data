@@ -1,0 +1,21 @@
+---
+id: arbidex
+rank: 1006
+symbol: ABX
+name: Arbidex
+marketCap:
+  BTC: "30.6136400258"
+  USD: "347397.493292"
+price:
+  BTC: "1.50409744235e-06"
+  USD: "0.0170681983815"
+volume:
+  BTC: "5.15610442738"
+  USD: "58510.4467069"
+supply:
+  ABX: "20353495.1685"
+change:
+  1h: "0.87"
+  24h: "2.53"
+  7d: "5.38"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: idex
+rank: 272
+symbol: IDEX
+name: IDEX
+marketCap:
+  BTC: "1338.19643346"
+  USD: "15185586.7557"
+price:
+  BTC: "5.92749006399e-06"
+  USD: "0.067263977365"
+volume:
+  BTC: "3.11729615033"
+  USD: "35374.4562086"
+supply:
+  IDEX: "225761058.899"
+change:
+  1h: "0.95"
+  24h: "3.05"
+  7d: "36.30"
+isMineable: false

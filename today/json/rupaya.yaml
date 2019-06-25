@@ -1,0 +1,21 @@
+---
+id: rupaya
+rank: 1601
+symbol: RUPX
+name: Rupaya
+marketCap:
+  BTC: "5.6873628931"
+  USD: "64539.0620278"
+price:
+  BTC: "1.30047409225e-07"
+  USD: "0.00147575211364"
+volume:
+  BTC: "0.000592976412319"
+  USD: "6.72897829361"
+supply:
+  RUPX: "43732996.5048"
+change:
+  1h: "1.01"
+  24h: "52.07"
+  7d: "77.63"
+isMineable: false

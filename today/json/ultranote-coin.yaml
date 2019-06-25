@@ -1,0 +1,21 @@
+---
+id: ultranote-coin
+rank: 1548
+symbol: XUN
+name: UltraNote Coin
+marketCap:
+  BTC: "9.0995999264"
+  USD: "103260.448668"
+price:
+  BTC: "6.18626230569e-09"
+  USD: "7.02004732546e-05"
+volume:
+  BTC: "0.0180857493204"
+  USD: "205.233483275"
+supply:
+  XUN: "1470936645.87"
+change:
+  1h: "0.11"
+  24h: "-0.82"
+  7d: "-14.31"
+isMineable: true

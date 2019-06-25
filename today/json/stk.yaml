@@ -1,0 +1,21 @@
+---
+id: stk
+rank: 730
+symbol: STK
+name: STK
+marketCap:
+  BTC: "162.310295393"
+  USD: "1841864.92387"
+price:
+  BTC: "4.71871523677e-07"
+  USD: "0.00535470412352"
+volume:
+  BTC: "9.55032542623"
+  USD: "108375.191922"
+supply:
+  STK: "343971371.971"
+change:
+  1h: "-0.92"
+  24h: "-3.90"
+  7d: "-7.11"
+isMineable: false

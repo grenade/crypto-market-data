@@ -1,0 +1,21 @@
+---
+id: fundrequest
+rank: 1496
+symbol: FND
+name: FundRequest
+marketCap:
+  BTC: "13.2254083171"
+  USD: "150079.301034"
+price:
+  BTC: "2.76783252505e-07"
+  USD: "0.00314088125506"
+volume:
+  BTC: "0.00191392297709"
+  USD: "21.718816973"
+supply:
+  FND: "47782545.3579"
+change:
+  1h: "0.21"
+  24h: "104.33"
+  7d: "41.42"
+isMineable: false

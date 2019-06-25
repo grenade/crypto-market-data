@@ -1,0 +1,21 @@
+---
+id: jewel
+rank: 1983
+symbol: JWL
+name: Jewel
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "2.22568097735e-05"
+  USD: "0.252565847038"
+volume:
+  BTC: "8.86230711443"
+  USD: "100567.697071"
+supply:
+  JWL: "0"
+change:
+  1h: "-16.08"
+  24h: "-76.86"
+  7d: "-88.80"
+isMineable: false

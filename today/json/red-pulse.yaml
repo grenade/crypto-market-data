@@ -1,0 +1,21 @@
+---
+id: red-pulse
+rank: 297
+symbol: PHX
+name: Red Pulse Phoenix
+marketCap:
+  BTC: "1181.26024398"
+  USD: "13404706.116"
+price:
+  BTC: "1.42391074332e-06"
+  USD: "0.0161582556823"
+volume:
+  BTC: "279.76004459"
+  USD: "3174661.2991"
+supply:
+  PHX: "829588687.02"
+change:
+  1h: "-0.56"
+  24h: "-1.91"
+  7d: "-6.62"
+isMineable: false

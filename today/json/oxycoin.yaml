@@ -1,0 +1,21 @@
+---
+id: oxycoin
+rank: 763
+symbol: OXY
+name: Oxycoin
+marketCap:
+  BTC: "137.088694795"
+  USD: "1555655.2207"
+price:
+  BTC: "1.47680571789e-07"
+  USD: "0.00167584973249"
+volume:
+  BTC: "3.67406520623"
+  USD: "41692.5606288"
+supply:
+  OXY: "928278467.058"
+change:
+  1h: "0.73"
+  24h: "-15.67"
+  7d: "-26.64"
+isMineable: false

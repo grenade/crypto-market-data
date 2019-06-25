@@ -1,0 +1,21 @@
+---
+id: supercoin
+rank: 1345
+symbol: SUPER
+name: SuperCoin
+marketCap:
+  BTC: "38.3379504859"
+  USD: "435210.088171"
+price:
+  BTC: "7.5721466921e-07"
+  USD: "0.00859585498897"
+volume:
+  BTC: "0.000100787946345"
+  USD: "1.14413865268"
+supply:
+  SUPER: "50630226.8628"
+change:
+  1h: "0.92"
+  24h: "0.70"
+  7d: "13.56"
+isMineable: true

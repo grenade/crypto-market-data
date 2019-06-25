@@ -1,0 +1,21 @@
+---
+id: fidex-token
+rank: 1105
+symbol: FEX
+name: FidexToken
+marketCap:
+  BTC: "8.30403222522"
+  USD: "94232.5047541"
+price:
+  BTC: "2.85084336869e-10"
+  USD: "3.23508030806e-06"
+volume:
+  BTC: "1.12174623244"
+  USD: "12729.3529595"
+supply:
+  FEX: "29128335553.0"
+change:
+  1h: "-0.49"
+  24h: "-2.37"
+  7d: "8.97"
+isMineable: false

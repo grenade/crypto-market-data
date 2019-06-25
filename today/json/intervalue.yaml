@@ -1,0 +1,21 @@
+---
+id: intervalue
+rank: 1008
+symbol: INVE
+name: InterValue
+marketCap:
+  BTC: "29.6335887657"
+  USD: "336276.066676"
+price:
+  BTC: "2.22642204398e-07"
+  USD: "0.00252649941804"
+volume:
+  BTC: "6.3590335818"
+  USD: "72161.0473054"
+supply:
+  INVE: "133099601.874"
+change:
+  1h: "0.35"
+  24h: "10.09"
+  7d: "4.74"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: bonpay
+rank: 1089
+symbol: BON
+name: Bonpay
+marketCap:
+  BTC: "11.633251033"
+  USD: "132011.817097"
+price:
+  BTC: "1.03037562694e-06"
+  USD: "0.0116924975158"
+volume:
+  BTC: "0.744771508987"
+  USD: "8451.51883542"
+supply:
+  BON: "11290301.06"
+change:
+  1h: "-0.64"
+  24h: "-22.22"
+  7d: "-22.22"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: decred
+rank: 34
+symbol: DCR
+name: Decred
+marketCap:
+  BTC: "27931.565314"
+  USD: "317077434.997"
+price:
+  BTC: "0.00279733358573"
+  USD: "31.755161167"
+volume:
+  BTC: "1583.19222777"
+  USD: "17972302.1264"
+supply:
+  DCR: "9985067.72896"
+change:
+  1h: "0.85"
+  24h: "-3.24"
+  7d: "8.42"
+isMineable: true

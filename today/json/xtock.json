@@ -1,0 +1,27 @@
+{
+  "id": "xtock",
+  "rank": 2035,
+  "symbol": "XTX",
+  "name": "Xtock",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "9.77044881344e-08",
+    "USD": "0.00110873108304"
+  },
+  "volume": {
+    "BTC": "1.90869730928",
+    "USD": "21659.5171349"
+  },
+  "supply": {
+    "XTX": "0"
+  },
+  "change": {
+    "1h": "0.20",
+    "24h": "6.65",
+    "7d": "32.76"
+  },
+  "isMineable": false
+}

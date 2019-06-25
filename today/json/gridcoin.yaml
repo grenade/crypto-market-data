@@ -1,0 +1,21 @@
+---
+id: gridcoin
+rank: 592
+symbol: GRC
+name: GridCoin
+marketCap:
+  BTC: "309.51752997"
+  USD: "3513624.22355"
+price:
+  BTC: "7.37537950021e-07"
+  USD: "0.00837248606642"
+volume:
+  BTC: "0.918816282208"
+  USD: "10430.3466963"
+supply:
+  GRC: "419663191.515"
+change:
+  1h: "0.92"
+  24h: "7.65"
+  7d: "35.44"
+isMineable: true

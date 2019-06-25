@@ -1,0 +1,21 @@
+---
+id: ethereum-blue
+rank: 799
+symbol: BLUE
+name: Blue Protocol
+marketCap:
+  BTC: "114.96971394"
+  USD: "1304653.42879"
+price:
+  BTC: "3.1373677319e-06"
+  USD: "0.035602224521"
+volume:
+  BTC: "0.333410062611"
+  USD: "3783.47102443"
+supply:
+  BLUE: "36645278.3876"
+change:
+  1h: "0.23"
+  24h: "17.39"
+  7d: "23.49"
+isMineable: false

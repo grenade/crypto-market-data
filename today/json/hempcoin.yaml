@@ -1,0 +1,21 @@
+---
+id: hempcoin
+rank: 1257
+symbol: THC
+name: HempCoin
+marketCap:
+  BTC: "92.7474419034"
+  USD: "1052863.33403"
+price:
+  BTC: "3.79843319804e-07"
+  USD: "0.00431195832349"
+volume:
+  BTC: "0.00326513317704"
+  USD: "37.0655937487"
+supply:
+  THC: "244172892.0"
+change:
+  1h: "0.92"
+  24h: "17.62"
+  7d: "11.11"
+isMineable: true

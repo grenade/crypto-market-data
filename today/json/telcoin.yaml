@@ -1,0 +1,21 @@
+---
+id: telcoin
+rank: 214
+symbol: TEL
+name: Telcoin
+marketCap:
+  BTC: "1908.71431296"
+  USD: "21659710.0893"
+price:
+  BTC: "5.13305752924e-08"
+  USD: "0.000582489150943"
+volume:
+  BTC: "17.0663320292"
+  USD: "193665.338773"
+supply:
+  TEL: "37184744221.0"
+change:
+  1h: "1.59"
+  24h: "-1.31"
+  7d: "3.42"
+isMineable: false

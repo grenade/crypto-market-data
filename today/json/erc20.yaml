@@ -1,0 +1,21 @@
+---
+id: erc20
+rank: 671
+symbol: ERC20
+name: ERC20
+marketCap:
+  BTC: "206.994501081"
+  USD: "2348932.39551"
+price:
+  BTC: "4.13989002161e-06"
+  USD: "0.0469786479102"
+volume:
+  BTC: "9.16124312245"
+  USD: "103959.963386"
+supply:
+  ERC20: "50000000.0"
+change:
+  1h: "1.51"
+  24h: "-61.12"
+  7d: "-36.86"
+isMineable: false

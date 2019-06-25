@@ -1,0 +1,21 @@
+---
+id: bitmart-token
+rank: 1195
+symbol: BMX
+name: BitMart Token
+marketCap:
+  BTC: "385.872999187"
+  USD: "4378809.98583"
+price:
+  BTC: "2.8172354359e-06"
+  USD: "0.0319694269491"
+volume:
+  BTC: "0.00422585315384"
+  USD: "47.9541404236"
+supply:
+  BMX: "136968673.001"
+change:
+  1h: "1.44"
+  24h: "-4.31"
+  7d: "2.98"
+isMineable: false

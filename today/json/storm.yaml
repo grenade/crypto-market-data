@@ -1,0 +1,21 @@
+---
+id: storm
+rank: 238
+symbol: STORM
+name: Storm
+marketCap:
+  BTC: "1621.12255411"
+  USD: "18396176.0557"
+price:
+  BTC: "2.74548473243e-07"
+  USD: "0.00311552142483"
+volume:
+  BTC: "51.4315074379"
+  USD: "583634.50884"
+supply:
+  STORM: "5904686101.36"
+change:
+  1h: "-0.04"
+  24h: "1.37"
+  7d: "-5.07"
+isMineable: false

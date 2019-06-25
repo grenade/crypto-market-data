@@ -1,0 +1,21 @@
+---
+id: pandacoin-pnd
+rank: 1199
+symbol: PND
+name: Pandacoin
+marketCap:
+  BTC: "351.713848137"
+  USD: "3992634.26754"
+price:
+  BTC: "1.08169997556e-08"
+  USD: "0.000122793925019"
+volume:
+  BTC: "0.0355975925719"
+  USD: "404.101711372"
+supply:
+  PND: "32514916897.8"
+change:
+  1h: "0.44"
+  24h: "13.93"
+  7d: "-32.06"
+isMineable: true

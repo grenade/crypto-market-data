@@ -1,0 +1,27 @@
+{
+  "id": "sirin-labs-token",
+  "rank": 301,
+  "symbol": "SRN",
+  "name": "SIRIN LABS Token",
+  "marketCap": {
+    "BTC": "1153.40242255",
+    "USD": "13088581.1035"
+  },
+  "price": {
+    "BTC": "2.34516753474e-06",
+    "USD": "0.026612494373"
+  },
+  "volume": {
+    "BTC": "40.2536971389",
+    "USD": "456790.942537"
+  },
+  "supply": {
+    "SRN": "491820906.379"
+  },
+  "change": {
+    "1h": "-0.61",
+    "24h": "-1.32",
+    "7d": "-2.04"
+  },
+  "isMineable": false
+}

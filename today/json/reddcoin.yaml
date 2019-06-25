@@ -1,0 +1,21 @@
+---
+id: reddcoin
+rank: 102
+symbol: RDD
+name: ReddCoin
+marketCap:
+  BTC: "6048.07793167"
+  USD: "68657413.778"
+price:
+  BTC: "2.09939190799e-07"
+  USD: "0.00238321695814"
+volume:
+  BTC: "24.7592147341"
+  USD: "281065.103661"
+supply:
+  RDD: "28808713173.8"
+change:
+  1h: "-1.63"
+  24h: "3.48"
+  7d: "11.69"
+isMineable: false

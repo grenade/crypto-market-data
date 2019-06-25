@@ -1,0 +1,21 @@
+---
+id: mybit
+rank: 1504
+symbol: MYB
+name: MyBit
+marketCap:
+  BTC: "12.7751634004"
+  USD: "144970.01134"
+price:
+  BTC: "8.3011416894e-08"
+  USD: "0.00094199703529"
+volume:
+  BTC: "9.45582017834e-05"
+  USD: "1.0730276518"
+supply:
+  MYB: "153896462.419"
+change:
+  1h: "0.17"
+  24h: "18.10"
+  7d: "-54.66"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: bankex
+rank: 727
+symbol: BKX
+name: BANKEX
+marketCap:
+  BTC: "164.259481772"
+  USD: "1863983.9029"
+price:
+  BTC: "1.67332289952e-06"
+  USD: "0.0189885351848"
+volume:
+  BTC: "11.135169923"
+  USD: "126359.691804"
+supply:
+  BKX: "98163649.0"
+change:
+  1h: "0.02"
+  24h: "0.41"
+  7d: "-12.15"
+isMineable: false

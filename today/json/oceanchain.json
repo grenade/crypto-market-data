@@ -1,0 +1,27 @@
+{
+  "id": "oceanchain",
+  "rank": 2066,
+  "symbol": "OC",
+  "name": "OceanChain",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "3.09112688082e-08",
+    "USD": "0.000350774925473"
+  },
+  "volume": {
+    "BTC": "0.547609456186",
+    "USD": "6214.16310582"
+  },
+  "supply": {
+    "OC": "0"
+  },
+  "change": {
+    "1h": "30.05",
+    "24h": "10.68",
+    "7d": "41.44"
+  },
+  "isMineable": false
+}

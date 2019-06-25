@@ -1,0 +1,27 @@
+{
+  "id": "digital-asset-guarantee-token",
+  "rank": 783,
+  "symbol": "DAGT",
+  "name": "Digital Asset Guarantee Token",
+  "marketCap": {
+    "BTC": "124.419725566",
+    "USD": "1411890.27968"
+  },
+  "price": {
+    "BTC": "5.39727342386e-06",
+    "USD": "0.0612471844737"
+  },
+  "volume": {
+    "BTC": "5.48457432149",
+    "USD": "62237.8576825"
+  },
+  "supply": {
+    "DAGT": "23052329.5367"
+  },
+  "change": {
+    "1h": "0.20",
+    "24h": "5.09",
+    "7d": "7.10"
+  },
+  "isMineable": false
+}

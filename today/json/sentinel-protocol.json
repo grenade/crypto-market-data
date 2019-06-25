@@ -1,0 +1,27 @@
+{
+  "id": "sentinel-protocol",
+  "rank": 367,
+  "symbol": "UPP",
+  "name": "Sentinel Protocol",
+  "marketCap": {
+    "BTC": "849.765111433",
+    "USD": "9642965.33675"
+  },
+  "price": {
+    "BTC": "2.8722124152e-06",
+    "USD": "0.0325932947669"
+  },
+  "volume": {
+    "BTC": "107.543225577",
+    "USD": "1220379.11711"
+  },
+  "supply": {
+    "UPP": "295857335.25"
+  },
+  "change": {
+    "1h": "-0.12",
+    "24h": "10.37",
+    "7d": "14.20"
+  },
+  "isMineable": false
+}

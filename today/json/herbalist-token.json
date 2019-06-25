@@ -1,0 +1,27 @@
+{
+  "id": "herbalist-token",
+  "rank": 1021,
+  "symbol": "HERB",
+  "name": "Herbalist Token",
+  "marketCap": {
+    "BTC": "26.1202154824",
+    "USD": "296407.006003"
+  },
+  "price": {
+    "BTC": "2.74949636686e-09",
+    "USD": "3.12007374773e-05"
+  },
+  "volume": {
+    "BTC": "93.6430008381",
+    "USD": "1062642.13365"
+  },
+  "supply": {
+    "HERB": "9499999999.0"
+  },
+  "change": {
+    "1h": "0.20",
+    "24h": "-1.28",
+    "7d": "51.90"
+  },
+  "isMineable": false
+}

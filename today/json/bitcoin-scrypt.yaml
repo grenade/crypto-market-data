@@ -1,0 +1,21 @@
+---
+id: bitcoin-scrypt
+rank: 1347
+symbol: BTCS
+name: Bitcoin Scrypt
+marketCap:
+  BTC: "36.4481088035"
+  USD: "413756.720038"
+price:
+  BTC: "2.06904020524e-06"
+  USD: "0.023487618893"
+volume:
+  BTC: "0.00797229061016"
+  USD: "90.500959373"
+supply:
+  BTCS: "17615950.0"
+change:
+  1h: "0.87"
+  24h: "7.01"
+  7d: "4.25"
+isMineable: true

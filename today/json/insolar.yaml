@@ -1,0 +1,21 @@
+---
+id: insolar
+rank: 315
+symbol: INS
+name: Insolar
+marketCap:
+  BTC: "1062.29320278"
+  USD: "12054691.8131"
+price:
+  BTC: "3.26859447008e-05"
+  USD: "0.370913594249"
+volume:
+  BTC: "87.5408993662"
+  USD: "993396.700781"
+supply:
+  INS: "32500000.0"
+change:
+  1h: "-0.13"
+  24h: "-4.13"
+  7d: "-3.16"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: mfcoin
+rank: 1408
+symbol: MFC
+name: MFCoin
+marketCap:
+  BTC: "22.3043220377"
+  USD: "253105.006755"
+price:
+  BTC: "1.18367155358e-06"
+  USD: "0.0134320691774"
+volume:
+  BTC: "0.00812226920276"
+  USD: "92.1698941557"
+supply:
+  MFC: "18843337.0475"
+change:
+  1h: "2.14"
+  24h: "10.25"
+  7d: "29.86"
+isMineable: true

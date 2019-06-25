@@ -1,0 +1,21 @@
+---
+id: playcoin-erc20
+rank: 542
+symbol: PLY
+name: "PlayCoin [ERC20]"
+marketCap:
+  BTC: "393.392310173"
+  USD: "4464137.63016"
+price:
+  BTC: "2.17717706421e-06"
+  USD: "0.0247061719523"
+volume:
+  BTC: "81.6489185045"
+  USD: "926535.674775"
+supply:
+  PLY: "180689167.014"
+change:
+  1h: "-2.31"
+  24h: "22.70"
+  7d: "35.59"
+isMineable: false

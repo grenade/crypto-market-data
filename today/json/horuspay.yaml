@@ -1,0 +1,21 @@
+---
+id: horuspay
+rank: 1221
+symbol: HORUS
+name: HorusPay
+marketCap:
+  BTC: "190.329538458"
+  USD: "2159821.71687"
+price:
+  BTC: "2.18052488999e-07"
+  USD: "0.00247441624129"
+volume:
+  BTC: "0.0064301498481"
+  USD: "72.9680605394"
+supply:
+  HORUS: "872861114.0"
+change:
+  1h: "0.10"
+  24h: "1.29"
+  7d: "2.25"
+isMineable: false

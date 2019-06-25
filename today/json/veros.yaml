@@ -1,0 +1,21 @@
+---
+id: veros
+rank: 1023
+symbol: VRS
+name: Veros
+marketCap:
+  BTC: "24.5856841129"
+  USD: "279095.194576"
+price:
+  BTC: "8.60497709366e-07"
+  USD: "0.00976831779522"
+volume:
+  BTC: "0.611171022337"
+  USD: "6937.97636931"
+supply:
+  VRS: "28571469.5639"
+change:
+  1h: "-0.98"
+  24h: "-1.33"
+  7d: "32.59"
+isMineable: false

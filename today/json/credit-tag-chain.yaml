@@ -1,0 +1,21 @@
+---
+id: credit-tag-chain
+rank: 821
+symbol: CTC
+name: Credit Tag Chain
+marketCap:
+  BTC: "106.156666136"
+  USD: "1204644.71657"
+price:
+  BTC: "1.92780209161e-06"
+  USD: "0.0218763144019"
+volume:
+  BTC: "20.2899697684"
+  USD: "230246.538165"
+supply:
+  CTC: "55066164.0"
+change:
+  1h: "0.69"
+  24h: "4.01"
+  7d: "-6.93"
+isMineable: true

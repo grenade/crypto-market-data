@@ -1,0 +1,27 @@
+{
+  "id": "ethereumcash",
+  "rank": 1509,
+  "symbol": "ECASH",
+  "name": "Ethereum Cash",
+  "marketCap": {
+    "BTC": "12.1304221867",
+    "USD": "137653.616385"
+  },
+  "price": {
+    "BTC": "8.6031363026e-07",
+    "USD": "0.0097626678287"
+  },
+  "volume": {
+    "BTC": "0.000499141963901",
+    "USD": "5.66416365094"
+  },
+  "supply": {
+    "ECASH": "14100000.0"
+  },
+  "change": {
+    "1h": "1.01",
+    "24h": "6.52",
+    "7d": "-3.64"
+  },
+  "isMineable": false
+}

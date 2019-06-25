@@ -1,0 +1,27 @@
+{
+  "id": "kingxchain",
+  "rank": 2105,
+  "symbol": "KXC",
+  "name": "KingXChain",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "2.57180945084e-10",
+    "USD": "2.91843817233e-06"
+  },
+  "volume": {
+    "BTC": "0.0413630982883",
+    "USD": "469.380205951"
+  },
+  "supply": {
+    "KXC": "0"
+  },
+  "change": {
+    "1h": "0.21",
+    "24h": "4.56",
+    "7d": "14.06"
+  },
+  "isMineable": false
+}

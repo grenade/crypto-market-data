@@ -1,0 +1,21 @@
+---
+id: smileycoin
+rank: 1328
+symbol: SMLY
+name: SmileyCoin
+marketCap:
+  BTC: "43.4663367921"
+  USD: "493427.218408"
+price:
+  BTC: "1.67434199563e-09"
+  USD: "1.90070287616e-05"
+volume:
+  BTC: "0.00789999224758"
+  USD: "89.6802327469"
+supply:
+  SMLY: "25960250000.0"
+change:
+  1h: "-0.04"
+  24h: "7.63"
+  7d: "36.91"
+isMineable: true

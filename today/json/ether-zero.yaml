@@ -1,0 +1,21 @@
+---
+id: ether-zero
+rank: 140
+symbol: ETZ
+name: Ether Zero
+marketCap:
+  BTC: "3652.48869958"
+  USD: "41447714.7262"
+price:
+  BTC: "2.24038740536e-05"
+  USD: "0.254234703215"
+volume:
+  BTC: "191.416106853"
+  USD: "2172151.87874"
+supply:
+  ETZ: "163029335.5"
+change:
+  1h: "0.45"
+  24h: "-4.85"
+  7d: "-10.03"
+isMineable: true

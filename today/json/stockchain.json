@@ -1,0 +1,27 @@
+{
+  "id": "stockchain",
+  "rank": 2101,
+  "symbol": "SCC",
+  "name": "StockChain",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "4.91179060998e-08",
+    "USD": "0.000557380221383"
+  },
+  "volume": {
+    "BTC": "0.0560373015889",
+    "USD": "635.900144071"
+  },
+  "supply": {
+    "SCC": "0"
+  },
+  "change": {
+    "1h": "0.76",
+    "24h": "4.77",
+    "7d": "-10.74"
+  },
+  "isMineable": false
+}

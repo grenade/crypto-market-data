@@ -1,0 +1,21 @@
+---
+id: ebcoin
+rank: 691
+symbol: EBC
+name: EBCoin
+marketCap:
+  BTC: "187.7644552"
+  USD: "2130713.66264"
+price:
+  BTC: "4.63002250908e-08"
+  USD: "0.000525405738159"
+volume:
+  BTC: "1.165416541"
+  USD: "13224.9149283"
+supply:
+  EBC: "4055368085.83"
+change:
+  1h: "21.76"
+  24h: "25.17"
+  7d: "16.79"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: swftcoin
+rank: 349
+symbol: SWFTC
+name: SwftCoin
+marketCap:
+  BTC: "904.537950762"
+  USD: "10264516.6148"
+price:
+  BTC: "2.48500093488e-07"
+  USD: "0.00281992959636"
+volume:
+  BTC: "562.100983971"
+  USD: "6378610.07855"
+supply:
+  SWFTC: "3639990384.17"
+change:
+  1h: "0.53"
+  24h: "5.53"
+  7d: "13.35"
+isMineable: false

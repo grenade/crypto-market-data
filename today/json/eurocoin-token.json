@@ -1,0 +1,27 @@
+{
+  "id": "eurocoin-token",
+  "rank": 1060,
+  "symbol": "ECTE",
+  "name": "EurocoinToken",
+  "marketCap": {
+    "BTC": "17.3284672259",
+    "USD": "196639.996806"
+  },
+  "price": {
+    "BTC": "1.30189725115e-05",
+    "USD": "0.147736708603"
+  },
+  "volume": {
+    "BTC": "2.16897839044",
+    "USD": "24613.1350343"
+  },
+  "supply": {
+    "ECTE": "1331016.5"
+  },
+  "change": {
+    "1h": "-1.10",
+    "24h": "1.22",
+    "7d": "69.67"
+  },
+  "isMineable": false
+}

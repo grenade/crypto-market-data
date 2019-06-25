@@ -1,0 +1,27 @@
+{
+  "id": "harmonycoin-hmc",
+  "rank": 1850,
+  "symbol": "HMC",
+  "name": "HarmonyCoin",
+  "marketCap": {
+    "BTC": "0.0112287941434",
+    "USD": "127.422120821"
+  },
+  "price": {
+    "BTC": "2.0007293727e-08",
+    "USD": "0.000227038786714"
+  },
+  "volume": {
+    "BTC": "0.0",
+    "USD": "0.0"
+  },
+  "supply": {
+    "HMC": "561235.032413"
+  },
+  "change": {
+    "1h": "8.76",
+    "24h": "110.56",
+    "7d": "145.93"
+  },
+  "isMineable": true
+}

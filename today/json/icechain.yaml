@@ -1,0 +1,21 @@
+---
+id: icechain
+rank: 1824
+symbol: ICHX
+name: IceChain
+marketCap:
+  BTC: "0.351222923352"
+  USD: "3985.60782243"
+price:
+  BTC: "4.69539239316e-10"
+  USD: "5.32823782484e-06"
+volume:
+  BTC: "0.000777460255224"
+  USD: "8.82246422095"
+supply:
+  ICHX: "748016127.181"
+change:
+  1h: "1.26"
+  24h: "-4.29"
+  7d: "2.96"
+isMineable: false

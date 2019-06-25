@@ -1,0 +1,21 @@
+---
+id: creditbit
+rank: 1074
+symbol: CRB
+name: Creditbit
+marketCap:
+  BTC: "14.5281914208"
+  USD: "164923.147666"
+price:
+  BTC: "8.59645407979e-07"
+  USD: "0.00975864252158"
+volume:
+  BTC: "0.0857082036456"
+  USD: "972.954328356"
+supply:
+  CRB: "16900214.0719"
+change:
+  1h: "6.49"
+  24h: "2.24"
+  7d: "45.57"
+isMineable: false

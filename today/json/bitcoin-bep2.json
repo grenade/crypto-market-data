@@ -1,0 +1,26 @@
+{
+  "id": "bitcoin-bep2",
+  "rank": 1973,
+  "symbol": "BTCB",
+  "name": "Bitcoin BEP2",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "0.999642931341",
+    "USD": "11343.7490035"
+  },
+  "volume": {
+    "BTC": "10.3780361356",
+    "USD": "117767.888294"
+  },
+  "supply": {
+    "BTCB": "0"
+  },
+  "change": {
+    "1h": "1.03",
+    "24h": "5.19"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": "lomocoin",
+  "rank": 1314,
+  "symbol": "LMC",
+  "name": "LoMoCoin",
+  "marketCap": {
+    "BTC": "62.5570706251",
+    "USD": "584384.206557"
+  },
+  "price": {
+    "BTC": "2.30513151171e-07",
+    "USD": "0.00215336561642"
+  },
+  "volume": {
+    "BTC": "0",
+    "USD": "0"
+  },
+  "supply": {
+    "LMC": "271381785.843"
+  },
+  "change": {
+    "1h": "0.00",
+    "24h": "0.00",
+    "7d": "0.00"
+  },
+  "isMineable": false
+}

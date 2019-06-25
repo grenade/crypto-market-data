@@ -1,0 +1,21 @@
+---
+id: selfsell
+rank: 666
+symbol: SSC
+name: SelfSell
+marketCap:
+  BTC: "215.542298219"
+  USD: "2445931.09598"
+price:
+  BTC: "5.52672559536e-07"
+  USD: "0.00627161819481"
+volume:
+  BTC: "287.93720704"
+  USD: "3267454.11089"
+supply:
+  SSC: "390000000.0"
+change:
+  1h: "0.90"
+  24h: "2.90"
+  7d: "-23.33"
+isMineable: false

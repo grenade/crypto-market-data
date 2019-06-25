@@ -1,0 +1,21 @@
+---
+id: hellogold
+rank: 1063
+symbol: HGT
+name: HelloGold
+marketCap:
+  BTC: "16.5464267952"
+  USD: "187765.557666"
+price:
+  BTC: "6.29058815651e-08"
+  USD: "0.000713843422433"
+volume:
+  BTC: "0.0773674786287"
+  USD: "877.950747296"
+supply:
+  HGT: "263034654.051"
+change:
+  1h: "0.93"
+  24h: "-18.30"
+  7d: "23.40"
+isMineable: false

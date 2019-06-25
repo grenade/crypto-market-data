@@ -1,0 +1,21 @@
+---
+id: coinpoker
+rank: 629
+symbol: CHP
+name: CoinPoker
+marketCap:
+  BTC: "257.638279667"
+  USD: "2923627.91414"
+price:
+  BTC: "7.99090331827e-07"
+  USD: "0.00906791802471"
+volume:
+  BTC: "1.0529169241"
+  USD: "11948.2916691"
+supply:
+  CHP: "322414462.303"
+change:
+  1h: "3.32"
+  24h: "1.87"
+  7d: "10.54"
+isMineable: false

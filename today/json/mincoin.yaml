@@ -1,0 +1,21 @@
+---
+id: mincoin
+rank: 1544
+symbol: MNC
+name: Mincoin
+marketCap:
+  BTC: "9.31607714256"
+  USD: "105755.542569"
+price:
+  BTC: "1.66755610537e-06"
+  USD: "0.018929995747"
+volume:
+  BTC: "0.00471837311321"
+  USD: "53.5626853443"
+supply:
+  MNC: "5586664.88795"
+change:
+  1h: "0.92"
+  24h: "29.09"
+  7d: "40.44"
+isMineable: true

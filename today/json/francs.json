@@ -1,0 +1,27 @@
+{
+  "id": "francs",
+  "rank": 2140,
+  "symbol": "FRN",
+  "name": "Francs",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "3.2986393562e-07",
+    "USD": "0.00374459538619"
+  },
+  "volume": {
+    "BTC": "0.00245867582971",
+    "USD": "27.910738865"
+  },
+  "supply": {
+    "FRN": "0"
+  },
+  "change": {
+    "1h": "0.93",
+    "24h": "3.33",
+    "7d": "14.97"
+  },
+  "isMineable": true
+}

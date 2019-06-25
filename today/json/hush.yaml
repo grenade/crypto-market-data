@@ -1,0 +1,21 @@
+---
+id: hush
+rank: 1295
+symbol: HUSH
+name: Hush
+marketCap:
+  BTC: "63.7454651483"
+  USD: "723634.653292"
+price:
+  BTC: "1.12989817162e-05"
+  USD: "0.128265354998"
+volume:
+  BTC: "0.0413927833091"
+  USD: "469.88836506"
+supply:
+  HUSH: "5641700.0"
+change:
+  1h: "6.24"
+  24h: "43.54"
+  7d: "57.12"
+isMineable: true

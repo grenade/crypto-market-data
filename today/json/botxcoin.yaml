@@ -1,0 +1,21 @@
+---
+id: botxcoin
+rank: 206
+symbol: BOTX
+name: botXcoin
+marketCap:
+  BTC: "1979.48539435"
+  USD: "22462806.2337"
+price:
+  BTC: "1.13935942631e-06"
+  USD: "0.0129292239775"
+volume:
+  BTC: "54.8035744578"
+  USD: "621900.054164"
+supply:
+  BOTX: "1737366935.0"
+change:
+  1h: "-1.48"
+  24h: "0.95"
+  7d: "17.65"
+isMineable: false

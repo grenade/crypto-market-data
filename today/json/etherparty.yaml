@@ -1,0 +1,21 @@
+---
+id: etherparty
+rank: 449
+symbol: FUEL
+name: Etherparty
+marketCap:
+  BTC: "583.158229006"
+  USD: "6617563.50371"
+price:
+  BTC: "7.31820568209e-07"
+  USD: "0.00830455413739"
+volume:
+  BTC: "110.297648559"
+  USD: "1251635.76084"
+supply:
+  FUEL: "796859577.796"
+change:
+  1h: "-0.19"
+  24h: "-2.82"
+  7d: "-13.16"
+isMineable: false

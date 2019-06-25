@@ -1,0 +1,27 @@
+{
+  "id": "eterbase-coin",
+  "rank": 591,
+  "symbol": "XBASE",
+  "name": "Eterbase Coin",
+  "marketCap": {
+    "BTC": "309.770755",
+    "USD": "3515216.86713"
+  },
+  "price": {
+    "BTC": "4.89452912539e-07",
+    "USD": "0.00555421422472"
+  },
+  "volume": {
+    "BTC": "151.629409374",
+    "USD": "1720660.35537"
+  },
+  "supply": {
+    "XBASE": "632891841.205"
+  },
+  "change": {
+    "1h": "1.01",
+    "24h": "-9.41",
+    "7d": "-29.97"
+  },
+  "isMineable": false
+}

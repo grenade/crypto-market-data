@@ -1,0 +1,27 @@
+{
+  "id": "adultchain",
+  "rank": 1725,
+  "symbol": "XXX",
+  "name": "AdultChain",
+  "marketCap": {
+    "BTC": "2.49441728556",
+    "USD": "23306.5857548"
+  },
+  "price": {
+    "BTC": "4.99710669261e-08",
+    "USD": "0.000466904620695"
+  },
+  "volume": {
+    "BTC": "0",
+    "USD": "0"
+  },
+  "supply": {
+    "XXX": "49917230.8899"
+  },
+  "change": {
+    "1h": "0.00",
+    "24h": "0.00",
+    "7d": "0.00"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,21 @@
+---
+id: leocoin
+rank: 436
+symbol: LEO
+name: LEOcoin
+marketCap:
+  BTC: "619.547163871"
+  USD: "7033061.81986"
+price:
+  BTC: "5.11978357724e-06"
+  USD: "0.0581194725807"
+volume:
+  BTC: "0.271465628805"
+  USD: "3081.66134992"
+supply:
+  LEO: "121010420.563"
+change:
+  1h: "-2.37"
+  24h: "9.67"
+  7d: "-13.97"
+isMineable: false

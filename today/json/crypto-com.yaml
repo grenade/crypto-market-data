@@ -1,0 +1,21 @@
+---
+id: crypto-com
+rank: 83
+symbol: MCO
+name: Crypto.com
+marketCap:
+  BTC: "8736.44687307"
+  USD: "99139460.1048"
+price:
+  BTC: "0.000553155647958"
+  USD: "6.27710018606"
+volume:
+  BTC: "728.559852959"
+  USD: "8267552.18979"
+supply:
+  MCO: "15793831.095"
+change:
+  1h: "0.55"
+  24h: "1.45"
+  7d: "1.54"
+isMineable: false

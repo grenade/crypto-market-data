@@ -1,0 +1,21 @@
+---
+id: hodlcoin
+rank: 1439
+symbol: HODL
+name: HOdlcoin
+marketCap:
+  BTC: "23.2703295139"
+  USD: "217300.487503"
+price:
+  BTC: "1.00076845689e-07"
+  USD: "0.00093452683354"
+volume:
+  BTC: "0"
+  USD: "0"
+supply:
+  HODL: "232524610.0"
+change:
+  1h: "0.00"
+  24h: "0.00"
+  7d: "0.00"
+isMineable: true

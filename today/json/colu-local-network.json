@@ -1,0 +1,27 @@
+{
+  "id": "colu-local-network",
+  "rank": 1299,
+  "symbol": "CLN",
+  "name": "Colu Local Network",
+  "marketCap": {
+    "BTC": "60.0121979587",
+    "USD": "681006.476863"
+  },
+  "price": {
+    "BTC": "5.72609836794e-07",
+    "USD": "0.00649786244857"
+  },
+  "volume": {
+    "BTC": "0.04274803512",
+    "USD": "485.096193442"
+  },
+  "supply": {
+    "CLN": "104804692.659"
+  },
+  "change": {
+    "1h": "1.47",
+    "24h": "23.93",
+    "7d": "10.26"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,21 @@
+---
+id: newton
+rank: 142
+symbol: NEW
+name: Newton
+marketCap:
+  BTC: "3639.55125613"
+  USD: "41300903.1931"
+price:
+  BTC: "3.0460744231e-07"
+  USD: "0.00345662462249"
+volume:
+  BTC: "1103.08163988"
+  USD: "12517550.8783"
+supply:
+  NEW: "11948333332.0"
+change:
+  1h: "-0.65"
+  24h: "-2.34"
+  7d: "-2.64"
+isMineable: true

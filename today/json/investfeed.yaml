@@ -1,0 +1,21 @@
+---
+id: investfeed
+rank: 1539
+symbol: IFT
+name: InvestFeed
+marketCap:
+  BTC: "9.5725525566"
+  USD: "108627.420973"
+price:
+  BTC: "5.00182343175e-08"
+  USD: "0.000567596966785"
+volume:
+  BTC: "0.00048300608151"
+  USD: "5.48105686945"
+supply:
+  IFT: "191381257.0"
+change:
+  1h: "1.01"
+  24h: "31.60"
+  7d: "53.71"
+isMineable: false

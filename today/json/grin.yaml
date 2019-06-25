@@ -1,0 +1,21 @@
+---
+id: grin
+rank: 92
+symbol: GRIN
+name: Grin
+marketCap:
+  BTC: "7112.93324985"
+  USD: "80716150.6728"
+price:
+  BTC: "0.000514678068116"
+  USD: "5.84046426907"
+volume:
+  BTC: "4284.69130743"
+  USD: "48621824.0786"
+supply:
+  GRIN: "13820160.0"
+change:
+  1h: "0.16"
+  24h: "-0.30"
+  7d: "0.31"
+isMineable: true

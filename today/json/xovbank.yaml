@@ -1,0 +1,21 @@
+---
+id: xovbank
+rank: 1080
+symbol: XOV
+name: XOVBank
+marketCap:
+  BTC: "13.3218712292"
+  USD: "151173.942958"
+price:
+  BTC: "1.09340127063e-07"
+  USD: "0.00124076999749"
+volume:
+  BTC: "4.57344326228"
+  USD: "51898.5237855"
+supply:
+  XOV: "121838812.402"
+change:
+  1h: "-0.40"
+  24h: "15.76"
+  7d: "15.76"
+isMineable: false

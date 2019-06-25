@@ -1,0 +1,21 @@
+---
+id: trezarcoin
+rank: 1289
+symbol: TZC
+name: TrezarCoin
+marketCap:
+  BTC: "66.7587441273"
+  USD: "757564.939867"
+price:
+  BTC: "4.15151344835e-07"
+  USD: "0.00471105482431"
+volume:
+  BTC: "0.000667880870243"
+  USD: "7.57897917222"
+supply:
+  TZC: "160805800.0"
+change:
+  1h: "1.01"
+  24h: "24.84"
+  7d: "80.18"
+isMineable: true

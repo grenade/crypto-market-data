@@ -1,0 +1,21 @@
+---
+id: hypercash
+rank: 45
+symbol: HC
+name: HyperCash
+marketCap:
+  BTC: "17471.9024241"
+  USD: "198267670.885"
+price:
+  BTC: "0.000401378138757"
+  USD: "4.55475922333"
+volume:
+  BTC: "1941.05531903"
+  USD: "22026709.3886"
+supply:
+  HC: "43529780.8651"
+change:
+  1h: "2.44"
+  24h: "20.37"
+  7d: "60.35"
+isMineable: true

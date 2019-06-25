@@ -1,0 +1,21 @@
+---
+id: curecoin
+rank: 784
+symbol: CURE
+name: Curecoin
+marketCap:
+  BTC: "124.095166001"
+  USD: "1408720.79629"
+price:
+  BTC: "5.13174847723e-06"
+  USD: "0.0582552973996"
+volume:
+  BTC: "0.572898444475"
+  USD: "6503.50838719"
+supply:
+  CURE: "24181848.8477"
+change:
+  1h: "2.37"
+  24h: "-2.52"
+  7d: "-25.37"
+isMineable: true

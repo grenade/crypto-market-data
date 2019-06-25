@@ -1,0 +1,21 @@
+---
+id: transfercoin
+rank: 748
+symbol: TX
+name: TransferCoin
+marketCap:
+  BTC: "145.808861783"
+  USD: "1655213.35358"
+price:
+  BTC: "1.84959661815e-05"
+  USD: "0.209965086048"
+volume:
+  BTC: "1.62265355982"
+  USD: "18420.2647739"
+supply:
+  TX: "7883279.0"
+change:
+  1h: "2.13"
+  24h: "4.66"
+  7d: "-4.58"
+isMineable: false

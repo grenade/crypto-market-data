@@ -1,0 +1,21 @@
+---
+id: cryptonex
+rank: 104
+symbol: CNX
+name: Cryptonex
+marketCap:
+  BTC: "5893.03714354"
+  USD: "66873012.4816"
+price:
+  BTC: "0.000105825563534"
+  USD: "1.20088743015"
+volume:
+  BTC: "605.853375822"
+  USD: "6875103.51225"
+supply:
+  CNX: "55686328.9619"
+change:
+  1h: "0.97"
+  24h: "0.50"
+  7d: "-18.89"
+isMineable: true

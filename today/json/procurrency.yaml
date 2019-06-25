@@ -1,0 +1,21 @@
+---
+id: procurrency
+rank: 1096
+symbol: PROC
+name: ProCurrency
+marketCap:
+  BTC: "10.2360208614"
+  USD: "116198.687857"
+price:
+  BTC: "9.99587683696e-08"
+  USD: "0.0011347258746"
+volume:
+  BTC: "0.647544349776"
+  USD: "7350.88417583"
+supply:
+  PROC: "102402430.806"
+change:
+  1h: "-6.54"
+  24h: "-8.31"
+  7d: "8.13"
+isMineable: false

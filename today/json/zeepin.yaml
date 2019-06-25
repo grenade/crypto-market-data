@@ -1,0 +1,21 @@
+---
+id: zeepin
+rank: 505
+symbol: ZPT
+name: Zeepin
+marketCap:
+  BTC: "459.723294499"
+  USD: "5216848.43695"
+price:
+  BTC: "9.19446588998e-07"
+  USD: "0.0104336968739"
+volume:
+  BTC: "12.3802308332"
+  USD: "140488.39518"
+supply:
+  ZPT: "500000000.0"
+change:
+  1h: "1.30"
+  24h: "18.61"
+  7d: "21.15"
+isMineable: false

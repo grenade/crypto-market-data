@@ -1,0 +1,21 @@
+---
+id: paycent
+rank: 707
+symbol: PYN
+name: PAYCENT
+marketCap:
+  BTC: "178.805756007"
+  USD: "2029052.12746"
+price:
+  BTC: "5.83135739361e-06"
+  USD: "0.066173082957"
+volume:
+  BTC: "3.58131851297"
+  USD: "40640.0896151"
+supply:
+  PYN: "30662801.8038"
+change:
+  1h: "6.75"
+  24h: "36.48"
+  7d: "21.74"
+isMineable: false

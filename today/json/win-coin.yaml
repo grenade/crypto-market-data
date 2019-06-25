@@ -1,0 +1,21 @@
+---
+id: win-coin
+rank: 2126
+symbol: WC
+name: WINCOIN
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "2.08075854761e-06"
+  USD: "0.0236120338182"
+volume:
+  BTC: "0.00815031822623"
+  USD: "92.4881888908"
+supply:
+  WC: "0"
+change:
+  1h: "1.01"
+  24h: "1.38"
+  7d: "-25.56"
+isMineable: true

@@ -1,0 +1,21 @@
+---
+id: scanetchain
+rank: 900
+symbol: SWC
+name: Scanetchain
+marketCap:
+  BTC: "66.3341617264"
+  USD: "752746.863299"
+price:
+  BTC: "9.05720238761e-08"
+  USD: "0.00102779329837"
+volume:
+  BTC: "10.9387035952"
+  USD: "124130.231023"
+supply:
+  SWC: "732391293.554"
+change:
+  1h: "1.49"
+  24h: "4.58"
+  7d: "-18.70"
+isMineable: false

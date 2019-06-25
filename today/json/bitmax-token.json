@@ -1,0 +1,27 @@
+{
+  "id": "bitmax-token",
+  "rank": 1867,
+  "symbol": "BTMX",
+  "name": "BitMax Token",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "9.20261372877e-06",
+    "USD": "0.104429428792"
+  },
+  "volume": {
+    "BTC": "598.911978756",
+    "USD": "6796333.92005"
+  },
+  "supply": {
+    "BTMX": "0"
+  },
+  "change": {
+    "1h": "-0.31",
+    "24h": "-7.54",
+    "7d": "1.34"
+  },
+  "isMineable": false
+}

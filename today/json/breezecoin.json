@@ -1,0 +1,27 @@
+{
+  "id": "breezecoin",
+  "rank": 1365,
+  "symbol": "BRZC",
+  "name": "Breezecoin",
+  "marketCap": {
+    "BTC": "34.5132386342",
+    "USD": "377133.478594"
+  },
+  "price": {
+    "BTC": "4.09870462736e-07",
+    "USD": "0.00447874147722"
+  },
+  "volume": {
+    "BTC": "0",
+    "USD": "0"
+  },
+  "supply": {
+    "BRZC": "84205235.0"
+  },
+  "change": {
+    "1h": "0.00",
+    "24h": "0.00",
+    "7d": "-64.48"
+  },
+  "isMineable": false
+}

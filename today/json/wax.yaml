@@ -1,0 +1,21 @@
+---
+id: wax
+rank: 88
+symbol: WAX
+name: WAX
+marketCap:
+  BTC: "8285.26546291"
+  USD: "94019543.271"
+price:
+  BTC: "8.78773345953e-06"
+  USD: "0.0997214500792"
+volume:
+  BTC: "122.440129983"
+  USD: "1389426.22305"
+supply:
+  WAX: "942821661.702"
+change:
+  1h: "1.09"
+  24h: "2.76"
+  7d: "3.53"
+isMineable: false

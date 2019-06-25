@@ -1,0 +1,21 @@
+---
+id: skycoin
+rank: 190
+symbol: SKY
+name: Skycoin
+marketCap:
+  BTC: "2368.95999981"
+  USD: "26892290.2065"
+price:
+  BTC: "0.000157930666654"
+  USD: "1.7928193471"
+volume:
+  BTC: "47.6971915516"
+  USD: "541455.624977"
+supply:
+  SKY: "15000000.0"
+change:
+  1h: "0.32"
+  24h: "-0.28"
+  7d: "3.88"
+isMineable: false

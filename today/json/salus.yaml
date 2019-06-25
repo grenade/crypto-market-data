@@ -1,0 +1,21 @@
+---
+id: salus
+rank: 202
+symbol: SLS
+name: SaluS
+marketCap:
+  BTC: "2062.65336585"
+  USD: "23415115.8798"
+price:
+  BTC: "0.0020376609017"
+  USD: "23.1314029429"
+volume:
+  BTC: "0.444304110606"
+  USD: "5043.7133102"
+supply:
+  SLS: "1012265.27148"
+change:
+  1h: "0.93"
+  24h: "4.08"
+  7d: "20.14"
+isMineable: false

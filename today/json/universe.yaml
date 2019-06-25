@@ -1,0 +1,21 @@
+---
+id: universe
+rank: 1366
+symbol: UNI
+name: Universe
+marketCap:
+  BTC: "33.1195230412"
+  USD: "375970.816391"
+price:
+  BTC: "4.19826827152e-07"
+  USD: "0.00476584867333"
+volume:
+  BTC: "0.00308516277038"
+  USD: "35.0225806101"
+supply:
+  UNI: "78888534.2698"
+change:
+  1h: "0.93"
+  24h: "-3.91"
+  7d: "32.06"
+isMineable: false

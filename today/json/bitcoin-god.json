@@ -1,0 +1,27 @@
+{
+  "id": "bitcoin-god",
+  "rank": 2065,
+  "symbol": "GOD",
+  "name": "Bitcoin God",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "0.00151187689198",
+    "USD": "17.1564780275"
+  },
+  "volume": {
+    "BTC": "0.560288951367",
+    "USD": "6358.04749325"
+  },
+  "supply": {
+    "GOD": "0"
+  },
+  "change": {
+    "1h": "1.67",
+    "24h": "2.44",
+    "7d": "2.50"
+  },
+  "isMineable": false
+}

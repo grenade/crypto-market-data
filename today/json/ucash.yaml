@@ -1,0 +1,21 @@
+---
+id: ucash
+rank: 1210
+symbol: UCASH
+name: UNIVERSAL CASH
+marketCap:
+  BTC: "266.871902325"
+  USD: "3028409.22608"
+price:
+  BTC: "2.57798816297e-08"
+  USD: "0.000292544965186"
+volume:
+  BTC: "0.00141578021201"
+  USD: "16.0659920314"
+supply:
+  UCASH: "10351944440.9"
+change:
+  1h: "0.07"
+  24h: "23.43"
+  7d: "65.04"
+isMineable: false

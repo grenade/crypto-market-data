@@ -1,0 +1,21 @@
+---
+id: peepcoin
+rank: 1452
+symbol: PCN
+name: PeepCoin
+marketCap:
+  BTC: "17.9829553713"
+  USD: "204066.998003"
+price:
+  BTC: "3.17401177384e-10"
+  USD: "3.60180538148e-06"
+volume:
+  BTC: "0.0006118214417"
+  USD: "6.94282793588"
+supply:
+  PCN: "56656864097.1"
+change:
+  1h: "-0.17"
+  24h: "10.27"
+  7d: "3.29"
+isMineable: false

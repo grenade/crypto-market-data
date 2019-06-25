@@ -1,0 +1,21 @@
+---
+id: covesting
+rank: 669
+symbol: COV
+name: Covesting
+marketCap:
+  BTC: "207.949320817"
+  USD: "2359767.49981"
+price:
+  BTC: "1.15527400454e-05"
+  USD: "0.131098194434"
+volume:
+  BTC: "0.471341919236"
+  USD: "5348.69427775"
+supply:
+  COV: "18000000.0"
+change:
+  1h: "-2.63"
+  24h: "-2.57"
+  7d: "-18.75"
+isMineable: false

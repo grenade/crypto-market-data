@@ -1,0 +1,27 @@
+{
+  "id": "golos-gold",
+  "rank": 2143,
+  "symbol": "GBG",
+  "name": "Golos Gold",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "1.08387047839e-06",
+    "USD": "0.0123040319185"
+  },
+  "volume": {
+    "BTC": "0.000989688637044",
+    "USD": "11.2348853689"
+  },
+  "supply": {
+    "GBG": "0"
+  },
+  "change": {
+    "1h": "0.10",
+    "24h": "11.54",
+    "7d": "23.17"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,21 @@
+---
+id: odyssey
+rank: 249
+symbol: OCN
+name: Odyssey
+marketCap:
+  BTC: "1519.95629108"
+  USD: "17248161.4402"
+price:
+  BTC: "2.17313361896e-07"
+  USD: "0.00246602877404"
+volume:
+  BTC: "243.275360639"
+  USD: "2760640.36799"
+supply:
+  OCN: "6994306644.65"
+change:
+  1h: "-0.62"
+  24h: "2.51"
+  7d: "-2.09"
+isMineable: false

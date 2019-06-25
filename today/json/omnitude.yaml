@@ -1,0 +1,21 @@
+---
+id: omnitude
+rank: 585
+symbol: ECOM
+name: Omnitude
+marketCap:
+  BTC: "320.018411564"
+  USD: "3631505.234"
+price:
+  BTC: "4.93754221681e-06"
+  USD: "0.0560302462467"
+volume:
+  BTC: "6.53838539234"
+  USD: "74196.295951"
+supply:
+  ECOM: "64813301.3374"
+change:
+  1h: "0.16"
+  24h: "-4.52"
+  7d: "-21.16"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: measurable-data-token
+rank: 512
+symbol: MDT
+name: Measurable Data Token
+marketCap:
+  BTC: "439.292580406"
+  USD: "4985004.76021"
+price:
+  BTC: "8.3773059914e-07"
+  USD: "0.00950640008675"
+volume:
+  BTC: "20.9948279068"
+  USD: "238245.128015"
+supply:
+  MDT: "524384069.124"
+change:
+  1h: "0.40"
+  24h: "-0.30"
+  7d: "4.28"
+isMineable: false

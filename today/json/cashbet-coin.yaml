@@ -1,0 +1,21 @@
+---
+id: cashbet-coin
+rank: 774
+symbol: CBC
+name: CashBet Coin
+marketCap:
+  BTC: "129.963828075"
+  USD: "1474803.65138"
+price:
+  BTC: "8.04792703464e-07"
+  USD: "0.00913262740299"
+volume:
+  BTC: "3.70229081275"
+  USD: "42012.8591932"
+supply:
+  CBC: "161487333.962"
+change:
+  1h: "-3.08"
+  24h: "23.04"
+  7d: "9.18"
+isMineable: false

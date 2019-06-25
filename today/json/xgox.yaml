@@ -1,0 +1,21 @@
+---
+id: xgox
+rank: 1410
+symbol: XGOX
+name: XGOX
+marketCap:
+  BTC: "21.9915677107"
+  USD: "249555.932907"
+price:
+  BTC: "9.24197794501e-09"
+  USD: "0.000104876126082"
+volume:
+  BTC: "0.016976058526"
+  USD: "192.640933028"
+supply:
+  XGOX: "2379530425.37"
+change:
+  1h: "1.03"
+  24h: "5.10"
+  7d: "19.84"
+isMineable: true

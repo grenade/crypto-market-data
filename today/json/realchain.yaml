@@ -1,0 +1,21 @@
+---
+id: realchain
+rank: 986
+symbol: RCT
+name: RealChain
+marketCap:
+  BTC: "36.0486548232"
+  USD: "409072.959362"
+price:
+  BTC: "9.02164753151e-08"
+  USD: "0.00102375860407"
+volume:
+  BTC: "13.647537763"
+  USD: "154869.541959"
+supply:
+  RCT: "399579508.036"
+change:
+  1h: "-4.10"
+  24h: "-6.67"
+  7d: "-0.55"
+isMineable: false

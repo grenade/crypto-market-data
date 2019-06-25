@@ -1,0 +1,27 @@
+{
+  "id": "bitcoin-incognito",
+  "rank": 1043,
+  "symbol": "XBI",
+  "name": "Bitcoin Incognito",
+  "marketCap": {
+    "BTC": "19.6128325607",
+    "USD": "222562.519917"
+  },
+  "price": {
+    "BTC": "2.00287726637e-06",
+    "USD": "0.0227282525412"
+  },
+  "volume": {
+    "BTC": "1.56457691177",
+    "USD": "17754.5073619"
+  },
+  "supply": {
+    "XBI": "9792328.71129"
+  },
+  "change": {
+    "1h": "3.44",
+    "24h": "20.37",
+    "7d": "-42.47"
+  },
+  "isMineable": true
+}

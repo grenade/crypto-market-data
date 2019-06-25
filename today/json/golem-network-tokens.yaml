@@ -1,0 +1,21 @@
+---
+id: golem-network-tokens
+rank: 87
+symbol: GNT
+name: Golem
+marketCap:
+  BTC: "8382.74510475"
+  USD: "95125722.8431"
+price:
+  BTC: "8.69173633133e-06"
+  USD: "0.0986320937769"
+volume:
+  BTC: "124.189646123"
+  USD: "1409279.38396"
+supply:
+  GNT: "964450000.0"
+change:
+  1h: "0.38"
+  24h: "0.66"
+  7d: "1.08"
+isMineable: false

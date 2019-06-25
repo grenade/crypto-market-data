@@ -1,0 +1,21 @@
+---
+id: cryptoping
+rank: 1421
+symbol: PING
+name: CryptoPing
+marketCap:
+  BTC: "21.0065658051"
+  USD: "238378.327348"
+price:
+  BTC: "2.1107694882e-06"
+  USD: "0.0239525919983"
+volume:
+  BTC: "0.0421593585156"
+  USD: "478.416008513"
+supply:
+  PING: "9952089.0"
+change:
+  1h: "0.97"
+  24h: "-2.62"
+  7d: "-1.58"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: traxia
+rank: 855
+symbol: TMT
+name: TRAXIA
+marketCap:
+  BTC: "86.311136555"
+  USD: "979441.597185"
+price:
+  BTC: "1.7262227311e-07"
+  USD: "0.00195888319437"
+volume:
+  BTC: "3.65373570354"
+  USD: "41461.8654788"
+supply:
+  TMT: "500000000.0"
+change:
+  1h: "-5.43"
+  24h: "-3.90"
+  7d: "-39.40"
+isMineable: false

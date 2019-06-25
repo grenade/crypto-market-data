@@ -1,0 +1,27 @@
+{
+  "id": "volt",
+  "rank": 2005,
+  "symbol": "ACDC",
+  "name": "Volt",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "1.98580650938e-08",
+    "USD": "0.000225345369889"
+  },
+  "volume": {
+    "BTC": "5.32052748978",
+    "USD": "60376.2868902"
+  },
+  "supply": {
+    "ACDC": "0"
+  },
+  "change": {
+    "1h": "1.29",
+    "24h": "2.92",
+    "7d": "-21.08"
+  },
+  "isMineable": false
+}

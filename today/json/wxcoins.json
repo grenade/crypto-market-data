@@ -1,0 +1,27 @@
+{
+  "id": "wxcoins",
+  "rank": 2116,
+  "symbol": "WXC",
+  "name": "WXCOINS",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "8.03299569678e-07",
+    "USD": "0.00911568361799"
+  },
+  "volume": {
+    "BTC": "0.0204073525181",
+    "USD": "231.578574242"
+  },
+  "supply": {
+    "WXC": "0"
+  },
+  "change": {
+    "1h": "1.46",
+    "24h": "9.91",
+    "7d": "21.49"
+  },
+  "isMineable": true
+}

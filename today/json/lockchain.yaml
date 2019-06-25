@@ -1,0 +1,21 @@
+---
+id: lockchain
+rank: 400
+symbol: LOC
+name: LockTrip
+marketCap:
+  BTC: "756.030403206"
+  USD: "8579282.52592"
+price:
+  BTC: "5.0563280034e-05"
+  USD: "0.573782037084"
+volume:
+  BTC: "2.85023446242"
+  USD: "32343.8933335"
+supply:
+  LOC: "14952162.9668"
+change:
+  1h: "4.56"
+  24h: "5.84"
+  7d: "-7.39"
+isMineable: false

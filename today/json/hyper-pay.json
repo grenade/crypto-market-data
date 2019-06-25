@@ -1,0 +1,27 @@
+{
+  "id": "hyper-pay",
+  "rank": 2085,
+  "symbol": "HPY",
+  "name": "Hyper Pay",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "2.9273857826e-07",
+    "USD": "0.00332193911578"
+  },
+  "volume": {
+    "BTC": "0.18475255676",
+    "USD": "2096.53523868"
+  },
+  "supply": {
+    "HPY": "0"
+  },
+  "change": {
+    "1h": "5.91",
+    "24h": "8.40",
+    "7d": "17.46"
+  },
+  "isMineable": false
+}

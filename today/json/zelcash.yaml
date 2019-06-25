@@ -1,0 +1,21 @@
+---
+id: zelcash
+rank: 477
+symbol: ZEL
+name: ZelCash
+marketCap:
+  BTC: "527.316561855"
+  USD: "5983883.3803"
+price:
+  BTC: "7.81087640162e-06"
+  USD: "0.0886362706318"
+volume:
+  BTC: "33.2144798363"
+  USD: "376911.30576"
+supply:
+  ZEL: "67510550.0"
+change:
+  1h: "0.21"
+  24h: "0.83"
+  7d: "5.43"
+isMineable: true

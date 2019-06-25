@@ -1,0 +1,27 @@
+{
+  "id": "newton-coin-project",
+  "rank": 1431,
+  "symbol": "NCP",
+  "name": "Newton Coin Project",
+  "marketCap": {
+    "BTC": "19.9208830048",
+    "USD": "226058.215038"
+  },
+  "price": {
+    "BTC": "1.11104332482e-10",
+    "USD": "1.26078984942e-06"
+  },
+  "volume": {
+    "BTC": "0.000911852111661",
+    "USD": "10.3475162568"
+  },
+  "supply": {
+    "NCP": "1.79298885649e+11"
+  },
+  "change": {
+    "1h": "0.92",
+    "24h": "-43.22",
+    "7d": "-4.77"
+  },
+  "isMineable": true
+}

@@ -1,0 +1,21 @@
+---
+id: truedeck
+rank: 925
+symbol: TDP
+name: TrueDeck
+marketCap:
+  BTC: "57.1645422062"
+  USD: "648691.846216"
+price:
+  BTC: "1.86097544654e-06"
+  USD: "0.0211179789357"
+volume:
+  BTC: "48.3271510922"
+  USD: "548406.890958"
+supply:
+  TDP: "30717515.544"
+change:
+  1h: "4.14"
+  24h: "70.32"
+  7d: "73.68"
+isMineable: false

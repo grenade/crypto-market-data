@@ -1,0 +1,21 @@
+---
+id: rpicoin
+rank: 1604
+symbol: RPI
+name: RPICoin
+marketCap:
+  BTC: "5.46248276294"
+  USD: "61987.1670734"
+price:
+  BTC: "1.00036468635e-08"
+  USD: "0.000113519393357"
+volume:
+  BTC: "0.0268579847467"
+  USD: "304.779064759"
+supply:
+  RPI: "546049139.626"
+change:
+  1h: "1.00"
+  24h: "5.29"
+  7d: "-34.19"
+isMineable: true

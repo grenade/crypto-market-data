@@ -1,0 +1,21 @@
+---
+id: bunnytoken
+rank: 1647
+symbol: BUNNY
+name: BunnyToken
+marketCap:
+  BTC: "3.89241791733"
+  USD: "44170.3837306"
+price:
+  BTC: "1.98567370518e-08"
+  USD: "0.000225330299532"
+volume:
+  BTC: "0.00137572918285"
+  USD: "15.6115009248"
+supply:
+  BUNNY: "196025052.211"
+change:
+  1h: "0.99"
+  24h: "34.48"
+  7d: "31.39"
+isMineable: false

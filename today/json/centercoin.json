@@ -1,0 +1,27 @@
+{
+  "id": "centercoin",
+  "rank": 2019,
+  "symbol": "CENT",
+  "name": "CENTERCOIN",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "3.40123993359e-07",
+    "USD": "0.00385965937414"
+  },
+  "volume": {
+    "BTC": "3.25651471492",
+    "USD": "36954.2807678"
+  },
+  "supply": {
+    "CENT": "0"
+  },
+  "change": {
+    "1h": "2.16",
+    "24h": "-3.40",
+    "7d": "20.95"
+  },
+  "isMineable": false
+}

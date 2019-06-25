@@ -1,0 +1,21 @@
+---
+id: eroscoin
+rank: 887
+symbol: ERO
+name: Eroscoin
+marketCap:
+  BTC: "71.3910704118"
+  USD: "810131.656468"
+price:
+  BTC: "3.82293784067e-07"
+  USD: "0.00433819376509"
+volume:
+  BTC: "0.151551733355"
+  USD: "1719.77890337"
+supply:
+  ERO: "186744000.0"
+change:
+  1h: "1.09"
+  24h: "45.57"
+  7d: "60.72"
+isMineable: false

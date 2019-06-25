@@ -1,0 +1,21 @@
+---
+id: brickblock
+rank: 1214
+symbol: BBK
+name: Brickblock
+marketCap:
+  BTC: "242.262692093"
+  USD: "2749148.8069"
+price:
+  BTC: "3.22452489169e-06"
+  USD: "0.0365912666214"
+volume:
+  BTC: "0.00691660589267"
+  USD: "78.488266903"
+supply:
+  BBK: "75131282.9736"
+change:
+  1h: "0.21"
+  24h: "2.40"
+  7d: "-16.61"
+isMineable: false

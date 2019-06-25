@@ -1,0 +1,27 @@
+{
+  "id": "bizkey",
+  "rank": 2108,
+  "symbol": "BZKY",
+  "name": "BIZKEY",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "4.66679807095e-08",
+    "USD": "0.000529578955717"
+  },
+  "volume": {
+    "BTC": "0.0325444663028",
+    "USD": "369.30812555"
+  },
+  "supply": {
+    "BZKY": "0"
+  },
+  "change": {
+    "1h": "0.20",
+    "24h": "5.29",
+    "7d": "-30.02"
+  },
+  "isMineable": false
+}

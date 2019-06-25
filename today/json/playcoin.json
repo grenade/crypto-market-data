@@ -1,0 +1,27 @@
+{
+  "id": "playcoin",
+  "rank": 1905,
+  "symbol": "PLY",
+  "name": "PlayCoin [QRC20]",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "2.17717706421e-06",
+    "USD": "0.0247061719523"
+  },
+  "volume": {
+    "BTC": "81.6489185045",
+    "USD": "926535.674775"
+  },
+  "supply": {
+    "PLY": "0"
+  },
+  "change": {
+    "1h": "-0.77",
+    "24h": "22.70",
+    "7d": "35.26"
+  },
+  "isMineable": false
+}

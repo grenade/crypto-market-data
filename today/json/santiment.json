@@ -1,0 +1,27 @@
+{
+  "id": "santiment",
+  "rank": 97,
+  "symbol": "SAN",
+  "name": "Santiment Network Token",
+  "marketCap": {
+    "BTC": "6381.89748308",
+    "USD": "72420502.3062"
+  },
+  "price": {
+    "BTC": "0.000101849021728",
+    "USD": "1.15576242528"
+  },
+  "volume": {
+    "BTC": "7.49108789598",
+    "USD": "85007.3743244"
+  },
+  "supply": {
+    "SAN": "62660370.957"
+  },
+  "change": {
+    "1h": "0.62",
+    "24h": "-3.41",
+    "7d": "8.29"
+  },
+  "isMineable": false
+}

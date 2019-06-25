@@ -1,0 +1,21 @@
+---
+id: babb
+rank: 599
+symbol: BAX
+name: BABB
+marketCap:
+  BTC: "300.593238547"
+  USD: "3411072.23722"
+price:
+  BTC: "1.4313963741e-08"
+  USD: "0.000162432011304"
+volume:
+  BTC: "2.26727909829"
+  USD: "25728.6319"
+supply:
+  BAX: "20999999999.0"
+change:
+  1h: "0.08"
+  24h: "11.71"
+  7d: "5.48"
+isMineable: false

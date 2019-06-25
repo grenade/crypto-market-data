@@ -1,0 +1,21 @@
+---
+id: kin
+rank: 262
+symbol: KIN
+name: Kin
+marketCap:
+  BTC: "1412.8674398"
+  USD: "16032938.4722"
+price:
+  BTC: "1.86863113006e-09"
+  USD: "2.12048541084e-05"
+volume:
+  BTC: "119.335799606"
+  USD: "1354198.89985"
+supply:
+  KIN: "7.56097560976e+11"
+change:
+  1h: "0.34"
+  24h: "-0.47"
+  7d: "7.75"
+isMineable: false

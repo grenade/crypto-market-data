@@ -1,0 +1,21 @@
+---
+id: jsecoin
+rank: 1030
+symbol: JSE
+name: JSECOIN
+marketCap:
+  BTC: "23.2943769263"
+  USD: "264339.952558"
+price:
+  BTC: "5.25263444382e-08"
+  USD: "0.000596058501189"
+volume:
+  BTC: "0.0515285470318"
+  USD: "584.735694835"
+supply:
+  JSE: "443479879.963"
+change:
+  1h: "7.44"
+  24h: "57.05"
+  7d: "68.21"
+isMineable: false

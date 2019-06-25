@@ -1,0 +1,21 @@
+---
+id: putincoin
+rank: 1358
+symbol: PUT
+name: PutinCoin
+marketCap:
+  BTC: "34.3437536556"
+  USD: "389868.208058"
+price:
+  BTC: "4.66175651644e-08"
+  USD: "0.000529199771724"
+volume:
+  BTC: "0.00228717364738"
+  USD: "25.9638564953"
+supply:
+  PUT: "736712729.085"
+change:
+  1h: "3.19"
+  24h: "22.58"
+  7d: "14.67"
+isMineable: true

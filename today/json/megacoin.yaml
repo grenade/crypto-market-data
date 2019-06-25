@@ -1,0 +1,21 @@
+---
+id: megacoin
+rank: 1412
+symbol: MEC
+name: Megacoin
+marketCap:
+  BTC: "21.7264049961"
+  USD: "246636.831498"
+price:
+  BTC: "5.7e-07"
+  USD: "0.00647060542134"
+volume:
+  BTC: "0.0"
+  USD: "0.0"
+supply:
+  MEC: "38116499.9931"
+change:
+  1h: "0.95"
+  24h: "14.21"
+  7d: "-13.10"
+isMineable: true

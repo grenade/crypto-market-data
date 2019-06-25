@@ -1,0 +1,21 @@
+---
+id: digixdao
+rank: 113
+symbol: DGD
+name: DigixDAO
+marketCap:
+  BTC: "5089.6421108"
+  USD: "57777308.4822"
+price:
+  BTC: "0.0025448210554"
+  USD: "28.8886542411"
+volume:
+  BTC: "157.846786534"
+  USD: "1791867.14507"
+supply:
+  DGD: "2000000.0"
+change:
+  1h: "-0.15"
+  24h: "-1.48"
+  7d: "-0.10"
+isMineable: false

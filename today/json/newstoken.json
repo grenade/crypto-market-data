@@ -1,0 +1,27 @@
+{
+  "id": "newstoken",
+  "rank": 2050,
+  "symbol": "NEWOS",
+  "name": "NewsToken",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "8.38653255092e-08",
+    "USD": "0.000951687020283"
+  },
+  "volume": {
+    "BTC": "0.960071355764",
+    "USD": "10894.6986407"
+  },
+  "supply": {
+    "NEWOS": "0"
+  },
+  "change": {
+    "1h": "-8.82",
+    "24h": "-12.41",
+    "7d": "-9.65"
+  },
+  "isMineable": false
+}

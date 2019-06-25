@@ -1,0 +1,21 @@
+---
+id: proton-token
+rank: 994
+symbol: PTT
+name: Proton Token
+marketCap:
+  BTC: "33.8484146498"
+  USD: "384105.071839"
+price:
+  BTC: "1.41402920731e-08"
+  USD: "0.000160461219787"
+volume:
+  BTC: "1.60386441938"
+  USD: "18200.3341781"
+supply:
+  PTT: "2393756400.14"
+change:
+  1h: "0.11"
+  24h: "1.39"
+  7d: "3.77"
+isMineable: false

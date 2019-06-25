@@ -1,0 +1,21 @@
+---
+id: olympic
+rank: 1667
+symbol: OLMP
+name: Olympic
+marketCap:
+  BTC: "3.32399458273"
+  USD: "37720.0288757"
+price:
+  BTC: "3.30120346495e-08"
+  USD: "0.000374613998078"
+volume:
+  BTC: "0.000101303202127"
+  USD: "1.14956857309"
+supply:
+  OLMP: "100690388.157"
+change:
+  1h: "1.00"
+  24h: "51.12"
+  7d: "35.26"
+isMineable: true

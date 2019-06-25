@@ -1,0 +1,21 @@
+---
+id: actinium
+rank: 1049
+symbol: ACM
+name: Actinium
+marketCap:
+  BTC: "18.778957679"
+  USD: "213099.873745"
+price:
+  BTC: "1.63052831694e-06"
+  USD: "0.0185029107801"
+volume:
+  BTC: "0.229952640017"
+  USD: "2609.45678629"
+supply:
+  ACM: "11517100.0"
+change:
+  1h: "1.01"
+  24h: "2.76"
+  7d: "30.20"
+isMineable: true

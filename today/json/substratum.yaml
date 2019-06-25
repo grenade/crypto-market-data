@@ -1,0 +1,21 @@
+---
+id: substratum
+rank: 343
+symbol: SUB
+name: Substratum
+marketCap:
+  BTC: "923.302454771"
+  USD: "10477452.4711"
+price:
+  BTC: "2.41057919766e-06"
+  USD: "0.0273547729034"
+volume:
+  BTC: "0.265636138786"
+  USD: "3014.38602743"
+supply:
+  SUB: "383020999.96"
+change:
+  1h: "-4.39"
+  24h: "12.05"
+  7d: "21.65"
+isMineable: false

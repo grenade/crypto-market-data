@@ -1,0 +1,21 @@
+---
+id: engine
+rank: 1960
+symbol: EGCC
+name: Engine
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "6.66418223056e-08"
+  USD: "0.000756238134309"
+volume:
+  BTC: "12.7910780503"
+  USD: "145150.60762"
+supply:
+  EGCC: "0"
+change:
+  1h: "-0.66"
+  24h: "-3.91"
+  7d: "13.54"
+isMineable: false

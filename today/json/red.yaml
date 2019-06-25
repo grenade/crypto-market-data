@@ -1,0 +1,21 @@
+---
+id: red
+rank: 804
+symbol: RED
+name: RED
+marketCap:
+  BTC: "110.724335515"
+  USD: "1256477.71948"
+price:
+  BTC: "8.51725596876e-07"
+  USD: "0.00966521253532"
+volume:
+  BTC: "4.48899907717"
+  USD: "50940.2679817"
+supply:
+  RED: "130000009.3"
+change:
+  1h: "2.65"
+  24h: "1.82"
+  7d: "5.94"
+isMineable: false

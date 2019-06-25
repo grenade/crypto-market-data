@@ -1,0 +1,21 @@
+---
+id: bitcoin-plus
+rank: 899
+symbol: XBC
+name: Bitcoin Plus
+marketCap:
+  BTC: "67.3855263206"
+  USD: "764956.406896"
+price:
+  BTC: "0.00053797195944"
+  USD: "6.10702504787"
+volume:
+  BTC: "0.577478126976"
+  USD: "6555.49666512"
+supply:
+  XBC: "125258.436129"
+change:
+  1h: "0.27"
+  24h: "2.46"
+  7d: "13.65"
+isMineable: false

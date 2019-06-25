@@ -1,0 +1,27 @@
+{
+  "id": "elliot-coin",
+  "rank": 2183,
+  "symbol": "ELLI",
+  "name": "Elliot Coin",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "3.00109405905e-08",
+    "USD": "0.000340558180071"
+  },
+  "volume": {
+    "BTC": "0.0",
+    "USD": "0.0"
+  },
+  "supply": {
+    "ELLI": "0"
+  },
+  "change": {
+    "1h": "1.00",
+    "24h": "5.29",
+    "7d": "-56.51"
+  },
+  "isMineable": true
+}

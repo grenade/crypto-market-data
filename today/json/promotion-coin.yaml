@@ -1,0 +1,21 @@
+---
+id: promotion-coin
+rank: 1922
+symbol: PC
+name: Promotion Coin
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "4.94562089645e-08"
+  USD: "0.000561219214952"
+volume:
+  BTC: "50.3449288342"
+  USD: "571304.231131"
+supply:
+  PC: "0"
+change:
+  1h: "0.55"
+  24h: "-1.32"
+  7d: "30.27"
+isMineable: false

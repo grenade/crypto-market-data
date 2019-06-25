@@ -1,0 +1,21 @@
+---
+id: bitnation
+rank: 1414
+symbol: XPAT
+name: Bitnation
+marketCap:
+  BTC: "21.5380783939"
+  USD: "244409.826407"
+price:
+  BTC: "8.30349757516e-10"
+  USD: "9.42264376518e-06"
+volume:
+  BTC: "0.027169390045"
+  USD: "308.312830098"
+supply:
+  XPAT: "25938561671.0"
+change:
+  1h: "0.21"
+  24h: "-12.23"
+  7d: "-3.65"
+isMineable: false

@@ -1,0 +1,27 @@
+{
+  "id": "carry",
+  "rank": 1863,
+  "symbol": "CRE",
+  "name": "Carry",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "2.85159669318e-06",
+    "USD": "0.0323593516571"
+  },
+  "volume": {
+    "BTC": "962.650696285",
+    "USD": "10923968.4835"
+  },
+  "supply": {
+    "CRE": "0"
+  },
+  "change": {
+    "1h": "-3.27",
+    "24h": "0.18",
+    "7d": "-18.74"
+  },
+  "isMineable": false
+}

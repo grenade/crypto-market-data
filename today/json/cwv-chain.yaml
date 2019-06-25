@@ -1,0 +1,21 @@
+---
+id: cwv-chain
+rank: 309
+symbol: CWV
+name: CWV Chain
+marketCap:
+  BTC: "1085.61030057"
+  USD: "12319289.5976"
+price:
+  BTC: "3.15002227949e-07"
+  USD: "0.00357458258081"
+volume:
+  BTC: "80.4417975347"
+  USD: "912837.50629"
+supply:
+  CWV: "3446357531.0"
+change:
+  1h: "-0.45"
+  24h: "-12.45"
+  7d: "-12.02"
+isMineable: false

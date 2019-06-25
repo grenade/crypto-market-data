@@ -1,0 +1,21 @@
+---
+id: bitether
+rank: 1058
+symbol: BTR
+name: Bitether
+marketCap:
+  BTC: "17.5964145408"
+  USD: "199680.609601"
+price:
+  BTC: "3.40123993359e-07"
+  USD: "0.00385965937414"
+volume:
+  BTC: "0.968853198729"
+  USD: "10994.3532466"
+supply:
+  BTR: "51735293.2589"
+change:
+  1h: "14.48"
+  24h: "29.16"
+  7d: "29.16"
+isMineable: false

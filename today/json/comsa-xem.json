@@ -1,0 +1,27 @@
+{
+  "id": "comsa-xem",
+  "rank": 2038,
+  "symbol": "CMS",
+  "name": "COMSA [XEM]",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "1.66041386126e-05",
+    "USD": "0.188420459882"
+  },
+  "volume": {
+    "BTC": "1.79692374745",
+    "USD": "20391.133004"
+  },
+  "supply": {
+    "CMS": "0"
+  },
+  "change": {
+    "1h": "0.13",
+    "24h": "1.38",
+    "7d": "4.74"
+  },
+  "isMineable": false
+}

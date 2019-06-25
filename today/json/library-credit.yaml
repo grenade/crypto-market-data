@@ -1,0 +1,21 @@
+---
+id: library-credit
+rank: 374
+symbol: LBC
+name: LBRY Credits
+marketCap:
+  BTC: "827.082164093"
+  USD: "9388986.5524"
+price:
+  BTC: "3.382156628e-06"
+  USD: "0.0383940368648"
+volume:
+  BTC: "18.0834715722"
+  USD: "205282.472266"
+supply:
+  LBC: "244542833.187"
+change:
+  1h: "0.83"
+  24h: "-5.52"
+  7d: "6.55"
+isMineable: true

@@ -1,0 +1,27 @@
+{
+  "id": "earth-token",
+  "rank": 1678,
+  "symbol": "EARTH",
+  "name": "Earth Token",
+  "marketCap": {
+    "BTC": "6.15948247153",
+    "USD": "34962.0746872"
+  },
+  "price": {
+    "BTC": "3.00023135458e-08",
+    "USD": "0.000170297282576"
+  },
+  "volume": {
+    "BTC": "0",
+    "USD": "0"
+  },
+  "supply": {
+    "EARTH": "205300250.0"
+  },
+  "change": {
+    "1h": "0.00",
+    "24h": "0.00",
+    "7d": "0.00"
+  },
+  "isMineable": false
+}

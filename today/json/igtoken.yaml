@@ -1,0 +1,21 @@
+---
+id: igtoken
+rank: 1083
+symbol: IG
+name: IGToken
+marketCap:
+  BTC: "13.1659381785"
+  USD: "149404.445738"
+price:
+  BTC: "6.7923567742e-09"
+  USD: "7.70783126387e-05"
+volume:
+  BTC: "31.5563517646"
+  USD: "358095.198456"
+supply:
+  IG: "1938346087.55"
+change:
+  1h: "0.22"
+  24h: "-1.56"
+  7d: "36.07"
+isMineable: false

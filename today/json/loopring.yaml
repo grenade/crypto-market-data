@@ -1,0 +1,21 @@
+---
+id: loopring
+rank: 109
+symbol: LRC
+name: Loopring
+marketCap:
+  BTC: "5312.96372721"
+  USD: "60290454.818"
+price:
+  BTC: "5.64388210861e-06"
+  USD: "0.0640456507401"
+volume:
+  BTC: "174.235982469"
+  USD: "1977195.24697"
+supply:
+  LRC: "941366886.297"
+change:
+  1h: "0.36"
+  24h: "1.15"
+  7d: "-5.48"
+isMineable: false

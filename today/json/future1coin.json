@@ -1,0 +1,27 @@
+{
+  "id": "future1coin",
+  "rank": 2070,
+  "symbol": "F1C",
+  "name": "Future1coin",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "7.51050129215e-08",
+    "USD": "0.0008522767368"
+  },
+  "volume": {
+    "BTC": "0.482664367527",
+    "USD": "5477.17916719"
+  },
+  "supply": {
+    "F1C": "0"
+  },
+  "change": {
+    "1h": "0.21",
+    "24h": "-4.07",
+    "7d": "-16.27"
+  },
+  "isMineable": false
+}

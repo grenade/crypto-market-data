@@ -1,0 +1,27 @@
+{
+  "id": "medibit",
+  "rank": 2031,
+  "symbol": "MEDIBIT",
+  "name": "MediBit",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "1.08524981623e-09",
+    "USD": "1.23151988929e-05"
+  },
+  "volume": {
+    "BTC": "2.06457648438",
+    "USD": "23428.4029858"
+  },
+  "supply": {
+    "MEDIBIT": "0"
+  },
+  "change": {
+    "1h": "1.37",
+    "24h": "3.63",
+    "7d": "-12.10"
+  },
+  "isMineable": false
+}

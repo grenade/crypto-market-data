@@ -1,0 +1,27 @@
+{
+  "id": "bitsdaq",
+  "rank": 1982,
+  "symbol": "BQQQ",
+  "name": "Bitsdaq",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "6.81903105536e-07",
+    "USD": "0.00773810070717"
+  },
+  "volume": {
+    "BTC": "9.08067385203",
+    "USD": "103045.679343"
+  },
+  "supply": {
+    "BQQQ": "0"
+  },
+  "change": {
+    "1h": "0.09",
+    "24h": "0.48",
+    "7d": "-30.07"
+  },
+  "isMineable": false
+}

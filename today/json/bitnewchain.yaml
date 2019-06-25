@@ -1,0 +1,21 @@
+---
+id: bitnewchain
+rank: 1176
+symbol: BTN
+name: BitNewChain
+marketCap:
+  BTC: "789.163636049"
+  USD: "8955271.85698"
+price:
+  BTC: "4.39151782568e-06"
+  USD: "0.0498340701437"
+volume:
+  BTC: "0.0226933484164"
+  USD: "257.519600664"
+supply:
+  BTN: "179701795.0"
+change:
+  1h: "0.11"
+  24h: "6.42"
+  7d: "9.58"
+isMineable: true

@@ -1,0 +1,21 @@
+---
+id: bettex-coin
+rank: 1381
+symbol: BTXC
+name: Bettex Coin
+marketCap:
+  BTC: "29.2857516659"
+  USD: "332328.880505"
+price:
+  BTC: "4.91229515881e-06"
+  USD: "0.055743747658"
+volume:
+  BTC: "0.0153214579566"
+  USD: "173.864855119"
+supply:
+  BTXC: "5961724.75779"
+change:
+  1h: "2.71"
+  24h: "5.73"
+  7d: "-7.64"
+isMineable: true

@@ -1,0 +1,27 @@
+{
+  "id": "machine-xchange-coin",
+  "rank": 541,
+  "symbol": "MXC",
+  "name": "Machine Xchange Coin",
+  "marketCap": {
+    "BTC": "396.091666332",
+    "USD": "4494769.38653"
+  },
+  "price": {
+    "BTC": "4.95430580925e-07",
+    "USD": "0.00562204761568"
+  },
+  "volume": {
+    "BTC": "47.0187868115",
+    "USD": "533559.833534"
+  },
+  "supply": {
+    "MXC": "799489740.0"
+  },
+  "change": {
+    "1h": "-1.34",
+    "24h": "0.27",
+    "7d": "-10.90"
+  },
+  "isMineable": false
+}

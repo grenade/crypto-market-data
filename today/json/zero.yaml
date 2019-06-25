@@ -1,0 +1,21 @@
+---
+id: zero
+rank: 882
+symbol: ZER
+name: Zero
+marketCap:
+  BTC: "74.1049627116"
+  USD: "841235.041176"
+price:
+  BTC: "1.17322453873e-05"
+  USD: "0.133183737908"
+volume:
+  BTC: "0.292543179503"
+  USD: "3320.93242679"
+supply:
+  ZER: "6316349.53628"
+change:
+  1h: "0.93"
+  24h: "-2.57"
+  7d: "47.34"
+isMineable: true

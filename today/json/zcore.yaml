@@ -1,0 +1,21 @@
+---
+id: zcore
+rank: 961
+symbol: ZCR
+name: ZCore
+marketCap:
+  BTC: "41.8713168787"
+  USD: "475147.369354"
+price:
+  BTC: "1.00864115663e-05"
+  USD: "0.11445859073"
+volume:
+  BTC: "0.0740197896002"
+  USD: "839.961838566"
+supply:
+  ZCR: "4151260.0"
+change:
+  1h: "1.01"
+  24h: "-3.32"
+  7d: "-2.97"
+isMineable: true

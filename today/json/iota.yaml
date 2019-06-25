@@ -1,0 +1,21 @@
+---
+id: iota
+rank: 16
+symbol: MIOTA
+name: IOTA
+marketCap:
+  BTC: "111108.870288"
+  USD: "1260841343.54"
+price:
+  BTC: "3.99739736487e-05"
+  USD: "0.453616696049"
+volume:
+  BTC: "2170.05866126"
+  USD: "24625393.7325"
+supply:
+  MIOTA: "2779530283.0"
+change:
+  1h: "-0.57"
+  24h: "0.56"
+  7d: "4.01"
+isMineable: false

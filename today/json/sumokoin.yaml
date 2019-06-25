@@ -1,0 +1,21 @@
+---
+id: sumokoin
+rank: 969
+symbol: SUMO
+name: Sumokoin
+marketCap:
+  BTC: "40.0146926922"
+  USD: "454244.363978"
+price:
+  BTC: "3.96586358596e-06"
+  USD: "0.0450202428415"
+volume:
+  BTC: "0.654275388766"
+  USD: "7427.29452211"
+supply:
+  SUMO: "10089780.4034"
+change:
+  1h: "-0.47"
+  24h: "1.82"
+  7d: "1.67"
+isMineable: true

@@ -1,0 +1,21 @@
+---
+id: posex
+rank: 1770
+symbol: PEX
+name: PosEx
+marketCap:
+  BTC: "1.12802516878"
+  USD: "12805.2732851"
+price:
+  BTC: "4.598103345e-07"
+  USD: "0.00521973902317"
+volume:
+  BTC: "0.000511279104334"
+  USD: "5.804009376"
+supply:
+  PEX: "2453240.13869"
+change:
+  1h: "0.93"
+  24h: "4.41"
+  7d: "10.79"
+isMineable: true

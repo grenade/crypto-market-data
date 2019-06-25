@@ -1,0 +1,21 @@
+---
+id: nevacoin
+rank: 1710
+symbol: NEVA
+name: NevaCoin
+marketCap:
+  BTC: "2.39407072844"
+  USD: "27177.3456745"
+price:
+  BTC: "6.09748487055e-07"
+  USD: "0.00692182783507"
+volume:
+  BTC: "0.00149389378916"
+  USD: "16.9585916685"
+supply:
+  NEVA: "3926325.0"
+change:
+  1h: "-14.49"
+  24h: "3.55"
+  7d: "11.82"
+isMineable: true

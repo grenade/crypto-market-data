@@ -1,0 +1,21 @@
+---
+id: zenswap-network-token
+rank: 1130
+symbol: ZNT
+name: Zenswap Network Token
+marketCap:
+  BTC: "4.38369853277"
+  USD: "49745.3383641"
+price:
+  BTC: "3.65266612067e-10"
+  USD: "4.14497280654e-06"
+volume:
+  BTC: "1.83971262088"
+  USD: "20876.6926225"
+supply:
+  ZNT: "12001366640.0"
+change:
+  1h: "0.85"
+  24h: "2.07"
+  7d: "-7.94"
+isMineable: false

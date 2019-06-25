@@ -1,0 +1,27 @@
+{
+  "id": "kanadecoin",
+  "rank": 1594,
+  "symbol": "KNDC",
+  "name": "KanadeCoin",
+  "marketCap": {
+    "BTC": "6.05718725087",
+    "USD": "68735.7552251"
+  },
+  "price": {
+    "BTC": "1.10713301002e-09",
+    "USD": "1.25635250202e-05"
+  },
+  "volume": {
+    "BTC": "0.0",
+    "USD": "0.0"
+  },
+  "supply": {
+    "KNDC": "5471056500.03"
+  },
+  "change": {
+    "1h": "0.21",
+    "24h": "52.61",
+    "7d": "52.61"
+  },
+  "isMineable": false
+}

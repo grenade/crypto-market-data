@@ -1,0 +1,21 @@
+---
+id: datum
+rank: 689
+symbol: DAT
+name: Datum
+marketCap:
+  BTC: "189.234310035"
+  USD: "2147393.28273"
+price:
+  BTC: "1.89152005385e-07"
+  USD: "0.00214645930594"
+volume:
+  BTC: "8.22116177666"
+  USD: "93292.1073995"
+supply:
+  DAT: "1000435124.39"
+change:
+  1h: "-2.00"
+  24h: "-2.71"
+  7d: "9.14"
+isMineable: false

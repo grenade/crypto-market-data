@@ -1,0 +1,21 @@
+---
+id: dai
+rank: 89
+symbol: DAI
+name: Dai
+marketCap:
+  BTC: "7642.53434965"
+  USD: "86725958.5347"
+price:
+  BTC: "8.85414964691e-05"
+  USD: "1.00475127753"
+volume:
+  BTC: "1878.93384649"
+  USD: "21321767.2837"
+supply:
+  DAI: "86315847.9857"
+change:
+  1h: "0.31"
+  24h: "1.54"
+  7d: "0.51"
+isMineable: false

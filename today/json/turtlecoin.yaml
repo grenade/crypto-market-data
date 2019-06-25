@@ -1,0 +1,21 @@
+---
+id: turtlecoin
+rank: 499
+symbol: TRTL
+name: TurtleCoin
+marketCap:
+  BTC: "476.614720998"
+  USD: "5408528.98254"
+price:
+  BTC: "1.01679434572e-08"
+  USD: "0.000115383798398"
+volume:
+  BTC: "189.1971449"
+  USD: "2146971.54018"
+supply:
+  TRTL: "46874249744.2"
+change:
+  1h: "0.13"
+  24h: "-0.64"
+  7d: "-11.82"
+isMineable: true

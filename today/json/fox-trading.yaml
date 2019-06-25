@@ -1,0 +1,21 @@
+---
+id: fox-trading
+rank: 1002
+symbol: FOXT
+name: Fox Trading
+marketCap:
+  BTC: "31.0590921268"
+  USD: "352452.395067"
+price:
+  BTC: "3.41107977886e-06"
+  USD: "0.0387082543468"
+volume:
+  BTC: "7.5611915538"
+  USD: "85802.8966791"
+supply:
+  FOXT: "9105354.9434"
+change:
+  1h: "3.11"
+  24h: "9.74"
+  7d: "-14.19"
+isMineable: false

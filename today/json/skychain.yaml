@@ -1,0 +1,21 @@
+---
+id: skychain
+rank: 761
+symbol: SKCH
+name: Skychain
+marketCap:
+  BTC: "137.827255759"
+  USD: "1564036.2635"
+price:
+  BTC: "1.84167138757e-05"
+  USD: "0.20898920317"
+volume:
+  BTC: "0.351306733819"
+  USD: "3986.55888693"
+supply:
+  SKCH: "7483813.70796"
+change:
+  1h: "-19.45"
+  24h: "-27.11"
+  7d: "-17.92"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: pressone
+rank: 232
+symbol: PRS
+name: PressOne
+marketCap:
+  BTC: "1663.75618563"
+  USD: "18879974.0198"
+price:
+  BTC: "5.84301759576e-06"
+  USD: "0.06630540061"
+volume:
+  BTC: "7.57632970929"
+  USD: "85974.6814543"
+supply:
+  PRS: "284742627.993"
+change:
+  1h: "-0.95"
+  24h: "-3.04"
+  7d: "-12.16"
+isMineable: false

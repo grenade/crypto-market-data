@@ -1,0 +1,27 @@
+{
+  "id": "alphacon",
+  "rank": 1900,
+  "symbol": "ALP",
+  "name": "Alphacon",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "8.20045152481e-07",
+    "USD": "0.00930570915839"
+  },
+  "volume": {
+    "BTC": "122.797168508",
+    "USD": "1393477.82515"
+  },
+  "supply": {
+    "ALP": "0"
+  },
+  "change": {
+    "1h": "0.88",
+    "24h": "-6.84",
+    "7d": "4.88"
+  },
+  "isMineable": false
+}

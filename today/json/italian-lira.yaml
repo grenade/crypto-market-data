@@ -1,0 +1,21 @@
+---
+id: italian-lira
+rank: 1152
+symbol: ITL
+name: Italian Lira
+marketCap:
+  BTC: "1.73725277211"
+  USD: "19713.9986535"
+price:
+  BTC: "3.00096026425e-10"
+  USD: "3.40542997304e-06"
+volume:
+  BTC: "7.47139183971"
+  USD: "84783.8673985"
+supply:
+  ITL: "5788989587.11"
+change:
+  1h: "0.93"
+  24h: "-8.14"
+  7d: "-16.20"
+isMineable: false

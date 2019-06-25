@@ -1,0 +1,21 @@
+---
+id: gas
+rank: 159
+symbol: GAS
+name: Gas
+marketCap:
+  BTC: "3211.39125259"
+  USD: "36442228.6992"
+price:
+  BTC: "0.000317068751804"
+  USD: "3.59803308217"
+volume:
+  BTC: "238.411598774"
+  USD: "2705447.36649"
+supply:
+  GAS: "10128375.1058"
+change:
+  1h: "0.70"
+  24h: "4.64"
+  7d: "10.58"
+isMineable: false

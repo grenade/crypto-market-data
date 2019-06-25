@@ -1,0 +1,21 @@
+---
+id: webcoin
+rank: 1056
+symbol: WEB
+name: Webcoin
+marketCap:
+  BTC: "17.9537653277"
+  USD: "203735.755198"
+price:
+  BTC: "4.79481702157e-07"
+  USD: "0.00544106291409"
+volume:
+  BTC: "75.3148582537"
+  USD: "854658.019859"
+supply:
+  WEB: "37444109.4351"
+change:
+  1h: "-0.49"
+  24h: "-6.75"
+  7d: "8.40"
+isMineable: false

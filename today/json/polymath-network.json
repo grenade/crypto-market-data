@@ -1,0 +1,27 @@
+{
+  "id": "polymath-network",
+  "rank": 145,
+  "symbol": "POLY",
+  "name": "Polymath",
+  "marketCap": {
+    "BTC": "3560.44800512",
+    "USD": "40403255.2463"
+  },
+  "price": {
+    "BTC": "8.29730272454e-06",
+    "USD": "0.09415613972"
+  },
+  "volume": {
+    "BTC": "564.223038704",
+    "USD": "6402690.73325"
+  },
+  "supply": {
+    "POLY": "429109088.016"
+  },
+  "change": {
+    "1h": "-0.03",
+    "24h": "0.89",
+    "7d": "-3.97"
+  },
+  "isMineable": false
+}

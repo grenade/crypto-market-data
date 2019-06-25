@@ -1,0 +1,27 @@
+{
+  "id": "mobilinktoken",
+  "rank": 2119,
+  "symbol": "MOLK",
+  "name": "MobilinkToken",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "3.60131287086e-07",
+    "USD": "0.00408669816085"
+  },
+  "volume": {
+    "BTC": "0.0170764252689",
+    "USD": "193.779874848"
+  },
+  "supply": {
+    "MOLK": "0"
+  },
+  "change": {
+    "1h": "1.00",
+    "24h": "2.03",
+    "7d": "99.21"
+  },
+  "isMineable": false
+}

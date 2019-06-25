@@ -1,0 +1,21 @@
+---
+id: te-food
+rank: 651
+symbol: TFD
+name: TE-FOOD
+marketCap:
+  BTC: "239.456196959"
+  USD: "2717301.25875"
+price:
+  BTC: "4.69695563985e-07"
+  USD: "0.00533001176606"
+volume:
+  BTC: "1.23756177196"
+  USD: "14043.6046486"
+supply:
+  TFD: "509811493.485"
+change:
+  1h: "-2.57"
+  24h: "1.94"
+  7d: "-13.83"
+isMineable: false

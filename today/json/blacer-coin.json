@@ -1,0 +1,27 @@
+{
+  "id": "blacer-coin",
+  "rank": 1810,
+  "symbol": "BLCR",
+  "name": "Blacer Coin",
+  "marketCap": {
+    "BTC": "0.613991685301",
+    "USD": "6967.45542827"
+  },
+  "price": {
+    "BTC": "3.73818394586e-06",
+    "USD": "0.0424201673231"
+  },
+  "volume": {
+    "BTC": "0.0",
+    "USD": "0.0"
+  },
+  "supply": {
+    "BLCR": "164248.655014"
+  },
+  "change": {
+    "1h": "-4.61",
+    "24h": "-15.49",
+    "7d": "-15.63"
+  },
+  "isMineable": true
+}

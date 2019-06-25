@@ -1,0 +1,21 @@
+---
+id: buzzcoin
+rank: 1271
+symbol: BUZZ
+name: BuzzCoin
+marketCap:
+  BTC: "80.029174908"
+  USD: "908155.146856"
+price:
+  BTC: "4.0014587454e-09"
+  USD: "4.54077573428e-05"
+volume:
+  BTC: "0.000171923926452"
+  USD: "1.95095849551"
+supply:
+  BUZZ: "20000000000.0"
+change:
+  1h: "1.01"
+  24h: "5.28"
+  7d: "12.33"
+isMineable: true

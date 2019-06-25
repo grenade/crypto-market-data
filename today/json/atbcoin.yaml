@@ -1,0 +1,21 @@
+---
+id: atbcoin
+rank: 936
+symbol: ATB
+name: ATBCoin
+marketCap:
+  BTC: "52.137504059"
+  USD: "591646.017964"
+price:
+  BTC: "1.24024030769e-06"
+  USD: "0.0140740001388"
+volume:
+  BTC: "109.33895221"
+  USD: "1240756.6655"
+supply:
+  ATB: "42038227.3788"
+change:
+  1h: "-0.92"
+  24h: "11.75"
+  7d: "0.72"
+isMineable: true

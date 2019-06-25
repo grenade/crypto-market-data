@@ -1,0 +1,21 @@
+---
+id: plusonecoin
+rank: 2090
+symbol: PLUS1
+name: PlusOneCoin
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "3.10653424159e-06"
+  USD: "0.0352523322104"
+volume:
+  BTC: "0.097182763431"
+  USD: "1102.81065495"
+supply:
+  PLUS1: "0"
+change:
+  1h: "0.49"
+  24h: "5.47"
+  7d: "6.09"
+isMineable: true

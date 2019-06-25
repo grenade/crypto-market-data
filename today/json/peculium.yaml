@@ -1,0 +1,21 @@
+---
+id: peculium
+rank: 632
+symbol: PCL
+name: Peculium
+marketCap:
+  BTC: "255.284757038"
+  USD: "2896920.60782"
+price:
+  BTC: "1.25314496685e-07"
+  USD: "0.00142204396423"
+volume:
+  BTC: "8.16262657139"
+  USD: "92627.8615416"
+supply:
+  PCL: "2037152634.3"
+change:
+  1h: "0.65"
+  24h: "6.30"
+  7d: "-11.00"
+isMineable: false

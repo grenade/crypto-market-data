@@ -1,0 +1,21 @@
+---
+id: pundi-x
+rank: 42
+symbol: NPXS
+name: Pundi X
+marketCap:
+  BTC: "18804.1739038"
+  USD: "213386022.444"
+price:
+  BTC: "7.93036613224e-08"
+  USD: "0.000899922163102"
+volume:
+  BTC: "443.52981134"
+  USD: "5033088.01341"
+supply:
+  NPXS: "2.37116087583e+11"
+change:
+  1h: "-0.55"
+  24h: "-0.61"
+  7d: "4.81"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: penta
+rank: 424
+symbol: PNT
+name: Penta
+marketCap:
+  BTC: "667.765510922"
+  USD: "7577670.09761"
+price:
+  BTC: "3.23583500784e-08"
+  USD: "0.000367196115682"
+volume:
+  BTC: "102.501850744"
+  USD: "1163170.599"
+supply:
+  PNT: "20636574772.9"
+change:
+  1h: "1.84"
+  24h: "-7.08"
+  7d: "45.99"
+isMineable: false

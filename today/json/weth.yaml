@@ -1,0 +1,21 @@
+---
+id: weth
+rank: 1959
+symbol: WETH
+name: WETH
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "0.0234855803581"
+  USD: "266.509691042"
+volume:
+  BTC: "12.8514658512"
+  USD: "145835.876364"
+supply:
+  WETH: "0"
+change:
+  1h: "1.29"
+  24h: "-4.32"
+  7d: "3.00"
+isMineable: false

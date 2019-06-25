@@ -1,0 +1,27 @@
+{
+  "id": "moving-cloud-coin",
+  "rank": 1998,
+  "symbol": "MCC",
+  "name": "Moving Cloud Coin",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "7.8670997479e-07",
+    "USD": "0.0089274281974"
+  },
+  "volume": {
+    "BTC": "5.86862342962",
+    "USD": "66595.9705157"
+  },
+  "supply": {
+    "MCC": "0"
+  },
+  "change": {
+    "1h": "-0.46",
+    "24h": "-10.51",
+    "7d": "-4.85"
+  },
+  "isMineable": false
+}

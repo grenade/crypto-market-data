@@ -1,0 +1,21 @@
+---
+id: flowchain
+rank: 567
+symbol: FLC
+name: Flowchain
+marketCap:
+  BTC: "346.757090936"
+  USD: "3934930.44511"
+price:
+  BTC: "0.000502493346264"
+  USD: "5.70219447089"
+volume:
+  BTC: "52.4810623577"
+  USD: "595544.649153"
+supply:
+  FLC: "690073.0"
+change:
+  1h: "0.19"
+  24h: "1.64"
+  7d: "-0.08"
+isMineable: false

@@ -1,0 +1,27 @@
+{
+  "id": "internet-node-token",
+  "rank": 387,
+  "symbol": "INT",
+  "name": "Internet Node Token",
+  "marketCap": {
+    "BTC": "793.497214985",
+    "USD": "9004448.44811"
+  },
+  "price": {
+    "BTC": "2.80397182891e-06",
+    "USD": "0.0318189141771"
+  },
+  "volume": {
+    "BTC": "188.050194051",
+    "USD": "2133956.17025"
+  },
+  "supply": {
+    "INT": "282990437.637"
+  },
+  "change": {
+    "1h": "2.28",
+    "24h": "4.60",
+    "7d": "-5.10"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,21 @@
+---
+id: nolimitcoin
+rank: 754
+symbol: NLC2
+name: NoLimitCoin
+marketCap:
+  BTC: "141.052858392"
+  USD: "1601223.49159"
+price:
+  BTC: "3.50087475671e-07"
+  USD: "0.003974171786"
+volume:
+  BTC: "5.55286704298"
+  USD: "63035.8098111"
+supply:
+  NLC2: "402907467.975"
+change:
+  1h: "-4.06"
+  24h: "-3.43"
+  7d: "-17.08"
+isMineable: false

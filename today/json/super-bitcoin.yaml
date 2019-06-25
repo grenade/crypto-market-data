@@ -1,0 +1,21 @@
+---
+id: super-bitcoin
+rank: 1907
+symbol: SBTC
+name: Super Bitcoin
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "0.000317668882458"
+  USD: "3.60484324538"
+volume:
+  BTC: "75.6826168887"
+  USD: "858831.271646"
+supply:
+  SBTC: "0"
+change:
+  1h: "6.04"
+  24h: "6.45"
+  7d: "5.30"
+isMineable: true

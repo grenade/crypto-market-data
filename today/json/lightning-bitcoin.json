@@ -1,0 +1,27 @@
+{
+  "id": "lightning-bitcoin",
+  "rank": 246,
+  "symbol": "LBTC",
+  "name": "Lightning Bitcoin",
+  "marketCap": {
+    "BTC": "1552.83784101",
+    "USD": "17621294.7237"
+  },
+  "price": {
+    "BTC": "0.000402205443275",
+    "USD": "4.56414731033"
+  },
+  "volume": {
+    "BTC": "575.144372654",
+    "USD": "6526623.857"
+  },
+  "supply": {
+    "LBTC": "3860807.622"
+  },
+  "change": {
+    "1h": "0.75",
+    "24h": "1.49",
+    "7d": "-7.58"
+  },
+  "isMineable": true
+}

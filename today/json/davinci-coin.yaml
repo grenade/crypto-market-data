@@ -1,0 +1,21 @@
+---
+id: davinci-coin
+rank: 204
+symbol: DAC
+name: Davinci Coin
+marketCap:
+  BTC: "2022.72601111"
+  USD: "22953492.1456"
+price:
+  BTC: "5.61578402881e-07"
+  USD: "0.00637267993236"
+volume:
+  BTC: "24.2878041108"
+  USD: "275613.166503"
+supply:
+  DAC: "3601858619.8"
+change:
+  1h: "-3.44"
+  24h: "7.60"
+  7d: "0.96"
+isMineable: false

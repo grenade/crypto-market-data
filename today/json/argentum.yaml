@@ -1,0 +1,21 @@
+---
+id: argentum
+rank: 1419
+symbol: ARG
+name: Argentum
+marketCap:
+  BTC: "21.020031472"
+  USD: "238618.122104"
+price:
+  BTC: "1.78e-06"
+  USD: "0.0202064520175"
+volume:
+  BTC: "0.006"
+  USD: "68.1116360142"
+supply:
+  ARG: "11809006.445"
+change:
+  1h: "0.95"
+  24h: "5.28"
+  7d: "20.02"
+isMineable: true

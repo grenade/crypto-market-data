@@ -1,0 +1,21 @@
+---
+id: irisnet
+rank: 212
+symbol: IRIS
+name: IRISnet
+marketCap:
+  BTC: "1949.88057833"
+  USD: "22126856.6744"
+price:
+  BTC: "5.95469670988e-06"
+  USD: "0.067572712967"
+volume:
+  BTC: "639.129937872"
+  USD: "7252719.31462"
+supply:
+  IRIS: "327452542.644"
+change:
+  1h: "-0.34"
+  24h: "-1.29"
+  7d: "-5.21"
+isMineable: false

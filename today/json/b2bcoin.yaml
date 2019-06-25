@@ -1,0 +1,21 @@
+---
+id: b2bcoin
+rank: 880
+symbol: BBC
+name: TraDove B2BCoin
+marketCap:
+  BTC: "75.0158607085"
+  USD: "851265.05523"
+price:
+  BTC: "1.50031721417e-07"
+  USD: "0.00170253011046"
+volume:
+  BTC: "50.4709997664"
+  USD: "572734.858975"
+supply:
+  BBC: "500000000.0"
+change:
+  1h: "0.98"
+  24h: "5.27"
+  7d: "32.91"
+isMineable: false

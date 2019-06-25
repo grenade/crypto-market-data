@@ -1,0 +1,27 @@
+{
+  "id": "nucleus-vision",
+  "rank": 300,
+  "symbol": "NCASH",
+  "name": "Nucleus Vision",
+  "marketCap": {
+    "BTC": "1161.9428167",
+    "USD": "13185495.7964"
+  },
+  "price": {
+    "BTC": "1.99386826653e-07",
+    "USD": "0.00226260202043"
+  },
+  "volume": {
+    "BTC": "96.4267907812",
+    "USD": "1094232.0278"
+  },
+  "supply": {
+    "NCASH": "5827580669.21"
+  },
+  "change": {
+    "1h": "-0.16",
+    "24h": "7.34",
+    "7d": "0.66"
+  },
+  "isMineable": false
+}

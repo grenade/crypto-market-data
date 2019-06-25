@@ -1,0 +1,21 @@
+---
+id: romtoken
+rank: 2194
+symbol: ROM
+name: ROMToken
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "7.66550656901e-09"
+  USD: "8.69866427076e-05"
+volume:
+  BTC: "0.0"
+  USD: "0.0"
+supply:
+  ROM: "0"
+change:
+  1h: "-0.41"
+  24h: "-21.92"
+  7d: "-76.30"
+isMineable: false

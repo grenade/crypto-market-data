@@ -1,0 +1,21 @@
+---
+id: golos
+rank: 792
+symbol: GOLOS
+name: Golos
+marketCap:
+  BTC: "116.999497262"
+  USD: "1328171.19523"
+price:
+  BTC: "9.39612422674e-07"
+  USD: "0.0106664232213"
+volume:
+  BTC: "0.0515348406068"
+  USD: "585.020384243"
+supply:
+  GOLOS: "124518891.448"
+change:
+  1h: "-3.02"
+  24h: "-7.23"
+  7d: "7.55"
+isMineable: true

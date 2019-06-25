@@ -1,0 +1,21 @@
+---
+id: virtacoin
+rank: 1733
+symbol: VTA
+name: Virtacoin
+marketCap:
+  BTC: "1.95853499247"
+  USD: "21156.746076"
+price:
+  BTC: "3.76546475761e-10"
+  USD: "4.06758020873e-06"
+volume:
+  BTC: "0.0"
+  USD: "0.0"
+supply:
+  VTA: "5201310113.21"
+change:
+  1h: "0.00"
+  24h: "-0.19"
+  7d: "2.41"
+isMineable: true

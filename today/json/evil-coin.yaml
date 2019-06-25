@@ -1,0 +1,21 @@
+---
+id: evil-coin
+rank: 1572
+symbol: EVIL
+name: Evil Coin
+marketCap:
+  BTC: "7.14398335137"
+  USD: "81098.0656199"
+price:
+  BTC: "3.39859812457e-07"
+  USD: "0.00385806797365"
+volume:
+  BTC: "0.00060868892411"
+  USD: "6.9097997408"
+supply:
+  EVIL: "21020382.7858"
+change:
+  1h: "0.92"
+  24h: "0.33"
+  7d: "13.53"
+isMineable: true

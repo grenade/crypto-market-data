@@ -1,0 +1,21 @@
+---
+id: ether-kingdoms-token
+rank: 1135
+symbol: IMP
+name: Ether Kingdoms Token
+marketCap:
+  BTC: "3.75753592261"
+  USD: "42639.7697031"
+price:
+  BTC: "7.77515510691e-07"
+  USD: "0.00882309124898"
+volume:
+  BTC: "2.95747618358"
+  USD: "33560.8510385"
+supply:
+  IMP: "4832747.21975"
+change:
+  1h: "-9.56"
+  24h: "-16.99"
+  7d: "28.74"
+isMineable: false

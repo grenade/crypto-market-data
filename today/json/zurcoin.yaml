@@ -1,0 +1,21 @@
+---
+id: zurcoin
+rank: 1660
+symbol: ZUR
+name: Zurcoin
+marketCap:
+  BTC: "3.50467572901"
+  USD: "39784.866267"
+price:
+  BTC: "3.99835073478e-08"
+  USD: "0.000453890349841"
+volume:
+  BTC: "0.000103947123228"
+  USD: "1.180001437"
+supply:
+  ZUR: "87653034.0003"
+change:
+  1h: "84.48"
+  24h: "111.55"
+  7d: "-1.16"
+isMineable: true

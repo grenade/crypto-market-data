@@ -1,0 +1,21 @@
+---
+id: flash
+rank: 1223
+symbol: FLASH
+name: Flash
+marketCap:
+  BTC: "225.172902802"
+  USD: "2102685.37547"
+price:
+  BTC: "2.50192114224e-07"
+  USD: "0.00233631708385"
+volume:
+  BTC: "0"
+  USD: "0"
+supply:
+  FLASH: "900000000.0"
+change:
+  1h: "0.00"
+  24h: "0.00"
+  7d: "0.00"
+isMineable: false

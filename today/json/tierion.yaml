@@ -1,0 +1,21 @@
+---
+id: tierion
+rank: 230
+symbol: TNT
+name: Tierion
+marketCap:
+  BTC: "1677.16772381"
+  USD: "19032165.4855"
+price:
+  BTC: "3.9142147935e-06"
+  USD: "0.0444177303427"
+volume:
+  BTC: "178.073166907"
+  USD: "2020738.85216"
+supply:
+  TNT: "428481269.499"
+change:
+  1h: "0.89"
+  24h: "-4.19"
+  7d: "36.66"
+isMineable: false

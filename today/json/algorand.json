@@ -1,0 +1,26 @@
+{
+  "id": "algorand",
+  "rank": 1853,
+  "symbol": "ALGO",
+  "name": "Algorand",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "0.00011853300022",
+    "USD": "1.34508889222"
+  },
+  "volume": {
+    "BTC": "16266.4529154",
+    "USD": "184588469.807"
+  },
+  "supply": {
+    "ALGO": "0"
+  },
+  "change": {
+    "1h": "-3.68",
+    "24h": "-20.60"
+  },
+  "isMineable": true
+}

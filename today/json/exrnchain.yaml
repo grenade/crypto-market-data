@@ -1,0 +1,21 @@
+---
+id: exrnchain
+rank: 726
+symbol: EXRN
+name: EXRNchain
+marketCap:
+  BTC: "164.994895223"
+  USD: "1872329.22836"
+price:
+  BTC: "1.78372859701e-09"
+  USD: "2.02413970634e-05"
+volume:
+  BTC: "11.3618715481"
+  USD: "128932.25672"
+supply:
+  EXRN: "92500000000.0"
+change:
+  1h: "1.80"
+  24h: "-0.41"
+  7d: "15.25"
+isMineable: false

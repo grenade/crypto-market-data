@@ -1,0 +1,27 @@
+{
+  "id": "savenode",
+  "rank": 2161,
+  "symbol": "SNO",
+  "name": "SaveNode",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "3.00109405905e-08",
+    "USD": "0.000340558180071"
+  },
+  "volume": {
+    "BTC": "6.0021881181e-06",
+    "USD": "0.0681116360142"
+  },
+  "supply": {
+    "SNO": "0"
+  },
+  "change": {
+    "1h": "1.01",
+    "24h": "-21.03",
+    "7d": "-26.22"
+  },
+  "isMineable": true
+}

@@ -1,0 +1,21 @@
+---
+id: everycoin
+rank: 516
+symbol: EVY
+name: "EveryCoin "
+marketCap:
+  BTC: "428.066765158"
+  USD: "4857616.44329"
+price:
+  BTC: "4.56361156885e-08"
+  USD: "0.000517869556854"
+volume:
+  BTC: "55.0279454716"
+  USD: "624446.171767"
+supply:
+  EVY: "9380000000.0"
+change:
+  1h: "1.61"
+  24h: "5.68"
+  7d: "-1.78"
+isMineable: false

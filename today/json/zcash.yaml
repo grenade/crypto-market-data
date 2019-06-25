@@ -1,0 +1,21 @@
+---
+id: zcash
+rank: 23
+symbol: ZEC
+name: Zcash
+marketCap:
+  BTC: "64656.8983946"
+  USD: "733713612.869"
+price:
+  BTC: "0.00946789390495"
+  USD: "107.439775426"
+volume:
+  BTC: "28738.290113"
+  USD: "326116395.776"
+supply:
+  ZEC: "6829068.75"
+change:
+  1h: "-0.75"
+  24h: "-0.72"
+  7d: "3.08"
+isMineable: true

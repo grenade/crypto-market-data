@@ -1,0 +1,21 @@
+---
+id: ethereum
+rank: 2
+symbol: ETH
+name: Ethereum
+marketCap:
+  BTC: "2954690.13419"
+  USD: "33529235504.6"
+price:
+  BTC: "0.0277091706765"
+  USD: "314.43815326"
+volume:
+  BTC: "729889.789577"
+  USD: "8282644045.8"
+supply:
+  ETH: "106632210.999"
+change:
+  1h: "0.32"
+  24h: "2.52"
+  7d: "16.24"
+isMineable: true

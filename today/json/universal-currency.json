@@ -1,0 +1,27 @@
+{
+  "id": "universal-currency",
+  "rank": 1551,
+  "symbol": "UNIT",
+  "name": "Universal Currency",
+  "marketCap": {
+    "BTC": "24.5597680441",
+    "USD": "100052.770143"
+  },
+  "price": {
+    "BTC": "1.53988332951e-06",
+    "USD": "0.00627325113731"
+  },
+  "volume": {
+    "BTC": "0",
+    "USD": "0"
+  },
+  "supply": {
+    "UNIT": "15949109.6328"
+  },
+  "change": {
+    "1h": "0.00",
+    "24h": "0.00",
+    "7d": "0.00"
+  },
+  "isMineable": true
+}

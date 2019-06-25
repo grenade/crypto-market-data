@@ -1,0 +1,21 @@
+---
+id: tcash
+rank: 2044
+symbol: TCASH
+name: TCASH
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "1.75372412404e-06"
+  USD: "0.0199009122766"
+volume:
+  BTC: "1.274776016"
+  USD: "14465.9044824"
+supply:
+  TCASH: "0"
+change:
+  1h: "0.94"
+  24h: "13.17"
+  7d: "-16.06"
+isMineable: false

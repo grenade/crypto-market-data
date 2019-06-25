@@ -1,0 +1,21 @@
+---
+id: carblock
+rank: 1949
+symbol: CAR
+name: CarBlock
+marketCap:
+  BTC: ""
+  USD: ""
+price:
+  BTC: "1.64686035241e-07"
+  USD: "0.00186882434676"
+volume:
+  BTC: "18.1804284002"
+  USD: "206307.882628"
+supply:
+  CAR: "0"
+change:
+  1h: "-0.80"
+  24h: "-8.37"
+  7d: "3.89"
+isMineable: false

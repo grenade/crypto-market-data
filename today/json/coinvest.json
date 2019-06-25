@@ -1,0 +1,27 @@
+{
+  "id": "coinvest",
+  "rank": 1319,
+  "symbol": "COIN",
+  "name": "Coinvest",
+  "marketCap": {
+    "BTC": "50.9428835676",
+    "USD": "555491.532569"
+  },
+  "price": {
+    "BTC": "4.31688447795e-06",
+    "USD": "0.0470721837212"
+  },
+  "volume": {
+    "BTC": "0.0",
+    "USD": "0.0"
+  },
+  "supply": {
+    "COIN": "11800844.7592"
+  },
+  "change": {
+    "1h": "0.00",
+    "24h": "0.81",
+    "7d": "-3.50"
+  },
+  "isMineable": false
+}

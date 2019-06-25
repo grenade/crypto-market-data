@@ -1,0 +1,21 @@
+---
+id: ttc
+rank: 218
+symbol: TTC
+name: TTC
+marketCap:
+  BTC: "1869.82392629"
+  USD: "21218389.7226"
+price:
+  BTC: "9.36370924882e-06"
+  USD: "0.106257508687"
+volume:
+  BTC: "165.322877212"
+  USD: "1876051.10269"
+supply:
+  TTC: "199688379.53"
+change:
+  1h: "-0.69"
+  24h: "-7.07"
+  7d: "-0.61"
+isMineable: false

@@ -1,0 +1,21 @@
+---
+id: engagement-token
+rank: 1086
+symbol: ENGT
+name: Engagement Token
+marketCap:
+  BTC: "12.5314520499"
+  USD: "142204.423447"
+price:
+  BTC: "3.01776492062e-08"
+  USD: "0.000342449956259"
+volume:
+  BTC: "3.32492574135"
+  USD: "37730.5954784"
+supply:
+  ENGT: "415256071.282"
+change:
+  1h: "0.29"
+  24h: "1.68"
+  7d: "32.03"
+isMineable: false

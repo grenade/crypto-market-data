@@ -1,0 +1,21 @@
+---
+id: songcoin
+rank: 1804
+symbol: SONG
+name: SongCoin
+marketCap:
+  BTC: "0.651037455917"
+  USD: "7390.53770482"
+price:
+  BTC: "1.99917536739e-08"
+  USD: "0.00022694517492"
+volume:
+  BTC: "0.00157059215213"
+  USD: "17.8292668321"
+supply:
+  SONG: "32565300.0"
+change:
+  1h: "0.92"
+  24h: "5.24"
+  7d: "23.50"
+isMineable: true

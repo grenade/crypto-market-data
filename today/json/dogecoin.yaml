@@ -1,0 +1,21 @@
+---
+id: dogecoin
+rank: 31
+symbol: DOGE
+name: Dogecoin
+marketCap:
+  BTC: "35805.610579"
+  USD: "406314941.657"
+price:
+  BTC: "2.98180618947e-07"
+  USD: "0.00338369431024"
+volume:
+  BTC: "3652.73530462"
+  USD: "41450513.151"
+supply:
+  DOGE: "1.20080274518e+11"
+change:
+  1h: "0.32"
+  24h: "3.01"
+  7d: "6.82"
+isMineable: true

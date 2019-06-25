@@ -1,0 +1,27 @@
+{
+  "id": "btcmoon",
+  "rank": 2153,
+  "symbol": "BTCM",
+  "name": "BTCMoon",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "1.69800747796e-07",
+    "USD": "0.00192686508674"
+  },
+  "volume": {
+    "BTC": "0.000108959180235",
+    "USD": "1.23644708872"
+  },
+  "supply": {
+    "BTCM": "0"
+  },
+  "change": {
+    "1h": "0.93",
+    "24h": "1.77",
+    "7d": "48.06"
+  },
+  "isMineable": false
+}

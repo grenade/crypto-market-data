@@ -1,0 +1,21 @@
+---
+id: veriblock
+rank: 252
+symbol: VBK
+name: VeriBlock
+marketCap:
+  BTC: "1463.71842361"
+  USD: "16609985.3144"
+price:
+  BTC: "3.09112688082e-06"
+  USD: "0.0350774925473"
+volume:
+  BTC: "65.356407773"
+  USD: "741651.506057"
+supply:
+  VBK: "473522595.495"
+change:
+  1h: "-0.77"
+  24h: "-7.68"
+  7d: "7.02"
+isMineable: true

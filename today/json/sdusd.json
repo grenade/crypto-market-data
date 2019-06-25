@@ -1,0 +1,27 @@
+{
+  "id": "sdusd",
+  "rank": 2053,
+  "symbol": "SDUSD",
+  "name": "SDUSD",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "8.70336558875e-05",
+    "USD": "0.987640602753"
+  },
+  "volume": {
+    "BTC": "0.898931756171",
+    "USD": "10200.8986345"
+  },
+  "supply": {
+    "SDUSD": "0"
+  },
+  "change": {
+    "1h": "0.23",
+    "24h": "-1.05",
+    "7d": "3.82"
+  },
+  "isMineable": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": "bitibu-coin",
+  "rank": 1495,
+  "symbol": "BTB",
+  "name": "Bitibu Coin",
+  "marketCap": {
+    "BTC": "13.4289449847",
+    "USD": "152388.994622"
+  },
+  "price": {
+    "BTC": "3.15798908504e-06",
+    "USD": "0.0358362315317"
+  },
+  "volume": {
+    "BTC": "0.0",
+    "USD": "0.0"
+  },
+  "supply": {
+    "BTB": "4252372.19732"
+  },
+  "change": {
+    "1h": "0.40",
+    "24h": "-2.37",
+    "7d": "-4.58"
+  },
+  "isMineable": false
+}

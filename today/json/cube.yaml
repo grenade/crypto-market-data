@@ -1,0 +1,21 @@
+---
+id: cube
+rank: 310
+symbol: AUTO
+name: Cube
+marketCap:
+  BTC: "1078.36414442"
+  USD: "12237061.6598"
+price:
+  BTC: "1.59169549017e-07"
+  USD: "0.00180622435916"
+volume:
+  BTC: "48.0263847729"
+  USD: "544993.854636"
+supply:
+  AUTO: "6774940000.0"
+change:
+  1h: "-2.28"
+  24h: "2.32"
+  7d: "-2.55"
+isMineable: false

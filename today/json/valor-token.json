@@ -1,0 +1,27 @@
+{
+  "id": "valor-token",
+  "rank": 1929,
+  "symbol": "VALOR",
+  "name": "Valor Token",
+  "marketCap": {
+    "BTC": "",
+    "USD": ""
+  },
+  "price": {
+    "BTC": "0.000278334399792",
+    "USD": "3.1584833657"
+  },
+  "volume": {
+    "BTC": "40.2279507211",
+    "USD": "456498.777313"
+  },
+  "supply": {
+    "VALOR": "0"
+  },
+  "change": {
+    "1h": "0.68",
+    "24h": "0.79",
+    "7d": "-10.75"
+  },
+  "isMineable": false
+}
