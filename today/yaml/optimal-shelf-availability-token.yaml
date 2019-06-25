@@ -1,21 +1,21 @@
 ---
 id: optimal-shelf-availability-token
-rank: 598
+rank: 605
 symbol: OSA
 name: Optimal Shelf Availability Token
 marketCap:
-  BTC: "300.921302052"
-  USD: "3414795.03657"
+  BTC: "290.579707834"
+  USD: "3289408.65022"
 price:
-  BTC: "2.16521826841e-07"
-  USD: "0.0024570465918"
+  BTC: "2.09080742221e-07"
+  USD: "0.00236682735757"
 volume:
-  BTC: "6.85132464055"
-  USD: "77747.4682482"
+  BTC: "6.57931497109"
+  USD: "74478.8951013"
 supply:
   OSA: "1389796615.16"
 change:
-  1h: "1.38"
-  24h: "4.41"
-  7d: "0.22"
+  1h: "-3.21"
+  24h: "0.70"
+  7d: "-3.30"
 isMineable: false

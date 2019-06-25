@@ -1,11 +1,11 @@
 ---
 id: thunderstake
-rank: 1583
+rank: 1579
 symbol: TSC
 name: Thunderstake
 marketCap:
-  BTC: "8.39326821469"
-  USD: "77501.6594072"
+  BTC: "8.39360829683"
+  USD: "77504.7996536"
 price:
   BTC: "1.00024160387e-08"
   USD: "9.23601892912e-05"
@@ -13,9 +13,9 @@ volume:
   BTC: "0"
   USD: "0"
 supply:
-  TSC: "839124085.842"
+  TSC: "839158085.842"
 change:
   1h: "0.00"
   24h: "0.00"
-  7d: "0.64"
+  7d: "0.65"
 isMineable: true

@@ -1,21 +1,21 @@
 ---
 id: bitcapitalvendor
-rank: 318
+rank: 329
 symbol: BCV
 name: BitCapitalVendor
 marketCap:
-  BTC: "1012.44877073"
-  USD: "11489067.1199"
+  BTC: "986.764442306"
+  USD: "11170330.91"
 price:
-  BTC: "1.20671293357e-06"
-  USD: "0.013693538171"
+  BTC: "1.17610041055e-06"
+  USD: "0.0133136442762"
 volume:
-  BTC: "8.10173422786"
-  USD: "91936.867348"
+  BTC: "8.03966680168"
+  USD: "91010.3108004"
 supply:
   BCV: "839013772.51"
 change:
-  1h: "-1.79"
-  24h: "-1.24"
-  7d: "3.24"
+  1h: "-4.31"
+  24h: "-3.72"
+  7d: "0.27"
 isMineable: false

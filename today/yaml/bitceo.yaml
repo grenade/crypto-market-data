@@ -1,21 +1,21 @@
 ---
 id: bitceo
-rank: 1993
+rank: 1995
 symbol: BCEO
 name: bitCEO
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.00974876733e-05"
-  USD: "0.228062289664"
+  BTC: "2.01436635573e-05"
+  USD: "0.22802948508"
 volume:
-  BTC: "6.61726697183"
-  USD: "75091.4284134"
+  BTC: "6.34615580363"
+  USD: "71839.4961287"
 supply:
   BCEO: "0"
 change:
-  1h: "0.19"
-  24h: "0.09"
-  7d: "14.13"
+  1h: "0.23"
+  24h: "0.32"
+  7d: "14.33"
 isMineable: false

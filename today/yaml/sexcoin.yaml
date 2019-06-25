@@ -1,6 +1,6 @@
 ---
 id: sexcoin
-rank: 2135
+rank: 2137
 symbol: SXC
 name: Sexcoin
 marketCap:
@@ -8,14 +8,14 @@ marketCap:
   USD: ""
 price:
   BTC: "8.7e-07"
-  USD: "0.00987618722205"
+  USD: "0.00982998977298"
 volume:
   BTC: "0.00383246485229"
-  USD: "43.5059085094"
+  USD: "43.3024026475"
 supply:
   SXC: "0"
 change:
-  1h: "0.95"
-  24h: "6.51"
-  7d: "-3.19"
+  1h: "0.12"
+  24h: "5.96"
+  7d: "-3.72"
 isMineable: true

@@ -1,21 +1,21 @@
 ---
 id: mobilinktoken
-rank: 2119
+rank: 2118
 symbol: MOLK
 name: MobilinkToken
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "3.60131287086e-07"
-  USD: "0.00408669816085"
+  BTC: "3.59321965612e-07"
+  USD: "0.00406758197503"
 volume:
-  BTC: "0.0170764252689"
-  USD: "193.779874848"
+  BTC: "0.0170380494927"
+  USD: "192.873438417"
 supply:
   MOLK: "0"
 change:
-  1h: "1.00"
-  24h: "2.03"
-  7d: "99.21"
+  1h: "0.08"
+  24h: "-0.41"
+  7d: "98.45"
 isMineable: false

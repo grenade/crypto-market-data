@@ -1,21 +1,21 @@
 ---
 id: morpheus-labs
-rank: 533
+rank: 519
 symbol: MITX
 name: Morpheus Labs
 marketCap:
-  BTC: "402.047486182"
-  USD: "4562354.84467"
+  BTC: "423.252787141"
+  USD: "4791289.07392"
 price:
-  BTC: "1.95569994675e-06"
-  USD: "0.0221928937089"
+  BTC: "2.05884996604e-06"
+  USD: "0.0233065100735"
 volume:
-  BTC: "9.08706982178"
-  USD: "103118.259534"
+  BTC: "9.12820837479"
+  USD: "103332.775068"
 supply:
   MITX: "205577285.437"
 change:
-  1h: "-8.44"
-  24h: "20.56"
-  7d: "19.78"
+  1h: "2.64"
+  24h: "26.55"
+  7d: "25.79"
 isMineable: false

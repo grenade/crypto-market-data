@@ -1,21 +1,21 @@
 ---
 id: haven-protocol
-rank: 662
+rank: 663
 symbol: XHV
 name: Haven Protocol
 marketCap:
-  BTC: "223.361566311"
-  USD: "2534662.59383"
+  BTC: "221.802010041"
+  USD: "2510834.13877"
 price:
-  BTC: "2.84569624815e-05"
-  USD: "0.322923945813"
+  BTC: "2.82582701327e-05"
+  USD: "0.319888126075"
 volume:
-  BTC: "48.7062723346"
-  USD: "552709.083353"
+  BTC: "49.817977775"
+  USD: "563947.456106"
 supply:
   XHV: "7849100.77651"
 change:
-  1h: "-2.84"
-  24h: "-13.08"
-  7d: "-31.39"
+  1h: "-1.38"
+  24h: "-13.96"
+  7d: "-32.05"
 isMineable: false

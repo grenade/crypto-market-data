@@ -1,21 +1,21 @@
 ---
 id: mustangcoin
-rank: 1675
+rank: 1674
 symbol: MST
 name: MustangCoin
 marketCap:
-  BTC: "3.13151421408"
-  USD: "35548.7593871"
+  BTC: "3.13280592104"
+  USD: "35397.0691547"
 price:
-  BTC: "4.96795078797e-06"
-  USD: "0.0563958759677"
+  BTC: "4.97e-06"
+  USD: "0.056155228933"
 volume:
-  BTC: "0.000208653933095"
-  USD: "2.36862679064"
+  BTC: "0.00020874"
+  USD: "2.35851961519"
 supply:
   MST: "630343.24367"
 change:
-  1h: "0.93"
-  24h: "9.20"
-  7d: "98.16"
+  1h: "0.07"
+  24h: "8.68"
+  7d: "96.39"
 isMineable: true

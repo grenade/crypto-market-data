@@ -1,21 +1,21 @@
 ---
 id: eternal-token
-rank: 2000
+rank: 2001
 symbol: XET
 name: ETERNAL TOKEN
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.000179308173832"
-  USD: "2.03475346492"
+  BTC: "0.000179274577851"
+  USD: "2.02941682177"
 volume:
-  BTC: "5.8362298422"
-  USD: "66228.3745337"
+  BTC: "5.8353456769"
+  USD: "66057.0440023"
 supply:
   XET: "0"
 change:
-  1h: "-3.14"
-  24h: "0.18"
-  7d: "-16.54"
+  1h: "-3.28"
+  24h: "-0.10"
+  7d: "-16.74"
 isMineable: false

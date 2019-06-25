@@ -1,21 +1,21 @@
 ---
 id: japan-content-token
-rank: 135
+rank: 136
 symbol: JCT
 name: Japan Content Token
 marketCap:
-  BTC: "3777.34511227"
-  USD: "42864560.4445"
+  BTC: "3773.61259312"
+  USD: "42717896.5763"
 price:
-  BTC: "1.28853318471e-05"
-  USD: "0.146220180945"
+  BTC: "1.28725994262e-05"
+  USD: "0.145719879131"
 volume:
-  BTC: "46.2605983526"
-  USD: "524956.061822"
+  BTC: "46.2013082752"
+  USD: "523006.180385"
 supply:
   JCT: "293150782.385"
 change:
-  1h: "0.73"
-  24h: "-13.28"
-  7d: "-15.06"
+  1h: "0.06"
+  24h: "-11.88"
+  7d: "-14.92"
 isMineable: false

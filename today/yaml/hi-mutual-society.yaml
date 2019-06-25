@@ -1,21 +1,21 @@
 ---
 id: hi-mutual-society
-rank: 528
+rank: 531
 symbol: HMC
 name: Hi Mutual Society
 marketCap:
-  BTC: "408.803236094"
-  USD: "4639017.74992"
+  BTC: "403.075695725"
+  USD: "4562881.18014"
 price:
-  BTC: "1.01163879261e-06"
-  USD: "0.0114798756494"
+  BTC: "9.974652208e-07"
+  USD: "0.0112914654297"
 volume:
-  BTC: "20.0331383734"
-  USD: "227332.066617"
+  BTC: "19.7013206841"
+  USD: "223022.093187"
 supply:
   HMC: "404100000.0"
 change:
-  1h: "0.96"
-  24h: "5.50"
-  7d: "21.68"
+  1h: "-1.25"
+  24h: "3.79"
+  7d: "19.95"
 isMineable: false

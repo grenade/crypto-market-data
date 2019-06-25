@@ -1,21 +1,21 @@
 ---
 id: globalvillage-ecosystem
-rank: 1999
+rank: 1993
 symbol: GVE
 name: Globalvillage Ecosystem
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "5.22419277932e-08"
-  USD: "0.000592830997715"
+  BTC: "5.4955485334e-08"
+  USD: "0.000622104861284"
 volume:
-  BTC: "5.83940954547"
-  USD: "66264.4571734"
+  BTC: "6.89245377362"
+  USD: "78023.6763025"
 supply:
   GVE: "0"
 change:
-  1h: "-12.21"
-  24h: "-12.38"
-  7d: "-8.31"
+  1h: "-5.04"
+  24h: "-6.97"
+  7d: "-3.54"
 isMineable: false

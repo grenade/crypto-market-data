@@ -1,21 +1,21 @@
 ---
 id: abyss-token
-rank: 416
+rank: 418
 symbol: ABYSS
 name: Abyss Token
 marketCap:
-  BTC: "701.832943262"
-  USD: "7964260.53859"
+  BTC: "703.511097924"
+  USD: "7963857.8629"
 price:
-  BTC: "3.07772565654e-06"
-  USD: "0.0349254181217"
+  BTC: "3.08508481474e-06"
+  USD: "0.0349236522808"
 volume:
-  BTC: "122.875417716"
-  USD: "1394365.7816"
+  BTC: "123.868850356"
+  USD: "1402215.1474"
 supply:
   ABYSS: "228036225.961"
 change:
-  1h: "0.06"
-  24h: "1.59"
-  7d: "-1.59"
+  1h: "0.15"
+  24h: "1.57"
+  7d: "-1.50"
 isMineable: false

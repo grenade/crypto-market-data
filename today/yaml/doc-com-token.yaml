@@ -1,21 +1,21 @@
 ---
 id: doc-com-token
-rank: 474
+rank: 476
 symbol: MTC
 name: doc.com Token
 marketCap:
-  BTC: "531.629171427"
-  USD: "6032822.0153"
+  BTC: "530.476981202"
+  USD: "6005084.05665"
 price:
-  BTC: "7.70680730332e-07"
-  USD: "0.00874553152196"
+  BTC: "7.69010448014e-07"
+  USD: "0.00870532095532"
 volume:
-  BTC: "4.24191534809"
-  USD: "48136.4110066"
+  BTC: "4.2331783655"
+  USD: "47920.254436"
 supply:
   MTC: "689817651.466"
 change:
   1h: "-2.40"
-  24h: "-5.28"
-  7d: "19.22"
+  24h: "-5.82"
+  7d: "18.77"
 isMineable: false

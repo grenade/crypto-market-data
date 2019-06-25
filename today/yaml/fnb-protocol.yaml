@@ -1,21 +1,21 @@
 ---
 id: fnb-protocol
-rank: 1953
+rank: 1943
 symbol: FNB
 name: FNB Protocol
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.90069290406e-05"
-  USD: "0.215686847378"
+  BTC: "1.89642148517e-05"
+  USD: "0.214677937571"
 volume:
-  BTC: "16.0863024663"
-  USD: "182544.15837"
+  BTC: "25.5059653307"
+  USD: "288731.596629"
 supply:
   FNB: "0"
 change:
-  1h: "21.38"
-  24h: "-1.43"
-  7d: "-5.76"
+  1h: "15.88"
+  24h: "-2.84"
+  7d: "-5.91"
 isMineable: false

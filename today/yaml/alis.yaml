@@ -1,21 +1,21 @@
 ---
 id: alis
-rank: 1229
+rank: 1230
 symbol: ALIS
 name: ALIS
 marketCap:
-  BTC: "159.183278054"
-  USD: "1806380.15355"
+  BTC: "158.866057128"
+  USD: "1795001.97338"
 price:
-  BTC: "4.04147333285e-06"
-  USD: "0.0458618349162"
+  BTC: "4.03341947235e-06"
+  USD: "0.0455729565096"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   ALIS: "39387437.4379"
 change:
-  1h: "1.01"
-  24h: "-10.71"
-  7d: "-20.14"
+  1h: "-0.09"
+  24h: "-11.31"
+  7d: "-20.94"
 isMineable: false

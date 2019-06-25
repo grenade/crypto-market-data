@@ -1,21 +1,21 @@
 ---
 id: master-swiscoin
-rank: 1713
+rank: 1711
 symbol: MSCN
 name: Master Swiscoin
 marketCap:
-  BTC: "2.25623534916"
-  USD: "25612.6468107"
+  BTC: "2.25716601551"
+  USD: "25503.3549981"
 price:
-  BTC: "4.99793841848e-08"
-  USD: "0.000567362937301"
+  BTC: "5e-08"
+  USD: "0.000564941940976"
 volume:
-  BTC: "0.0112554542772"
-  USD: "127.771234151"
+  BTC: "0.0112600969988"
+  USD: "127.226021082"
 supply:
   MSCN: "45143320.3102"
 change:
-  1h: "0.93"
-  24h: "-12.30"
-  7d: "22.92"
+  1h: "0.07"
+  24h: "-12.72"
+  7d: "22.49"
 isMineable: false

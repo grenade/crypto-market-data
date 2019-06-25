@@ -1,21 +1,21 @@
 ---
 id: experience-token
-rank: 2052
+rank: 2051
 symbol: EXT
 name: Experience Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "5.10853965712e-09"
-  USD: "5.79706911619e-05"
+  BTC: "5.11922164684e-09"
+  USD: "5.79504057354e-05"
 volume:
-  BTC: "0.922258274782"
-  USD: "10465.6033245"
+  BTC: "0.930080997058"
+  USD: "10528.6652668"
 supply:
   EXT: "0"
 change:
-  1h: "-0.89"
-  24h: "2.23"
+  1h: "-1.26"
+  24h: "1.64"
   7d: "7.03"
 isMineable: false

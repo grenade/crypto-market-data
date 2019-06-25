@@ -1,21 +1,21 @@
 ---
 id: maggie
-rank: 1995
+rank: 1989
 symbol: MAG
 name: Maggie
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "6.0021881181e-08"
-  USD: "0.000681116360142"
+  BTC: "5.98869942686e-08"
+  USD: "0.000677930329171"
 volume:
-  BTC: "6.53342390191"
-  USD: "74139.9939451"
+  BTC: "7.40260926325"
+  USD: "83798.7178325"
 supply:
   MAG: "0"
 change:
-  1h: "1.01"
-  24h: "-9.76"
-  7d: "-7.78"
+  1h: "0.07"
+  24h: "-10.21"
+  7d: "-8.14"
 isMineable: false

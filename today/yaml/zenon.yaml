@@ -1,21 +1,21 @@
 ---
 id: zenon
-rank: 2051
+rank: 2119
 symbol: ZNN
 name: Zenon
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.000151225129635"
-  USD: "1.71607266938"
+  BTC: "0.00015088528206"
+  USD: "1.70804546435"
 volume:
-  BTC: "0.954897417953"
-  USD: "10835.9858243"
+  BTC: "0.0163282830679"
+  USD: "184.838769255"
 supply:
   ZNN: "0"
 change:
-  1h: "1.00"
-  24h: "-2.94"
-  7d: "32.34"
+  1h: "0.08"
+  24h: "-3.78"
+  7d: "31.83"
 isMineable: true

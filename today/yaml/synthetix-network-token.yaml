@@ -1,21 +1,21 @@
 ---
 id: synthetix-network-token
-rank: 154
+rank: 155
 symbol: SNX
 name: Synthetix Network Token
 marketCap:
-  BTC: "3306.25415479"
-  USD: "37518714.0307"
+  BTC: "3306.25037198"
+  USD: "37427281.6723"
 price:
-  BTC: "2.96766305541e-05"
-  USD: "0.336764496323"
+  BTC: "2.96765966e-05"
+  USD: "0.335943807957"
 volume:
-  BTC: "16.4012495075"
-  USD: "186118.114702"
+  BTC: "16.2604598145"
+  USD: "184070.999206"
 supply:
   SNX: "111409351.165"
 change:
-  1h: "-0.01"
-  24h: "-4.56"
-  7d: "43.46"
+  1h: "-0.32"
+  24h: "-5.16"
+  7d: "43.18"
 isMineable: false

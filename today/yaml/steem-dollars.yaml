@@ -1,21 +1,21 @@
 ---
 id: steem-dollars
-rank: 377
+rank: 379
 symbol: SBD
 name: Steem Dollars
 marketCap:
-  BTC: "822.004305419"
-  USD: "9331343.0088"
+  BTC: "816.379039699"
+  USD: "9224135.18523"
 price:
-  BTC: "9.13646463982e-05"
-  USD: "1.03716592334"
+  BTC: "9.07387265331e-05"
+  USD: "1.02524224579"
 volume:
-  BTC: "8.13687620495"
-  USD: "92369.3250607"
+  BTC: "8.52978604419"
+  USD: "96376.6776783"
 supply:
-  SBD: "8996962.587"
+  SBD: "8997029.944"
 change:
-  1h: "0.03"
-  24h: "0.95"
-  7d: "1.84"
+  1h: "-1.43"
+  24h: "-0.24"
+  7d: "0.68"
 isMineable: false

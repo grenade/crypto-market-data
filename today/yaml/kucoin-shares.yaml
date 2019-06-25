@@ -1,21 +1,21 @@
 ---
 id: kucoin-shares
-rank: 63
+rank: 64
 symbol: KCS
 name: KuCoin Shares
 marketCap:
-  BTC: "13231.2668379"
-  USD: "150145782.361"
+  BTC: "13093.9924456"
+  USD: "147946910.147"
 price:
-  BTC: "0.00014757253143"
-  USD: "1.674623712"
+  BTC: "0.000146041466429"
+  USD: "1.65009899015"
 volume:
-  BTC: "2116.94467465"
-  USD: "24022666.785"
+  BTC: "2000.87837016"
+  USD: "22607602.2019"
 supply:
   KCS: "89659414.9987"
 change:
-  1h: "1.03"
-  24h: "-1.82"
-  7d: "3.08"
+  1h: "-0.77"
+  24h: "-4.13"
+  7d: "1.56"
 isMineable: false

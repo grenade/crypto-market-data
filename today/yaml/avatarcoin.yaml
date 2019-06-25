@@ -1,21 +1,21 @@
 ---
 id: avatarcoin
-rank: 2141
+rank: 2142
 symbol: AV
 name: AvatarCoin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.0055852098e-05"
-  USD: "0.114153422985"
+  BTC: "1.006e-05"
+  USD: "0.113666318524"
 volume:
-  BTC: "0.00191088178729"
-  USD: "21.692214127"
+  BTC: "0.00191167"
+  USD: "21.5996512061"
 supply:
   AV: "0"
 change:
-  1h: "0.93"
-  24h: "-0.02"
-  7d: "18.55"
+  1h: "0.07"
+  24h: "-0.50"
+  7d: "18.05"
 isMineable: false

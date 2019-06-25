@@ -1,21 +1,21 @@
 ---
 id: quanta-utility-token
-rank: 430
+rank: 432
 symbol: QNTU
 name: Quanta Utility Token
 marketCap:
-  BTC: "636.706617778"
-  USD: "7225219.96056"
+  BTC: "642.446941822"
+  USD: "7272601.87398"
 price:
-  BTC: "2.17457547306e-08"
-  USD: "0.000246766496138"
+  BTC: "2.19418068451e-08"
+  USD: "0.000248384753965"
 volume:
-  BTC: "11.080377699"
-  USD: "125737.920552"
+  BTC: "11.1794697362"
+  USD: "126553.380926"
 supply:
   QNTU: "29279582413.5"
 change:
-  1h: "-1.38"
-  24h: "3.12"
-  7d: "-24.07"
+  1h: "0.93"
+  24h: "3.82"
+  7d: "-23.15"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: gamb
-rank: 2012
+rank: 2013
 symbol: GMB
 name: GAMB
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.89526446759e-08"
-  USD: "0.000328548848688"
+  BTC: "2.8958248309e-08"
+  USD: "0.000327811990702"
 volume:
-  BTC: "4.28108197092"
-  USD: "48580.8660464"
+  BTC: "4.18420450599"
+  USD: "47365.8625334"
 supply:
   GMB: "0"
 change:
-  1h: "-1.26"
-  24h: "26.37"
-  7d: "31.54"
+  1h: "-1.22"
+  24h: "20.40"
+  7d: "31.38"
 isMineable: false

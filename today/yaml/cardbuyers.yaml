@@ -1,21 +1,21 @@
 ---
 id: cardbuyers
-rank: 2158
+rank: 2159
 symbol: BCARD
 name: CARDbuyers
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.0007293727e-08"
-  USD: "0.000227038786714"
+  BTC: "1.99623314229e-08"
+  USD: "0.00022597677639"
 volume:
-  BTC: "2.70338552839e-05"
-  USD: "0.306774808608"
+  BTC: "2.69731022186e-05"
+  USD: "0.305339820259"
 supply:
   BCARD: "0"
 change:
-  1h: "1.00"
-  24h: "110.57"
-  7d: "-18.03"
+  1h: "0.09"
+  24h: "109.51"
+  7d: "-18.34"
 isMineable: true

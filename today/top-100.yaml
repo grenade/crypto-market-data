@@ -4,1998 +4,1998 @@
   symbol: BTC
   name: Bitcoin
   marketCap:
-    BTC: "17779162.0"
-    USD: "2.01829020649e+11"
+    BTC: "17779187.0"
+    USD: "2.0116323667e+11"
   price:
     BTC: "1.0"
-    USD: "11351.9985165"
+    USD: "11314.5351736"
   volume:
-    BTC: "1805516.25913"
-    USD: "20488639116.2"
+    BTC: "1836608.18196"
+    USD: "20790697622.4"
   supply:
-    BTC: "17779162.0"
+    BTC: "17779187.0"
   change:
-    1h: "0.92"
-    24h: "5.25"
-    7d: "22.94"
+    1h: "0.26"
+    24h: "4.84"
+    7d: "22.62"
   isMineable: true
 - id: ethereum
   rank: 2
   symbol: ETH
   name: Ethereum
   marketCap:
-    BTC: "2954690.13419"
-    USD: "33529235504.6"
+    BTC: "2957415.59401"
+    USD: "33478416334.5"
   price:
-    BTC: "0.0277091706765"
-    USD: "314.43815326"
+    BTC: "0.0277346877879"
+    USD: "313.961090403"
   volume:
-    BTC: "729889.789577"
-    USD: "8282644045.8"
+    BTC: "738774.916606"
+    USD: "8363049916.17"
   supply:
-    ETH: "106632210.999"
+    ETH: "106632373.749"
   change:
-    1h: "0.32"
-    24h: "2.52"
-    7d: "16.24"
+    1h: "0.19"
+    24h: "2.30"
+    7d: "16.16"
   isMineable: true
 - id: ripple
   rank: 3
   symbol: XRP
   name: XRP
   marketCap:
-    BTC: "1762009.92326"
-    USD: "19994937876.8"
+    BTC: "1763295.01636"
+    USD: "19960780891.8"
   price:
-    BTC: "4.13941936089e-05"
-    USD: "0.469733069459"
+    BTC: "4.14243837867e-05"
+    USD: "0.468930633089"
   volume:
-    BTC: "131787.187717"
-    USD: "1495494773.65"
+    BTC: "134126.554555"
+    USD: "1518333995.39"
   supply:
     XRP: "42566596173.0"
   change:
-    1h: "0.30"
-    24h: "1.76"
-    7d: "5.76"
+    1h: "0.10"
+    24h: "1.61"
+    7d: "5.70"
   isMineable: false
 - id: bitcoin-cash
   rank: 4
   symbol: BCH
   name: Bitcoin Cash
   marketCap:
-    BTC: "760209.272744"
-    USD: "8626703505.62"
+    BTC: "758511.667006"
+    USD: "8586473079.39"
   price:
-    BTC: "0.0425730730974"
-    USD: "483.110759237"
+    BTC: "0.0424779149464"
+    USD: "480.856773892"
   volume:
-    BTC: "161150.996985"
-    USD: "1828709436.29"
+    BTC: "163247.703056"
+    USD: "1847990042.26"
   supply:
-    BCH: "17856575.0"
+    BCH: "17856612.5"
   change:
-    1h: "0.43"
-    24h: "2.18"
-    7d: "14.04"
+    1h: "-0.33"
+    24h: "1.69"
+    7d: "13.68"
   isMineable: true
 - id: litecoin
   rank: 5
   symbol: LTC
   name: Litecoin
   marketCap:
-    BTC: "747519.639422"
-    USD: "8482704072.59"
+    BTC: "746175.071995"
+    USD: "8446820855.77"
   price:
-    BTC: "0.0119832932301"
-    USD: "135.984026272"
+    BTC: "0.0119617052617"
+    USD: "135.408411869"
   volume:
-    BTC: "360677.361269"
-    USD: "4092894901.99"
+    BTC: "361968.961883"
+    USD: "4097546395.1"
   supply:
-    LTC: "62380150.8541"
+    LTC: "62380325.8541"
   change:
-    1h: "-0.05"
-    24h: "0.09"
-    7d: "2.71"
+    1h: "-0.34"
+    24h: "-0.34"
+    7d: "2.39"
   isMineable: true
 - id: eos
   rank: 6
   symbol: EOS
   name: EOS
   marketCap:
-    BTC: "589873.255273"
-    USD: "6693764285.14"
+    BTC: "590726.867875"
+    USD: "6687122385.74"
   price:
-    BTC: "0.000640791881852"
-    USD: "7.27157872409"
+    BTC: "0.000641714533611"
+    USD: "7.26431089617"
   volume:
-    BTC: "194419.004809"
-    USD: "2206228167.0"
+    BTC: "195962.705695"
+    USD: "2218329091.3"
   supply:
-    EOS: "920537965.568"
+    EOS: "920544629.948"
   change:
-    1h: "0.09"
-    24h: "1.29"
-    7d: "3.57"
+    1h: "-0.01"
+    24h: "1.13"
+    7d: "3.59"
   isMineable: false
 - id: binance-coin
   rank: 7
   symbol: BNB
   name: Binance Coin
   marketCap:
-    BTC: "453608.72123"
-    USD: "5147461476.61"
+    BTC: "457917.556719"
+    USD: "5183699795.77"
   price:
-    BTC: "0.00321308408742"
-    USD: "36.4614386519"
+    BTC: "0.00324360521741"
+    USD: "36.7181285284"
   volume:
-    BTC: "29742.6319152"
-    USD: "337513466.632"
+    BTC: "30177.2061852"
+    USD: "341610788.326"
   supply:
     BNB: "141175490.242"
   change:
-    1h: "-0.06"
-    24h: "-1.63"
-    7d: "5.49"
+    1h: "0.69"
+    24h: "-1.04"
+    7d: "6.16"
   isMineable: false
 - id: bitcoin-sv
   rank: 8
   symbol: BSV
   name: Bitcoin SV
   marketCap:
-    BTC: "379710.263383"
-    USD: "4308876486.63"
+    BTC: "376077.707724"
+    USD: "4257259648.85"
   price:
-    BTC: "0.021267177442"
-    USD: "241.335696329"
+    BTC: "0.0210637217727"
+    USD: "238.44469086"
   volume:
-    BTC: "36103.7137811"
-    USD: "409697757.457"
+    BTC: "36289.6466734"
+    USD: "410804589.798"
   supply:
     BSV: "17854285.7612"
   change:
-    1h: "1.70"
-    24h: "1.51"
-    7d: "8.29"
+    1h: "-0.58"
+    24h: "0.24"
+    7d: "6.99"
   isMineable: true
 - id: tether
   rank: 9
   symbol: USDT
   name: Tether
   marketCap:
-    BTC: "313553.692628"
-    USD: "3558144890.33"
+    BTC: "315408.206415"
+    USD: "3570471215.14"
   price:
-    BTC: "8.78086079356e-05"
-    USD: "0.996434604339"
+    BTC: "8.83279520793e-05"
+    USD: "0.999886508905"
   volume:
-    BTC: "1693538.02314"
-    USD: "19217932383.7"
+    BTC: "1719379.02187"
+    USD: "19463644828.1"
   supply:
     USDT: "3570876477.83"
   change:
-    1h: "0.10"
-    24h: "-0.23"
-    7d: "-0.82"
+    1h: "0.27"
+    24h: "0.10"
+    7d: "-0.47"
   isMineable: false
 - id: tron
   rank: 10
   symbol: TRX
   name: TRON
   marketCap:
-    BTC: "234037.152251"
-    USD: "2655807018.08"
+    BTC: "233811.618769"
+    USD: "2646784825.52"
   price:
-    BTC: "3.50974624152e-06"
-    USD: "0.0398279017253"
+    BTC: "3.50636402087e-06"
+    USD: "0.0396926001028"
   volume:
-    BTC: "88746.1926459"
-    USD: "1007074129.0"
+    BTC: "89405.5632097"
+    USD: "1012085238.82"
   supply:
     TRX: "66682072191.4"
   change:
-    1h: "3.10"
-    24h: "3.66"
-    7d: "19.10"
+    1h: "-0.10"
+    24h: "2.89"
+    7d: "18.85"
   isMineable: true
 - id: cardano
   rank: 11
   symbol: ADA
   name: Cardano
   marketCap:
-    BTC: "220345.978651"
-    USD: "2500442305.34"
+    BTC: "221248.936105"
+    USD: "2504573253.57"
   price:
-    BTC: "8.4986839654e-06"
-    USD: "0.0964413739559"
+    BTC: "8.53351078675e-06"
+    USD: "0.0966007034965"
   volume:
-    BTC: "12398.4956967"
-    USD: "140695661.216"
+    BTC: "12707.749237"
+    USD: "143853748.688"
   supply:
     ADA: "25927070538.0"
   change:
-    1h: "-0.16"
-    24h: "1.09"
-    7d: "5.39"
+    1h: "-0.12"
+    24h: "1.15"
+    7d: "5.74"
   isMineable: true
 - id: stellar
   rank: 12
   symbol: XLM
   name: Stellar
   marketCap:
-    BTC: "219327.837099"
-    USD: "2488888637.66"
+    BTC: "220007.976468"
+    USD: "2490525392.51"
   price:
-    BTC: "1.12981733039e-05"
-    USD: "0.128209421724"
+    BTC: "1.13332091323e-05"
+    USD: "0.128293735417"
   volume:
-    BTC: "35879.9874384"
-    USD: "407158955.453"
+    BTC: "36406.2240129"
+    USD: "412124263.88"
   supply:
     XLM: "19412681253.8"
   change:
-    1h: "0.15"
-    24h: "0.86"
-    7d: "-0.65"
+    1h: "0.25"
+    24h: "0.84"
+    7d: "-0.45"
   isMineable: false
 - id: monero
   rank: 13
   symbol: XMR
   name: Monero
   marketCap:
-    BTC: "173834.205671"
-    USD: "1972635963.84"
+    BTC: "174575.074713"
+    USD: "1976217696.52"
   price:
-    BTC: "0.0101886352971"
-    USD: "115.618605279"
+    BTC: "0.0102320426932"
+    USD: "115.828355652"
   volume:
-    BTC: "11928.0902671"
-    USD: "135357594.036"
+    BTC: "12105.6233141"
+    USD: "137037587.181"
   supply:
-    XMR: "17061578.9654"
+    XMR: "17061605.3849"
   change:
-    1h: "-0.62"
-    24h: "0.29"
-    7d: "17.87"
+    1h: "0.19"
+    24h: "0.32"
+    7d: "18.16"
   isMineable: true
 - id: unus-sed-leo
   rank: 14
   symbol: LEO
   name: UNUS SED LEO
   marketCap:
-    BTC: "165253.855454"
-    USD: "1875267857.51"
+    BTC: "166242.775368"
+    USD: "1881894738.65"
   price:
-    BTC: "0.000165336706852"
-    USD: "1.87620803868"
+    BTC: "0.000166326122569"
+    USD: "1.88283824226"
   volume:
-    BTC: "436.155624168"
-    USD: "4949407.20523"
+    BTC: "456.735657605"
+    USD: "5170320.50925"
   supply:
     LEO: "999498892.9"
   change:
-    1h: "0.26"
-    24h: "1.68"
-    7d: "-1.92"
+    1h: "0.72"
+    24h: "2.13"
+    7d: "-1.58"
   isMineable: false
 - id: dash
   rank: 15
   symbol: DASH
   name: Dash
   marketCap:
-    BTC: "139186.390648"
-    USD: "1579459455.68"
+    BTC: "139422.166383"
+    USD: "1578281166.12"
   price:
-    BTC: "0.0156690994862"
-    USD: "177.809821997"
+    BTC: "0.0156955873715"
+    USD: "177.676553035"
   volume:
-    BTC: "28824.4437939"
-    USD: "327094050.598"
+    BTC: "28928.8414315"
+    USD: "327479100.157"
   supply:
-    DASH: "8882858.31425"
+    DASH: "8882889.38052"
   change:
-    1h: "0.26"
-    24h: "1.84"
-    7d: "11.73"
+    1h: "0.21"
+    24h: "1.78"
+    7d: "11.67"
   isMineable: true
 - id: iota
   rank: 16
   symbol: MIOTA
   name: IOTA
   marketCap:
-    BTC: "111108.870288"
-    USD: "1260841343.54"
+    BTC: "110942.407129"
+    USD: "1255885747.85"
   price:
-    BTC: "3.99739736487e-05"
-    USD: "0.453616696049"
+    BTC: "3.99140846952e-05"
+    USD: "0.451833806429"
   volume:
-    BTC: "2170.05866126"
-    USD: "24625393.7325"
+    BTC: "2186.57246502"
+    USD: "24752349.1381"
   supply:
     MIOTA: "2779530283.0"
   change:
-    1h: "-0.57"
-    24h: "0.56"
-    7d: "4.01"
+    1h: "-0.35"
+    24h: "-0.04"
+    7d: "3.67"
   isMineable: false
 - id: neo
   rank: 17
   symbol: NEO
   name: NEO
   marketCap:
-    BTC: "110723.694138"
-    USD: "1256470441.27"
+    BTC: "110328.102801"
+    USD: "1248931724.87"
   price:
-    BTC: "0.00156968427983"
-    USD: "17.8124647581"
+    BTC: "0.00156407614412"
+    USD: "17.7055914758"
   volume:
-    BTC: "58204.5071553"
-    USD: "660493161.451"
+    BTC: "58257.2083607"
+    USD: "659480892.685"
   supply:
     NEO: "70538831.0"
   change:
-    1h: "0.32"
-    24h: "1.81"
-    7d: "28.89"
+    1h: "0.06"
+    24h: "1.07"
+    7d: "28.33"
   isMineable: false
 - id: cosmos
   rank: 18
   symbol: ATOM
   name: Cosmos
   marketCap:
-    BTC: "109980.907895"
-    USD: "1248041450.83"
+    BTC: "110276.915284"
+    USD: "1248352274.0"
   price:
-    BTC: "0.000576757082688"
-    USD: "6.54492456945"
+    BTC: "0.00057830939173"
+    USD: "6.54655457477"
   volume:
-    BTC: "5390.01220061"
-    USD: "61164785.5576"
+    BTC: "5454.60137743"
+    USD: "61746957.7904"
   supply:
     ATOM: "190688439.2"
   change:
-    1h: "-0.44"
-    24h: "-2.46"
-    7d: "-3.69"
+    1h: "-0.06"
+    24h: "-2.49"
+    7d: "-3.45"
   isMineable: false
 - id: ethereum-classic
   rank: 19
   symbol: ETC
   name: Ethereum Classic
   marketCap:
-    BTC: "90294.1505476"
-    USD: "1024640047.15"
+    BTC: "90809.5706079"
+    USD: "1027978826.55"
   price:
-    BTC: "0.000810044754845"
-    USD: "9.19222663662"
+    BTC: "0.000814666077309"
+    USD: "9.22214996259"
   volume:
-    BTC: "67125.7933248"
-    USD: "761730141.099"
+    BTC: "68148.2386344"
+    USD: "771448933.346"
   supply:
-    ETC: "111468101.0"
+    ETC: "111468457.0"
   change:
-    1h: "0.24"
-    24h: "0.80"
-    7d: "6.01"
+    1h: "0.43"
+    24h: "1.03"
+    7d: "6.48"
   isMineable: true
 - id: nem
   rank: 20
   symbol: XEM
   name: NEM
   marketCap:
-    BTC: "73172.8936614"
-    USD: "830351432.029"
+    BTC: "73295.555669"
+    USD: "829717383.352"
   price:
-    BTC: "8.13032151884e-06"
-    USD: "0.0922612702357"
+    BTC: "8.14395063079e-06"
+    USD: "0.0921908203827"
   volume:
-    BTC: "2389.31950148"
-    USD: "27113522.103"
+    BTC: "2412.48137766"
+    USD: "27309674.0694"
   supply:
     XEM: "8999999999.0"
   change:
-    1h: "-0.34"
-    24h: "1.98"
-    7d: "4.57"
+    1h: "0.04"
+    24h: "1.92"
+    7d: "4.68"
   isMineable: false
 - id: ontology
   rank: 21
   symbol: ONT
   name: Ontology
   marketCap:
-    BTC: "69984.4245964"
-    USD: "794169319.748"
+    BTC: "69998.1358886"
+    USD: "792390065.386"
   price:
-    BTC: "0.000141452054613"
-    USD: "1.60516975937"
+    BTC: "0.000141479767786"
+    USD: "1.60157354226"
   volume:
-    BTC: "14349.0759665"
-    USD: "162830457.849"
+    BTC: "14521.3913441"
+    USD: "164384466.68"
   supply:
     ONT: "494757215.0"
   change:
-    1h: "-0.34"
-    24h: "4.21"
-    7d: "7.59"
+    1h: "-0.66"
+    24h: "4.10"
+    7d: "7.70"
   isMineable: false
 - id: tezos
   rank: 22
   symbol: XTZ
   name: Tezos
   marketCap:
-    BTC: "67400.372919"
-    USD: "764846015.677"
+    BTC: "67203.0911917"
+    USD: "760749713.516"
   price:
-    BTC: "0.000102036826609"
-    USD: "1.15789359768"
+    BTC: "0.000101736073845"
+    USD: "1.15166858636"
   volume:
-    BTC: "517.806396"
-    USD: "5875963.91119"
+    BTC: "522.519197012"
+    USD: "5915000.67008"
   supply:
-    XTZ: "660549481.584"
+    XTZ: "660563049.584"
   change:
-    1h: "-0.24"
-    24h: "-1.68"
-    7d: "-10.98"
+    1h: "-0.39"
+    24h: "-2.38"
+    7d: "-11.23"
   isMineable: false
 - id: zcash
   rank: 23
   symbol: ZEC
   name: Zcash
   marketCap:
-    BTC: "64656.8983946"
-    USD: "733713612.869"
+    BTC: "64861.1977517"
+    USD: "734239106.158"
   price:
-    BTC: "0.00946789390495"
-    USD: "107.439775426"
+    BTC: "0.00949767096496"
+    USD: "107.515150531"
   volume:
-    BTC: "28738.290113"
-    USD: "326116395.776"
+    BTC: "29296.1994061"
+    USD: "331637651.036"
   supply:
-    ZEC: "6829068.75"
+    ZEC: "6829168.75"
   change:
-    1h: "-0.75"
-    24h: "-0.72"
-    7d: "3.08"
+    1h: "-0.35"
+    24h: "-0.69"
+    7d: "2.86"
   isMineable: true
-- id: maker
-  rank: 24
-  symbol: MKR
-  name: Maker
-  marketCap:
-    BTC: "62866.1501778"
-    USD: "713392558.559"
-  price:
-    BTC: "0.0628661501778"
-    USD: "713.392558559"
-  volume:
-    BTC: "54.4661512346"
-    USD: "618071.042592"
-  supply:
-    MKR: "1000000.0"
-  change:
-    1h: "-2.50"
-    24h: "-1.50"
-    7d: "-3.26"
-  isMineable: false
 - id: chainlink
-  rank: 25
+  rank: 24
   symbol: LINK
   name: Chainlink
   marketCap:
-    BTC: "62507.3778423"
-    USD: "709321281.512"
+    BTC: "63622.7174426"
+    USD: "720219311.476"
   price:
-    BTC: "0.000178592508121"
-    USD: "2.02663223289"
+    BTC: "0.000181779192693"
+    USD: "2.05776946136"
   volume:
-    BTC: "5370.94762395"
-    USD: "60948444.5365"
+    BTC: "5475.21466336"
+    USD: "61980303.4757"
   supply:
     LINK: "350000000.0"
   change:
-    1h: "-2.22"
-    24h: "11.26"
-    7d: "5.77"
+    1h: "-0.82"
+    24h: "12.75"
+    7d: "7.74"
+  isMineable: false
+- id: maker
+  rank: 25
+  symbol: MKR
+  name: Maker
+  marketCap:
+    BTC: "63292.0128114"
+    USD: "716475682.293"
+  price:
+    BTC: "0.0632920128114"
+    USD: "716.475682293"
+  volume:
+    BTC: "59.88543437"
+    USD: "677912.670869"
+  supply:
+    MKR: "1000000.0"
+  change:
+    1h: "-1.50"
+    24h: "-1.16"
+    7d: "-2.75"
   isMineable: false
 - id: vechain
   rank: 26
   symbol: VET
   name: VeChain
   marketCap:
-    BTC: "48540.9225655"
-    USD: "550832727.086"
+    BTC: "48377.8111622"
+    USD: "547644540.292"
   price:
-    BTC: "8.75325123104e-07"
-    USD: "0.00993301526142"
+    BTC: "8.72383779972e-07"
+    USD: "0.00987552356471"
   volume:
-    BTC: "16239.5107166"
-    USD: "184282735.099"
+    BTC: "17321.6623315"
+    USD: "196083980.998"
   supply:
     VET: "55454734800.0"
   change:
-    1h: "3.52"
-    24h: "37.99"
-    7d: "36.37"
+    1h: "5.69"
+    24h: "37.03"
+    7d: "35.74"
   isMineable: false
 - id: bitcoin-gold
   rank: 27
   symbol: BTG
   name: Bitcoin Gold
   marketCap:
-    BTC: "47069.454145"
-    USD: "534134796.348"
+    BTC: "46919.7985009"
+    USD: "531139604.364"
   price:
-    BTC: "0.00268754479291"
-    USD: "30.4977233476"
+    BTC: "0.00267899984047"
+    USD: "30.3267055874"
   volume:
-    BTC: "1636.87775855"
-    USD: "18574962.9795"
+    BTC: "1622.64466463"
+    USD: "18368596.4716"
   supply:
     BTG: "17513923.589"
   change:
-    1h: "1.03"
-    24h: "0.51"
-    7d: "10.77"
+    1h: "0.04"
+    24h: "-0.06"
+    7d: "10.30"
   isMineable: true
 - id: crypto-com-chain
   rank: 28
   symbol: CRO
   name: Crypto.com Chain
   marketCap:
-    BTC: "37292.3054729"
-    USD: "423185659.384"
+    BTC: "37334.2579951"
+    USD: "422629756.611"
   price:
-    BTC: "5.14457631406e-06"
-    USD: "0.0583796279717"
+    BTC: "5.15036378011e-06"
+    USD: "0.0583029396522"
   volume:
-    BTC: "432.726151393"
-    USD: "4910490.23083"
+    BTC: "438.580027978"
+    USD: "4964795.88542"
   supply:
     CRO: "7248858447.49"
   change:
-    1h: "0.56"
-    24h: "-2.76"
-    7d: "-12.80"
+    1h: "0.30"
+    24h: "-2.66"
+    7d: "-12.88"
   isMineable: false
 - id: basic-attention-token
   rank: 29
   symbol: BAT
   name: Basic Attention Token
   marketCap:
-    BTC: "36101.7051702"
-    USD: "409674964.14"
+    BTC: "36158.4371818"
+    USD: "409319277.421"
   price:
-    BTC: "2.8400681459e-05"
-    USD: "0.322285279973"
+    BTC: "2.84453116997e-05"
+    USD: "0.322005466453"
   volume:
-    BTC: "3364.80832424"
-    USD: "38183175.0903"
+    BTC: "3373.86098499"
+    USD: "38192644.5978"
   supply:
     BAT: "1271156300.33"
   change:
-    1h: "0.16"
-    24h: "-0.86"
-    7d: "-5.74"
+    1h: "-0.07"
+    24h: "-0.95"
+    7d: "-5.83"
   isMineable: false
 - id: qtum
   rank: 30
   symbol: QTUM
   name: Qtum
   marketCap:
-    BTC: "36034.3906617"
-    USD: "408911092.496"
+    BTC: "35885.3898463"
+    USD: "406228338.023"
   price:
-    BTC: "0.000376064406478"
-    USD: "4.26750402818"
+    BTC: "0.000374509269592"
+    USD: "4.23950467899"
   volume:
-    BTC: "23727.8152365"
-    USD: "269258524.225"
+    BTC: "23757.2373651"
+    USD: "268935717.075"
   supply:
-    QTUM: "95819732.0485"
+    QTUM: "95819764.0485"
   change:
-    1h: "-0.40"
-    24h: "10.43"
-    7d: "19.14"
+    1h: "-0.78"
+    24h: "9.74"
+    7d: "18.50"
   isMineable: false
 - id: dogecoin
   rank: 31
   symbol: DOGE
   name: Dogecoin
   marketCap:
-    BTC: "35805.610579"
-    USD: "406314941.657"
+    BTC: "35772.0426223"
+    USD: "404945229.364"
   price:
-    BTC: "2.98180618947e-07"
-    USD: "0.00338369431024"
+    BTC: "2.97901072978e-07"
+    USD: "0.00337228767165"
   volume:
-    BTC: "3652.73530462"
-    USD: "41450513.151"
+    BTC: "3662.6191221"
+    USD: "41461432.7767"
   supply:
     DOGE: "1.20080274518e+11"
   change:
-    1h: "0.32"
-    24h: "3.01"
-    7d: "6.82"
+    1h: "-0.07"
+    24h: "2.38"
+    7d: "6.53"
   isMineable: true
 - id: usd-coin
   rank: 32
   symbol: USDC
   name: USD Coin
   marketCap:
-    BTC: "30919.0272414"
-    USD: "350862966.629"
+    BTC: "31128.077135"
+    USD: "352374799.176"
   price:
-    BTC: "8.80085747269e-05"
-    USD: "0.998703787683"
+    BTC: "8.86036187766e-05"
+    USD: "1.0030070999"
   volume:
-    BTC: "15237.155225"
-    USD: "172908204.501"
+    BTC: "15439.2309108"
+    USD: "174774557.003"
   supply:
     USDC: "351318349.801"
   change:
-    1h: "0.03"
-    24h: "-0.33"
-    7d: "-0.27"
+    1h: "0.28"
+    24h: "0.11"
+    7d: "0.16"
   isMineable: false
 - id: omisego
   rank: 33
   symbol: OMG
   name: OmiseGO
   marketCap:
-    BTC: "28642.9669551"
-    USD: "325034687.555"
+    BTC: "28753.6570543"
+    USD: "325495985.06"
   price:
-    BTC: "0.000204234629539"
-    USD: "2.31761392261"
+    BTC: "0.000205023889654"
+    USD: "2.3209031393"
   volume:
-    BTC: "9208.79905945"
-    USD: "104499618.693"
+    BTC: "9234.34376145"
+    USD: "104534244.577"
   supply:
     OMG: "140245398.245"
   change:
-    1h: "-0.48"
-    24h: "-2.12"
-    7d: "11.63"
+    1h: "-0.13"
+    24h: "-1.76"
+    7d: "11.95"
   isMineable: false
 - id: decred
   rank: 34
   symbol: DCR
   name: Decred
   marketCap:
-    BTC: "27931.565314"
-    USD: "317077434.997"
+    BTC: "28086.3490808"
+    USD: "317941952.34"
   price:
-    BTC: "0.00279733358573"
-    USD: "31.755161167"
+    BTC: "0.00281281517415"
+    USD: "31.8415165128"
   volume:
-    BTC: "1583.19222777"
-    USD: "17972302.1264"
+    BTC: "1601.8557166"
+    USD: "18133262.2633"
   supply:
-    DCR: "9985067.72896"
+    DCR: "9985138.49717"
   change:
-    1h: "0.85"
-    24h: "-3.24"
-    7d: "8.42"
+    1h: "0.66"
+    24h: "-3.03"
+    7d: "8.74"
   isMineable: true
 - id: bittorrent
   rank: 35
   symbol: BTT
   name: BitTorrent
   marketCap:
-    BTC: "24997.5624661"
-    USD: "283667363.04"
+    BTC: "24870.7765561"
+    USD: "281541158.367"
   price:
-    BTC: "1.17848269541e-07"
-    USD: "0.00133731870477"
+    BTC: "1.17250551259e-07"
+    USD: "0.00132729494578"
   volume:
-    BTC: "3854.50770828"
-    USD: "43740186.2245"
+    BTC: "3912.26779599"
+    USD: "44287495.5928"
   supply:
     BTT: "2.121165e+11"
   change:
-    1h: "-0.38"
-    24h: "-0.46"
-    7d: "0.17"
+    1h: "-0.96"
+    24h: "-1.26"
+    7d: "-0.42"
   isMineable: false
-- id: lisk
+- id: holo
   rank: 36
-  symbol: LSK
-  name: Lisk
+  symbol: HOT
+  name: Holo
   marketCap:
-    BTC: "21941.7690571"
-    USD: "248990827.698"
+    BTC: "21799.6579671"
+    USD: "246775605.989"
   price:
-    BTC: "0.000185953944705"
-    USD: "2.11016834993"
+    BTC: "1.63643189505e-07"
+    USD: "0.00185246701196"
   volume:
-    BTC: "895.301166056"
-    USD: "10159699.4205"
+    BTC: "1525.8864633"
+    USD: "17273278.1962"
   supply:
-    LSK: "117995717.122"
+    HOT: "1.33214575156e+11"
   change:
-    1h: "1.02"
-    24h: "0.31"
-    7d: "2.11"
+    1h: "0.45"
+    24h: "0.65"
+    7d: "5.78"
   isMineable: false
 - id: bitcoin-diamond
   rank: 37
   symbol: BCD
   name: Bitcoin Diamond
   marketCap:
-    BTC: "21583.023029"
-    USD: "244919849.18"
+    BTC: "21715.0761884"
+    USD: "245818126.76"
   price:
-    BTC: "0.000115731072153"
-    USD: "1.31329317024"
+    BTC: "0.000116439158953"
+    USD: "1.31810985543"
   volume:
-    BTC: "696.421807865"
-    USD: "7902856.05121"
+    BTC: "702.700869931"
+    USD: "7954685.95275"
   supply:
     BCD: "186492897.953"
   change:
-    1h: "-0.28"
-    24h: "0.50"
-    7d: "-1.63"
+    1h: "0.36"
+    24h: "0.74"
+    7d: "-0.87"
   isMineable: true
-- id: holo
+- id: lisk
   rank: 38
-  symbol: HOT
-  name: Holo
+  symbol: LSK
+  name: Lisk
   marketCap:
-    BTC: "21575.0620105"
-    USD: "244829509.127"
+    BTC: "21704.5881773"
+    USD: "245236643.46"
   price:
-    BTC: "1.61957218159e-07"
-    USD: "0.00183785827369"
+    BTC: "0.000183943307765"
+    USD: "2.07834578637"
   volume:
-    BTC: "1520.56694368"
-    USD: "17255091.0044"
+    BTC: "893.323321674"
+    USD: "10093516.2253"
   supply:
-    HOT: "1.33214575156e+11"
+    LSK: "117996074.122"
   change:
-    1h: "-0.23"
-    24h: "-0.06"
-    7d: "4.84"
+    1h: "-0.65"
+    24h: "-0.94"
+    7d: "0.57"
   isMineable: false
 - id: ravencoin
   rank: 39
   symbol: RVN
   name: Ravencoin
   marketCap:
-    BTC: "21024.4866456"
-    USD: "238581689.479"
+    BTC: "21398.1120818"
+    USD: "242230042.506"
   price:
-    BTC: "5.48303000434e-06"
-    USD: "0.0622203330789"
+    BTC: "5.5803304895e-06"
+    USD: "0.0631702313971"
   volume:
-    BTC: "2408.36180518"
-    USD: "27329610.3749"
+    BTC: "2420.80778799"
+    USD: "27403930.3627"
   supply:
-    RVN: "3834465000.0"
+    RVN: "3834560000.0"
   change:
-    1h: "-0.84"
-    24h: "-6.01"
-    7d: "2.06"
+    1h: "0.82"
+    24h: "-4.77"
+    7d: "3.73"
   isMineable: true
 - id: waves
   rank: 40
   symbol: WAVES
   name: Waves
   marketCap:
-    BTC: "20720.4371768"
-    USD: "235217145.84"
+    BTC: "20758.6459804"
+    USD: "234548595.044"
   price:
-    BTC: "0.000207204371768"
-    USD: "2.3521714584"
+    BTC: "0.000207586459804"
+    USD: "2.34548595044"
   volume:
-    BTC: "1359.67425361"
-    USD: "15434939.6432"
+    BTC: "1379.79968205"
+    USD: "15590134.2107"
   supply:
     WAVES: "100000000.0"
   change:
-    1h: "-0.68"
-    24h: "-0.49"
-    7d: "-2.70"
+    1h: "-0.52"
+    24h: "-0.86"
+    7d: "-2.91"
   isMineable: false
 - id: trueusd
   rank: 41
   symbol: TUSD
   name: TrueUSD
   marketCap:
-    BTC: "19099.1289687"
-    USD: "216733113.81"
+    BTC: "19195.5322201"
+    USD: "217296487.083"
   price:
-    BTC: "8.806951526e-05"
-    USD: "0.999395328722"
+    BTC: "8.85140479731e-05"
+    USD: "1.00199314411"
   volume:
-    BTC: "12227.6424828"
-    USD: "138756852.953"
+    BTC: "12448.2089279"
+    USD: "140915710.985"
   supply:
     TUSD: "216864245.39"
   change:
-    1h: "0.13"
-    24h: "-0.20"
-    7d: "-0.29"
+    1h: "0.22"
+    24h: "0.06"
+    7d: "-0.03"
   isMineable: false
 - id: pundi-x
   rank: 42
   symbol: NPXS
   name: Pundi X
   marketCap:
-    BTC: "18804.1739038"
-    USD: "213386022.444"
+    BTC: "18883.2699737"
+    USD: "213761628.638"
   price:
-    BTC: "7.93036613224e-08"
-    USD: "0.000899922163102"
+    BTC: "7.96372366217e-08"
+    USD: "0.000901506223455"
   volume:
-    BTC: "443.52981134"
-    USD: "5033088.01341"
+    BTC: "457.360333862"
+    USD: "5177391.94413"
   supply:
     NPXS: "2.37116087583e+11"
   change:
-    1h: "-0.55"
-    24h: "-0.61"
-    7d: "4.81"
+    1h: "-0.40"
+    24h: "-0.22"
+    7d: "5.11"
   isMineable: false
 - id: 0x
   rank: 43
   symbol: ZRX
   name: 0x
   marketCap:
-    BTC: "17986.8330935"
-    USD: "204111001.623"
+    BTC: "17929.2722826"
+    USD: "202962222.578"
   price:
-    BTC: "3.00911515061e-05"
-    USD: "0.341468397575"
+    BTC: "2.99948548944e-05"
+    USD: "0.339546542622"
   volume:
-    BTC: "1185.34404493"
-    USD: "13451048.2762"
+    BTC: "1185.38401725"
+    USD: "13418736.1851"
   supply:
     ZRX: "597744924.778"
   change:
-    1h: "-0.32"
-    24h: "0.90"
-    7d: "-2.34"
+    1h: "-0.77"
+    24h: "0.32"
+    7d: "-2.86"
   isMineable: false
-- id: bytecoin-bcn
-  rank: 44
-  symbol: BCN
-  name: Bytecoin
-  marketCap:
-    BTC: "17722.9310693"
-    USD: "201189638.349"
-  price:
-    BTC: "9.62853067198e-08"
-    USD: "0.0010930249608"
-  volume:
-    BTC: "4.97884980173"
-    USD: "56519.6009107"
-  supply:
-    BCN: "1.84066828814e+11"
-  change:
-    1h: "8.12"
-    24h: "6.17"
-    7d: "6.24"
-  isMineable: true
 - id: hypercash
-  rank: 45
+  rank: 44
   symbol: HC
   name: HyperCash
   marketCap:
-    BTC: "17471.9024241"
-    USD: "198267670.885"
+    BTC: "17502.8928979"
+    USD: "198135539.922"
   price:
-    BTC: "0.000401378138757"
-    USD: "4.55475922333"
+    BTC: "0.000402090076037"
+    USD: "4.55172380803"
   volume:
-    BTC: "1941.05531903"
-    USD: "22026709.3886"
+    BTC: "1995.93128497"
+    USD: "22594260.566"
   supply:
     HC: "43529780.8651"
   change:
-    1h: "2.44"
-    24h: "20.37"
-    7d: "60.35"
+    1h: "-1.13"
+    24h: "20.22"
+    7d: "60.58"
   isMineable: true
 - id: augur
-  rank: 46
+  rank: 45
   symbol: REP
   name: Augur
   marketCap:
-    BTC: "17455.3601956"
-    USD: "198079952.968"
+    BTC: "17412.0012447"
+    USD: "197106631.907"
   price:
-    BTC: "0.00158685092687"
-    USD: "18.0072684516"
+    BTC: "0.00158290920406"
+    USD: "17.9187847188"
   volume:
-    BTC: "570.839144442"
-    USD: "6477768.98422"
+    BTC: "580.245211134"
+    USD: "6568468.35924"
   supply:
     REP: "11000000.0"
   change:
-    1h: "-0.28"
-    24h: "-0.30"
-    7d: "-4.18"
+    1h: "-0.52"
+    24h: "-0.72"
+    7d: "-4.58"
   isMineable: false
 - id: nano
-  rank: 47
+  rank: 46
   symbol: NANO
   name: Nano
   marketCap:
-    BTC: "17265.4216078"
-    USD: "195924567.682"
+    BTC: "17337.1058932"
+    USD: "195889165.083"
   price:
-    BTC: "0.000129573300155"
-    USD: "1.47037201828"
+    BTC: "0.0001301112754"
+    USD: "1.47010632934"
   volume:
-    BTC: "419.986000192"
-    USD: "4765917.53096"
+    BTC: "425.030547941"
+    USD: "4802351.65456"
   supply:
     NANO: "133248297.197"
   change:
-    1h: "0.00"
-    24h: "-1.56"
-    7d: "-4.84"
+    1h: "-0.23"
+    24h: "-1.65"
+    7d: "-4.76"
+  isMineable: false
+- id: dent
+  rank: 47
+  symbol: DENT
+  name: Dent
+  marketCap:
+    BTC: "17044.337019"
+    USD: "192944614.218"
+  price:
+    BTC: "2.3559526375e-07"
+    USD: "0.00266697597126"
+  volume:
+    BTC: "185.611668063"
+    USD: "2101153.69397"
+  supply:
+    DENT: "72345838994.0"
+  change:
+    1h: "1.06"
+    24h: "5.30"
+    7d: "43.35"
   isMineable: false
 - id: bitshares
   rank: 48
   symbol: BTS
   name: BitShares
   marketCap:
-    BTC: "16921.1996411"
-    USD: "192018405.321"
+    BTC: "17063.177495"
+    USD: "192794092.264"
   price:
-    BTC: "6.19944518205e-06"
-    USD: "0.0703500699114"
+    BTC: "6.25146182042e-06"
+    USD: "0.0706342594952"
   volume:
-    BTC: "1447.18226848"
-    USD: "16422336.3176"
+    BTC: "1454.37927264"
+    USD: "16432796.984"
   supply:
     BTS: "2729470000.0"
   change:
-    1h: "-0.95"
-    24h: "6.94"
-    7d: "11.78"
-  isMineable: false
-- id: dent
-  rank: 49
-  symbol: DENT
-  name: Dent
-  marketCap:
-    BTC: "16830.6841786"
-    USD: "190991253.87"
-  price:
-    BTC: "2.32642048425e-07"
-    USD: "0.00263997565756"
-  volume:
-    BTC: "183.501470884"
-    USD: "2082338.16518"
-  supply:
-    DENT: "72345838994.0"
-  change:
-    1h: "0.68"
-    24h: "4.20"
-    7d: "42.15"
+    1h: "0.31"
+    24h: "6.95"
+    7d: "12.43"
   isMineable: false
 - id: bytom
-  rank: 50
+  rank: 49
   symbol: BTM
   name: Bytom
   marketCap:
-    BTC: "16784.3102595"
-    USD: "190465011.868"
+    BTC: "16638.9422775"
+    USD: "188355481.069"
   price:
-    BTC: "1.67424662322e-05"
-    USD: "0.189990174175"
+    BTC: "1.6597460659e-05"
+    USD: "0.18788590253"
   volume:
-    BTC: "3292.670176"
-    USD: "37364565.7434"
+    BTC: "3296.63531737"
+    USD: "37318437.7201"
   supply:
     BTM: "1002499275.0"
   change:
-    1h: "-0.30"
-    24h: "1.64"
-    7d: "-2.30"
+    1h: "-1.05"
+    24h: "0.54"
+    7d: "-3.08"
   isMineable: true
 - id: hedgetrade
-  rank: 51
+  rank: 50
   symbol: HEDG
   name: HedgeTrade
   marketCap:
-    BTC: "16569.5637049"
-    USD: "188028110.711"
+    BTC: "16500.2643933"
+    USD: "186785625.296"
   price:
-    BTC: "5.76200303637e-05"
-    USD: "0.653860635161"
+    BTC: "5.73790446319e-05"
+    USD: "0.649539939178"
   volume:
-    BTC: "49.328984612"
-    USD: "559775.498324"
+    BTC: "50.0875139117"
+    USD: "566998.648173"
   supply:
     HEDG: "287566035.635"
   change:
-    1h: "0.43"
-    24h: "9.04"
-    7d: "77.57"
+    1h: "-0.22"
+    24h: "8.89"
+    7d: "76.47"
   isMineable: false
 - id: huobi-token
-  rank: 52
+  rank: 51
   symbol: HT
   name: Huobi Token
   marketCap:
-    BTC: "16460.8779065"
-    USD: "186794765.906"
+    BTC: "16414.3739358"
+    USD: "185813331.614"
   price:
-    BTC: "0.000329216241265"
-    USD: "3.73588037459"
+    BTC: "0.000328286165571"
+    USD: "3.71625176727"
   volume:
-    BTC: "3810.62746235"
-    USD: "43242241.9282"
+    BTC: "3480.81361255"
+    USD: "39403365.4043"
   supply:
     HT: "50000200.0"
   change:
-    1h: "0.45"
-    24h: "0.52"
-    7d: "7.38"
+    1h: "-0.10"
+    24h: "-0.19"
+    7d: "6.90"
   isMineable: false
+- id: bytecoin-bcn
+  rank: 52
+  symbol: BCN
+  name: Bytecoin
+  marketCap:
+    BTC: "16390.3236188"
+    USD: "185191624.769"
+  price:
+    BTC: "8.90455044203e-08"
+    USD: "0.00100611080205"
+  volume:
+    BTC: "4.98000720177"
+    USD: "56268.2986928"
+  supply:
+    BCN: "1.84066828814e+11"
+  change:
+    1h: "-2.96"
+    24h: "-1.62"
+    7d: "-1.97"
+  isMineable: true
 - id: monacoin
   rank: 53
   symbol: MONA
   name: MonaCoin
   marketCap:
-    BTC: "16388.3623392"
-    USD: "186039695.086"
+    BTC: "16366.7219886"
+    USD: "184924953.753"
   price:
-    BTC: "0.000249329733812"
-    USD: "2.83037601282"
+    BTC: "0.00024900050123"
+    USD: "2.81341652938"
   volume:
-    BTC: "2370.26621593"
-    USD: "26907118.2927"
+    BTC: "2431.59716701"
+    USD: "27474224.4641"
   supply:
     MONA: "65729674.8712"
   change:
-    1h: "-0.34"
-    24h: "5.33"
-    7d: "19.89"
+    1h: "-0.87"
+    24h: "4.36"
+    7d: "19.30"
   isMineable: true
 - id: zilliqa
   rank: 54
   symbol: ZIL
   name: Zilliqa
   marketCap:
-    BTC: "15638.7339935"
-    USD: "177465240.431"
+    BTC: "15617.8096648"
+    USD: "176796096.987"
   price:
-    BTC: "1.80017104033e-06"
-    USD: "0.0204279826373"
+    BTC: "1.79776244571e-06"
+    USD: "0.0203509576908"
   volume:
-    BTC: "1642.01944495"
-    USD: "18633309.8133"
+    BTC: "1670.76404191"
+    USD: "18913315.4992"
   supply:
     ZIL: "8687360058.09"
   change:
-    1h: "-0.95"
-    24h: "1.15"
-    7d: "-16.98"
-  isMineable: false
-- id: aurora
-  rank: 55
-  symbol: AOA
-  name: Aurora
-  marketCap:
-    BTC: "15552.9238917"
-    USD: "176491484.476"
-  price:
-    BTC: "2.37727591537e-06"
-    USD: "0.0269768538851"
-  volume:
-    BTC: "348.108284838"
-    USD: "3950263.52455"
-  supply:
-    AOA: "6542330148.21"
-  change:
-    1h: "-0.56"
-    24h: "-1.43"
-    7d: "-5.34"
+    1h: "-0.89"
+    24h: "0.92"
+    7d: "-17.03"
   isMineable: false
 - id: qubitica
-  rank: 56
+  rank: 55
   symbol: QBIT
   name: Qubitica
   marketCap:
-    BTC: "15169.3400304"
-    USD: "172138651.172"
+    BTC: "15168.2372508"
+    USD: "171706865.538"
   price:
-    BTC: "0.00540095266221"
-    USD: "61.2889357381"
+    BTC: "0.00540056002413"
+    USD: "61.1352010495"
   volume:
-    BTC: "5.78998481907"
-    USD: "65703.5952164"
+    BTC: "5.77580322064"
+    USD: "65383.0138984"
   supply:
     QBIT: "2808641.54514"
   change:
-    1h: "0.02"
-    24h: "2.26"
-    7d: "15.47"
+    1h: "-0.31"
+    24h: "1.96"
+    7d: "15.29"
+  isMineable: false
+- id: aurora
+  rank: 56
+  symbol: AOA
+  name: Aurora
+  marketCap:
+    BTC: "15146.2945569"
+    USD: "171458470.744"
+  price:
+    BTC: "2.31512232092e-06"
+    USD: "0.0262075540151"
+  volume:
+    BTC: "336.709192454"
+    USD: "3811601.77536"
+  supply:
+    AOA: "6542330148.21"
+  change:
+    1h: "-5.08"
+    24h: "-4.37"
+    7d: "-7.82"
   isMineable: false
 - id: digibyte
   rank: 57
   symbol: DGB
   name: DigiByte
   marketCap:
-    BTC: "14959.5288509"
-    USD: "169819664.005"
+    BTC: "14858.8094052"
+    USD: "167887292.519"
   price:
-    BTC: "1.25150910247e-06"
-    USD: "0.0142070554093"
+    BTC: "1.24307755749e-06"
+    USD: "0.0140453329622"
   volume:
-    BTC: "114.273265575"
-    USD: "1297223.1785"
+    BTC: "109.289840688"
+    USD: "1234848.29455"
   supply:
-    DGB: "11953192207.2"
+    DGB: "11953244039.9"
   change:
-    1h: "0.97"
-    24h: "3.64"
-    7d: "13.95"
+    1h: "-0.85"
+    24h: "2.49"
+    7d: "12.79"
   isMineable: true
 - id: icon
   rank: 58
   symbol: ICX
   name: ICON
   marketCap:
-    BTC: "14454.4993243"
-    USD: "164026781.129"
+    BTC: "14433.5618453"
+    USD: "163390222.742"
   price:
-    BTC: "3.05329428223e-05"
-    USD: "0.346481757492"
+    BTC: "3.04887155658e-05"
+    USD: "0.345137124211"
   volume:
-    BTC: "941.711190433"
-    USD: "10686351.1392"
+    BTC: "963.008516343"
+    USD: "10901410.0382"
   supply:
     ICX: "473406687.604"
   change:
-    1h: "-1.17"
-    24h: "1.03"
-    7d: "-3.91"
+    1h: "-1.52"
+    24h: "0.46"
+    7d: "-4.19"
   isMineable: false
 - id: iostoken
   rank: 59
   symbol: IOST
   name: IOST
   marketCap:
-    BTC: "14339.3148225"
-    USD: "162719690.33"
+    BTC: "14330.8262919"
+    USD: "162227239.887"
   price:
-    BTC: "1.19355384303e-06"
-    USD: "0.0135442114309"
+    BTC: "1.19284728777e-06"
+    USD: "0.013503221598"
   volume:
-    BTC: "4982.52245764"
-    USD: "56540673.0663"
+    BTC: "5032.84564621"
+    USD: "56972615.6283"
   supply:
     IOST: "12013965608.8"
   change:
-    1h: "0.13"
-    24h: "9.98"
-    7d: "8.22"
+    1h: "0.46"
+    24h: "9.63"
+    7d: "8.18"
   isMineable: false
 - id: komodo
   rank: 60
   symbol: KMD
   name: Komodo
   marketCap:
-    BTC: "13633.1112139"
-    USD: "154705832.353"
+    BTC: "13653.6907674"
+    USD: "154270851.272"
   price:
-    BTC: "0.000118947290583"
-    USD: "1.3497901768"
+    BTC: "0.000119126788805"
+    USD: "1.34599438579"
   volume:
-    BTC: "365.012855323"
-    USD: "4142093.22551"
+    BTC: "372.910388239"
+    USD: "4213454.37083"
   supply:
-    KMD: "114614726.801"
+    KMD: "114614780.641"
   change:
-    1h: "-0.27"
-    24h: "0.70"
-    7d: "-14.18"
+    1h: "-0.03"
+    24h: "0.54"
+    7d: "-14.30"
   isMineable: true
-- id: thorecoin
-  rank: 61
-  symbol: THR
-  name: ThoreCoin
-  marketCap:
-    BTC: "13406.546326"
-    USD: "152134819.102"
-  price:
-    BTC: "0.15465638051"
-    USD: "1755.0098213"
-  volume:
-    BTC: "15.9668314552"
-    USD: "181188.425118"
-  supply:
-    THR: "86686.0215"
-  change:
-    1h: "1.01"
-    24h: "5.42"
-    7d: "25.32"
-  isMineable: false
 - id: aeternity
-  rank: 62
+  rank: 61
   symbol: AE
   name: Aeternity
   marketCap:
-    BTC: "13333.1398431"
-    USD: "151301816.946"
+    BTC: "13383.5371428"
+    USD: "151503775.594"
   price:
-    BTC: "4.91761496048e-05"
-    USD: "0.558041157084"
+    BTC: "4.93614858371e-05"
+    USD: "0.558779894542"
   volume:
-    BTC: "5406.24381131"
-    USD: "61348978.6449"
+    BTC: "5337.4023479"
+    USD: "60420246.0788"
   supply:
-    AE: "271130211.5"
+    AE: "271133190.5"
   change:
-    1h: "-1.64"
-    24h: "-7.23"
-    7d: "6.24"
+    1h: "-0.33"
+    24h: "-7.01"
+    7d: "6.58"
   isMineable: true
-- id: kucoin-shares
-  rank: 63
-  symbol: KCS
-  name: KuCoin Shares
+- id: thorecoin
+  rank: 62
+  symbol: THR
+  name: ThoreCoin
   marketCap:
-    BTC: "13231.2668379"
-    USD: "150145782.361"
+    BTC: "13376.4178528"
+    USD: "151423184.096"
   price:
-    BTC: "0.00014757253143"
-    USD: "1.674623712"
+    BTC: "0.154308821899"
+    USD: "1746.8004815"
   volume:
-    BTC: "2116.94467465"
-    USD: "24022666.785"
+    BTC: "15.9309492644"
+    USD: "180340.887211"
   supply:
-    KCS: "89659414.9987"
+    THR: "86686.0215"
   change:
-    1h: "1.03"
-    24h: "-1.82"
-    7d: "3.08"
+    1h: "0.08"
+    24h: "4.89"
+    7d: "24.76"
   isMineable: false
 - id: paxos-standard-token
-  rank: 64
+  rank: 63
   symbol: PAX
   name: Paxos Standard Token
   marketCap:
-    BTC: "13188.7319865"
-    USD: "149663105.334"
+    BTC: "13262.65432"
+    USD: "150135362.755"
   price:
-    BTC: "8.80372128805e-05"
-    USD: "0.999028767749"
+    BTC: "8.85306580591e-05"
+    USD: "1.00218117294"
   volume:
-    BTC: "12392.0718368"
-    USD: "140622764.533"
+    BTC: "12582.3285357"
+    USD: "142433966.342"
   supply:
     PAX: "149808604.282"
   change:
-    1h: "0.07"
-    24h: "-0.33"
-    7d: "-0.20"
+    1h: "0.23"
+    24h: "-0.01"
+    7d: "0.12"
+  isMineable: false
+- id: kucoin-shares
+  rank: 64
+  symbol: KCS
+  name: KuCoin Shares
+  marketCap:
+    BTC: "13093.9924456"
+    USD: "147946910.147"
+  price:
+    BTC: "0.000146041466429"
+    USD: "1.65009899015"
+  volume:
+    BTC: "2000.87837016"
+    USD: "22607602.2019"
+  supply:
+    KCS: "89659414.9987"
+  change:
+    1h: "-0.77"
+    24h: "-4.13"
+    7d: "1.56"
   isMineable: false
 - id: verge
   rank: 65
   symbol: XVG
   name: Verge
   marketCap:
-    BTC: "12814.8427271"
-    USD: "145420284.441"
+    BTC: "13027.7567365"
+    USD: "147198523.545"
   price:
-    BTC: "8.11811076148e-07"
-    USD: "0.00921227049918"
+    BTC: "8.2529757531e-07"
+    USD: "0.00932490428156"
   volume:
-    BTC: "330.157084708"
-    USD: "3746556.8787"
+    BTC: "335.209379988"
+    USD: "3787476.75527"
   supply:
-    XVG: "15785498749.1"
+    XVG: "15785526489.1"
   change:
-    1h: "0.57"
-    24h: "-0.72"
-    7d: "0.57"
+    1h: "1.49"
+    24h: "0.29"
+    7d: "1.94"
   isMineable: true
 - id: gxchain
   rank: 66
   symbol: GXC
   name: GXChain
   marketCap:
-    BTC: "12563.5421552"
-    USD: "142568575.574"
+    BTC: "12712.5390093"
+    USD: "143636929.253"
   price:
-    BTC: "0.000209392369254"
-    USD: "2.37614292623"
+    BTC: "0.000211875650155"
+    USD: "2.39394882088"
   volume:
-    BTC: "4757.39132355"
-    USD: "53985929.7694"
+    BTC: "4803.07462422"
+    USD: "54269166.0171"
   supply:
     GXC: "60000000.0"
   change:
-    1h: "-0.19"
-    24h: "-10.33"
-    7d: "0.99"
+    1h: "0.13"
+    24h: "-9.05"
+    7d: "1.43"
   isMineable: false
 - id: energi
   rank: 67
   symbol: NRG
   name: Energi
   marketCap:
-    BTC: "12481.3014314"
-    USD: "141635324.211"
+    BTC: "12514.7129033"
+    USD: "141668546.596"
   price:
-    BTC: "0.000712311516082"
-    USD: "8.08316929718"
+    BTC: "0.000714205475088"
+    USD: "8.08491991851"
   volume:
-    BTC: "178.07786664"
-    USD: "2020792.18381"
+    BTC: "166.485275777"
+    USD: "1884639.88197"
   supply:
-    NRG: "17522251.36"
+    NRG: "17522566.46"
   change:
-    1h: "2.90"
-    24h: "41.74"
-    7d: "92.31"
+    1h: "0.91"
+    24h: "41.59"
+    7d: "92.64"
   isMineable: true
-- id: insight-chain
-  rank: 68
-  symbol: INB
-  name: Insight Chain
-  marketCap:
-    BTC: "12429.5757334"
-    USD: "141048351.286"
-  price:
-    BTC: "3.55229500123e-05"
-    USD: "0.40310736581"
-  volume:
-    BTC: "0.195046335425"
-    USD: "2213.34698996"
-  supply:
-    INB: "349902689.082"
-  change:
-    1h: "4.81"
-    24h: "15.43"
-    7d: "122.37"
-  isMineable: false
 - id: metaverse
-  rank: 69
+  rank: 68
   symbol: ETP
   name: Metaverse ETP
   marketCap:
-    BTC: "12414.9145113"
-    USD: "140881978.656"
+    BTC: "12447.299732"
+    USD: "140640033.409"
   price:
-    BTC: "0.000173231714706"
-    USD: "1.96579901629"
+    BTC: "0.000173683602417"
+    USD: "1.9624230293"
   volume:
-    BTC: "3081.53148422"
-    USD: "34968605.8966"
+    BTC: "3188.18301441"
+    USD: "36022766.0069"
   supply:
     ETP: "71666522.1054"
   change:
-    1h: "1.12"
-    24h: "7.00"
-    7d: "0.44"
+    1h: "0.48"
+    24h: "7.04"
+    7d: "-0.04"
   isMineable: true
+- id: insight-chain
+  rank: 69
+  symbol: INB
+  name: Insight Chain
+  marketCap:
+    BTC: "12139.7100478"
+    USD: "137423454.445"
+  price:
+    BTC: "3.4694532013e-05"
+    USD: "0.392747637366"
+  volume:
+    BTC: "0.190371317101"
+    USD: "2155.0336804"
+  supply:
+    INB: "349902689.082"
+  change:
+    1h: "2.51"
+    24h: "12.47"
+    7d: "119.06"
+  isMineable: false
 - id: siacoin
   rank: 70
   symbol: SC
   name: Siacoin
   marketCap:
-    BTC: "11929.8481914"
-    USD: "135426912.952"
+    BTC: "11900.0940337"
+    USD: "134457244.424"
   price:
-    BTC: "2.89402761283e-07"
-    USD: "0.00328528258966"
+    BTC: "2.88679137576e-07"
+    USD: "0.00326173904603"
   volume:
-    BTC: "188.976037556"
-    USD: "2145244.51423"
+    BTC: "194.982416769"
+    USD: "2203074.89972"
   supply:
-    SC: "41222302574.0"
+    SC: "41222563340.0"
   change:
-    1h: "1.71"
-    24h: "2.22"
-    7d: "3.69"
+    1h: "0.45"
+    24h: "1.27"
+    7d: "3.07"
   isMineable: true
 - id: steem
   rank: 71
   symbol: STEEM
   name: Steem
   marketCap:
-    BTC: "11555.5162988"
-    USD: "131177520.016"
+    BTC: "11631.9155153"
+    USD: "131427138.57"
   price:
-    BTC: "3.63155984908e-05"
-    USD: "0.412252471007"
+    BTC: "3.65555758568e-05"
+    USD: "0.41303555956"
   volume:
-    BTC: "124.638298372"
-    USD: "1414886.40202"
+    BTC: "127.825757646"
+    USD: "1444282.63263"
   supply:
-    STEEM: "318197049.725"
+    STEEM: "318198120.059"
   change:
-    1h: "-1.11"
-    24h: "1.46"
-    7d: "0.05"
+    1h: "0.19"
+    24h: "1.73"
+    7d: "0.34"
   isMineable: false
-- id: abbc-coin
-  rank: 72
-  symbol: ABBC
-  name: ABBC Coin
-  marketCap:
-    BTC: "11440.18588"
-    USD: "129820952.17"
-  price:
-    BTC: "2.26502182675e-05"
-    USD: "0.25703016832"
-  volume:
-    BTC: "6070.3982728"
-    USD: "68885671.2724"
-  supply:
-    ABBC: "505080602.09"
-  change:
-    1h: "1.06"
-    24h: "15.63"
-    7d: "43.28"
-  isMineable: true
 - id: egretia
-  rank: 73
+  rank: 72
   symbol: EGT
   name: Egretia
   marketCap:
-    BTC: "11420.1831476"
-    USD: "129593965.144"
+    BTC: "11469.8079778"
+    USD: "129840056.14"
   price:
-    BTC: "2.71754193872e-06"
-    USD: "0.0308381249873"
+    BTC: "2.72935064227e-06"
+    USD: "0.0308966846964"
   volume:
-    BTC: "2563.95872312"
-    USD: "29095293.2278"
+    BTC: "2571.80445892"
+    USD: "29113236.7668"
   supply:
     EGT: "4202394445.09"
   change:
-    1h: "-0.94"
-    24h: "10.79"
-    7d: "87.62"
+    1h: "0.90"
+    24h: "11.05"
+    7d: "88.46"
   isMineable: false
+- id: abbc-coin
+  rank: 73
+  symbol: ABBC
+  name: ABBC Coin
+  marketCap:
+    BTC: "11464.8945754"
+    USD: "129784435.641"
+  price:
+    BTC: "2.26991385691e-05"
+    USD: "0.256957869901"
+  volume:
+    BTC: "6090.22025611"
+    USD: "68942264.9003"
+  supply:
+    ABBC: "505080602.09"
+  change:
+    1h: "1.12"
+    24h: "15.39"
+    7d: "43.51"
+  isMineable: true
 - id: ardor
   rank: 74
   symbol: ARDR
   name: Ardor
   marketCap:
-    BTC: "10722.7647949"
-    USD: "121724175.463"
+    BTC: "10745.5159947"
+    USD: "121411853.257"
   price:
-    BTC: "1.0733503719e-05"
-    USD: "0.121846083078"
+    BTC: "1.07562777043e-05"
+    USD: "0.121533448079"
   volume:
-    BTC: "207.319007412"
-    USD: "2353472.79528"
+    BTC: "215.961849263"
+    USD: "2440118.12598"
   supply:
     ARDR: "998999495.0"
   change:
     1h: "-0.15"
-    24h: "4.60"
-    7d: "14.16"
+    24h: "4.38"
+    7d: "13.54"
   isMineable: false
 - id: theta
   rank: 75
   symbol: THETA
   name: THETA
   marketCap:
-    BTC: "10491.8028184"
-    USD: "119058889.964"
+    BTC: "10500.3889917"
+    USD: "118866078.562"
   price:
-    BTC: "1.20525794336e-05"
-    USD: "0.136770272317"
+    BTC: "1.20624428992e-05"
+    USD: "0.136548777996"
   volume:
-    BTC: "448.235622713"
-    USD: "5086488.62417"
+    BTC: "459.700433829"
+    USD: "5203882.24909"
   supply:
     THETA: "870502690.0"
   change:
-    1h: "-0.88"
-    24h: "2.48"
-    7d: "6.06"
+    1h: "-0.05"
+    24h: "2.06"
+    7d: "6.03"
+  isMineable: false
+- id: lambda
+  rank: 76
+  symbol: LAMB
+  name: Lambda
+  marketCap:
+    BTC: "10031.6920896"
+    USD: "113560354.857"
+  price:
+    BTC: "2.00633841793e-05"
+    USD: "0.227120709714"
+  volume:
+    BTC: "4647.29361251"
+    USD: "52608105.0979"
+  supply:
+    LAMB: "500000000.0"
+  change:
+    1h: "40.74"
+    24h: "33.99"
+    7d: "143.23"
   isMineable: false
 - id: mixin
-  rank: 76
+  rank: 77
   symbol: XIN
   name: Mixin
   marketCap:
-    BTC: "9710.88120914"
-    USD: "110197146.987"
+    BTC: "9724.16117185"
+    USD: "110079055.806"
   price:
-    BTC: "0.0215286982886"
-    USD: "244.303382839"
+    BTC: "0.021558139521"
+    USD: "244.041578648"
   volume:
-    BTC: "51.3117492916"
-    USD: "582275.517234"
+    BTC: "51.8942632095"
+    USD: "587451.338463"
   supply:
     XIN: "451066.807615"
   change:
-    1h: "-0.51"
-    24h: "-0.59"
-    7d: "12.58"
+    1h: "-0.18"
+    24h: "-0.80"
+    7d: "12.48"
   isMineable: false
 - id: vestchain
-  rank: 77
+  rank: 78
   symbol: VEST
   name: VestChain
   marketCap:
-    BTC: "9700.94451233"
-    USD: "110084387.329"
+    BTC: "9679.14362196"
+    USD: "109569449.959"
   price:
-    BTC: "1.3704996203e-06"
-    USD: "0.0155521568899"
+    BTC: "1.36741970247e-06"
+    USD: "0.0154794091827"
   volume:
-    BTC: "5.86895659278"
-    USD: "66599.751185"
+    BTC: "5.33333744829"
+    USD: "60374.2307667"
   supply:
     VEST: "7078400000.0"
   change:
-    1h: "1.00"
-    24h: "3.66"
-    7d: "18.05"
+    1h: "0.08"
+    24h: "3.03"
+    7d: "17.86"
   isMineable: false
 - id: aelf
-  rank: 78
+  rank: 79
   symbol: ELF
   name: aelf
   marketCap:
-    BTC: "9667.6062061"
-    USD: "109706070.867"
+    BTC: "9585.69954853"
+    USD: "108511648.141"
   price:
-    BTC: "1.94899627167e-05"
-    USD: "0.221168217386"
+    BTC: "1.93248383138e-05"
+    USD: "0.218760252694"
   volume:
-    BTC: "1333.35746189"
-    USD: "15130675.0695"
+    BTC: "1365.19682169"
+    USD: "15454245.8177"
   supply:
     ELF: "496029999.986"
   change:
-    1h: "0.33"
-    24h: "4.79"
-    7d: "7.03"
+    1h: "-0.30"
+    24h: "3.73"
+    7d: "6.11"
   isMineable: false
 - id: status
-  rank: 79
+  rank: 80
   symbol: SNT
   name: Status
   marketCap:
-    BTC: "9299.01511561"
-    USD: "105523372.54"
+    BTC: "9315.20803068"
+    USD: "105449641.005"
   price:
-    BTC: "2.67945787494e-06"
-    USD: "0.0304059546122"
+    BTC: "2.68412377055e-06"
+    USD: "0.0303847092933"
   volume:
-    BTC: "1528.30054999"
-    USD: "17342850.4294"
+    BTC: "1506.77102591"
+    USD: "17056888.3955"
   supply:
     SNT: "3470483788.0"
   change:
-    1h: "-0.48"
-    24h: "2.14"
+    1h: "-0.07"
+    24h: "2.06"
     7d: "7.27"
   isMineable: false
 - id: enjin-coin
-  rank: 80
+  rank: 81
   symbol: ENJ
   name: Enjin Coin
   marketCap:
-    BTC: "9290.47427561"
-    USD: "105426452.788"
+    BTC: "9284.86957933"
+    USD: "105106204.897"
   price:
-    BTC: "1.20392868954e-05"
-    USD: "0.13661943124"
+    BTC: "1.20320239135e-05"
+    USD: "0.136204430226"
   volume:
-    BTC: "645.843114915"
-    USD: "7328899.11142"
+    BTC: "669.40513924"
+    USD: "7577772.9695"
   supply:
     ENJ: "771679781.064"
   change:
-    1h: "-1.21"
-    24h: "-0.38"
-    7d: "-5.34"
+    1h: "-0.78"
+    24h: "-0.74"
+    7d: "-5.49"
   isMineable: false
 - id: maidsafecoin
-  rank: 81
+  rank: 82
   symbol: MAID
   name: MaidSafeCoin
   marketCap:
-    BTC: "9123.63348444"
-    USD: "103570933.837"
+    BTC: "9116.7671198"
+    USD: "103008882.242"
   price:
-    BTC: "2.01603908023e-05"
-    USD: "0.228859533372"
+    BTC: "2.01452182732e-05"
+    USD: "0.227617574253"
   volume:
-    BTC: "64.5221162719"
-    USD: "732451.149729"
+    BTC: "64.8995017642"
+    USD: "733289.009901"
   supply:
     MAID: "452552412.0"
   change:
-    1h: "0.36"
-    24h: "19.22"
-    7d: "42.09"
-  isMineable: false
-- id: nash-exchange
-  rank: 82
-  symbol: NEX
-  name: Nash Exchange
-  marketCap:
-    BTC: "8753.56888006"
-    USD: "99333757.232"
-  price:
-    BTC: "0.000241833487594"
-    USD: "2.74427827968"
-  volume:
-    BTC: "188.108107382"
-    USD: "2134613.3592"
-  supply:
-    NEX: "36196678.0"
-  change:
-    1h: "1.50"
-    24h: "-2.81"
-    7d: "22.63"
+    1h: "-0.16"
+    24h: "18.36"
+    7d: "41.41"
   isMineable: false
 - id: crypto-com
   rank: 83
   symbol: MCO
   name: Crypto.com
   marketCap:
-    BTC: "8736.44687307"
-    USD: "99139460.1048"
+    BTC: "8962.05520876"
+    USD: "101451894.721"
   price:
-    BTC: "0.000553155647958"
-    USD: "6.27710018606"
+    BTC: "0.000567440233777"
+    USD: "6.42351397273"
   volume:
-    BTC: "728.559852959"
-    USD: "8267552.18979"
+    BTC: "771.280838954"
+    USD: "8731022.14297"
   supply:
     MCO: "15793831.095"
   change:
-    1h: "0.55"
-    24h: "1.45"
-    7d: "1.54"
+    1h: "2.74"
+    24h: "3.86"
+    7d: "3.97"
   isMineable: false
 - id: zcoin
   rank: 84
   symbol: XZC
   name: Zcoin
   marketCap:
-    BTC: "8728.70702752"
-    USD: "99087752.6553"
+    BTC: "8667.04275804"
+    USD: "97927519.1655"
   price:
-    BTC: "0.00112141302246"
-    USD: "12.7302126012"
+    BTC: "0.00111346930142"
+    USD: "12.5809101673"
   volume:
-    BTC: "262.513622717"
-    USD: "2980038.71988"
+    BTC: "264.475555847"
+    USD: "2988266.67722"
   supply:
-    XZC: "7783668.32978"
+    XZC: "7783818.32978"
   change:
-    1h: "-0.35"
-    24h: "-1.91"
-    7d: "6.92"
+    1h: "-1.71"
+    24h: "-2.97"
+    7d: "5.75"
   isMineable: true
-- id: stratis
+- id: nash-exchange
   rank: 85
+  symbol: NEX
+  name: Nash Exchange
+  marketCap:
+    BTC: "8605.15078115"
+    USD: "97411679.6621"
+  price:
+    BTC: "0.000237733163832"
+    USD: "2.69117734125"
+  volume:
+    BTC: "185.394550763"
+    USD: "2098695.89149"
+  supply:
+    NEX: "36196678.0"
+  change:
+    1h: "0.71"
+    24h: "-4.42"
+    7d: "20.42"
+  isMineable: false
+- id: stratis
+  rank: 86
   symbol: STRAT
   name: Stratis
   marketCap:
-    BTC: "8567.93468382"
-    USD: "97262674.7628"
+    BTC: "8552.046756"
+    USD: "96628197.873"
   price:
-    BTC: "8.6213287132e-05"
-    USD: "0.978688005453"
+    BTC: "8.60534030228e-05"
+    USD: "0.972303530625"
   volume:
-    BTC: "225.73625336"
-    USD: "2562544.25401"
+    BTC: "229.319281375"
+    USD: "2591041.59846"
   supply:
-    STRAT: "99380675.1701"
+    STRAT: "99380692.1701"
   change:
-    1h: "-0.36"
-    24h: "2.08"
-    7d: "0.18"
+    1h: "-0.24"
+    24h: "1.52"
+    7d: "-0.40"
   isMineable: false
 - id: solve
-  rank: 86
+  rank: 87
   symbol: SOLVE
   name: SOLVE
   marketCap:
-    BTC: "8556.98789045"
-    USD: "97102995.2918"
+    BTC: "8509.15962869"
+    USD: "96325044.5025"
   price:
-    BTC: "2.6319345989e-05"
-    USD: "0.298666699354"
+    BTC: "2.61722371482e-05"
+    USD: "0.296273899896"
   volume:
-    BTC: "231.286162529"
-    USD: "2624589.33432"
+    BTC: "237.275294821"
+    USD: "2685994.191"
   supply:
     SOLVE: "325121600.439"
   change:
-    1h: "-0.66"
-    24h: "-1.19"
-    7d: "-20.15"
+    1h: "-0.90"
+    24h: "-1.91"
+    7d: "-20.74"
   isMineable: false
 - id: golem-network-tokens
-  rank: 87
+  rank: 88
   symbol: GNT
   name: Golem
   marketCap:
-    BTC: "8382.74510475"
-    USD: "95125722.8431"
+    BTC: "8327.43178578"
+    USD: "94267856.3288"
   price:
-    BTC: "8.69173633133e-06"
-    USD: "0.0986320937769"
+    BTC: "8.63438414203e-06"
+    USD: "0.0977426059711"
   volume:
-    BTC: "124.189646123"
-    USD: "1409279.38396"
+    BTC: "125.280707537"
+    USD: "1418197.59593"
   supply:
     GNT: "964450000.0"
   change:
-    1h: "0.38"
-    24h: "0.66"
-    7d: "1.08"
+    1h: "-0.81"
+    24h: "-0.25"
+    7d: "0.29"
   isMineable: false
 - id: wax
-  rank: 88
+  rank: 89
   symbol: WAX
   name: WAX
   marketCap:
-    BTC: "8285.26546291"
-    USD: "94019543.271"
+    BTC: "8060.38194613"
+    USD: "91244809.5402"
   price:
-    BTC: "8.78773345953e-06"
-    USD: "0.0997214500792"
+    BTC: "8.54921166276e-06"
+    USD: "0.0967784399178"
   volume:
-    BTC: "122.440129983"
-    USD: "1389426.22305"
+    BTC: "125.569010275"
+    USD: "1421461.22892"
   supply:
     WAX: "942821661.702"
   change:
-    1h: "1.09"
-    24h: "2.76"
-    7d: "3.53"
-  isMineable: false
-- id: dai
-  rank: 89
-  symbol: DAI
-  name: Dai
-  marketCap:
-    BTC: "7642.53434965"
-    USD: "86725958.5347"
-  price:
-    BTC: "8.85414964691e-05"
-    USD: "1.00475127753"
-  volume:
-    BTC: "1878.93384649"
-    USD: "21321767.2837"
-  supply:
-    DAI: "86315847.9857"
-  change:
-    1h: "0.31"
-    24h: "1.54"
-    7d: "0.51"
+    1h: "-3.16"
+    24h: "-0.55"
+    7d: "0.46"
   isMineable: false
 - id: educare
   rank: 90
   symbol: EKT
   name: EDUCare
   marketCap:
-    BTC: "7630.13174753"
-    USD: "86585216.2751"
+    BTC: "7572.17430762"
+    USD: "85718221.1869"
   price:
-    BTC: "1.08691424767e-05"
-    USD: "0.123340865297"
+    BTC: "1.0786239242e-05"
+    USD: "0.122101948999"
   volume:
-    BTC: "364.874982343"
-    USD: "4140528.67039"
+    BTC: "365.283119608"
+    USD: "4135063.18927"
   supply:
-    EKT: "701999423.035"
+    EKT: "702021727.66"
   change:
-    1h: "3.83"
-    24h: "20.00"
-    7d: "71.66"
+    1h: "-0.26"
+    24h: "18.20"
+    7d: "69.84"
+  isMineable: false
+- id: dai
+  rank: 91
+  symbol: DAI
+  name: Dai
+  marketCap:
+    BTC: "7565.21203618"
+    USD: "85639407.1629"
+  price:
+    BTC: "8.76447759296e-05"
+    USD: "0.9921528459"
+  volume:
+    BTC: "1887.95186321"
+    USD: "21371916.2852"
+  supply:
+    DAI: "86316747.9857"
+  change:
+    1h: "-0.99"
+    24h: "0.26"
+    7d: "-0.68"
   isMineable: false
 - id: nebulas-token
-  rank: 91
+  rank: 92
   symbol: NAS
   name: Nebulas
   marketCap:
-    BTC: "7275.1552022"
-    USD: "82557013.0972"
+    BTC: "7301.21041492"
+    USD: "82495199.6658"
   price:
-    BTC: "0.000149609234757"
-    USD: "1.69773581594"
+    BTC: "0.000150145044692"
+    USD: "1.69646465953"
   volume:
-    BTC: "2204.08034573"
-    USD: "25011465.0358"
+    BTC: "2222.78232244"
+    USD: "25114859.1921"
   supply:
     NAS: "48627714.82"
   change:
-    1h: "-1.90"
-    24h: "-4.24"
-    7d: "10.08"
+    1h: "-0.94"
+    24h: "-5.35"
+    7d: "10.05"
   isMineable: false
 - id: grin
-  rank: 92
+  rank: 93
   symbol: GRIN
   name: Grin
   marketCap:
-    BTC: "7112.93324985"
-    USD: "80716150.6728"
+    BTC: "7150.72080243"
+    USD: "80947300.271"
   price:
-    BTC: "0.000514678068116"
-    USD: "5.84046426907"
+    BTC: "0.000517351658211"
+    USD: "5.85650330645"
   volume:
-    BTC: "4284.69130743"
-    USD: "48621824.0786"
+    BTC: "4264.75320879"
+    USD: "48277686.6993"
   supply:
-    GRIN: "13820160.0"
+    GRIN: "13821780.0"
   change:
-    1h: "0.16"
-    24h: "-0.30"
-    7d: "0.31"
+    1h: "0.19"
+    24h: "0.25"
+    7d: "1.08"
   isMineable: true
-- id: lambda
-  rank: 93
-  symbol: LAMB
-  name: Lambda
-  marketCap:
-    BTC: "7094.856063"
-    USD: "80511014.3545"
-  price:
-    BTC: "1.4189712126e-05"
-    USD: "0.161022028709"
-  volume:
-    BTC: "3839.88582556"
-    USD: "43574260.0099"
-  supply:
-    LAMB: "500000000.0"
-  change:
-    1h: "-0.44"
-    24h: "-4.19"
-    7d: "72.14"
-  isMineable: false
 - id: truechain
   rank: 94
   symbol: "TRUE"
   name: TrueChain
   marketCap:
-    BTC: "6793.55430363"
-    USD: "77091901.9643"
+    BTC: "6828.09847968"
+    USD: "77295164.1082"
   price:
-    BTC: "8.53723901959e-05"
-    USD: "0.968788890364"
+    BTC: "8.58064956354e-05"
+    USD: "0.971343219701"
   volume:
-    BTC: "5069.47572597"
-    USD: "57527401.447"
+    BTC: "5078.27124818"
+    USD: "57486840.6895"
   supply:
     "TRUE": "79575542.96"
   change:
-    1h: "-0.21"
-    24h: "-0.40"
-    7d: "-6.51"
+    1h: "0.44"
+    24h: "-0.06"
+    7d: "-6.16"
   isMineable: false
 - id: project-pai
   rank: 95
   symbol: PAI
   name: Project Pai
   marketCap:
-    BTC: "6729.69096812"
-    USD: "76367193.545"
+    BTC: "6789.27846745"
+    USD: "76855715.3766"
   price:
-    BTC: "4.62928362795e-06"
-    USD: "0.0525321891399"
+    BTC: "4.67026633801e-06"
+    USD: "0.0528681600155"
   volume:
-    BTC: "347.153203914"
-    USD: "3939425.45634"
+    BTC: "363.072917269"
+    USD: "4110043.34619"
   supply:
-    PAI: "1453721895.0"
+    PAI: "1453724044.0"
   change:
-    1h: "-0.77"
-    24h: "5.40"
-    7d: "3.88"
+    1h: "0.91"
+    24h: "6.27"
+    7d: "4.78"
   isMineable: false
 - id: odem
   rank: 96
   symbol: ODE
   name: ODEM
   marketCap:
-    BTC: "6556.89201567"
-    USD: "74406305.4287"
+    BTC: "6590.18205818"
+    USD: "74601912.261"
   price:
-    BTC: "2.85170907171e-05"
-    USD: "0.323606269062"
+    BTC: "2.86618750387e-05"
+    USD: "0.324456998"
   volume:
-    BTC: "404.100761156"
-    USD: "4585655.00036"
+    BTC: "409.379321369"
+    USD: "4634239.22808"
   supply:
     ODE: "229928504.304"
   change:
-    1h: "0.08"
-    24h: "14.42"
-    7d: "18.43"
+    1h: "0.32"
+    24h: "14.68"
+    7d: "18.96"
   isMineable: false
 - id: santiment
   rank: 97
   symbol: SAN
   name: Santiment Network Token
   marketCap:
-    BTC: "6381.89748308"
-    USD: "72420502.3062"
+    BTC: "6417.17191177"
+    USD: "72506591.1079"
   price:
-    BTC: "0.000101849021728"
-    USD: "1.15576242528"
+    BTC: "0.000102411968103"
+    USD: "1.15713632078"
   volume:
-    BTC: "7.49108789598"
-    USD: "85007.3743244"
+    BTC: "7.54665049494"
+    USD: "85268.3875696"
   supply:
     SAN: "62660370.957"
   change:
-    1h: "0.62"
-    24h: "-3.41"
-    7d: "8.29"
+    1h: "0.67"
+    24h: "-3.34"
+    7d: "8.40"
   isMineable: false
-- id: quant
+- id: reddcoin
   rank: 98
-  symbol: QNT
-  name: Quant
+  symbol: RDD
+  name: ReddCoin
   marketCap:
-    BTC: "6314.84856858"
-    USD: "71659644.5704"
+    BTC: "6342.28478368"
+    USD: "71660453.5185"
   price:
-    BTC: "0.000645872583204"
-    USD: "7.32923351171"
+    BTC: "2.20151616819e-07"
+    USD: "0.0024874576343"
   volume:
-    BTC: "775.56989917"
-    USD: "8801012.83673"
+    BTC: "33.8773914203"
+    USD: "382775.185283"
   supply:
-    QNT: "9777235.84"
+    RDD: "28808713173.8"
   change:
-    1h: "0.49"
-    24h: "22.10"
-    7d: "82.18"
+    1h: "4.29"
+    24h: "8.15"
+    7d: "16.57"
   isMineable: false
 - id: maximine-coin
   rank: 99
   symbol: MXM
   name: Maximine Coin
   marketCap:
-    BTC: "6305.45857053"
-    USD: "71553088.7417"
+    BTC: "6303.10423954"
+    USD: "71352145.555"
   price:
-    BTC: "3.82380750184e-06"
-    USD: "0.0433918063928"
+    BTC: "3.82237976928e-06"
+    USD: "0.0432699487902"
   volume:
-    BTC: "254.22618933"
-    USD: "2884908.19218"
+    BTC: "266.12037301"
+    USD: "3012525.07789"
   supply:
     MXM: "1649000000.0"
   change:
-    1h: "0.65"
-    24h: "0.42"
-    7d: "3.24"
+    1h: "-0.18"
+    24h: "0.08"
+    7d: "2.79"
   isMineable: false
-- id: zencash
+- id: quant
   rank: 100
-  symbol: ZEN
-  name: Horizen
+  symbol: QNT
+  name: Quant
   marketCap:
-    BTC: "6167.3856648"
-    USD: "69986264.891"
+    BTC: "6288.21296137"
+    USD: "71183573.9106"
   price:
-    BTC: "0.000914536945798"
-    USD: "10.3779832201"
+    BTC: "0.00064314833602"
+    USD: "7.28054176819"
   volume:
-    BTC: "55.1774529225"
-    USD: "626142.75256"
+    BTC: "781.461563229"
+    USD: "8846269.56594"
   supply:
-    ZEN: "6743725.0"
+    QNT: "9777235.84"
   change:
-    1h: "0.95"
-    24h: "0.42"
-    7d: "-1.02"
-  isMineable: true
+    1h: "-0.17"
+    24h: "22.13"
+    7d: "80.53"
+  isMineable: false

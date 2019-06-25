@@ -1,21 +1,21 @@
 ---
 id: bzedge
-rank: 2118
+rank: 2117
 symbol: BZE
 name: BZEdge
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.7469542592e-08"
-  USD: "0.000198240891979"
+  BTC: "1.75078091395e-08"
+  USD: "0.000198191192561"
 volume:
-  BTC: "0.0180717120464"
-  USD: "205.074191085"
+  BTC: "0.0181157871589"
+  USD: "205.073600734"
 supply:
   BZE: "0"
 change:
-  1h: "0.20"
-  24h: "-3.91"
-  7d: "-21.15"
+  1h: "0.21"
+  24h: "-3.99"
+  7d: "-19.92"
 isMineable: true

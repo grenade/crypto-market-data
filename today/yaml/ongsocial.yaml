@@ -1,14 +1,14 @@
 ---
 id: ongsocial
-rank: 1298
+rank: 1299
 symbol: ONG
 name: SoMee.Social
 marketCap:
-  BTC: "60.113646302"
-  USD: "682157.69247"
+  BTC: "60.2340768082"
+  USD: "680575.125297"
 price:
-  BTC: "1.23723987646e-06"
-  USD: "0.0140399518425"
+  BTC: "1.23971853869e-06"
+  USD: "0.0140073799502"
 volume:
   BTC: "0.0"
   USD: "0.0"
@@ -16,6 +16,6 @@ supply:
   ONG: "48586896.887"
 change:
   1h: "0.09"
-  24h: "14.29"
-  7d: "14.32"
+  24h: "13.97"
+  7d: "14.15"
 isMineable: false

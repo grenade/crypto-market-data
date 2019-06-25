@@ -1,21 +1,21 @@
 ---
 id: memetic
-rank: 875
+rank: 881
 symbol: MEME
 name: Memetic / PepeCoin
 marketCap:
-  BTC: "77.3412988182"
-  USD: "877973.732329"
+  BTC: "74.9832952266"
+  USD: "847224.166923"
 price:
-  BTC: "2.58893210077e-06"
-  USD: "0.0293894001522"
+  BTC: "2.51e-06"
+  USD: "0.028360085437"
 volume:
-  BTC: "3.41256120397"
-  USD: "38739.1877668"
+  BTC: "3.4211697102"
+  USD: "38655.2451298"
 supply:
   MEME: "29873822.7995"
 change:
-  1h: "-0.98"
-  24h: "-5.50"
-  7d: "-11.34"
+  1h: "-3.82"
+  24h: "-8.83"
+  7d: "-14.59"
 isMineable: true

@@ -1,21 +1,21 @@
 ---
 id: read
-rank: 2030
+rank: 2031
 symbol: READ
 name: Read
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "3.10113052768e-07"
-  USD: "0.00351910119406"
+  BTC: "3.09416137055e-07"
+  USD: "0.00350264003405"
 volume:
-  BTC: "2.14081138413"
-  USD: "24293.5014535"
+  BTC: "2.13600034803"
+  USD: "24179.8647057"
 supply:
   READ: "0"
 change:
-  1h: "-1.63"
-  24h: "5.60"
-  7d: "15.98"
+  1h: "0.08"
+  24h: "5.36"
+  7d: "15.76"
 isMineable: false

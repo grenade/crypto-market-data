@@ -1,21 +1,21 @@
 ---
 id: exclusivecoin
-rank: 824
+rank: 803
 symbol: EXCL
 name: ExclusiveCoin
 marketCap:
-  BTC: "104.568494827"
-  USD: "1187055.2097"
+  BTC: "111.633672708"
+  USD: "1261330.87477"
 price:
-  BTC: "1.87856898351e-05"
-  USD: "0.213254011387"
+  BTC: "2.00549463213e-05"
+  USD: "0.226597606019"
 volume:
-  BTC: "10.9561783817"
-  USD: "124373.87234"
+  BTC: "16.4201758151"
+  USD: "185528.919923"
 supply:
   EXCL: "5566391.0"
 change:
-  1h: "-14.73"
-  24h: "-10.88"
-  7d: "-33.74"
+  1h: "-6.83"
+  24h: "-4.67"
+  7d: "-30.70"
 isMineable: true

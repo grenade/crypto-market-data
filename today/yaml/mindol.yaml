@@ -1,21 +1,21 @@
 ---
 id: mindol
-rank: 1898
+rank: 1896
 symbol: MIN
 name: MINDOL
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "6.78549310015e-05"
-  USD: "0.770004250317"
+  BTC: "6.44320378686e-05"
+  USD: "0.729380947815"
 volume:
-  BTC: "128.986346782"
-  USD: "1463711.38824"
+  BTC: "131.56174513"
+  USD: "1489299.94353"
 supply:
   MIN: "0"
 change:
-  1h: "0.72"
-  24h: "6.19"
-  7d: "1.26"
+  1h: "-4.94"
+  24h: "1.03"
+  7d: "-3.97"
 isMineable: false

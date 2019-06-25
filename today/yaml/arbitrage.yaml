@@ -1,21 +1,21 @@
 ---
 id: arbitrage
-rank: 1305
+rank: 1306
 symbol: ARB
 name: ARBITRAGE
 marketCap:
-  BTC: "56.2180867966"
-  USD: "637951.658622"
+  BTC: "56.1029163136"
+  USD: "635093.963028"
 price:
-  BTC: "1.1592239305e-05"
-  USD: "0.13154642417"
+  BTC: "1.15684910084e-05"
+  USD: "0.13095716379"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   ARB: "4849631.31949"
 change:
-  1h: "0.25"
-  24h: "-10.55"
-  7d: "-36.89"
+  1h: "-3.08"
+  24h: "-10.98"
+  7d: "-37.17"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: insurchain
-rank: 1968
+rank: 1957
 symbol: INSUR
 name: InsurChain
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.4551306338e-08"
-  USD: "0.000278603337327"
+  BTC: "2.49414745283e-08"
+  USD: "0.000282341470689"
 volume:
-  BTC: "11.9107713431"
-  USD: "135161.062334"
+  BTC: "14.4465982787"
+  USD: "163537.797248"
 supply:
   INSUR: "0"
 change:
-  1h: "10.26"
-  24h: "20.93"
-  7d: "26.65"
+  1h: "10.98"
+  24h: "22.37"
+  7d: "28.55"
 isMineable: false

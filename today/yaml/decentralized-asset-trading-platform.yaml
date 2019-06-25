@@ -1,21 +1,21 @@
 ---
 id: decentralized-asset-trading-platform
-rank: 1141
+rank: 1140
 symbol: DATP
 name: Decentralized Asset Trading Platform
 marketCap:
-  BTC: "3.10816222616"
-  USD: "35270.8062553"
+  BTC: "3.0823473815"
+  USD: "34892.6640996"
 price:
-  BTC: "2.6294408988e-10"
-  USD: "2.98383719231e-06"
+  BTC: "2.60760207463e-10"
+  USD: "2.95184714876e-06"
 volume:
-  BTC: "2.97411272239"
-  USD: "33749.6391694"
+  BTC: "3.00361376876"
+  USD: "34001.3870428"
 supply:
   DATP: "11820620222.2"
 change:
-  1h: "0.50"
-  24h: "-0.32"
-  7d: "-44.05"
+  1h: "-0.20"
+  24h: "-1.12"
+  7d: "-44.50"
 isMineable: false

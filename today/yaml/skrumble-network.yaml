@@ -1,21 +1,21 @@
 ---
 id: skrumble-network
-rank: 444
+rank: 449
 symbol: SKM
 name: Skrumble Network
 marketCap:
-  BTC: "593.002576579"
-  USD: "6729275.20044"
+  BTC: "585.1441961"
+  USD: "6623925.65062"
 price:
-  BTC: "5.89681018191e-07"
-  USD: "0.00669158281701"
+  BTC: "5.81866654501e-07"
+  USD: "0.00658682335684"
 volume:
-  BTC: "183.007345474"
-  USD: "2076730.92839"
+  BTC: "183.596222333"
+  USD: "2078338.52676"
 supply:
   SKM: "1005632805.34"
 change:
-  1h: "0.52"
-  24h: "25.14"
-  7d: "22.69"
+  1h: "-1.15"
+  24h: "22.64"
+  7d: "20.81"
 isMineable: false

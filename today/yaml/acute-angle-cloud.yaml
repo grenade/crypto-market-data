@@ -1,21 +1,21 @@
 ---
 id: acute-angle-cloud
-rank: 731
+rank: 725
 symbol: AAC
 name: Acute Angle Cloud
 marketCap:
-  BTC: "160.736931692"
-  USD: "1824010.70577"
+  BTC: "164.586742545"
+  USD: "1863148.18289"
 price:
-  BTC: "6.42947726768e-07"
-  USD: "0.00729604282307"
+  BTC: "6.58346970179e-07"
+  USD: "0.00745259273157"
 volume:
-  BTC: "253.988939889"
-  USD: "2882215.93275"
+  BTC: "262.086927732"
+  USD: "2966865.83387"
 supply:
   AAC: "250000000.0"
 change:
-  1h: "-3.25"
-  24h: "-6.83"
-  7d: "-16.45"
+  1h: "-1.45"
+  24h: "-4.53"
+  7d: "-14.57"
 isMineable: false

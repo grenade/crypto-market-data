@@ -1,21 +1,21 @@
 ---
 id: spankchain
-rank: 569
+rank: 565
 symbol: SPANK
 name: SpankChain
 marketCap:
-  BTC: "342.567956968"
-  USD: "3887392.98669"
+  BTC: "344.47253212"
+  USD: "3899484.01888"
 price:
-  BTC: "1.14172807318e-06"
-  USD: "0.0129561029107"
+  BTC: "1.14807573902e-06"
+  USD: "0.0129964005235"
 volume:
-  BTC: "0.25382837346"
-  USD: "2880.39385687"
+  BTC: "0.255238764549"
+  USD: "2889.34353412"
 supply:
   SPANK: "300043386.0"
 change:
-  1h: "0.13"
-  24h: "-3.66"
-  7d: "-0.38"
+  1h: "0.31"
+  24h: "-3.39"
+  7d: "0.90"
 isMineable: false

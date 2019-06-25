@@ -1,21 +1,21 @@
 ---
 id: lightning-bitcoin
-rank: 246
+rank: 247
 symbol: LBTC
 name: Lightning Bitcoin
 marketCap:
-  BTC: "1552.83784101"
-  USD: "17621294.7237"
+  BTC: "1551.75174596"
+  USD: "17566077.3224"
 price:
-  BTC: "0.000402205443275"
-  USD: "4.56414731033"
+  BTC: "0.000401924130361"
+  USD: "4.5498452765"
 volume:
-  BTC: "575.144372654"
-  USD: "6526623.857"
+  BTC: "581.089318124"
+  USD: "6578023.78503"
 supply:
   LBTC: "3860807.622"
 change:
-  1h: "0.75"
-  24h: "1.49"
-  7d: "-7.58"
+  1h: "0.18"
+  24h: "1.16"
+  7d: "-7.81"
 isMineable: true

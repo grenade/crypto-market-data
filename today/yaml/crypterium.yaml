@@ -1,21 +1,21 @@
 ---
 id: crypterium
-rank: 217
+rank: 218
 symbol: CRPT
 name: Crypterium
 marketCap:
-  BTC: "1870.61747591"
-  USD: "21227394.7657"
+  BTC: "1853.42183353"
+  USD: "20981030.8405"
 price:
-  BTC: "2.22769401491e-05"
-  USD: "0.252794282534"
+  BTC: "2.20721594812e-05"
+  USD: "0.249860366601"
 volume:
-  BTC: "24.8926983091"
-  USD: "282477.385461"
+  BTC: "23.4794574385"
+  USD: "265791.20399"
 supply:
   CRPT: "83971024.0"
 change:
-  1h: "0.14"
-  24h: "4.30"
-  7d: "22.16"
+  1h: "-0.82"
+  24h: "2.89"
+  7d: "20.75"
 isMineable: false

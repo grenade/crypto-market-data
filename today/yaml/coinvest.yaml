@@ -1,6 +1,6 @@
 ---
 id: coinvest
-rank: 1319
+rank: 1320
 symbol: COIN
 name: Coinvest
 marketCap:
@@ -16,6 +16,6 @@ supply:
   COIN: "11800844.7592"
 change:
   1h: "0.00"
-  24h: "0.81"
+  24h: "0.77"
   7d: "-3.50"
 isMineable: false

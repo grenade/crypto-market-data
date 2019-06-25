@@ -1,21 +1,21 @@
 ---
 id: rrcoin
-rank: 2146
+rank: 2147
 symbol: RRC
 name: RRCoin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "5.53566505011e-08"
-  USD: "0.000628176251012"
+  BTC: "5.54808952048e-08"
+  USD: "0.000628052584843"
 volume:
-  BTC: "0.000655407242071"
-  USD: "7.43743092263"
+  BTC: "0.000656878264574"
+  USD: "7.43596674982"
 supply:
   RRC: "0"
 change:
-  1h: "0.21"
-  24h: "-78.66"
-  7d: "-66.23"
+  1h: "0.23"
+  24h: "-76.66"
+  7d: "-67.88"
 isMineable: false

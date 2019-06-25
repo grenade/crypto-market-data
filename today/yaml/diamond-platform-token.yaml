@@ -1,21 +1,21 @@
 ---
 id: diamond-platform-token
-rank: 557
+rank: 554
 symbol: DPT
 name: Diamond Platform Token
 marketCap:
-  BTC: "363.22432473"
-  USD: "4121797.33635"
+  BTC: "364.224769868"
+  USD: "4123082.50139"
 price:
-  BTC: "0.00100489932905"
-  USD: "11.4033975584"
+  BTC: "0.00100766716859"
+  USD: "11.4069531063"
 volume:
-  BTC: "3.39200306276"
-  USD: "38491.7755698"
+  BTC: "3.74402426738"
+  USD: "42382.9520083"
 supply:
   DPT: "361453.445365"
 change:
-  1h: "0.15"
-  24h: "-0.81"
-  7d: "12.69"
+  1h: "0.06"
+  24h: "-0.91"
+  7d: "12.72"
 isMineable: false

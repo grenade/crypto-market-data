@@ -1,21 +1,21 @@
 ---
 id: blockmason
-rank: 451
+rank: 452
 symbol: BCPT
 name: BlockMason Credit Protocol
 marketCap:
-  BTC: "577.716257226"
-  USD: "6555809.0912"
+  BTC: "579.303876405"
+  USD: "6545461.12701"
 price:
-  BTC: "4.9735097014e-06"
-  USD: "0.0564383981025"
+  BTC: "4.98717737872e-06"
+  USD: "0.0563493133664"
 volume:
-  BTC: "85.9603176725"
-  USD: "975460.574339"
+  BTC: "87.9578725939"
+  USD: "993821.825346"
 supply:
   BCPT: "116158667.0"
 change:
-  1h: "0.09"
-  24h: "-1.84"
-  7d: "2.90"
+  1h: "0.26"
+  24h: "-2.31"
+  7d: "2.07"
 isMineable: false

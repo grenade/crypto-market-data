@@ -1,21 +1,21 @@
 ---
 id: sealblock-token
-rank: 2082
+rank: 2084
 symbol: SKT
 name: SealBlock Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "6.31065815713e-08"
-  USD: "0.000716120926154"
+  BTC: "6.32482205335e-08"
+  USD: "0.000715979946721"
 volume:
-  BTC: "0.202228265669"
-  USD: "2294.84610479"
+  BTC: "0.199276784605"
+  USD: "2255.84499328"
 supply:
   SKT: "0"
 change:
-  1h: "0.20"
-  24h: "5.55"
-  7d: "57.51"
+  1h: "0.23"
+  24h: "5.49"
+  7d: "58.17"
 isMineable: false

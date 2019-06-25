@@ -1,21 +1,21 @@
 ---
 id: digital-asset-exchange-token
-rank: 2134
+rank: 2135
 symbol: DAXT
 name: Digital Asset Exchange Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.02046238664e-07"
-  USD: "0.00229278049857"
+  BTC: "2.02499719408e-07"
+  USD: "0.00229232912942"
 volume:
-  BTC: "0.0045159571948"
-  USD: "51.2461833344"
+  BTC: "0.00452609299165"
+  USD: "51.236094734"
 supply:
   DAXT: "0"
 change:
-  1h: "0.20"
-  24h: "151.98"
-  7d: "-9.86"
+  1h: "0.23"
+  24h: "151.93"
+  7d: "-9.88"
 isMineable: false
