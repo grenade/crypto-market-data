@@ -610,16 +610,6 @@
   high: "0.0134546"
   low: "0.010689"
 - date: 2018-10-17
-  id: alt-estate-token
-  cap: "-1"
-  high: "0.00196812"
-  low: "0.00128239"
-- date: 2018-10-17
-  id: altcommunity-coin
-  cap: "-1"
-  high: "0.131005"
-  low: "0.126652"
-- date: 2018-10-17
   id: alttex
   cap: "-1"
   high: "0.00305881"
@@ -689,3 +679,13 @@
   cap: "-1"
   high: "0.00748069"
   low: "0.00634157"
+- date: 2018-10-17
+  id: alt-estate-token
+  cap: "-1"
+  high: "0.00196812"
+  low: "0.00128239"
+- date: 2018-10-17
+  id: altcommunity-coin
+  cap: "-1"
+  high: "0.131005"
+  low: "0.126652"

@@ -575,11 +575,6 @@
   high: "0.00503116"
   low: "0.0039889"
 - date: 2018-09-22
-  id: altcommunity-coin
-  cap: "-1"
-  high: "0.134119"
-  low: "0.105514"
-- date: 2018-09-22
   id: amo-coin
   cap: "-1"
   high: "0.0017018"
@@ -639,3 +634,8 @@
   cap: "-1"
   high: "0.00941341"
   low: "0.0076776"
+- date: 2018-09-22
+  id: altcommunity-coin
+  cap: "-1"
+  high: "0.134119"
+  low: "0.105514"

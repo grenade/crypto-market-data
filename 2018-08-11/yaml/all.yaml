@@ -505,11 +505,6 @@
   high: "0.0053529"
   low: "0.00478604"
 - date: 2018-08-11
-  id: altcommunity-coin
-  cap: "-1"
-  high: "0.145486"
-  low: "0.13629"
-- date: 2018-08-11
   id: animation-vision-cash
   cap: "-1"
   high: "0.00167077"
@@ -579,3 +574,8 @@
   cap: "-1"
   high: "0.0122836"
   low: "0.00899667"
+- date: 2018-08-11
+  id: altcommunity-coin
+  cap: "-1"
+  high: "0.145486"
+  low: "0.13629"

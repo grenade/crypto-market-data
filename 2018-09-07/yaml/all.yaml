@@ -565,11 +565,6 @@
   high: "0.00455983"
   low: "0.00384756"
 - date: 2018-09-07
-  id: altcommunity-coin
-  cap: "-1"
-  high: "0.249738"
-  low: "0.22846"
-- date: 2018-09-07
   id: alttex
   cap: "-1"
   high: "0.00387909"
@@ -629,3 +624,8 @@
   cap: "-1"
   high: "0.00874184"
   low: "0.00650275"
+- date: 2018-09-07
+  id: altcommunity-coin
+  cap: "-1"
+  high: "0.249738"
+  low: "0.22846"
