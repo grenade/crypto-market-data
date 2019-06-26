@@ -780,11 +780,6 @@
   high: "0.000856017"
   low: "0.000635448"
 - date: 2018-09-25
-  id: bitcoin-file
-  cap: "0"
-  high: "0.00509115"
-  low: "0.00369033"
-- date: 2018-09-25
   id: bitcoin-god
   cap: "0"
   high: "16.7084"
@@ -919,3 +914,8 @@
   cap: "-1"
   high: "0.0390448"
   low: "0.0291024"
+- date: 2018-09-25
+  id: bitcoin-file
+  cap: "-1"
+  high: "0.00509115"
+  low: "0.00369033"
