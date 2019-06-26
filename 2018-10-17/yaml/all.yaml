@@ -840,16 +840,6 @@
   high: "0.00429978"
   low: "0.00235715"
 - date: 2018-10-17
-  id: bitcoinus
-  cap: "0"
-  high: "0.00939884"
-  low: "0.00659239"
-- date: 2018-10-17
-  id: bitcoinx
-  cap: "0"
-  high: "0.0134546"
-  low: "0.010689"
-- date: 2018-10-17
   id: abbc-coin
   cap: "-1"
   high: "1.00318"
@@ -989,3 +979,13 @@
   cap: "-1"
   high: "12.89"
   low: "12.193"
+- date: 2018-10-17
+  id: bitcoinus
+  cap: "-1"
+  high: "0.00939884"
+  low: "0.00659239"
+- date: 2018-10-17
+  id: bitcoinx
+  cap: "-1"
+  high: "0.0134546"
+  low: "0.010689"
