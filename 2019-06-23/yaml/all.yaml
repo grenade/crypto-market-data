@@ -815,11 +815,6 @@
   high: "0.00388915659277"
   low: "0.00294563851435"
 - date: 2019-06-23
-  id: airline-and-life-networking-token
-  cap: "-1"
-  high: "0.493755271906"
-  low: "0.485931014246"
-- date: 2019-06-23
   id: algorand
   cap: "-1"
   high: "2.20110913764"
@@ -929,3 +924,8 @@
   cap: "-1"
   high: "4.7732675981"
   low: "3.59748124998"
+- date: 2019-06-23
+  id: airline-and-life-networking-token
+  cap: "-1"
+  high: "0.493755271906"
+  low: "0.485931014246"

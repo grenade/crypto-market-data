@@ -515,11 +515,6 @@
   high: "0.00551229"
   low: "0.00490995"
 - date: 2018-08-18
-  id: airbloc
-  cap: "-1"
-  high: "0.0251855"
-  low: "0.0222621"
-- date: 2018-08-18
   id: alchemint-standards
   cap: "-1"
   high: "0.012786"
@@ -609,3 +604,8 @@
   cap: "-1"
   high: "23.6852"
   low: "22.3373"
+- date: 2018-08-18
+  id: airbloc
+  cap: "-1"
+  high: "0.0251855"
+  low: "0.0222621"
