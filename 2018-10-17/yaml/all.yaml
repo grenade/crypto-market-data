@@ -420,10 +420,20 @@
   high: "0.00259472"
   low: "0.0024682"
 - date: 2018-10-17
+  id: betterbetting
+  cap: "1187920.58255"
+  high: "0.00783186"
+  low: "0.0066385"
+- date: 2018-10-17
   id: audiocoin
   cap: "1165069.13182"
   high: "0.00142222"
   low: "0.000905814"
+- date: 2018-10-17
+  id: bethereum
+  cap: "1160064.44202"
+  high: "0.00453102"
+  low: "0.00440463"
 - date: 2018-10-17
   id: bitcoin-incognito
   cap: "1070534.86041"
