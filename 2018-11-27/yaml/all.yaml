@@ -25,6 +25,11 @@
   high: "0.360508"
   low: "0.332861"
 - date: 2018-11-27
+  id: basic-attention-token
+  cap: "166379197.578"
+  high: "0.143805"
+  low: "0.131171"
+- date: 2018-11-27
   id: bitcoin-diamond
   cap: "163182171.438"
   high: "1.08969"
@@ -849,3 +854,8 @@
   cap: "-1"
   high: "0.00250996"
   low: "0.00233357"
+- date: 2018-11-27
+  id: bastonet
+  cap: "-1"
+  high: "0.000016827"
+  low: "0.00000403352"
