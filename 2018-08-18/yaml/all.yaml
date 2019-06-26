@@ -515,11 +515,6 @@
   high: "0.00551229"
   low: "0.00490995"
 - date: 2018-08-18
-  id: alttex
-  cap: "-1"
-  high: "0.00717373"
-  low: "0.0046156"
-- date: 2018-08-18
   id: animation-vision-cash
   cap: "-1"
   high: "0.00136906"
@@ -609,3 +604,8 @@
   cap: "-1"
   high: "0.277841"
   low: "0.202584"
+- date: 2018-08-18
+  id: alttex
+  cap: "-1"
+  high: "0.00717373"
+  low: "0.0046156"
