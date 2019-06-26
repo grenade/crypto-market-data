@@ -1,11 +1,11 @@
 ---
 id: blocknode
-rank: 1688
+rank: 1704
 symbol: BND
 name: Blocknode
 marketCap:
-  BTC: "3.36111184957"
-  USD: "31398.2202447"
+  BTC: "3.36565326022"
+  USD: "31440.6443645"
 price:
   BTC: "2.00040291588e-08"
   USD: "0.000186869982738"
@@ -13,7 +13,7 @@ volume:
   BTC: "0"
   USD: "0"
 supply:
-  BND: "168021743.164"
+  BND: "168248767.961"
 change:
   1h: "0.00"
   24h: "0.00"

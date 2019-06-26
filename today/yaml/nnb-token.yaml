@@ -1,21 +1,21 @@
 ---
 id: nnb-token
-rank: 1929
+rank: 1939
 symbol: NNB
 name: NNB Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.87497474703e-07"
-  USD: "0.00212590743217"
+  BTC: "1.56129664822e-07"
+  USD: "0.0019799878598"
 volume:
-  BTC: "38.2373627727"
-  USD: "433547.672223"
+  BTC: "29.3398534575"
+  USD: "372078.898141"
 supply:
   NNB: "0"
 change:
-  1h: "0.37"
-  24h: "-6.10"
-  7d: "-7.48"
+  1h: "-2.78"
+  24h: "-8.00"
+  7d: "-17.45"
 isMineable: false

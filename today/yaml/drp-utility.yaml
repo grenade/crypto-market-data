@@ -1,21 +1,21 @@
 ---
 id: drp-utility
-rank: 1264
+rank: 844
 symbol: DRPU
 name: DCORP Utility
 marketCap:
-  BTC: "93.0145577876"
-  USD: "1054629.34908"
+  BTC: "96.6491138553"
+  USD: "1225674.00828"
 price:
-  BTC: "2.63469511299e-05"
-  USD: "0.298730312559"
+  BTC: "2.73764617073e-05"
+  USD: "0.347179774494"
 volume:
-  BTC: "0.00755161861486"
-  USD: "85.6227112588"
+  BTC: "0.234607611016"
+  USD: "2975.22077024"
 supply:
   DRPU: "3530372.73"
 change:
-  1h: "0.92"
-  24h: "8.62"
-  7d: "6.65"
+  1h: "0.93"
+  24h: "22.66"
+  7d: "27.45"
 isMineable: false

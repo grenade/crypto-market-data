@@ -1,21 +1,21 @@
 ---
 id: restart-energy-mwat
-rank: 431
+rank: 449
 symbol: MWAT
 name: Restart Energy MWAT
 marketCap:
-  BTC: "666.312493519"
-  USD: "7554868.05554"
+  BTC: "555.69733288"
+  USD: "7047180.77811"
 price:
-  BTC: "1.47170070352e-06"
-  USD: "0.0166866218786"
+  BTC: "1.22738229239e-06"
+  USD: "0.0155652805701"
 volume:
-  BTC: "1.14637953555"
-  USD: "12998.0245258"
+  BTC: "1.2278800792"
+  USD: "15571.5933476"
 supply:
   MWAT: "452750000.0"
 change:
-  1h: "-1.04"
-  24h: "-2.56"
-  7d: "-6.03"
+  1h: "-2.93"
+  24h: "-9.84"
+  7d: "-12.62"
 isMineable: false

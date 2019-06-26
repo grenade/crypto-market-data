@@ -1,21 +1,21 @@
 ---
 id: bitcash
-rank: 2073
+rank: 2076
 symbol: BITC
 name: BitCash
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "6.28022671737e-06"
-  USD: "0.0712072558595"
+  BTC: "5.47695092494e-06"
+  USD: "0.0694569885388"
 volume:
-  BTC: "0.355334257981"
-  USD: "4028.8955419"
+  BTC: "0.370082755801"
+  USD: "4693.27442957"
 supply:
   BITC: "0"
 change:
-  1h: "3.47"
-  24h: "-12.88"
-  7d: "-4.81"
+  1h: "0.84"
+  24h: "5.69"
+  7d: "-10.70"
 isMineable: false

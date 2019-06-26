@@ -1,21 +1,21 @@
 ---
 id: conun
-rank: 1969
+rank: 1916
 symbol: CON
 name: CONUN
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.95941503407e-06"
-  USD: "0.0222164857966"
+  BTC: "1.72933341183e-06"
+  USD: "0.021930868582"
 volume:
-  BTC: "12.0716371716"
-  USD: "136872.153731"
+  BTC: "62.8601406081"
+  USD: "797172.756447"
 supply:
   CON: "0"
 change:
-  1h: "0.92"
-  24h: "4.15"
-  7d: "4.00"
+  1h: "1.28"
+  24h: "-1.18"
+  7d: "2.63"
 isMineable: false

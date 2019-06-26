@@ -1,21 +1,21 @@
 ---
 id: diruna
-rank: 1956
+rank: 1954
 symbol: DRA
 name: Diruna
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "5.16223718022e-07"
-  USD: "0.00585311263815"
+  BTC: "4.90302749773e-07"
+  USD: "0.00621786700999"
 volume:
-  BTC: "16.0612363278"
-  USD: "182107.528292"
+  BTC: "17.5322471506"
+  USD: "222338.506605"
 supply:
   DRA: "0"
 change:
-  1h: "-0.69"
-  24h: "-4.14"
-  7d: "-5.11"
+  1h: "0.72"
+  24h: "4.55"
+  7d: "-1.03"
 isMineable: false

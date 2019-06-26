@@ -1,21 +1,21 @@
 ---
 id: eligma-token
-rank: 615
+rank: 644
 symbol: ELI
 name: Eligma Token
 marketCap:
-  BTC: "280.882890067"
-  USD: "3184741.68523"
+  BTC: "235.05563709"
+  USD: "2980902.4976"
 price:
-  BTC: "2.00086988411e-06"
-  USD: "0.0226865143873"
+  BTC: "1.67441934691e-06"
+  USD: "0.0212344654866"
 volume:
-  BTC: "32.2501181357"
-  USD: "365662.342608"
+  BTC: "28.5491633956"
+  USD: "362051.612646"
 supply:
   ELI: "140380387.699"
 change:
-  1h: "0.41"
-  24h: "-3.54"
-  7d: "9.57"
+  1h: "0.64"
+  24h: "-7.45"
+  7d: "2.75"
 isMineable: false

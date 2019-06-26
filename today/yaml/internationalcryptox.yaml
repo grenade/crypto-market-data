@@ -1,21 +1,21 @@
 ---
 id: internationalcryptox
-rank: 1124
+rank: 1157
 symbol: INCX
 name: InternationalCryptoX
 marketCap:
-  BTC: "7.41017940736"
-  USD: "84019.02746"
+  BTC: "7.31914402775"
+  USD: "92819.1086273"
 price:
-  BTC: "1.75754691463e-08"
-  USD: "0.000199276393141"
+  BTC: "1.73595513638e-08"
+  USD: "0.000220148432337"
 volume:
-  BTC: "4.00559036051"
-  USD: "45416.6880441"
+  BTC: "3.74792078467"
+  USD: "47529.9659524"
 supply:
   INCX: "421620575.0"
 change:
-  1h: "0.23"
-  24h: "10.55"
-  7d: "9.46"
+  1h: "1.05"
+  24h: "9.53"
+  7d: "21.43"
 isMineable: false

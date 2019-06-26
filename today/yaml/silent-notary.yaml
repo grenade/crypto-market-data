@@ -1,21 +1,21 @@
 ---
 id: silent-notary
-rank: 772
+rank: 787
 symbol: SNTR
 name: Silent Notary
 marketCap:
-  BTC: "132.586137464"
-  USD: "1503304.80708"
+  BTC: "120.109217385"
+  USD: "1523187.74618"
 price:
-  BTC: "1.58841870563e-09"
-  USD: "1.8010008599e-05"
+  BTC: "1.43894174205e-09"
+  USD: "1.82482117249e-05"
 volume:
-  BTC: "15.2685078345"
-  USD: "173119.31446"
+  BTC: "15.4226902564"
+  USD: "195585.762052"
 supply:
   SNTR: "83470521339.0"
 change:
-  1h: "6.21"
-  24h: "2.88"
-  7d: "-8.51"
+  1h: "1.59"
+  24h: "4.11"
+  7d: "-4.97"
 isMineable: false

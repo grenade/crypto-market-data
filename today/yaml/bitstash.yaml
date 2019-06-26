@@ -1,21 +1,21 @@
 ---
 id: bitstash
-rank: 2125
+rank: 2124
 symbol: STASH
 name: BitStash
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.64791977015e-09"
-  USD: "1.86846510468e-05"
+  BTC: "1.25627125144e-09"
+  USD: "1.59316413655e-05"
 volume:
-  BTC: "0.00785412295117"
-  USD: "89.0526039431"
+  BTC: "0.0184714105289"
+  USD: "234.248684529"
 supply:
   STASH: "0"
 change:
-  1h: "0.86"
-  24h: "-4.62"
-  7d: "-28.28"
+  1h: "0.24"
+  24h: "-15.31"
+  7d: "-41.51"
 isMineable: false

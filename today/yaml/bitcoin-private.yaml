@@ -1,21 +1,21 @@
 ---
 id: bitcoin-private
-rank: 545
+rank: 561
 symbol: BTCP
 name: Bitcoin Private
 marketCap:
-  BTC: "380.896168614"
-  USD: "4318724.80963"
+  BTC: "335.575427061"
+  USD: "4255663.21676"
 price:
-  BTC: "8.09360561782e-05"
-  USD: "0.917679364121"
+  BTC: "7.13013441928e-05"
+  USD: "0.904221475464"
 volume:
-  BTC: "0.245700053818"
-  USD: "2785.82722954"
+  BTC: "0.25551149754"
+  USD: "3240.31735895"
 supply:
-  BTCP: "4706137.0"
+  BTCP: "4706439.0"
 change:
-  1h: "0.08"
-  24h: "-46.87"
-  7d: "-43.99"
+  1h: "6.65"
+  24h: "1.08"
+  7d: "-18.15"
 isMineable: true

@@ -1,6 +1,6 @@
 {
   "id": "crypto-harbor-exchange",
-  "rank": 2183,
+  "rank": 2193,
   "symbol": "CHE",
   "name": "Crypto Harbor Exchange",
   "marketCap": {
@@ -8,8 +8,8 @@
     "USD": ""
   },
   "price": {
-    "BTC": "9.09984475696e-09",
-    "USD": "0.000103177003483"
+    "BTC": "9.74224848858e-09",
+    "USD": "0.00012354816592"
   },
   "volume": {
     "BTC": "0.0",
@@ -19,9 +19,9 @@
     "CHE": "0"
   },
   "change": {
-    "1h": "0.05",
-    "24h": "10.98",
-    "7d": "10.98"
+    "1h": "1.37",
+    "24h": "27.10",
+    "7d": "32.89"
   },
   "isMineable": false
 }

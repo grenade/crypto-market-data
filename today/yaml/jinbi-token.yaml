@@ -1,21 +1,21 @@
 ---
 id: jinbi-token
-rank: 2093
+rank: 2111
 symbol: JNB
 name: Jinbi Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.001273123921"
-  USD: "14.4350936461"
+  BTC: "0.00121167259475"
+  USD: "15.3660550696"
 volume:
-  BTC: "0.0622458209198"
-  USD: "705.763389745"
+  BTC: "0.0503998189524"
+  USD: "639.154831823"
 supply:
   JNB: "0"
 change:
-  1h: "-8.03"
-  24h: "-8.74"
-  7d: "-0.88"
+  1h: "-0.80"
+  24h: "1.97"
+  7d: "0.29"
 isMineable: false

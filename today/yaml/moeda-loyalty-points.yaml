@@ -1,21 +1,21 @@
 ---
 id: moeda-loyalty-points
-rank: 236
+rank: 243
 symbol: MDA
 name: Moeda Loyalty Points
 marketCap:
-  BTC: "1607.47505807"
-  USD: "18226733.7178"
+  BTC: "1476.30209213"
+  USD: "18722004.0672"
 price:
-  BTC: "8.18933328304e-05"
-  USD: "0.928566800006"
+  BTC: "7.52106839739e-05"
+  USD: "0.953798506935"
 volume:
-  BTC: "52.2464770264"
-  USD: "592408.958181"
+  BTC: "68.448491753"
+  USD: "868042.487935"
 supply:
   MDA: "19628888.0"
 change:
-  1h: "0.18"
-  24h: "-2.02"
-  7d: "-7.00"
+  1h: "-0.96"
+  24h: "1.75"
+  7d: "-3.41"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: escroco-emerald
-rank: 1738
+rank: 1170
 symbol: ESCE
 name: Escroco Emerald
 marketCap:
-  BTC: "1.79889829308"
-  USD: "20396.4947104"
+  BTC: "4.97248099854"
+  USD: "63059.4578003"
 price:
-  BTC: "2.880422837e-09"
-  USD: "3.26591722191e-05"
+  BTC: "7.96201090401e-09"
+  USD: "0.000100971746449"
 volume:
-  BTC: "1.83675306711e-05"
-  USD: "0.208257044668"
+  BTC: "0.0851829648556"
+  USD: "1080.26387214"
 supply:
   ESCE: "624525771.0"
 change:
-  1h: "0.96"
-  24h: "33.76"
-  7d: "45.76"
+  1h: "0.93"
+  24h: "175.29"
+  7d: "257.76"
 isMineable: false

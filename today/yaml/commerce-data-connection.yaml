@@ -1,21 +1,21 @@
 ---
 id: commerce-data-connection
-rank: 2066
+rank: 2074
 symbol: CDC
 name: Commerce Data Connection
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "8.45183449057e-08"
-  USD: "0.00095829652039"
+  BTC: "7.86550674902e-08"
+  USD: "0.000997479107637"
 volume:
-  BTC: "0.493865232566"
-  USD: "5599.60484836"
+  BTC: "0.383607726696"
+  USD: "4864.7939048"
 supply:
   CDC: "0"
 change:
-  1h: "-2.25"
-  24h: "-2.55"
-  7d: "153.71"
+  1h: "0.13"
+  24h: "-4.28"
+  7d: "121.89"
 isMineable: false

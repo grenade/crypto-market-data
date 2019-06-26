@@ -1,21 +1,21 @@
 ---
 id: livepeer
-rank: 2026
+rank: 1998
 symbol: LPT
 name: Livepeer
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.000707682286592"
-  USD: "8.02393224263"
+  BTC: "0.000696722101434"
+  USD: "8.83561304039"
 volume:
-  BTC: "2.44068441233"
-  USD: "27673.2747467"
+  BTC: "7.13551029927"
+  USD: "90490.3227849"
 supply:
   LPT: "0"
 change:
-  1h: "2.80"
-  24h: "8.41"
-  7d: "17.63"
+  1h: "0.58"
+  24h: "12.65"
+  7d: "29.13"
 isMineable: false

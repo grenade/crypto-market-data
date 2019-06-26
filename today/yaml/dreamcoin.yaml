@@ -1,21 +1,21 @@
 ---
 id: dreamcoin
-rank: 1651
+rank: 1652
 symbol: DRM
 name: Dreamcoin
 marketCap:
-  BTC: "3.883348099"
-  USD: "44032.2550442"
+  BTC: "3.88775932086"
+  USD: "46113.649624"
 price:
-  BTC: "1.52833567555e-06"
-  USD: "0.0173293932306"
+  BTC: "1.53e-06"
+  USD: "0.0181476984818"
 volume:
-  BTC: "0.000496709094555"
-  USD: "5.63205279995"
+  BTC: "0.0"
+  USD: "0.0"
 supply:
-  DRM: "2540899.98757"
+  DRM: "2541019.16396"
 change:
-  1h: "0.85"
-  24h: "4.32"
-  7d: "20.75"
+  1h: "0.00"
+  24h: "4.73"
+  7d: "28.17"
 isMineable: false

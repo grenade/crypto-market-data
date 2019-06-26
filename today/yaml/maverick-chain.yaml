@@ -1,21 +1,21 @@
 ---
 id: maverick-chain
-rank: 850
+rank: 905
 symbol: MVC
 name: Maverick Chain
 marketCap:
-  BTC: "89.9315659555"
-  USD: "1019673.38362"
+  BTC: "70.204291694"
+  USD: "890308.99681"
 price:
-  BTC: "8.40983127183e-07"
-  USD: "0.00953534058654"
+  BTC: "6.56506134895e-07"
+  USD: "0.00832560665815"
 volume:
-  BTC: "17.6114996358"
-  USD: "199684.918566"
+  BTC: "2.24509110061"
+  USD: "28471.5472132"
 supply:
   MVC: "106936231.0"
 change:
-  1h: "18.10"
-  24h: "14.08"
-  7d: "27.11"
+  1h: "-14.66"
+  24h: "-8.86"
+  7d: "10.02"
 isMineable: false

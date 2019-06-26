@@ -1,21 +1,21 @@
 ---
 id: xtrd
-rank: 2129
+rank: 2096
 symbol: XTRD
 name: XTRD
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.05047388153e-07"
-  USD: "0.00119106149861"
+  BTC: "2.26535968696e-08"
+  USD: "0.000287285871226"
 volume:
-  BTC: "0.00412529249127"
-  USD: "46.7739097871"
+  BTC: "0.133586269046"
+  USD: "1694.09952458"
 supply:
   XTRD: "0"
 change:
-  1h: "0.86"
-  24h: "0.90"
-  7d: "9.54"
+  1h: "0.32"
+  24h: "-76.01"
+  7d: "-63.35"
 isMineable: false

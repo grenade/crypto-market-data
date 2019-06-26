@@ -1,21 +1,21 @@
 ---
 id: decision-token
-rank: 751
+rank: 777
 symbol: HST
 name: Decision Token
 marketCap:
-  BTC: "148.441718015"
-  USD: "1683080.54321"
+  BTC: "127.146318632"
+  USD: "1612430.07597"
 price:
-  BTC: "4.63503794911e-06"
-  USD: "0.0525535698015"
+  BTC: "3.97009695002e-06"
+  USD: "0.0503475349943"
 volume:
-  BTC: "6.82614588525"
-  USD: "77397.0651793"
+  BTC: "2.93024810462"
+  USD: "37160.4952843"
 supply:
   HST: "32025998.4158"
 change:
-  1h: "1.26"
-  24h: "0.64"
-  7d: "-18.36"
+  1h: "-2.04"
+  24h: "-1.66"
+  7d: "-18.87"
 isMineable: false

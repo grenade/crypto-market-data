@@ -1,21 +1,21 @@
 ---
 id: karatgold-coin
-rank: 1870
+rank: 1863
 symbol: KBC
 name: Karatgold Coin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "7.73429480173e-06"
-  USD: "0.0876939533594"
+  BTC: "7.11990929363e-06"
+  USD: "0.0902924756826"
 volume:
-  BTC: "462.364097807"
-  USD: "5242434.72321"
+  BTC: "528.697540149"
+  USD: "6704777.80244"
 supply:
   KBC: "0"
 change:
-  1h: "0.66"
-  24h: "-3.32"
-  7d: "-4.42"
+  1h: "-1.52"
+  24h: "0.39"
+  7d: "1.27"
 isMineable: false

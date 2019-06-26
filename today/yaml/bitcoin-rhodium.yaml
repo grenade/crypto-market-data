@@ -1,21 +1,21 @@
 ---
 id: bitcoin-rhodium
-rank: 2068
+rank: 2035
 symbol: XRC
 name: Bitcoin Rhodium
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.00241304109132"
-  USD: "27.3598457702"
+  BTC: "0.00194395496477"
+  USD: "24.6526323785"
 volume:
-  BTC: "0.437337717496"
-  USD: "4958.67747268"
+  BTC: "2.02249307997"
+  USD: "25648.6283336"
 supply:
   XRC: "0"
 change:
-  1h: "6.98"
-  24h: "-0.96"
-  7d: "9.10"
+  1h: "-0.92"
+  24h: "-15.83"
+  7d: "-7.82"
 isMineable: true

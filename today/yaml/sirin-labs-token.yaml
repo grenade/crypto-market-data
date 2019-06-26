@@ -1,21 +1,21 @@
 ---
 id: sirin-labs-token
-rank: 304
+rank: 312
 symbol: SRN
 name: SIRIN LABS Token
 marketCap:
-  BTC: "1148.11192784"
-  USD: "13017666.9538"
+  BTC: "997.131290129"
+  USD: "12645308.9574"
 price:
-  BTC: "2.33441058106e-06"
-  USD: "0.0264683074366"
+  BTC: "2.0274276209e-06"
+  USD: "0.0257112066473"
 volume:
-  BTC: "46.3541903695"
-  USD: "525578.906995"
+  BTC: "60.2682931692"
+  USD: "764303.753177"
 supply:
   SRN: "491820906.379"
 change:
-  1h: "0.93"
-  24h: "-1.60"
-  7d: "-2.07"
+  1h: "-0.99"
+  24h: "-3.33"
+  7d: "-5.21"
 isMineable: false

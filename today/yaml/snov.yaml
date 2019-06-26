@@ -1,21 +1,21 @@
 ---
 id: snov
-rank: 1373
+rank: 1399
 symbol: SNOV
 name: Snovian.Space
 marketCap:
-  BTC: "30.5453305971"
-  USD: "346332.906284"
+  BTC: "30.2670481278"
+  USD: "344768.479558"
 price:
-  BTC: "9.99737993614e-08"
-  USD: "0.00113353549653"
+  BTC: "9.90629905664e-08"
+  USD: "0.00112841518254"
 volume:
-  BTC: "0.00535826667272"
-  USD: "60.7537726101"
+  BTC: "0.0"
+  USD: "0.0"
 supply:
   SNOV: "305533357.662"
 change:
-  1h: "0.89"
-  24h: "7.35"
-  7d: "34.26"
+  1h: "0.00"
+  24h: "-1.12"
+  7d: "28.93"
 isMineable: false

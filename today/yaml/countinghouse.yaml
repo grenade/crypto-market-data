@@ -1,21 +1,21 @@
 ---
 id: countinghouse
-rank: 2032
+rank: 2049
 symbol: CHT
 name: Countinghouse
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "8.82460260599e-05"
-  USD: "1.00056218334"
+  BTC: "0.00011065397848"
+  USD: "1.40327934656"
 volume:
-  BTC: "2.06466458645"
-  USD: "23409.839499"
+  BTC: "1.35757722416"
+  USD: "17216.3722099"
 supply:
   CHT: "0"
 change:
-  1h: "0.04"
-  24h: "-28.07"
-  7d: "-16.09"
+  1h: "0.19"
+  24h: "40.38"
+  7d: "9.64"
 isMineable: false

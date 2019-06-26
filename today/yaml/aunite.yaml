@@ -1,21 +1,21 @@
 ---
 id: aunite
-rank: 1992
+rank: 1951
 symbol: AUNIT
 name: Aunite
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.4986909025e-06"
-  USD: "0.0283309712237"
+  BTC: "3.98496220932e-06"
+  USD: "0.0505360515902"
 volume:
-  BTC: "7.54551584474"
-  USD: "85553.5160637"
+  BTC: "20.7049667473"
+  USD: "262573.949954"
 supply:
   AUNIT: "0"
 change:
-  1h: "-4.93"
-  24h: "-13.35"
-  7d: "-32.89"
+  1h: "-15.73"
+  24h: "65.50"
+  7d: "18.74"
 isMineable: false

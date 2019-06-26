@@ -1,21 +1,21 @@
 ---
 id: blockchain-quotations-index-token
-rank: 2005
+rank: 2009
 symbol: BQT
 name: Blockchain Quotations Index Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.13661397698e-06"
-  USD: "0.0242256251213"
+  BTC: "1.9644864144e-06"
+  USD: "0.0249130058384"
 volume:
-  BTC: "5.93262206838"
-  USD: "67266.0011416"
+  BTC: "5.53883822935"
+  USD: "70241.824089"
 supply:
   BQT: "0"
 change:
-  1h: "-1.15"
-  24h: "2.63"
-  7d: "24.31"
+  1h: "1.96"
+  24h: "2.90"
+  7d: "29.86"
 isMineable: false

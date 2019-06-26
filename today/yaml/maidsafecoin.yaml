@@ -1,21 +1,21 @@
 ---
 id: maidsafecoin
-rank: 83
+rank: 85
 symbol: MAID
 name: MaidSafeCoin
 marketCap:
-  BTC: "9120.11616935"
-  USD: "103410580.5"
+  BTC: "7662.50162227"
+  USD: "97104160.654"
 price:
-  BTC: "2.01526186305e-05"
-  USD: "0.228505202399"
+  BTC: "1.69317440789e-05"
+  USD: "0.214569977044"
 volume:
-  BTC: "60.7158858739"
-  USD: "688441.340789"
+  BTC: "258.260609197"
+  USD: "3272844.94312"
 supply:
   MAID: "452552412.0"
 change:
-  1h: "-0.03"
-  24h: "16.17"
-  7d: "43.68"
+  1h: "1.41"
+  24h: "-6.24"
+  7d: "33.60"
 isMineable: false

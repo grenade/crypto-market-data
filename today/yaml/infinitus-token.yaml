@@ -1,21 +1,21 @@
 ---
 id: infinitus-token
-rank: 1028
+rank: 1050
 symbol: INF
 name: Infinitus Token
 marketCap:
-  BTC: "27.5050623352"
-  USD: "311861.354577"
+  BTC: "26.0299810561"
+  USD: "330104.125572"
 price:
-  BTC: "4.25883603152e-05"
-  USD: "0.482880699388"
+  BTC: "4.03208413878e-05"
+  USD: "0.511336372468"
 volume:
-  BTC: "32.3548812709"
-  USD: "366850.181154"
+  BTC: "50.189953754"
+  USD: "636493.386635"
 supply:
-  INF: "645835.20313"
+  INF: "645571.375998"
 change:
-  1h: "-0.09"
-  24h: "7.02"
-  7d: "-9.21"
+  1h: "-1.44"
+  24h: "15.28"
+  7d: "-1.02"
 isMineable: false

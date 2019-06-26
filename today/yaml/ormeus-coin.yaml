@@ -1,21 +1,21 @@
 ---
 id: ormeus-coin
-rank: 819
+rank: 842
 symbol: ORME
 name: Ormeus Coin
 marketCap:
-  BTC: "108.81055054"
-  USD: "1233773.99881"
+  BTC: "97.7759523915"
+  USD: "1239964.2242"
 price:
-  BTC: "3.0305126473e-06"
-  USD: "0.0343621798506"
+  BTC: "2.7231850115e-06"
+  USD: "0.0345345855248"
 volume:
-  BTC: "9.32999714905"
-  USD: "105790.365312"
+  BTC: "18.8263771296"
+  USD: "238750.260581"
 supply:
   ORME: "35904998.0"
 change:
-  1h: "4.47"
-  24h: "1.51"
-  7d: "-21.62"
+  1h: "0.17"
+  24h: "2.87"
+  7d: "-20.01"
 isMineable: false

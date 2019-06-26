@@ -1,21 +1,21 @@
 ---
 id: tarush
-rank: 2244
+rank: 1950
 symbol: TAS
 name: Tarush
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "8.00070100228e-08"
-  USD: "0.000904592331593"
+  BTC: "7.99429455608e-08"
+  USD: "0.00101381157685"
 volume:
-  BTC: "0"
-  USD: "0"
+  BTC: "22.1216085039"
+  USD: "280539.360198"
 supply:
   TAS: "0"
 change:
-  1h: "0.00"
-  24h: "3.87"
-  7d: "9.99"
+  1h: "12.07"
+  24h: "11.90"
+  7d: "23.09"
 isMineable: false

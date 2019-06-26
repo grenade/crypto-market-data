@@ -1,21 +1,21 @@
 ---
 id: oceanex-token
-rank: 1885
+rank: 1887
 symbol: OCE
 name: OceanEx Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "5.54236902373e-07"
-  USD: "0.00628411850242"
+  BTC: "5.04607964478e-07"
+  USD: "0.00639928129459"
 volume:
-  BTC: "185.247561023"
-  USD: "2100397.17812"
+  BTC: "166.529867889"
+  USD: "2111880.00109"
 supply:
   OCE: "0"
 change:
-  1h: "5.71"
-  24h: "7.12"
-  7d: "-6.03"
+  1h: "-3.16"
+  24h: "0.11"
+  7d: "-8.32"
 isMineable: false

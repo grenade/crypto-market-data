@@ -1,21 +1,21 @@
 ---
 id: matrix-ai-network
-rank: 285
+rank: 271
 symbol: MAN
 name: Matrix AI Network
 marketCap:
-  BTC: "1234.88096256"
-  USD: "14001482.5283"
+  BTC: "1232.32083302"
+  USD: "15627909.6066"
 price:
-  BTC: "8.23253975039e-06"
-  USD: "0.0933432168551"
+  BTC: "8.21547222012e-06"
+  USD: "0.104186064044"
 volume:
-  BTC: "152.512469129"
-  USD: "1729236.0451"
+  BTC: "183.189655918"
+  USD: "2323154.25241"
 supply:
   MAN: "150000000.0"
 change:
-  1h: "-2.05"
-  24h: "-2.62"
-  7d: "5.58"
+  1h: "1.19"
+  24h: "8.17"
+  7d: "12.29"
 isMineable: false

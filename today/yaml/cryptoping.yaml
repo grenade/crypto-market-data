@@ -1,6 +1,6 @@
 ---
 id: cryptoping
-rank: 1417
+rank: 1447
 symbol: PING
 name: CryptoPing
 marketCap:
@@ -15,7 +15,7 @@ volume:
 supply:
   PING: "9952089.0"
 change:
-  1h: "0.65"
-  24h: "1.93"
-  7d: "6.48"
+  1h: "0.00"
+  24h: "-0.18"
+  7d: "6.11"
 isMineable: false

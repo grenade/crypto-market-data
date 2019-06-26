@@ -1,21 +1,21 @@
 ---
 id: golos-gold
-rank: 2131
+rank: 2125
 symbol: GBG
 name: Golos Gold
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "8.92793269401e-07"
-  USD: "0.0101231463"
+  BTC: "1.05961664053e-06"
+  USD: "0.013437728741"
 volume:
-  BTC: "0.00295760001042"
-  USD: "33.5354427821"
+  BTC: "0.0184451866027"
+  USD: "233.916120852"
 supply:
   GBG: "0"
 change:
-  1h: "0.14"
-  24h: "1.33"
-  7d: "3.47"
+  1h: "0.12"
+  24h: "9.16"
+  7d: "31.21"
 isMineable: false

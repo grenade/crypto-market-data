@@ -1,21 +1,21 @@
 ---
 id: machine-xchange-coin
-rank: 537
+rank: 549
 symbol: MXC
 name: Machine Xchange Coin
 marketCap:
-  BTC: "395.787031441"
-  USD: "4487562.262"
+  BTC: "351.862143037"
+  USD: "4462206.28431"
 price:
-  BTC: "4.95049544277e-07"
-  USD: "0.00561303296025"
+  BTC: "4.40108390931e-07"
+  USD: "0.00558131775939"
 volume:
-  BTC: "44.0207787408"
-  USD: "499121.926005"
+  BTC: "41.5900751919"
+  USD: "527432.400896"
 supply:
   MXC: "799489740.0"
 change:
   1h: "1.30"
-  24h: "1.20"
-  7d: "-9.74"
+  24h: "-0.35"
+  7d: "-8.35"
 isMineable: false

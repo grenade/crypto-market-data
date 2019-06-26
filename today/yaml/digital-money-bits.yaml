@@ -1,21 +1,21 @@
 ---
 id: digital-money-bits
-rank: 1684
+rank: 1680
 symbol: DMB
 name: Digital Money Bits
 marketCap:
-  BTC: "2.98782803998"
-  USD: "33878.1903992"
+  BTC: "2.98890825479"
+  USD: "37904.4050679"
 price:
-  BTC: "2.99673661873e-08"
-  USD: "0.00033979202413"
+  BTC: "2.99782005433e-08"
+  USD: "0.000380174217385"
 volume:
-  BTC: "0.00251911673644"
-  USD: "28.5635971324"
+  BTC: "0.000988584457673"
+  USD: "12.5369206858"
 supply:
   DMB: "99702724.0"
 change:
-  1h: "0.84"
-  24h: "4.04"
-  7d: "5.50"
+  1h: "0.96"
+  24h: "11.89"
+  7d: "-16.92"
 isMineable: true

@@ -1,21 +1,21 @@
 ---
 id: fatcoin
-rank: 1862
+rank: 1859
 symbol: FAT
 name: Fatcoin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.20456056263e-06"
-  USD: "0.0249960256381"
+  BTC: "2.06680936262e-06"
+  USD: "0.0262106336497"
 volume:
-  BTC: "853.447098521"
-  USD: "9676661.15282"
+  BTC: "1031.23273464"
+  USD: "13077772.8725"
 supply:
   FAT: "0"
 change:
-  1h: "-0.23"
-  24h: "-7.98"
-  7d: "-10.67"
+  1h: "1.26"
+  24h: "4.42"
+  7d: "-4.74"
 isMineable: false

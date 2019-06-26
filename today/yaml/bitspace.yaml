@@ -1,11 +1,11 @@
 ---
 id: bitspace
-rank: 1816
+rank: 1815
 symbol: BSX
 name: Bitspace
 marketCap:
-  BTC: "0.574472553021"
-  USD: "6530.93061653"
+  BTC: "0.57452287364"
+  USD: "6531.50268994"
 price:
   BTC: "4.20045325474e-08"
   USD: "0.000477531408949"
@@ -13,9 +13,9 @@ volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
-  BSX: "13676441.9976"
+  BSX: "13677639.9783"
 change:
   1h: "0.00"
-  24h: "4.44"
-  7d: "-15.66"
+  24h: "0.31"
+  7d: "-34.77"
 isMineable: true

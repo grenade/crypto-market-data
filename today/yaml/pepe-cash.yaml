@@ -1,21 +1,21 @@
 ---
 id: pepe-cash
-rank: 316
+rank: 321
 symbol: PEPECASH
 name: Pepe Cash
 marketCap:
-  BTC: "1061.77059059"
-  USD: "12039135.3676"
+  BTC: "965.770112163"
+  USD: "12247596.2503"
 price:
-  BTC: "1.51274366844e-06"
-  USD: "0.0171525995937"
+  BTC: "1.37596825085e-06"
+  USD: "0.0174496014915"
 volume:
-  BTC: "1.58677777295"
-  USD: "17992.0526864"
+  BTC: "2.06752315856"
+  USD: "26219.6857879"
 supply:
   PEPECASH: "701884009.0"
 change:
-  1h: "-2.24"
-  24h: "9.73"
-  7d: "3.82"
+  1h: "1.11"
+  24h: "7.52"
+  7d: "6.09"
 isMineable: false

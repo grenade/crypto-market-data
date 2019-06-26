@@ -1,21 +1,21 @@
 ---
 id: stockchain
-rank: 2094
+rank: 2107
 symbol: SCC
 name: StockChain
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "4.8931766446e-08"
-  USD: "0.000554804304013"
+  BTC: "4.87252253193e-08"
+  USD: "0.000617918156093"
 volume:
-  BTC: "0.060779238142"
-  USD: "689.134796575"
+  BTC: "0.073654124826"
+  USD: "934.058707843"
 supply:
   SCC: "0"
 change:
-  1h: "0.89"
-  24h: "3.55"
-  7d: "-8.43"
+  1h: "13.51"
+  24h: "11.14"
+  7d: "2.79"
 isMineable: false

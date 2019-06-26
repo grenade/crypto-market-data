@@ -1,21 +1,21 @@
 ---
 id: p2p-global-network
-rank: 2078
+rank: 2081
 symbol: P2PX
 name: P2P Global Network
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "7.40084185962e-08"
-  USD: "0.000839131553031"
+  BTC: "6.38489960993e-08"
+  USD: "0.000809713114296"
 volume:
-  BTC: "0.282037387848"
-  USD: "3197.83175707"
+  BTC: "0.305138460774"
+  USD: "3869.67107487"
 supply:
   P2PX: "0"
 change:
-  1h: "-0.08"
-  24h: "1.04"
-  7d: "10.62"
+  1h: "-3.13"
+  24h: "-9.24"
+  7d: "14.81"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: wpp-token
-rank: 2051
+rank: 2062
 symbol: WPP
 name: WPP TOKEN
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "6.83225539318e-08"
-  USD: "0.000774663367699"
+  BTC: "6.05520039352e-08"
+  USD: "0.000767901684891"
 volume:
-  BTC: "0.89722370735"
-  USD: "10173.0146008"
+  BTC: "0.722986534782"
+  USD: "9168.69041702"
 supply:
   WPP: "0"
 change:
-  1h: "0.04"
-  24h: "-13.80"
-  7d: "-22.00"
+  1h: "0.16"
+  24h: "-2.57"
+  7d: "-19.50"
 isMineable: false

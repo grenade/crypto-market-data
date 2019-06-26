@@ -1,21 +1,21 @@
 ---
 id: marginless
-rank: 2047
+rank: 2044
 symbol: MRS
 name: Marginless
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "5.05989834222e-08"
-  USD: "0.000573707753066"
+  BTC: "4.06665993067e-08"
+  USD: "0.00051572116688"
 volume:
-  BTC: "1.11328189325"
-  USD: "12622.7526782"
+  BTC: "1.68319258801"
+  USD: "21345.7250021"
 supply:
   MRS: "0"
 change:
-  1h: "-0.03"
-  24h: "3.67"
-  7d: "0.51"
+  1h: "-0.01"
+  24h: "-9.12"
+  7d: "-8.76"
 isMineable: false

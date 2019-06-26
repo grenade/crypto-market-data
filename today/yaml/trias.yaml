@@ -1,21 +1,21 @@
 ---
 id: trias
-rank: 1933
+rank: 1936
 symbol: TRY
 name: Trias
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "7.54428942605e-07"
-  USD: "0.00855396105291"
+  BTC: "6.74449199071e-07"
+  USD: "0.00855315501852"
 volume:
-  BTC: "33.7920750062"
-  USD: "383145.55179"
+  BTC: "30.6202649229"
+  USD: "388316.678193"
 supply:
   TRY: "0"
 change:
-  1h: "1.02"
-  24h: "2.31"
-  7d: "-2.74"
+  1h: "0.16"
+  24h: "1.76"
+  7d: "-2.32"
 isMineable: false

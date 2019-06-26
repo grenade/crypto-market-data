@@ -1,21 +1,21 @@
 ---
 id: benjirolls
-rank: 1825
+rank: 1796
 symbol: BENJI
 name: BenjiRolls
 marketCap:
-  BTC: "0.40508085865"
-  USD: "4593.10451363"
+  BTC: "0.810465545128"
+  USD: "10278.0720241"
 price:
-  BTC: "1.99782441249e-08"
-  USD: "0.000226528016086"
+  BTC: "3.99714727804e-08"
+  USD: "0.000506905788427"
 volume:
-  BTC: "0.0"
-  USD: "0.0"
+  BTC: "0.000272325644053"
+  USD: "3.45354913656"
 supply:
   BENJI: "20276099.1465"
 change:
-  1h: "0.83"
-  24h: "-58.96"
-  7d: "-58.96"
+  1h: "0.93"
+  24h: "123.79"
+  7d: "-8.16"
 isMineable: true

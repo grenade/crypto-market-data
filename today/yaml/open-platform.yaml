@@ -1,21 +1,21 @@
 ---
 id: open-platform
-rank: 726
+rank: 734
 symbol: OPEN
 name: Open Platform
 marketCap:
-  BTC: "166.92379657"
-  USD: "1892636.36907"
+  BTC: "152.818552134"
+  USD: "1937997.3583"
 price:
-  BTC: "2.32177025552e-07"
-  USD: "0.00263249873088"
+  BTC: "2.12557811485e-07"
+  USD: "0.0026955920691"
 volume:
-  BTC: "2.13324614021"
-  USD: "24187.4394911"
+  BTC: "1.50504508945"
+  USD: "19086.5138214"
 supply:
   OPEN: "718950534.287"
 change:
-  1h: "-0.80"
-  24h: "-3.93"
-  7d: "1.78"
+  1h: "-1.26"
+  24h: "-0.80"
+  7d: "5.83"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: waves-community-token
-rank: 1199
+rank: 1237
 symbol: WCT
 name: Waves Community Token
 marketCap:
-  BTC: "415.299195085"
-  USD: "4708967.52272"
+  BTC: "362.859694596"
+  USD: "4601673.81342"
 price:
-  BTC: "4.16775539077e-05"
-  USD: "0.472570739603"
+  BTC: "3.64149621801e-05"
+  USD: "0.461803226913"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   WCT: "9964577.0"
 change:
-  1h: "1.79"
-  24h: "-4.85"
-  7d: "-6.90"
+  1h: "-0.07"
+  24h: "-4.39"
+  7d: "-9.46"
 isMineable: false

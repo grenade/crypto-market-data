@@ -1,21 +1,21 @@
 ---
 id: buggyra-coin-zero
-rank: 128
+rank: 112
 symbol: BCZERO
 name: Buggyra Coin Zero
 marketCap:
-  BTC: "4224.85468658"
-  USD: "47902778.3828"
+  BTC: "4462.87014488"
+  USD: "56596731.4207"
 price:
-  BTC: "2.10110659309e-06"
-  USD: "0.0238230308387"
+  BTC: "2.21947654562e-06"
+  USD: "0.0281467113918"
 volume:
-  BTC: "1.6803345403"
-  USD: "19052.1802675"
+  BTC: "1.67463009747"
+  USD: "21237.1381596"
 supply:
   BCZERO: "2010775988.46"
 change:
-  1h: "0.36"
-  24h: "-1.40"
-  7d: "8.60"
+  1h: "-0.02"
+  24h: "22.93"
+  7d: "25.10"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: electronic-energy-coin
-rank: 2006
+rank: 2000
 symbol: E2C
 name: Electronic Energy Coin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "4.95289377438e-06"
-  USD: "0.0561575226673"
+  BTC: "3.27524186913e-06"
+  USD: "0.0415355989279"
 volume:
-  BTC: "5.370131152"
-  USD: "60888.2959403"
+  BTC: "6.78313142041"
+  USD: "86021.5634174"
 supply:
   E2C: "0"
 change:
-  1h: "1.93"
-  24h: "-41.17"
-  7d: "-37.80"
+  1h: "-2.90"
+  24h: "-32.50"
+  7d: "-54.70"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: t-os
-rank: 1924
+rank: 1926
 symbol: TOSC
 name: T.OS
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.25004512687e-06"
-  USD: "0.0141734187618"
+  BTC: "1.229122788e-06"
+  USD: "0.0155873529941"
 volume:
-  BTC: "46.9816960481"
-  USD: "532693.770745"
+  BTC: "41.4604101415"
+  USD: "525788.029046"
 supply:
   TOSC: "0"
 change:
-  1h: "-1.88"
-  24h: "-2.82"
-  7d: "9.59"
+  1h: "-1.47"
+  24h: "31.66"
+  7d: "20.71"
 isMineable: true

@@ -1,21 +1,21 @@
 ---
 id: singularitynet
-rank: 213
+rank: 223
 symbol: AGI
 name: SingularityNET
 marketCap:
-  BTC: "1932.84767821"
-  USD: "21915256.4634"
+  BTC: "1656.78876961"
+  USD: "21010879.9876"
 price:
-  BTC: "3.58151463282e-06"
-  USD: "0.040608379331"
+  BTC: "3.06998491849e-06"
+  USD: "0.0389325941057"
 volume:
-  BTC: "292.546477728"
-  USD: "3316987.24072"
+  BTC: "227.576053494"
+  USD: "2886048.74424"
 supply:
   AGI: "539673260.161"
 change:
-  1h: "0.41"
-  24h: "-4.85"
-  7d: "-15.00"
+  1h: "-2.55"
+  24h: "-6.28"
+  7d: "-18.54"
 isMineable: false

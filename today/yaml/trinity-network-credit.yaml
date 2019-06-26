@@ -1,21 +1,21 @@
 ---
 id: trinity-network-credit
-rank: 791
+rank: 806
 symbol: TNC
 name: Trinity Network Credit
 marketCap:
-  BTC: "121.94820033"
-  USD: "1382688.41131"
+  BTC: "112.006151964"
+  USD: "1420427.19021"
 price:
-  BTC: "3.65844601357e-07"
-  USD: "0.00414806523808"
+  BTC: "3.36018456227e-07"
+  USD: "0.00426128157488"
 volume:
-  BTC: "1.29481731468"
-  USD: "14681.0604087"
+  BTC: "1.04623356644"
+  USD: "13268.0087568"
 supply:
   TNC: "333333333.0"
 change:
-  1h: "0.79"
-  24h: "-4.33"
-  7d: "-8.50"
+  1h: "0.22"
+  24h: "-0.29"
+  7d: "-4.24"
 isMineable: false

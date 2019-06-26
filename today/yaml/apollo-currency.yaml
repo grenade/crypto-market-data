@@ -1,21 +1,21 @@
 ---
 id: apollo-currency
-rank: 193
+rank: 173
 symbol: APL
 name: Apollo Currency
 marketCap:
-  BTC: "2299.00859611"
-  USD: "26066908.2014"
+  BTC: "2496.66488729"
+  USD: "31661927.7473"
 price:
-  BTC: "1.56553863385e-07"
-  USD: "0.00177505868936"
+  BTC: "1.70013515541e-07"
+  USD: "0.00215605853734"
 volume:
-  BTC: "15.2221394"
-  USD: "172593.574048"
+  BTC: "150.088714145"
+  USD: "1903378.40178"
 supply:
   APL: "14685096531.0"
 change:
-  1h: "0.75"
-  24h: "14.69"
-  7d: "9.30"
+  1h: "-0.49"
+  24h: "15.34"
+  7d: "42.23"
 isMineable: false

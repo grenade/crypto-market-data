@@ -1,21 +1,21 @@
 ---
 id: dexon
-rank: 2155
+rank: 2167
 symbol: DXN
 name: DEXON
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.68535811201e-06"
-  USD: "0.0304474648387"
+  BTC: "2.40284814396e-06"
+  USD: "0.0304721729814"
 volume:
-  BTC: "1.0741432448e-05"
-  USD: "0.121789859355"
+  BTC: "9.61139257585e-06"
+  USD: "0.121888691926"
 supply:
   DXN: "0"
 change:
-  1h: "0.04"
-  24h: "-49.20"
-  7d: "-83.21"
+  1h: "0.16"
+  24h: "-49.11"
+  7d: "-83.35"
 isMineable: true

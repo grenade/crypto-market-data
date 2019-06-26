@@ -1,21 +1,21 @@
 ---
 id: cottoncoin
-rank: 2224
+rank: 2128
 symbol: COTN
 name: CottonCoin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "3.29809041712e-07"
-  USD: "0.00308157049659"
+  BTC: "2.79800309463e-07"
+  USD: "0.00354834051899"
 volume:
-  BTC: "0"
-  USD: "0"
+  BTC: "0.0176506928862"
+  USD: "223.840598592"
 supply:
   COTN: "0"
 change:
-  1h: "0.00"
-  24h: "0.00"
-  7d: "0.00"
+  1h: "0.93"
+  24h: "15.15"
+  7d: "15.15"
 isMineable: true

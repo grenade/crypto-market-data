@@ -1,19 +1,20 @@
 ---
 id: naka-bodhi-token
-rank: 1943
+rank: 1978
 symbol: NBOT
 name: Naka Bodhi Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "4.41601757672e-06"
-  USD: "0.050070245489"
+  BTC: "3.94118416291e-06"
+  USD: "0.0499808720188"
 volume:
-  BTC: "28.0545563189"
-  USD: "318091.696323"
+  BTC: "11.3154712863"
+  USD: "143499.288237"
 supply:
   NBOT: "0"
 change:
-  1h: "-2.74"
+  1h: "-1.42"
+  24h: "-11.78"
 isMineable: false

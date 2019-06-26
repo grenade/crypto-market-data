@@ -1,21 +1,21 @@
 ---
 id: kingxchain
-rank: 2057
+rank: 2034
 symbol: KXC
 name: KingXChain
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.55437390832e-10"
-  USD: "2.89623232784e-06"
+  BTC: "2.40768496211e-10"
+  USD: "3.05335120051e-06"
 volume:
-  BTC: "0.725444845001"
-  USD: "8225.32991477"
+  BTC: "2.03995397846"
+  USD: "25870.0620187"
 supply:
   KXC: "0"
 change:
-  1h: "1.49"
-  24h: "1.86"
-  7d: "15.49"
+  1h: "-0.47"
+  24h: "4.99"
+  7d: "22.42"
 isMineable: false

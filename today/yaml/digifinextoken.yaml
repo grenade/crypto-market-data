@@ -1,21 +1,21 @@
 ---
 id: digifinextoken
-rank: 1865
+rank: 1892
 symbol: DFT
 name: DigiFinexToken
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.92836101001e-05"
-  USD: "0.332027108372"
+  BTC: "2.59428817642e-05"
+  USD: "0.328999559436"
 volume:
-  BTC: "643.083656094"
-  USD: "7291491.93163"
+  BTC: "143.21304097"
+  USD: "1816183.25261"
 supply:
   DFT: "0"
 change:
-  1h: "0.54"
-  24h: "-0.51"
-  7d: "-1.64"
+  1h: "0.00"
+  24h: "-0.91"
+  7d: "-5.10"
 isMineable: false

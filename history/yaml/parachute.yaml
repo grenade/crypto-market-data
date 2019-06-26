@@ -1,0 +1,22 @@
+---
+- close:
+    asString: "0.00124664144523"
+    asFormattedString: "0.001247"
+  date_raw:
+    asString: 2019-06-25
+    asFormattedString: "Jun 25, 2019"
+  high:
+    asString: "0.00131597565726"
+    asFormattedString: "0.001316"
+  low:
+    asString: "0.00108377962107"
+    asFormattedString: "0.001084"
+  market_cap:
+    asString: "-"
+    asFormattedString: "-"
+  open:
+    asString: "0.00116538599784"
+    asFormattedString: "0.001165"
+  volume:
+    asString: "3227.71170113"
+    asFormattedString: "3,228"

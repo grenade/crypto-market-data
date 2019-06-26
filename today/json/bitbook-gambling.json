@@ -1,6 +1,6 @@
 {
   "id": "bitbook-gambling",
-  "rank": 1911,
+  "rank": 1920,
   "symbol": "BXK",
   "name": "Bitbook Gambling",
   "marketCap": {
@@ -8,18 +8,19 @@
     "USD": ""
   },
   "price": {
-    "BTC": "1.46642881729e-05",
-    "USD": "0.166268475155"
+    "BTC": "1.45730958181e-05",
+    "USD": "0.184811469571"
   },
   "volume": {
-    "BTC": "73.0636945988",
-    "USD": "828419.964671"
+    "BTC": "55.9151090831",
+    "USD": "709098.026247"
   },
   "supply": {
     "BXK": "0"
   },
   "change": {
-    "1h": "-4.73"
+    "1h": "-4.16",
+    "24h": "1.10"
   },
   "isMineable": false
 }

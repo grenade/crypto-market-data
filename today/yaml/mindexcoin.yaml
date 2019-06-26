@@ -1,21 +1,21 @@
 ---
 id: mindexcoin
-rank: 1872
+rank: 1894
 symbol: MIC
 name: Mindexcoin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "4.81117806045e-06"
-  USD: "0.054550703749"
+  BTC: "3.71615131271e-06"
+  USD: "0.0471270753878"
 volume:
-  BTC: "338.806618925"
-  USD: "3841499.78756"
+  BTC: "127.368909486"
+  USD: "1615252.90396"
 supply:
   MIC: "0"
 change:
-  1h: "1.42"
-  24h: "58.75"
-  7d: "-21.18"
+  1h: "-13.18"
+  24h: "-13.38"
+  7d: "-27.53"
 isMineable: false

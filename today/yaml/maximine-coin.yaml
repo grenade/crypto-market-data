@@ -1,21 +1,21 @@
 ---
 id: maximine-coin
-rank: 100
+rank: 102
 symbol: MXM
 name: Maximine Coin
 marketCap:
-  BTC: "6264.18495401"
-  USD: "71025369.122"
+  BTC: "5593.08863697"
+  USD: "70929810.8889"
 price:
-  BTC: "3.79877801941e-06"
-  USD: "0.0430717823663"
+  BTC: "3.39180632927e-06"
+  USD: "0.0430138331649"
 volume:
-  BTC: "269.031642527"
-  USD: "3050368.38092"
+  BTC: "288.645328713"
+  USD: "3660510.3027"
 supply:
   MXM: "1649000000.0"
 change:
-  1h: "0.17"
-  24h: "-0.53"
-  7d: "-0.74"
+  1h: "0.11"
+  24h: "-0.67"
+  7d: "-5.03"
 isMineable: false

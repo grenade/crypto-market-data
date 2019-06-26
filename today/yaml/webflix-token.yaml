@@ -1,21 +1,21 @@
 ---
 id: webflix-token
-rank: 2098
+rank: 2083
 symbol: WFX
 name: Webflix Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.30004693194e-07"
-  USD: "0.00147403555123"
+  BTC: "1.09921550146e-07"
+  USD: "0.00139399091818"
 volume:
-  BTC: "0.0432514459854"
-  USD: "490.398980669"
+  BTC: "0.252134582601"
+  USD: "3197.49237376"
 supply:
   WFX: "0"
 change:
-  1h: "-20.00"
-  24h: "-11.50"
-  7d: "0.81"
+  1h: "0.94"
+  24h: "-24.72"
+  7d: "-14.58"
 isMineable: false

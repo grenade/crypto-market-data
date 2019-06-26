@@ -1,21 +1,21 @@
 ---
 id: provoco-token
-rank: 1159
+rank: 1208
 symbol: VOCO
 name: Provoco Token
 marketCap:
-  BTC: "1.81063516173"
-  USD: "20529.5711495"
+  BTC: "1.19388733862"
+  USD: "15140.5079818"
 price:
-  BTC: "4.81923504907e-09"
-  USD: "5.46420565099e-05"
+  BTC: "3.17768252188e-09"
+  USD: "4.02983816227e-05"
 volume:
-  BTC: "5.99423416121"
-  USD: "67964.5791159"
+  BTC: "5.16396233201"
+  USD: "65487.7645289"
 supply:
   VOCO: "375710075.0"
 change:
-  1h: "-1.97"
-  24h: "-71.81"
-  7d: "-81.73"
+  1h: "1.15"
+  24h: "-82.79"
+  7d: "-85.91"
 isMineable: false

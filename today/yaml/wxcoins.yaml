@@ -1,21 +1,21 @@
 ---
 id: wxcoins
-rank: 2117
+rank: 2141
 symbol: WXC
 name: WXCOINS
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "7.70259476789e-07"
-  USD: "0.00873345280517"
+  BTC: "7.59433848213e-07"
+  USD: "0.00963090391244"
 volume:
-  BTC: "0.0146664597444"
-  USD: "166.293097139"
+  BTC: "0.00420528721718"
+  USD: "53.3301448285"
 supply:
   WXC: "0"
 change:
-  1h: "-2.18"
-  24h: "6.58"
-  7d: "18.26"
+  1h: "1.06"
+  24h: "5.08"
+  7d: "34.73"
 isMineable: true

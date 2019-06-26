@@ -1,21 +1,21 @@
 ---
 id: cryptoinvest
-rank: 2240
+rank: 2159
 symbol: CTT
 name: Cryptoinvest
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.21019855418e-07"
-  USD: "0.00113052116218"
+  BTC: "4.99643409755e-08"
+  USD: "0.000633632235534"
 volume:
-  BTC: "0"
-  USD: "0"
+  BTC: "0.000337748952126"
+  USD: "4.28322718576"
 supply:
   CTT: "0"
 change:
-  1h: "0.00"
-  24h: "0.00"
-  7d: "0.00"
+  1h: "0.94"
+  24h: "-43.95"
+  7d: "-43.95"
 isMineable: true

@@ -1,21 +1,21 @@
 ---
 id: anoncoin
-rank: 1360
+rank: 1370
 symbol: ANC
 name: Anoncoin
 marketCap:
-  BTC: "33.7283403599"
-  USD: "382436.71365"
+  BTC: "33.7413930004"
+  USD: "427592.685538"
 price:
-  BTC: "1.59825952999e-05"
-  USD: "0.181222412869"
+  BTC: "1.59887804566e-05"
+  USD: "0.202620134084"
 volume:
   BTC: "0.0"
   USD: "0.0"
 supply:
   ANC: "2110316.862"
 change:
-  1h: "-2.21"
-  24h: "-2.13"
-  7d: "16.29"
+  1h: "0.93"
+  24h: "8.44"
+  7d: "46.65"
 isMineable: true

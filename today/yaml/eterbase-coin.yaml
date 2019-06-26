@@ -1,21 +1,21 @@
 ---
 id: eterbase-coin
-rank: 610
+rank: 603
 symbol: XBASE
 name: Eterbase Coin
 marketCap:
-  BTC: "289.981270084"
-  USD: "3287902.08102"
+  BTC: "280.103548038"
+  USD: "3552186.0963"
 price:
-  BTC: "4.58184560465e-07"
-  USD: "0.00519504576763"
+  BTC: "4.42577277508e-07"
+  USD: "0.00561262741125"
 volume:
-  BTC: "118.730984927"
-  USD: "1346210.57529"
+  BTC: "133.874741082"
+  USD: "1697757.83723"
 supply:
   XBASE: "632891841.205"
 change:
-  1h: "0.81"
-  24h: "-10.88"
-  7d: "-33.70"
+  1h: "-0.62"
+  24h: "3.36"
+  7d: "-28.49"
 isMineable: false

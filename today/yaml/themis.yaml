@@ -1,21 +1,21 @@
 ---
 id: themis
-rank: 1934
+rank: 1928
 symbol: GET
 name: Themis
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.51732622235e-06"
-  USD: "0.0172039388703"
+  BTC: "1.27757032461e-06"
+  USD: "0.0162017495884"
 volume:
-  BTC: "32.9340048012"
-  USD: "373416.47235"
+  BTC: "38.6009070595"
+  USD: "489524.70014"
 supply:
   GET: "0"
 change:
-  1h: "1.92"
-  24h: "-2.14"
-  7d: "-4.58"
+  1h: "3.28"
+  24h: "-3.66"
+  7d: "-9.65"
 isMineable: false

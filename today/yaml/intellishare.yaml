@@ -1,21 +1,21 @@
 ---
 id: intellishare
-rank: 437
+rank: 443
 symbol: INE
 name: IntelliShare
 marketCap:
-  BTC: "622.749934806"
-  USD: "7060941.57739"
+  BTC: "575.166823255"
+  USD: "7294086.80088"
 price:
-  BTC: "3.75117629576e-06"
-  USD: "0.0425320585206"
+  BTC: "3.46455620935e-06"
+  USD: "0.043936424522"
 volume:
-  BTC: "329.358079977"
-  USD: "3734369.17578"
+  BTC: "442.573269988"
+  USD: "5612576.58913"
 supply:
   INE: "166014574.018"
 change:
-  1h: "-2.05"
-  24h: "-1.96"
-  7d: "21.88"
+  1h: "-3.65"
+  24h: "1.73"
+  7d: "25.83"
 isMineable: false

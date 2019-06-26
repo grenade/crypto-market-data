@@ -1,21 +1,21 @@
 ---
 id: high-performance-blockchain
-rank: 212
+rank: 209
 symbol: HPB
 name: High Performance Blockchain
 marketCap:
-  BTC: "1936.54721501"
-  USD: "21957203.0165"
+  BTC: "1838.00198827"
+  USD: "23308969.6772"
 price:
-  BTC: "4.43959071093e-05"
-  USD: "0.503375253619"
+  BTC: "4.21367291772e-05"
+  USD: "0.534364896752"
 volume:
-  BTC: "396.401479879"
-  USD: "4494529.07851"
+  BTC: "475.472611962"
+  USD: "6029795.81378"
 supply:
   HPB: "43619949.2499"
 change:
-  1h: "1.09"
-  24h: "1.03"
-  7d: "-1.39"
+  1h: "-0.82"
+  24h: "7.53"
+  7d: "3.47"
 isMineable: false

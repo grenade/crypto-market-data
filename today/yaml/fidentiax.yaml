@@ -1,21 +1,21 @@
 ---
 id: fidentiax
-rank: 1309
+rank: 966
 symbol: FDX
 name: FidentiaX
 marketCap:
-  BTC: "57.7311797531"
-  USD: "651529.200548"
+  BTC: "48.3616065362"
+  USD: "613306.855754"
 price:
-  BTC: "5.49820759553e-07"
-  USD: "0.00620504000522"
+  BTC: "4.60586728916e-07"
+  USD: "0.00584101767385"
 volume:
-  BTC: "0.0"
-  USD: "0.0"
+  BTC: "0.0803028450208"
+  USD: "1018.37570989"
 supply:
   FDX: "105000000.0"
 change:
-  1h: "0.53"
-  24h: "-22.51"
-  7d: "-27.42"
+  1h: "0.33"
+  24h: "-6.84"
+  7d: "-31.68"
 isMineable: false

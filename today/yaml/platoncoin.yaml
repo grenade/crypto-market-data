@@ -1,21 +1,21 @@
 ---
 id: platoncoin
-rank: 828
+rank: 836
 symbol: PLTC
 name: PlatonCoin
 marketCap:
-  BTC: "104.125913216"
-  USD: "1180613.51566"
+  BTC: "99.0862773858"
+  USD: "1256581.35832"
 price:
-  BTC: "1.99063167222e-05"
-  USD: "0.225704302065"
+  BTC: "1.89428621517e-05"
+  USD: "0.240227487409"
 volume:
-  BTC: "4.15734553395"
-  USD: "47137.3376241"
+  BTC: "5.52728350238"
+  USD: "70095.2906346"
 supply:
   PLTC: "5230797.5739"
 change:
-  1h: "-1.95"
-  24h: "2.52"
-  7d: "-0.01"
+  1h: "3.90"
+  24h: "4.95"
+  7d: "4.97"
 isMineable: false

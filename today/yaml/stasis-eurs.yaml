@@ -1,21 +1,21 @@
 ---
 id: stasis-eurs
-rank: 158
+rank: 156
 symbol: EURS
 name: STASIS EURS
 marketCap:
-  BTC: "3256.62354335"
-  USD: "36924658.3482"
+  BTC: "2948.96505027"
+  USD: "37397857.7688"
 price:
-  BTC: "0.00010183565663"
-  USD: "1.1546458406"
+  BTC: "9.22150774491e-05"
+  USD: "1.16944293737"
 volume:
-  BTC: "45.5562439978"
-  USD: "516531.531158"
+  BTC: "160.824047016"
+  USD: "2039520.55504"
 supply:
   EURS: "31979207.0"
 change:
-  1h: "0.21"
-  24h: "0.51"
-  7d: "2.86"
+  1h: "0.71"
+  24h: "0.89"
+  7d: "4.18"
 isMineable: false

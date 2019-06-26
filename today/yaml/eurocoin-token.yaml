@@ -1,21 +1,21 @@
 ---
 id: eurocoin-token
-rank: 1075
+rank: 1105
 symbol: ECTE
 name: EurocoinToken
 marketCap:
-  BTC: "16.0710707701"
-  USD: "182219.034402"
+  BTC: "15.5132675669"
+  USD: "196734.435339"
 price:
-  BTC: "1.20742836547e-05"
-  USD: "0.136902160418"
+  BTC: "1.16552030474e-05"
+  USD: "0.147807660791"
 volume:
-  BTC: "2.39349198732"
-  USD: "27138.1916623"
+  BTC: "2.2771930621"
+  USD: "28878.6543064"
 supply:
   ECTE: "1331016.5"
 change:
-  1h: "2.32"
-  24h: "-13.16"
-  7d: "60.52"
+  1h: "1.22"
+  24h: "2.04"
+  7d: "81.16"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: purevidz
-rank: 1595
+rank: 1603
 symbol: VIDZ
 name: PureVidz
 marketCap:
-  BTC: "6.25717479748"
-  USD: "70948.4469365"
+  BTC: "6.27023268723"
+  USD: "74560.4590798"
 price:
-  BTC: "4.99456103122e-08"
-  USD: "0.000566320040216"
+  BTC: "5.00498401434e-08"
+  USD: "0.000595151606664"
 volume:
-  BTC: "0.000125603220813"
-  USD: "1.42418163714"
+  BTC: "0.0"
+  USD: "0.0"
 supply:
   VIDZ: "125279774.506"
 change:
-  1h: "0.83"
-  24h: "27.69"
-  7d: "1.98"
+  1h: "0.00"
+  24h: "5.09"
+  7d: "7.17"
 isMineable: false

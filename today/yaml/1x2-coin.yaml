@@ -1,21 +1,21 @@
 ---
 id: 1x2-coin
-rank: 2239
+rank: 2103
 symbol: 1X2
 name: 1X2 COIN
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.73523384819e-05"
-  USD: "0.162098903518"
+  BTC: "1.09921550146e-05"
+  USD: "0.139399091818"
 volume:
-  BTC: "0"
-  USD: "0"
+  BTC: "0.0924365290217"
+  USD: "1172.25131735"
 supply:
   1X2: "0"
 change:
-  1h: "0.00"
-  24h: "0.00"
-  7d: "0.00"
+  1h: "3.41"
+  24h: "-14.00"
+  7d: "-14.00"
 isMineable: true

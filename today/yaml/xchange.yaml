@@ -1,6 +1,6 @@
 ---
 id: xchange
-rank: 1837
+rank: 1836
 symbol: XCG
 name: Xchange
 marketCap:
@@ -16,6 +16,6 @@ supply:
   XCG: "9753850.07916"
 change:
   1h: "0.00"
-  24h: "3.75"
-  7d: "-0.42"
+  24h: "0.01"
+  7d: "23.42"
 isMineable: true

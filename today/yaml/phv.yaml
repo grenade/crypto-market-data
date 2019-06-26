@@ -1,21 +1,21 @@
 ---
 id: phv
-rank: 1974
+rank: 1983
 symbol: PHV
 name: "PATHHIVE "
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.40940264529e-06"
-  USD: "0.0273185918841"
+  BTC: "2.15301636821e-06"
+  USD: "0.027303884088"
 volume:
-  BTC: "10.9971028985"
-  USD: "124688.734189"
+  BTC: "10.5831383305"
+  USD: "134212.069416"
 supply:
   PHV: "0"
 change:
-  1h: "-0.11"
-  24h: "-3.41"
-  7d: "12.13"
+  1h: "-0.07"
+  24h: "-1.61"
+  7d: "21.18"
 isMineable: false

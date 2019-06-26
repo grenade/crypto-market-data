@@ -1,21 +1,21 @@
 ---
 id: messe-token
-rank: 2064
+rank: 2073
 symbol: MESSE
 name: MESSE TOKEN
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.49915582926e-06"
-  USD: "0.0169979170358"
+  BTC: "1.36473746826e-06"
+  USD: "0.017307176199"
 volume:
-  BTC: "0.56762764643"
-  USD: "6435.94711962"
+  BTC: "0.40898033018"
+  USD: "5186.56137241"
 supply:
   MESSE: "0"
 change:
-  1h: "0.52"
-  24h: "0.25"
-  7d: "5.82"
+  1h: "0.45"
+  24h: "2.66"
+  7d: "9.45"
 isMineable: false

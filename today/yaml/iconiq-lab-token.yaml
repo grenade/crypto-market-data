@@ -1,21 +1,21 @@
 ---
 id: iconiq-lab-token
-rank: 1477
+rank: 1135
 symbol: ICNQ
 name: Iconiq Lab Token
 marketCap:
-  BTC: "14.8352878005"
-  USD: "168207.324624"
+  BTC: "11.8132050082"
+  USD: "149811.392526"
 price:
-  BTC: "3.84514613034e-06"
-  USD: "0.0435975191091"
+  BTC: "3.06185495927e-06"
+  USD: "0.0388294924909"
 volume:
-  BTC: "0.0192767026556"
-  USD: "218.565532727"
+  BTC: "0.102328521374"
+  USD: "1297.69848839"
 supply:
   ICNQ: "3858185.69637"
 change:
-  1h: "0.86"
-  24h: "0.51"
-  7d: "15.50"
+  1h: "0.30"
+  24h: "-11.63"
+  7d: "2.02"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: cedex-coin
-rank: 2169
+rank: 2112
 symbol: CEDEX
 name: CEDEX Coin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.57918180416e-06"
-  USD: "0.0280764339085"
+  BTC: "2.11974574103e-06"
+  USD: "0.0268819563399"
 volume:
-  BTC: "0.0"
-  USD: "0.0"
+  BTC: "0.0422570775565"
+  USD: "535.891117475"
 supply:
   CEDEX: "0"
 change:
-  1h: "0.00"
-  24h: "0.00"
-  7d: "-1.67"
+  1h: "0.30"
+  24h: "-4.25"
+  7d: "8.57"
 isMineable: false

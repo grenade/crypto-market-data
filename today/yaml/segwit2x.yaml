@@ -1,21 +1,21 @@
 ---
 id: segwit2x
-rank: 2100
+rank: 2129
 symbol: B2X
 name: SegWit2x
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.47023870711e-10"
-  USD: "1.66706471005e-06"
+  BTC: "3.74920457302e-10"
+  USD: "4.75462465569e-06"
 volume:
-  BTC: "0.0371825525079"
-  USD: "421.603109863"
+  BTC: "0.0159325044844"
+  USD: "202.051067562"
 supply:
   B2X: "0"
 change:
-  1h: "1.39"
-  24h: "598.21"
-  7d: "178.81"
+  1h: "1.47"
+  24h: "322.18"
+  7d: "1416.33"
 isMineable: true

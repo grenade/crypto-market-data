@@ -1,21 +1,21 @@
 ---
 id: signature-chain
-rank: 1058
+rank: 1116
 symbol: SICA
 name: "SignatureChain "
 marketCap:
-  BTC: "19.0523798133"
-  USD: "216022.087283"
+  BTC: "14.3926689032"
+  USD: "182523.351543"
 price:
-  BTC: "7.07578464277e-10"
-  USD: "8.02275507141e-06"
+  BTC: "5.34523385488e-10"
+  USD: "6.77865936145e-06"
 volume:
-  BTC: "0.240231153101"
-  USD: "2723.8190521"
+  BTC: "0.166015526825"
+  USD: "2105.35728765"
 supply:
   SICA: "26926172538.0"
 change:
-  1h: "1.09"
-  24h: "-0.26"
-  7d: "-18.26"
+  1h: "0.19"
+  24h: "-17.80"
+  7d: "-32.64"
 isMineable: false

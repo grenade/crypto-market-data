@@ -1,19 +1,20 @@
 ---
 id: mgc-token
-rank: 1930
+rank: 1935
 symbol: MGC
 name: MGC Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "5.21755063584e-05"
-  USD: "0.591582883558"
+  BTC: "4.29042998107e-05"
+  USD: "0.544098988846"
 volume:
-  BTC: "34.9354384142"
-  USD: "396109.378479"
+  BTC: "31.7581592254"
+  USD: "402747.099902"
 supply:
   MGC: "0"
 change:
-  1h: "0.21"
+  1h: "1.74"
+  24h: "-13.09"
 isMineable: false

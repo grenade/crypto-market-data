@@ -1,21 +1,21 @@
 ---
 id: youlive-coin
-rank: 1948
+rank: 1946
 symbol: UC
 name: YouLive Coin
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "5.27895004769e-08"
-  USD: "0.000598544548838"
+  BTC: "5.17655370109e-08"
+  USD: "0.000656474443562"
 volume:
-  BTC: "22.5162553385"
-  USD: "255296.636099"
+  BTC: "24.7954682785"
+  USD: "314448.418406"
 supply:
   UC: "0"
 change:
-  1h: "-6.96"
-  24h: "4.29"
-  7d: "32.96"
+  1h: "-1.42"
+  24h: "7.46"
+  7d: "36.87"
 isMineable: false

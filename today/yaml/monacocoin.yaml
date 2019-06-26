@@ -1,21 +1,21 @@
 ---
 id: monacocoin
-rank: 1602
+rank: 1636
 symbol: XMCC
 name: Monoeci
 marketCap:
-  BTC: "7.26973397043"
-  USD: "67911.0718537"
+  BTC: "4.33989629538"
+  USD: "55037.2153008"
 price:
-  BTC: "8.87166624979e-07"
-  USD: "0.00828757099782"
+  BTC: "5.2962201434e-07"
+  USD: "0.00671650169666"
 volume:
-  BTC: "0"
-  USD: "0"
+  BTC: "0.000354566949299"
+  USD: "4.49650779625"
 supply:
   XMCC: "8194327.61078"
 change:
-  1h: "0.00"
-  24h: "0.00"
-  7d: "0.00"
+  1h: "0.94"
+  24h: "-18.96"
+  7d: "-18.96"
 isMineable: true

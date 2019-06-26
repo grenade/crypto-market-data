@@ -1,21 +1,21 @@
 ---
 id: bitcoinx
-rank: 2011
+rank: 1997
 symbol: BCX
 name: BitcoinX
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.8012087328e-07"
-  USD: "0.00317610169073"
+  BTC: "2.14550053753e-07"
+  USD: "0.00272085706604"
 volume:
-  BTC: "4.53816296385"
-  USD: "51455.1696685"
+  BTC: "7.2569703654"
+  USD: "92030.6415747"
 supply:
   BCX: "0"
 change:
-  1h: "0.35"
-  24h: "-6.30"
-  7d: "-7.93"
+  1h: "-1.43"
+  24h: "-23.38"
+  7d: "-6.71"
 isMineable: true

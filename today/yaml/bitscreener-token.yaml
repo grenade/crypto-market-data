@@ -1,21 +1,21 @@
 ---
 id: bitscreener-token
-rank: 982
+rank: 1002
 symbol: BITX
 name: BitScreener Token
 marketCap:
-  BTC: "38.91505283"
-  USD: "441231.542801"
+  BTC: "36.9570636537"
+  USD: "468677.98923"
 price:
-  BTC: "2.49934498472e-07"
-  USD: "0.00283383874209"
+  BTC: "2.37359183595e-07"
+  USD: "0.00301011535806"
 volume:
-  BTC: "1.88711361095"
-  USD: "21396.7087142"
+  BTC: "0.581354863273"
+  USD: "7372.56160018"
 supply:
   BITX: "155701005.935"
 change:
-  1h: "0.86"
-  24h: "-3.64"
-  7d: "9.79"
+  1h: "0.22"
+  24h: "4.56"
+  7d: "16.57"
 isMineable: false

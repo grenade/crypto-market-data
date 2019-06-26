@@ -1,21 +1,21 @@
 ---
 id: tellurion
-rank: 2109
+rank: 2149
 symbol: TELL
 name: Tellurion
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.99673661873e-08"
-  USD: "0.00033979202413"
+  BTC: "2.99786045853e-08"
+  USD: "0.000380179341321"
 volume:
-  BTC: "0.0208306159105"
-  USD: "236.192833893"
+  BTC: "0.00266738631445"
+  USD: "33.8269637998"
 supply:
   TELL: "0"
 change:
-  1h: "0.82"
-  24h: "542.39"
-  7d: "33.64"
+  1h: "0.93"
+  24h: "11.89"
+  7d: "384.60"
 isMineable: true

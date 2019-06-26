@@ -1,21 +1,21 @@
 ---
 id: lisk-machine-learning
-rank: 720
+rank: 737
 symbol: LML
 name: Lisk Machine Learning
 marketCap:
-  BTC: "169.905714473"
-  USD: "1926446.32541"
+  BTC: "151.384741117"
+  USD: "1919814.21284"
 price:
-  BTC: "1.41588095394e-06"
-  USD: "0.0160537193784"
+  BTC: "1.26153950931e-06"
+  USD: "0.0159984517737"
 volume:
-  BTC: "0.0623900703161"
-  USD: "707.398936378"
+  BTC: "0.0609124052531"
+  USD: "772.472182335"
 supply:
   LML: "120000000.0"
 change:
-  1h: "2.44"
-  24h: "9.38"
-  7d: "-8.93"
+  1h: "0.17"
+  24h: "19.36"
+  7d: "5.20"
 isMineable: false

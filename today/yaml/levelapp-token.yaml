@@ -1,21 +1,21 @@
 ---
 id: levelapp-token
-rank: 2133
+rank: 2140
 symbol: LVL
 name: LevelApp Token
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "6.04883769137e-08"
-  USD: "0.000685836917241"
+  BTC: "6.18673464039e-08"
+  USD: "0.000784582449065"
 volume:
-  BTC: "0.0024428278666"
-  USD: "27.6975779292"
+  BTC: "0.00466065374046"
+  USD: "59.1049614777"
 supply:
   LVL: "0"
 change:
-  1h: "0.65"
-  24h: "-27.98"
-  7d: "-28.91"
+  1h: "-8.64"
+  24h: "-20.45"
+  7d: "-43.94"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: mex
-rank: 1988
+rank: 1952
 symbol: MEX
 name: MEX
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.35497082658e-07"
-  USD: "0.00153631005172"
+  BTC: "1.30762249239e-07"
+  USD: "0.00165828618352"
 volume:
-  BTC: "8.32011449847"
-  USD: "94336.1678701"
+  BTC: "18.0907949255"
+  USD: "229421.835801"
 supply:
   MEX: "0"
 change:
-  1h: "0.39"
-  24h: "-4.02"
-  7d: "25.43"
+  1h: "1.23"
+  24h: "7.75"
+  7d: "31.43"
 isMineable: false

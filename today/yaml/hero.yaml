@@ -1,21 +1,21 @@
 ---
 id: hero
-rank: 2096
+rank: 2100
 symbol: HERO
 name: Hero
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "6.00021660896e-06"
-  USD: "0.0680324100568"
+  BTC: "4.71951057638e-06"
+  USD: "0.0598513655691"
 volume:
-  BTC: "0.0474057113552"
-  USD: "537.501394389"
+  BTC: "0.0984138967775"
+  USD: "1248.05443653"
 supply:
   HERO: "0"
 change:
-  1h: "0.93"
-  24h: "52.42"
-  7d: "27.90"
+  1h: "0.87"
+  24h: "28.90"
+  7d: "12.45"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: hybrid-block
-rank: 2124
+rank: 2133
 symbol: HYB
 name: Hybrid Block
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "2.07892888499e-07"
-  USD: "0.00235715727614"
+  BTC: "7.30207657598e-08"
+  USD: "0.000926026645112"
 volume:
-  BTC: "0.00935378386561"
-  USD: "106.056247799"
+  BTC: "0.0125635737209"
+  USD: "159.327335208"
 supply:
   HYB: "0"
 change:
-  1h: "0.86"
-  24h: "1.39"
-  7d: "14.22"
+  1h: "0.30"
+  24h: "-60.17"
+  7d: "-54.40"
 isMineable: false

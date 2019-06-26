@@ -1,21 +1,21 @@
 ---
 id: centrality
-rank: 164
+rank: 168
 symbol: CENNZ
 name: Centrality
 marketCap:
-  BTC: "3064.38516992"
-  USD: "34744997.0625"
+  BTC: "2605.25938356"
+  USD: "33039089.3811"
 price:
-  BTC: "3.79129548149e-06"
-  USD: "0.0429869429145"
+  BTC: "3.22325934284e-06"
+  USD: "0.0408763726938"
 volume:
-  BTC: "0.351877151972"
-  USD: "3989.69774805"
+  BTC: "0.371442980752"
+  USD: "4710.52437943"
 supply:
   CENNZ: "808268620.813"
 change:
-  1h: "0.91"
-  24h: "-5.77"
-  7d: "9.81"
+  1h: "-1.87"
+  24h: "-6.73"
+  7d: "5.63"
 isMineable: false

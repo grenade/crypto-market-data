@@ -1,21 +1,21 @@
 ---
 id: uniform-fiscal-object
-rank: 1263
+rank: 1278
 symbol: UFO
 name: Uniform Fiscal Object
 marketCap:
-  BTC: "114.175533748"
-  USD: "1066799.00103"
+  BTC: "114.167415666"
+  USD: "1446803.09628"
 price:
-  BTC: "2.99826401557e-08"
-  USD: "0.000280142772417"
+  BTC: "2.99789633562e-08"
+  USD: "0.000379912751408"
 volume:
-  BTC: "0"
-  USD: "0"
+  BTC: "0.00394324297311"
+  USD: "49.9713172061"
 supply:
-  UFO: "3808054699.5"
+  UFO: "3808250949.5"
 change:
-  1h: "0.00"
-  24h: "0.00"
-  7d: "0.00"
+  1h: "0.93"
+  24h: "35.61"
+  7d: "35.61"
 isMineable: true

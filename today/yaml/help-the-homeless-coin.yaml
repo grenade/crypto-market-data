@@ -1,21 +1,21 @@
 ---
 id: help-the-homeless-coin
-rank: 1543
+rank: 1521
 symbol: HTH
 name: Help The Homeless Coin
 marketCap:
-  BTC: "11.3479117383"
-  USD: "106029.203533"
+  BTC: "11.3463843446"
+  USD: "143891.31803"
 price:
-  BTC: "9.99421338522e-09"
-  USD: "9.3380924139e-05"
+  BTC: "9.9928681951e-09"
+  USD: "0.000126726447107"
 volume:
-  BTC: "0"
-  USD: "0"
+  BTC: "0.0210195985337"
+  USD: "266.564012431"
 supply:
   HTH: "1135448213.97"
 change:
-  1h: "0.00"
-  24h: "0.00"
-  7d: "0.00"
+  1h: "0.93"
+  24h: "35.71"
+  7d: "35.71"
 isMineable: true

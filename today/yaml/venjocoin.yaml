@@ -1,21 +1,21 @@
 ---
 id: venjocoin
-rank: 2052
+rank: 2059
 symbol: VJC
 name: VENJOCOIN
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "0.000810029242209"
-  USD: "9.18437535767"
+  BTC: "0.000809422323803"
+  USD: "10.2648422157"
 volume:
-  BTC: "0.88374190325"
-  USD: "10020.1535152"
+  BTC: "0.883079755269"
+  USD: "11198.9428573"
 supply:
   VJC: "0"
 change:
-  1h: "0.92"
-  24h: "2.88"
-  7d: "17.24"
+  1h: "0.93"
+  24h: "10.54"
+  7d: "30.35"
 isMineable: false

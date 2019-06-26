@@ -1,21 +1,21 @@
 ---
 id: internet-node-token
-rank: 396
+rank: 410
 symbol: INT
 name: Internet Node Token
 marketCap:
-  BTC: "780.304061614"
-  USD: "8847341.57922"
+  BTC: "670.257829649"
+  USD: "8500001.37486"
 price:
-  BTC: "2.75735133713e-06"
-  USD: "0.0312637474718"
+  BTC: "2.36848225419e-06"
+  USD: "0.0300363554537"
 volume:
-  BTC: "186.232363487"
-  USD: "2111563.18918"
+  BTC: "173.816679216"
+  USD: "2204289.07645"
 supply:
   INT: "282990437.637"
 change:
-  1h: "0.56"
-  24h: "-0.37"
-  7d: "-7.12"
+  1h: "-1.24"
+  24h: "-5.36"
+  7d: "-11.11"
 isMineable: false

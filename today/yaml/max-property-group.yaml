@@ -1,21 +1,21 @@
 ---
 id: max-property-group
-rank: 903
+rank: 942
 symbol: MPG
 name: Max Property Group
 marketCap:
-  BTC: "67.7467646424"
-  USD: "768134.881213"
+  BTC: "56.6275838809"
+  USD: "718133.410087"
 price:
-  BTC: "1.72312809215e-06"
-  USD: "0.0195373874954"
+  BTC: "1.44031351299e-06"
+  USD: "0.0182656080975"
 volume:
-  BTC: "0.532173289929"
-  USD: "6033.95407887"
+  BTC: "0.54404277744"
+  USD: "6899.38133007"
 supply:
   MPG: "39316151.22"
 change:
-  1h: "10.35"
-  24h: "5.61"
-  7d: "20.08"
+  1h: "0.30"
+  24h: "-11.20"
+  7d: "-5.05"
 isMineable: false

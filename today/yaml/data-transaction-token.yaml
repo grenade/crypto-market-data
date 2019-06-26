@@ -1,21 +1,21 @@
 ---
 id: data-transaction-token
-rank: 254
+rank: 256
 symbol: XD
 name: Data Transaction Token
 marketCap:
-  BTC: "1464.9614942"
-  USD: "16610210.5284"
+  BTC: "1366.70589333"
+  USD: "17332139.1537"
 price:
-  BTC: "7.61038999544e-06"
-  USD: "0.0862890803124"
+  BTC: "7.0999578477e-06"
+  USD: "0.0900394576493"
 volume:
-  BTC: "18.3899445544"
-  USD: "208511.180576"
+  BTC: "19.7123765653"
+  USD: "249986.229918"
 supply:
   XD: "192494930.625"
 change:
-  1h: "2.99"
-  24h: "3.09"
-  7d: "10.48"
+  1h: "-3.41"
+  24h: "5.20"
+  7d: "15.04"
 isMineable: false

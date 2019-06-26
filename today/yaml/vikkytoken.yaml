@@ -1,21 +1,21 @@
 ---
 id: vikkytoken
-rank: 1166
+rank: 1207
 symbol: VIKKY
 name: VikkyToken
 marketCap:
-  BTC: "1.35122525981"
-  USD: "15320.6320614"
+  BTC: "1.29670837799"
+  USD: "16444.4524303"
 price:
-  BTC: "3.62542349432e-10"
-  USD: "4.11062323029e-06"
+  BTC: "3.4791512257e-10"
+  USD: "4.4121513981e-06"
 volume:
-  BTC: "1.9638113387"
-  USD: "22266.3325303"
+  BTC: "2.23143909418"
+  USD: "28298.4167128"
 supply:
   VIKKY: "3727082537.87"
 change:
-  1h: "1.52"
-  24h: "10.42"
-  7d: "24.16"
+  1h: "1.19"
+  24h: "12.12"
+  7d: "33.35"
 isMineable: false

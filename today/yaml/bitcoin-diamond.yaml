@@ -1,21 +1,21 @@
 ---
 id: bitcoin-diamond
-rank: 37
+rank: 38
 symbol: BCD
 name: Bitcoin Diamond
 marketCap:
-  BTC: "21667.2840734"
-  USD: "245670723.403"
+  BTC: "19815.4895445"
+  USD: "251293876.656"
 price:
-  BTC: "0.000116182891205"
-  USD: "1.31731945881"
+  BTC: "0.000106253319896"
+  USD: "1.3474715628"
 volume:
-  BTC: "699.707408242"
-  USD: "7933510.47465"
+  BTC: "940.981878074"
+  USD: "11933239.5737"
 supply:
   BCD: "186492897.953"
 change:
-  1h: "1.18"
-  24h: "-0.46"
-  7d: "2.04"
+  1h: "-0.03"
+  24h: "2.23"
+  7d: "4.48"
 isMineable: true

@@ -1,21 +1,21 @@
 ---
 id: ubique-chain-of-things
-rank: 1952
+rank: 1960
 symbol: UCT
 name: Ubique Chain Of Things
 marketCap:
   BTC: ""
   USD: ""
 price:
-  BTC: "1.60382575821e-06"
-  USD: "0.0181846987789"
+  BTC: "1.52803339705e-06"
+  USD: "0.0193780443901"
 volume:
-  BTC: "18.2388945009"
-  USD: "206798.525876"
+  BTC: "16.5420099219"
+  USD: "209780.62599"
 supply:
   UCT: "0"
 change:
-  1h: "1.40"
-  24h: "7.69"
-  7d: "20.33"
+  1h: "1.19"
+  24h: "9.36"
+  7d: "20.75"
 isMineable: false

@@ -1,21 +1,21 @@
 ---
 id: edc-blockchain
-rank: 341
+rank: 346
 symbol: EDC
 name: EDC Blockchain
 marketCap:
-  BTC: "946.103116919"
-  USD: "10727612.5344"
+  BTC: "846.394767404"
+  USD: "10733715.2486"
 price:
-  BTC: "3.54260021007e-07"
-  USD: "0.00401686050264"
+  BTC: "3.1692510332e-07"
+  USD: "0.0040191456105"
 volume:
-  BTC: "28.0360412365"
-  USD: "317893.242295"
+  BTC: "23.6350691449"
+  USD: "299732.597426"
 supply:
   EDC: "2670646025.0"
 change:
-  1h: "3.30"
-  24h: "-5.01"
-  7d: "2.45"
+  1h: "0.72"
+  24h: "-1.27"
+  7d: "-0.80"
 isMineable: true
