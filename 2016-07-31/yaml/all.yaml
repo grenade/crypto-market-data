@@ -100,12 +100,12 @@
   high: "0.00195874995552"
   low: "0.00134012999479"
 - date: 2016-07-31
-  id: advanced-internet-blocks
-  cap: "-1"
-  high: "0.00588362012058"
-  low: "0.00444548018277"
-- date: 2016-07-31
   id: ardor
   cap: "-1"
   high: "0.0394226014614"
   low: "0.0385340005159"
+- date: 2016-07-31
+  id: advanced-internet-blocks
+  cap: "-1"
+  high: "0.00588362012058"
+  low: "0.00444548018277"

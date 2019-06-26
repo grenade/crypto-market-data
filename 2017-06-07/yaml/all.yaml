@@ -160,11 +160,6 @@
   high: "1.61813998222"
   low: "1.39436995983"
 - date: 2017-06-07
-  id: advanced-internet-blocks
-  cap: "-1"
-  high: "0.0157053992152"
-  low: "0.006096099969"
-- date: 2017-06-07
   id: aeternity
   cap: "-1"
   high: "1.43121004105"
@@ -179,3 +174,8 @@
   cap: "-1"
   high: "0.0000574781988689"
   low: "0.0000281486991298"
+- date: 2017-06-07
+  id: advanced-internet-blocks
+  cap: "-1"
+  high: "0.0157053992152"
+  low: "0.006096099969"

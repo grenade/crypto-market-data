@@ -275,11 +275,6 @@
   high: "94.2514038086"
   low: "65.9030990601"
 - date: 2017-11-26
-  id: advanced-internet-blocks
-  cap: "-1"
-  high: "0.00360886007547"
-  low: "0.00327766011469"
-- date: 2017-11-26
   id: aidos-kuneen
   cap: "-1"
   high: "37.2585983276"
@@ -304,3 +299,8 @@
   cap: "-1"
   high: "0.136112004519"
   low: "0.095683299005"
+- date: 2017-11-26
+  id: advanced-internet-blocks
+  cap: "-1"
+  high: "0.00360886007547"
+  low: "0.00327766011469"

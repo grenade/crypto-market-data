@@ -150,12 +150,12 @@
   high: "5.1110200882"
   low: "0.569239020348"
 - date: 2017-04-29
-  id: advanced-internet-blocks
-  cap: "-1"
-  high: "0.0005395829794"
-  low: "0.00052608398255"
-- date: 2017-04-29
   id: aces
   cap: "-1"
   high: "0.0000132719997055"
   low: "0.0000131521001094"
+- date: 2017-04-29
+  id: advanced-internet-blocks
+  cap: "-1"
+  high: "0.0005395829794"
+  low: "0.00052608398255"

@@ -75,11 +75,6 @@
   high: "0.000335213990184"
   low: "0.00028803900932"
 - date: 2015-12-06
-  id: advanced-internet-blocks
-  cap: "-1"
-  high: "0.00396669982001"
-  low: "0.00291090994142"
-- date: 2015-12-06
   id: agoras-tokens
   cap: "-1"
   high: "0.104278996587"
@@ -89,3 +84,8 @@
   cap: "-1"
   high: "1.90126001835"
   low: "1.81931996346"
+- date: 2015-12-06
+  id: advanced-internet-blocks
+  cap: "-1"
+  high: "0.00396669982001"
+  low: "0.00291090994142"

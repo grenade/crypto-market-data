@@ -80,12 +80,12 @@
   high: "0.000517314998433"
   low: "0.000290207011858"
 - date: 2015-11-13
-  id: advanced-internet-blocks
-  cap: "-1"
-  high: "0.00197730003856"
-  low: "0.00174623995554"
-- date: 2015-11-13
   id: augur
   cap: "-1"
   high: "1.65950000286"
   low: "1.56941998005"
+- date: 2015-11-13
+  id: advanced-internet-blocks
+  cap: "-1"
+  high: "0.00197730003856"
+  low: "0.00174623995554"

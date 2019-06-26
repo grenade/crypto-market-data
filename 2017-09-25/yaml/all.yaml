@@ -220,11 +220,6 @@
   high: "0.36988401413"
   low: "0.281026005745"
 - date: 2017-09-25
-  id: advanced-internet-blocks
-  cap: "-1"
-  high: "0.00504822982475"
-  low: "0.00433083996177"
-- date: 2017-09-25
   id: amsterdamcoin
   cap: "-1"
   high: "0.00445450982079"
@@ -244,3 +239,8 @@
   cap: "-1"
   high: "0.137407004833"
   low: "0.086751498282"
+- date: 2017-09-25
+  id: advanced-internet-blocks
+  cap: "-1"
+  high: "0.00504822982475"
+  low: "0.00433083996177"
