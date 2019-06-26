@@ -890,11 +890,6 @@
   high: "0.00275233"
   low: "0.00271964"
 - date: 2018-11-18
-  id: bitcapitalvendor
-  cap: "0"
-  high: "0.00468473"
-  low: "0.00408778"
-- date: 2018-11-18
   id: bitcoin-file
   cap: "0"
   high: "0.00322833"
@@ -1044,3 +1039,8 @@
   cap: "-1"
   high: "0.00016851"
   low: "0.000166508"
+- date: 2018-11-18
+  id: bitcapitalvendor
+  cap: "-1"
+  high: "0.00468473"
+  low: "0.00408778"

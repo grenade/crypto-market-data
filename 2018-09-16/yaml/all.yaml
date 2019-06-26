@@ -760,11 +760,6 @@
   high: "0.000785057"
   low: "0.000771189"
 - date: 2018-09-16
-  id: bitcapitalvendor
-  cap: "0"
-  high: "0.00441"
-  low: "0.00404625"
-- date: 2018-09-16
   id: bitcoen
   cap: "0"
   high: "0.0527652"
@@ -909,3 +904,8 @@
   cap: "-1"
   high: "0.23126"
   low: "0.167694"
+- date: 2018-09-16
+  id: bitcapitalvendor
+  cap: "-1"
+  high: "0.00441"
+  low: "0.00404625"

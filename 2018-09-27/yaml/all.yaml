@@ -770,11 +770,6 @@
   high: "0.000671589"
   low: "0.00064902"
 - date: 2018-09-27
-  id: bitcapitalvendor
-  cap: "0"
-  high: "0.00469258"
-  low: "0.00436362"
-- date: 2018-09-27
   id: bitcoin-adult
   cap: "0"
   high: "0.028536"
@@ -919,3 +914,8 @@
   cap: "-1"
   high: "0.000195434"
   low: "0.0000643012"
+- date: 2018-09-27
+  id: bitcapitalvendor
+  cap: "-1"
+  high: "0.00469258"
+  low: "0.00436362"
