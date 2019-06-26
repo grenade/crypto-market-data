@@ -70,6 +70,11 @@
   high: "0.0957937"
   low: "0.0911149"
 - date: 2018-11-12
+  id: alqo
+  cap: "13720534.584"
+  high: "0.24432"
+  low: "0.23082"
+- date: 2018-11-12
   id: bitcoin-interest
   cap: "12687102.198"
   high: "0.692267"
@@ -290,6 +295,11 @@
   high: "0.013169"
   low: "0.0127531"
 - date: 2018-11-12
+  id: alt-estate-token
+  cap: "325163.450514"
+  high: "0.000539876"
+  low: "0.00032975"
+- date: 2018-11-12
   id: advanced-internet-blocks
   cap: "284501.066524"
   high: "0.00888817"
@@ -474,3 +484,8 @@
   cap: "-1"
   high: "0.0200375"
   low: "0.0119205"
+- date: 2018-11-12
+  id: altcommunity-coin
+  cap: "-1"
+  high: "0.0854785"
+  low: "0.0451403"

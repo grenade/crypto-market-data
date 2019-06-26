@@ -100,6 +100,11 @@
   high: "0.166513"
   low: "0.15199"
 - date: 2018-08-25
+  id: alqo
+  cap: "6185698.34034"
+  high: "0.121129"
+  low: "0.109737"
+- date: 2018-08-25
   id: acute-angle-cloud
   cap: "6169200.0"
   high: "0.0263527"
@@ -384,3 +389,8 @@
   cap: "-1"
   high: "0.0112848"
   low: "0.0103107"
+- date: 2018-08-25
+  id: altcommunity-coin
+  cap: "-1"
+  high: "0.242956"
+  low: "0.150707"
