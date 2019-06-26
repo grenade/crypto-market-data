@@ -860,16 +860,6 @@
   high: "0.00318414"
   low: "0.00310382"
 - date: 2018-11-04
-  id: bitcoin-x
-  cap: "0"
-  high: "0.0282702"
-  low: "0.0118626"
-- date: 2018-11-04
-  id: bitcoin-zero
-  cap: "0"
-  high: "0.0343707"
-  low: "0.0259439"
-- date: 2018-11-04
   id: bitcoinx
   cap: "0"
   high: "0.00840735"
@@ -1039,3 +1029,13 @@
   cap: "-1"
   high: "13.3033"
   low: "12.33"
+- date: 2018-11-04
+  id: bitcoin-x
+  cap: "-1"
+  high: "0.0282702"
+  low: "0.0118626"
+- date: 2018-11-04
+  id: bitcoin-zero
+  cap: "-1"
+  high: "0.0343707"
+  low: "0.0259439"
