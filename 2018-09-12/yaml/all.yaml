@@ -560,11 +560,6 @@
   high: "0.00402249"
   low: "0.00327012"
 - date: 2018-09-12
-  id: atlantis-blue-digital-token
-  cap: "-1"
-  high: "0.0187358"
-  low: "0.0133892"
-- date: 2018-09-12
   id: acchain
   cap: "-1"
   high: "0.0437747"
@@ -629,3 +624,8 @@
   cap: "-1"
   high: "0.00780394"
   low: "0.0070624"
+- date: 2018-09-12
+  id: atlantis-blue-digital-token
+  cap: "-1"
+  high: "0.0187358"
+  low: "0.0133892"

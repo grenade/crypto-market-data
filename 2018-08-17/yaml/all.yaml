@@ -520,11 +520,6 @@
   high: "0.00546626"
   low: "0.0048251"
 - date: 2018-08-17
-  id: atlantis-blue-digital-token
-  cap: "-1"
-  high: "0.0164463"
-  low: "0.0101094"
-- date: 2018-08-17
   id: atonomi
   cap: "-1"
   high: "0.0118781"
@@ -614,3 +609,8 @@
   cap: "-1"
   high: "0.0267837"
   low: "0.0221237"
+- date: 2018-08-17
+  id: atlantis-blue-digital-token
+  cap: "-1"
+  high: "0.0164463"
+  low: "0.0101094"

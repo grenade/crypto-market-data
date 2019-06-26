@@ -585,11 +585,6 @@
   high: "0.00558331"
   low: "0.00432352"
 - date: 2018-09-30
-  id: atlantis-blue-digital-token
-  cap: "-1"
-  high: "0.0215486"
-  low: "0.020101"
-- date: 2018-09-30
   id: abulaba
   cap: "-1"
   high: "0.22901"
@@ -644,3 +639,8 @@
   cap: "-1"
   high: "0.00960244"
   low: "0.00932265"
+- date: 2018-09-30
+  id: atlantis-blue-digital-token
+  cap: "-1"
+  high: "0.0215486"
+  low: "0.020101"
