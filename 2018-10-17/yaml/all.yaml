@@ -435,6 +435,11 @@
   high: "0.0019833"
   low: "0.00179366"
 - date: 2018-10-17
+  id: auxilium
+  cap: "430880.949133"
+  high: "0.00512594"
+  low: "0.00309407"
+- date: 2018-10-17
   id: advanced-internet-blocks
   cap: "418511.057305"
   high: "0.0143931"
@@ -709,3 +714,8 @@
   cap: "-1"
   high: "0.0186937"
   low: "0.017254"
+- date: 2018-10-17
+  id: avatarcoin
+  cap: "-1"
+  high: "0.0612193"
+  low: "0.0601434"
