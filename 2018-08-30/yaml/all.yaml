@@ -90,6 +90,11 @@
   high: "4.64435"
   low: "4.1243"
 - date: 2018-08-30
+  id: loopring
+  cap: "68265023.514"
+  high: "0.130234"
+  low: "0.113349"
+- date: 2018-08-30
   id: substratum
   cap: "65233455.5662"
   high: "0.180687"
@@ -1119,3 +1124,8 @@
   cap: "-1"
   high: "0.0317481"
   low: "0.0269378"
+- date: 2018-08-30
+  id: content-and-ad-network
+  cap: "-1"
+  high: "0.00766924"
+  low: "0.00742941"

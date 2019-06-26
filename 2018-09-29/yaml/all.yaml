@@ -85,6 +85,11 @@
   high: "4.53168"
   low: "4.39177"
 - date: 2018-09-29
+  id: loopring
+  cap: "59544898.8719"
+  high: "0.106135"
+  low: "0.093653"
+- date: 2018-09-29
   id: bitcoin-private
   cap: "54044882.11"
   high: "2.72366"
@@ -1174,3 +1179,8 @@
   cap: "-1"
   high: "0.00212634"
   low: "0.00196678"
+- date: 2018-09-29
+  id: content-and-ad-network
+  cap: "-1"
+  high: "0.00530287"
+  low: "0.00479872"
