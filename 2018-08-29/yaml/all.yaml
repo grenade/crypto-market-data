@@ -710,11 +710,6 @@
   high: "0.00099779"
   low: "0.000976329"
 - date: 2018-08-29
-  id: bitcoin-incognito
-  cap: "0"
-  high: "0.0764126"
-  low: "0.0643786"
-- date: 2018-08-29
   id: bitcoin-turbo-koin
   cap: "0"
   high: "0.0000898202"
@@ -864,3 +859,8 @@
   cap: "-1"
   high: "16.2965"
   low: "10.6519"
+- date: 2018-08-29
+  id: bitcoin-incognito
+  cap: "-1"
+  high: "0.0764126"
+  low: "0.0643786"

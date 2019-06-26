@@ -760,11 +760,6 @@
   high: "0.000893506"
   low: "0.000684945"
 - date: 2018-09-11
-  id: bitcoin-incognito
-  cap: "0"
-  high: "0.0848816"
-  low: "0.0667491"
-- date: 2018-09-11
   id: bitcoinx
   cap: "0"
   high: "0.0039929"
@@ -899,3 +894,8 @@
   cap: "-1"
   high: "14.1478"
   low: "12.0936"
+- date: 2018-09-11
+  id: bitcoin-incognito
+  cap: "-1"
+  high: "0.0848816"
+  low: "0.0667491"

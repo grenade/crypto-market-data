@@ -690,11 +690,6 @@
   high: "0.00118801"
   low: "0.00111516"
 - date: 2018-08-15
-  id: bitcoin-incognito
-  cap: "0"
-  high: "0.1062"
-  low: "0.0694348"
-- date: 2018-08-15
   id: bitcoin-one
   cap: "0"
   high: "0.00554412"
@@ -864,3 +859,8 @@
   cap: "-1"
   high: "8.69522"
   low: "7.84703"
+- date: 2018-08-15
+  id: bitcoin-incognito
+  cap: "-1"
+  high: "0.1062"
+  low: "0.0694348"
