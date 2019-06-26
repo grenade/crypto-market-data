@@ -65,6 +65,11 @@
   high: "0.758299"
   low: "0.725425"
 - date: 2018-10-18
+  id: arbitrage
+  cap: "20368344.1135"
+  high: "5.05827"
+  low: "4.32031"
+- date: 2018-10-18
   id: apollo-currency
   cap: "20196560.11"
   high: "0.00147056"
@@ -394,6 +399,11 @@
   cap: "188263.419245"
   high: "0.0108713"
   low: "0.0106068"
+- date: 2018-10-18
+  id: arbitragect
+  cap: "163873.504583"
+  high: "0.00188971"
+  low: "0.00169559"
 - date: 2018-10-18
   id: bitcoin-w-spectrum
   cap: "155820.213306"

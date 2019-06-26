@@ -75,6 +75,11 @@
   high: "0.0282799"
   low: "0.02516"
 - date: 2018-10-12
+  id: arbitrage
+  cap: "18588253.2424"
+  high: "5.6766"
+  low: "3.49125"
+- date: 2018-10-12
   id: bitcoin-interest
   cap: "17485852.1222"
   high: "1.01742"
@@ -389,6 +394,11 @@
   cap: "143739.411048"
   high: "0.00389931"
   low: "0.00366492"
+- date: 2018-10-12
+  id: arbitragect
+  cap: "132874.652663"
+  high: "0.00153593"
+  low: "0.00141096"
 - date: 2018-10-12
   id: bitcoin-w-spectrum
   cap: "128687.309545"
