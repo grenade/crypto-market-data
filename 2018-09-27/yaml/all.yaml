@@ -355,10 +355,20 @@
   high: "0.0718589"
   low: "0.0673936"
 - date: 2018-09-27
+  id: auctus
+  cap: "776109.494051"
+  high: "0.0457382"
+  low: "0.0417408"
+- date: 2018-09-27
   id: bitcoin-turbo-koin
   cap: "749305.596559"
   high: "0.0000992604"
   low: "0.0000707096"
+- date: 2018-09-27
+  id: audiocoin
+  cap: "741473.197467"
+  high: "0.000805349"
+  low: "0.000713953"
 - date: 2018-09-27
   id: bitcoin-incognito
   cap: "736532.719739"
