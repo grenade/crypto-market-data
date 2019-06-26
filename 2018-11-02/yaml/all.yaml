@@ -635,11 +635,6 @@
   high: "0.00923943"
   low: "0.00588188"
 - date: 2018-11-02
-  id: alpha-coin
-  cap: "-1"
-  high: "0.00889945"
-  low: "0.00119989"
-- date: 2018-11-02
   id: altcommunity-coin
   cap: "-1"
   high: "0.101841"
@@ -734,3 +729,8 @@
   cap: "-1"
   high: "0.0156998"
   low: "0.0149836"
+- date: 2018-11-02
+  id: alpha-coin
+  cap: "-1"
+  high: "0.00889945"
+  low: "0.00119989"
