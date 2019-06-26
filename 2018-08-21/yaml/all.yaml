@@ -525,11 +525,6 @@
   high: "0.0052057"
   low: "0.00434686"
 - date: 2018-08-21
-  id: atc-coin
-  cap: "-1"
-  high: "0.023054"
-  low: "0.0213632"
-- date: 2018-08-21
   id: atlantis-blue-digital-token
   cap: "-1"
   high: "0.0108257"
@@ -614,3 +609,8 @@
   cap: "-1"
   high: "0.017029"
   low: "0.013875"
+- date: 2018-08-21
+  id: atc-coin
+  cap: "-1"
+  high: "0.023054"
+  low: "0.0213632"
