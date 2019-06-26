@@ -505,11 +505,6 @@
   high: "0.0053529"
   low: "0.00478604"
 - date: 2018-08-11
-  id: akroma
-  cap: "-1"
-  high: "0.0580562"
-  low: "0.0517901"
-- date: 2018-08-11
   id: alchemint-standards
   cap: "-1"
   high: "0.0122836"
@@ -579,3 +574,8 @@
   cap: "-1"
   high: "22.445"
   low: "20.5938"
+- date: 2018-08-11
+  id: akroma
+  cap: "-1"
+  high: "0.0580562"
+  low: "0.0517901"
