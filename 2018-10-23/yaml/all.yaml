@@ -615,11 +615,6 @@
   high: "0.0063998"
   low: "0.00481116"
 - date: 2018-10-23
-  id: allcoin
-  cap: "-1"
-  high: "0.0120915"
-  low: "0.0120546"
-- date: 2018-10-23
   id: altcommunity-coin
   cap: "-1"
   high: "0.101783"
@@ -699,3 +694,8 @@
   cap: "-1"
   high: "0.00782322"
   low: "0.00683844"
+- date: 2018-10-23
+  id: allcoin
+  cap: "-1"
+  high: "0.0120915"
+  low: "0.0120546"
