@@ -665,11 +665,6 @@
   high: "0.00251016"
   low: "0.00205202"
 - date: 2018-11-22
-  id: alchemint-standards
-  cap: "-1"
-  high: "0.00571585"
-  low: "0.00377872"
-- date: 2018-11-22
   id: allcoin
   cap: "-1"
   high: "0.0141494"
@@ -739,3 +734,8 @@
   cap: "-1"
   high: "4.81262"
   low: "3.9701"
+- date: 2018-11-22
+  id: alchemint-standards
+  cap: "-1"
+  high: "0.00571585"
+  low: "0.00377872"

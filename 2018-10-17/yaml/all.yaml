@@ -610,11 +610,6 @@
   high: "0.0134546"
   low: "0.010689"
 - date: 2018-10-17
-  id: alchemint-standards
-  cap: "-1"
-  high: "0.00748069"
-  low: "0.00634157"
-- date: 2018-10-17
   id: alt-estate-token
   cap: "-1"
   high: "0.00196812"
@@ -689,3 +684,8 @@
   cap: "-1"
   high: "0.0654107"
   low: "0.0472061"
+- date: 2018-10-17
+  id: alchemint-standards
+  cap: "-1"
+  high: "0.00748069"
+  low: "0.00634157"

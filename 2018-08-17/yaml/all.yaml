@@ -520,11 +520,6 @@
   high: "0.00546626"
   low: "0.0048251"
 - date: 2018-08-17
-  id: alchemint-standards
-  cap: "-1"
-  high: "0.0125313"
-  low: "0.00920737"
-- date: 2018-08-17
   id: altcommunity-coin
   cap: "-1"
   high: "0.253921"
@@ -614,3 +609,8 @@
   cap: "-1"
   high: "0.0255607"
   low: "0.0205954"
+- date: 2018-08-17
+  id: alchemint-standards
+  cap: "-1"
+  high: "0.0125313"
+  low: "0.00920737"
