@@ -880,11 +880,6 @@
   high: "0.00302965"
   low: "0.00260447"
 - date: 2018-11-12
-  id: bitcoin-sv
-  cap: "0"
-  high: "123.556"
-  low: "104.45"
-- date: 2018-11-12
   id: bitcoin-x
   cap: "0"
   high: "0.0656716"
@@ -1044,3 +1039,8 @@
   cap: "-1"
   high: "12.438"
   low: "12.0759"
+- date: 2018-11-12
+  id: bitcoin-sv
+  cap: "-1"
+  high: "123.556"
+  low: "104.45"
