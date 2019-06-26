@@ -680,16 +680,6 @@
   high: "0.00147065"
   low: "0.00130498"
 - date: 2018-08-06
-  id: bitcoin-file
-  cap: "0"
-  high: "0.0221237"
-  low: "0.0133044"
-- date: 2018-08-06
-  id: bitcoin-god
-  cap: "0"
-  high: "11.4655"
-  low: "9.57172"
-- date: 2018-08-06
   id: bitcoin-turbo-koin
   cap: "0"
   high: "0.000117673"
@@ -784,3 +774,13 @@
   cap: "-1"
   high: "0.0101514"
   low: "0.00843678"
+- date: 2018-08-06
+  id: bitcoin-file
+  cap: "-1"
+  high: "0.0221237"
+  low: "0.0133044"
+- date: 2018-08-06
+  id: bitcoin-god
+  cap: "-1"
+  high: "11.4655"
+  low: "9.57172"
