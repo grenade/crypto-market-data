@@ -615,16 +615,6 @@
   high: "0.00765982"
   low: "0.00509387"
 - date: 2018-10-20
-  id: atheios
-  cap: "-1"
-  high: "0.0115341"
-  low: "0.0105828"
-- date: 2018-10-20
-  id: atlantis-blue-digital-token
-  cap: "-1"
-  high: "0.0172259"
-  low: "0.016631"
-- date: 2018-10-20
   id: abbc-coin
   cap: "-1"
   high: "1.29177"
@@ -689,3 +679,13 @@
   cap: "-1"
   high: "0.00270769"
   low: "0.00115929"
+- date: 2018-10-20
+  id: atheios
+  cap: "-1"
+  high: "0.0115341"
+  low: "0.0105828"
+- date: 2018-10-20
+  id: atlantis-blue-digital-token
+  cap: "-1"
+  high: "0.0172259"
+  low: "0.016631"

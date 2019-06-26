@@ -700,11 +700,6 @@
   high: "0.00237138177372"
   low: "0.00134780287933"
 - date: 2019-03-02
-  id: atlantis-blue-digital-token
-  cap: "-1"
-  high: "0.00423952914355"
-  low: "0.00406981159061"
-- date: 2019-03-02
   id: atlas-protocol
   cap: "-1"
   high: "0.0168082902752"
@@ -809,3 +804,8 @@
   cap: "-1"
   high: "0.000469852870872"
   low: "0.000367947973662"
+- date: 2019-03-02
+  id: atlantis-blue-digital-token
+  cap: "-1"
+  high: "0.00423952914355"
+  low: "0.00406981159061"

@@ -665,11 +665,6 @@
   high: "0.0054525"
   low: "0.00422653"
 - date: 2018-11-16
-  id: atlantis-blue-digital-token
-  cap: "-1"
-  high: "0.026207"
-  low: "0.0224313"
-- date: 2018-11-16
   id: abbc-coin
   cap: "-1"
   high: "0.353598"
@@ -739,3 +734,8 @@
   cap: "-1"
   high: "0.00166631"
   low: "0.00116818"
+- date: 2018-11-16
+  id: atlantis-blue-digital-token
+  cap: "-1"
+  high: "0.026207"
+  low: "0.0224313"
