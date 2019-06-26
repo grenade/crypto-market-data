@@ -500,11 +500,6 @@
   high: "0.00638471"
   low: "0.00494189"
 - date: 2018-08-09
-  id: acute-angle-cloud
-  cap: "-1"
-  high: "0.027738"
-  low: "0.025495"
-- date: 2018-08-09
   id: adultchain
   cap: "-1"
   high: "0.0205384"
@@ -564,3 +559,8 @@
   cap: "-1"
   high: "0.000198394"
   low: "0.000186864"
+- date: 2018-08-09
+  id: acute-angle-cloud
+  cap: "-1"
+  high: "0.027738"
+  low: "0.025495"
