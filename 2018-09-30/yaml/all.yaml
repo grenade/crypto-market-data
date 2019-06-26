@@ -585,11 +585,6 @@
   high: "0.00558331"
   low: "0.00432352"
 - date: 2018-09-30
-  id: amo-coin
-  cap: "-1"
-  high: "0.00196347"
-  low: "0.00163801"
-- date: 2018-09-30
   id: animation-vision-cash
   cap: "-1"
   high: "0.0014597"
@@ -644,3 +639,8 @@
   cap: "-1"
   high: "0.206591"
   low: "0.134674"
+- date: 2018-09-30
+  id: amo-coin
+  cap: "-1"
+  high: "0.00196347"
+  low: "0.00163801"
