@@ -525,11 +525,6 @@
   high: "0.00502291"
   low: "0.00433303"
 - date: 2018-08-14
-  id: animation-vision-cash
-  cap: "-1"
-  high: "0.00156426"
-  low: "0.00113869"
-- date: 2018-08-14
   id: apollo-currency
   cap: "-1"
   high: "0.00102182"
@@ -609,3 +604,8 @@
   cap: "-1"
   high: "0.16238"
   low: "0.13276"
+- date: 2018-08-14
+  id: animation-vision-cash
+  cap: "-1"
+  high: "0.00156426"
+  low: "0.00113869"
