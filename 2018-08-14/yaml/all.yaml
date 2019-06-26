@@ -690,11 +690,6 @@
   high: "0.0011902"
   low: "0.00107935"
 - date: 2018-08-14
-  id: bitcoin-one
-  cap: "0"
-  high: "0.00468587"
-  low: "0.00332027"
-- date: 2018-08-14
   id: bitcoin-turbo-koin
   cap: "0"
   high: "0.000093551"
@@ -859,3 +854,8 @@
   cap: "-1"
   high: "0.105867"
   low: "0.0468077"
+- date: 2018-08-14
+  id: bitcoin-one
+  cap: "-1"
+  high: "0.00468587"
+  low: "0.00332027"
