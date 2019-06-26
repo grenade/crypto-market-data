@@ -635,16 +635,6 @@
   high: "0.00840735"
   low: "0.00568797"
 - date: 2018-11-04
-  id: abcc-token
-  cap: "-1"
-  high: "0.272661"
-  low: "0.2563"
-- date: 2018-11-04
-  id: absolute
-  cap: "-1"
-  high: "0.0632854"
-  low: "0.0253202"
-- date: 2018-11-04
   id: acchain
   cap: "-1"
   high: "0.102279"
@@ -734,3 +724,13 @@
   cap: "-1"
   high: "0.43977"
   low: "0.328646"
+- date: 2018-11-04
+  id: abcc-token
+  cap: "-1"
+  high: "0.272661"
+  low: "0.2563"
+- date: 2018-11-04
+  id: absolute
+  cap: "-1"
+  high: "0.0632854"
+  low: "0.0253202"
