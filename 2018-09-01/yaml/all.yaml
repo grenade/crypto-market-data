@@ -545,11 +545,6 @@
   high: "0.00450905"
   low: "0.00389835"
 - date: 2018-09-01
-  id: apollo-currency
-  cap: "-1"
-  high: "0.0025416"
-  low: "0.00210119"
-- date: 2018-09-01
   id: apollon
   cap: "-1"
   high: "0.0179739"
@@ -619,3 +614,8 @@
   cap: "-1"
   high: "0.00151382"
   low: "0.00133609"
+- date: 2018-09-01
+  id: apollo-currency
+  cap: "-1"
+  high: "0.0025416"
+  low: "0.00210119"

@@ -465,11 +465,6 @@
   high: "0.00721055"
   low: "0.00586103"
 - date: 2018-08-01
-  id: apollo-currency
-  cap: "-1"
-  high: "0.00175572"
-  low: "0.00153926"
-- date: 2018-08-01
   id: arionum
   cap: "-1"
   high: "0.0276846"
@@ -529,3 +524,8 @@
   cap: "-1"
   high: "0.00211938"
   low: "0.00143674"
+- date: 2018-08-01
+  id: apollo-currency
+  cap: "-1"
+  high: "0.00175572"
+  low: "0.00153926"

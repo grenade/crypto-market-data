@@ -500,11 +500,6 @@
   high: "0.00921661"
   low: "0.00656504"
 - date: 2018-08-06
-  id: apollo-currency
-  cap: "-1"
-  high: "0.00173083"
-  low: "0.00138512"
-- date: 2018-08-06
   id: atc-coin
   cap: "-1"
   high: "0.0406023"
@@ -544,3 +539,8 @@
   cap: "-1"
   high: "0.00167754"
   low: "0.00147455"
+- date: 2018-08-06
+  id: apollo-currency
+  cap: "-1"
+  high: "0.00173083"
+  low: "0.00138512"

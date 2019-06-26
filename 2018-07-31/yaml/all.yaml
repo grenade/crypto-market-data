@@ -465,11 +465,6 @@
   high: "0.00727657"
   low: "0.00570206"
 - date: 2018-07-31
-  id: apollo-currency
-  cap: "-1"
-  high: "0.00194721"
-  low: "0.00155731"
-- date: 2018-07-31
   id: arbitrage
   cap: "-1"
   high: "3.98216"
@@ -529,3 +524,8 @@
   cap: "-1"
   high: "0.00236184"
   low: "0.00161069"
+- date: 2018-07-31
+  id: apollo-currency
+  cap: "-1"
+  high: "0.00194721"
+  low: "0.00155731"

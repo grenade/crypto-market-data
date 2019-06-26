@@ -500,11 +500,6 @@
   high: "0.00638471"
   low: "0.00494189"
 - date: 2018-08-09
-  id: apollo-currency
-  cap: "-1"
-  high: "0.00133741"
-  low: "0.00121328"
-- date: 2018-08-09
   id: arepacoin
   cap: "-1"
   high: "0.000791075"
@@ -564,3 +559,8 @@
   cap: "-1"
   high: "0.00164893"
   low: "0.00139597"
+- date: 2018-08-09
+  id: apollo-currency
+  cap: "-1"
+  high: "0.00133741"
+  low: "0.00121328"

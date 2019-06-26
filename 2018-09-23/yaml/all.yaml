@@ -580,11 +580,6 @@
   high: "0.00476475"
   low: "0.00366883"
 - date: 2018-09-23
-  id: apollo-currency
-  cap: "-1"
-  high: "0.00197098"
-  low: "0.00169548"
-- date: 2018-09-23
   id: arbidex
   cap: "-1"
   high: "0.0568473"
@@ -649,3 +644,8 @@
   cap: "-1"
   high: "0.00162324"
   low: "0.00133576"
+- date: 2018-09-23
+  id: apollo-currency
+  cap: "-1"
+  high: "0.00197098"
+  low: "0.00169548"
