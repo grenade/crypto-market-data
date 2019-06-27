@@ -135,6 +135,11 @@
   high: "17.9961"
   low: "15.8971"
 - date: 2018-09-19
+  id: matrix-ai-network
+  cap: "31920900.0"
+  high: "0.21715"
+  low: "0.20559"
+- date: 2018-09-19
   id: high-performance-blockchain
   cap: "30314095.7515"
   high: "0.820627"
@@ -494,8 +499,3 @@
   cap: "3710138.83673"
   high: "0.536982"
   low: "0.502655"
-- date: 2018-09-19
-  id: auroracoin
-  cap: "3693927.08626"
-  high: "0.335634"
-  low: "0.315126"
