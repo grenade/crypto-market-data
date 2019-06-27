@@ -3205,11 +3205,6 @@
   high: "0.736477"
   low: "0.30576"
 - date: 2018-11-14
-  id: content-and-ad-network
-  cap: "-1"
-  high: "0.00258423"
-  low: "0.00222548"
-- date: 2018-11-14
   id: emaratcoin
   cap: "-1"
   high: "0.0484069"
@@ -3679,3 +3674,8 @@
   cap: "-1"
   high: "0.00292106"
   low: "0.0021117"
+- date: 2018-11-14
+  id: content-and-ad-network
+  cap: "-1"
+  high: "0.00258423"
+  low: "0.00222548"
