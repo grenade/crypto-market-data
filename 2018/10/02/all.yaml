@@ -1380,11 +1380,6 @@
   high: "0.00229214"
   low: "0.0016027"
 - date: 2018-10-02
-  id: animation-vision-cash
-  cap: "-1"
-  high: "0.00145378"
-  low: "0.00123821"
-- date: 2018-10-02
   id: anon
   cap: "-1"
   high: "0.727729"
@@ -1604,3 +1599,8 @@
   cap: "-1"
   high: "0.000326136"
   low: "0.000316943"
+- date: 2018-10-02
+  id: animation-vision-cash
+  cap: "-1"
+  high: "0.00145378"
+  low: "0.00123821"
