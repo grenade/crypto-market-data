@@ -1150,11 +1150,6 @@
   high: "0.0408514"
   low: "0.0320478"
 - date: 2018-08-10
-  id: aidos-kuneen
-  cap: "-1"
-  high: "23.4388"
-  low: "20.6331"
-- date: 2018-08-10
   id: akroma
   cap: "-1"
   high: "0.0570885"
@@ -1404,3 +1399,8 @@
   cap: "-1"
   high: "0.00238124"
   low: "0.002031"
+- date: 2018-08-10
+  id: aidos-kuneen
+  cap: "-1"
+  high: "23.4388"
+  low: "20.6331"

@@ -1090,11 +1090,6 @@
   high: "0.0415894"
   low: "0.0305833"
 - date: 2018-08-02
-  id: aidos-kuneen
-  cap: "-1"
-  high: "27.8792"
-  low: "25.5907"
-- date: 2018-08-02
   id: animation-vision-cash
   cap: "-1"
   high: "0.00216059"
@@ -1294,3 +1289,8 @@
   cap: "-1"
   high: "0.0020261"
   low: "0.00174924"
+- date: 2018-08-02
+  id: aidos-kuneen
+  cap: "-1"
+  high: "27.8792"
+  low: "25.5907"
