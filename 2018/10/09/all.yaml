@@ -2890,11 +2890,6 @@
   high: "0.00220543"
   low: "0.0019302"
 - date: 2018-10-09
-  id: content-and-ad-network
-  cap: "-1"
-  high: "0.00553386"
-  low: "0.00509908"
-- date: 2018-10-09
   id: buggyra-coin-zero
   cap: "-1"
   high: "0.0152577"
@@ -3349,3 +3344,8 @@
   cap: "-1"
   high: "0.00339952"
   low: "0.00238974"
+- date: 2018-10-09
+  id: content-and-ad-network
+  cap: "-1"
+  high: "0.00553386"
+  low: "0.00509908"

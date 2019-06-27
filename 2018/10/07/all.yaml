@@ -2850,11 +2850,6 @@
   high: "0.00287664"
   low: "0.00156844"
 - date: 2018-10-07
-  id: content-and-ad-network
-  cap: "-1"
-  high: "0.00552607"
-  low: "0.00495011"
-- date: 2018-10-07
   id: futurocoin
   cap: "-1"
   high: "12.5586"
@@ -3314,3 +3309,8 @@
   cap: "-1"
   high: "0.00329671"
   low: "0.00270566"
+- date: 2018-10-07
+  id: content-and-ad-network
+  cap: "-1"
+  high: "0.00552607"
+  low: "0.00495011"
