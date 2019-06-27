@@ -135,6 +135,11 @@
   high: "0.395788"
   low: "0.163725"
 - date: 2018-08-02
+  id: zclassic
+  cap: "63741528.78"
+  high: "15.2342"
+  low: "13.7607"
+- date: 2018-08-02
   id: high-performance-blockchain
   cap: "61863430.857"
   high: "1.82003"
@@ -494,8 +499,3 @@
   cap: "5652330.53184"
   high: "0.0519007"
   low: "0.0471316"
-- date: 2018-08-02
-  id: agrello-delta
-  cap: "5443374.03695"
-  high: "0.0686735"
-  low: "0.0616163"
