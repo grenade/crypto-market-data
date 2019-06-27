@@ -910,11 +910,6 @@
   high: "2.69911003113"
   low: "2.12546992302"
 - date: 2018-01-11
-  id: high-performance-blockchain
-  cap: "-1"
-  high: "6.41150999069"
-  low: "4.43603992462"
-- date: 2018-01-11
   id: viuly
   cap: "-1"
   high: "0.0704028978944"
@@ -954,3 +949,8 @@
   cap: "-1"
   high: "7.78636980057"
   low: "3.00011992455"
+- date: 2018-01-11
+  id: high-performance-blockchain
+  cap: "-1"
+  high: "6.41150999069"
+  low: "4.43603992462"
