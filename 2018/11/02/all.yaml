@@ -1445,11 +1445,6 @@
   high: "0.0182414"
   low: "0.0131005"
 - date: 2018-11-02
-  id: aidos-kuneen
-  cap: "-1"
-  high: "6.58342"
-  low: "6.35103"
-- date: 2018-11-02
   id: alchemint-standards
   cap: "-1"
   high: "0.00711478"
@@ -1734,3 +1729,8 @@
   cap: "-1"
   high: "0.00566849"
   low: "0.00561528"
+- date: 2018-11-02
+  id: aidos-kuneen
+  cap: "-1"
+  high: "6.58342"
+  low: "6.35103"

@@ -1405,11 +1405,6 @@
   high: "0.0108979"
   low: "0.00851085"
 - date: 2018-10-19
-  id: aidos-kuneen
-  cap: "-1"
-  high: "7.43494"
-  low: "5.68942"
-- date: 2018-10-19
   id: airwire
   cap: "-1"
   high: "0.0813083"
@@ -1649,3 +1644,8 @@
   cap: "-1"
   high: "0.00139418"
   low: "0.00109162"
+- date: 2018-10-19
+  id: aidos-kuneen
+  cap: "-1"
+  high: "7.43494"
+  low: "5.68942"

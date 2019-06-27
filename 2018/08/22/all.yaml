@@ -1160,11 +1160,6 @@
   high: "0.0323249"
   low: "0.0220832"
 - date: 2018-08-22
-  id: aidos-kuneen
-  cap: "-1"
-  high: "24.5703"
-  low: "21.6114"
-- date: 2018-08-22
   id: airbloc
   cap: "-1"
   high: "0.0255198"
@@ -1449,3 +1444,8 @@
   cap: "-1"
   high: "0.0024262"
   low: "0.00206108"
+- date: 2018-08-22
+  id: aidos-kuneen
+  cap: "-1"
+  high: "24.5703"
+  low: "21.6114"

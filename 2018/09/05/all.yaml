@@ -1205,11 +1205,6 @@
   high: "0.0195775"
   low: "0.011818"
 - date: 2018-09-05
-  id: aidos-kuneen
-  cap: "-1"
-  high: "19.8683"
-  low: "16.2968"
-- date: 2018-09-05
   id: ailink-token
   cap: "-1"
   high: "0.00576054"
@@ -1494,3 +1489,8 @@
   cap: "-1"
   high: "0.00135076"
   low: "0.00112738"
+- date: 2018-09-05
+  id: aidos-kuneen
+  cap: "-1"
+  high: "19.8683"
+  low: "16.2968"
