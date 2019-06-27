@@ -1495,11 +1495,6 @@
   high: "0.201988"
   low: "0.179912"
 - date: 2018-08-28
-  id: cashbery-coin
-  cap: "-1"
-  high: "1.76323"
-  low: "1.57503"
-- date: 2018-08-28
   id: futurocoin
   cap: "-1"
   high: "9.56254"
@@ -1599,3 +1594,8 @@
   cap: "-1"
   high: "0.00563102"
   low: "0.00546992"
+- date: 2018-08-28
+  id: cashbery-coin
+  cap: "-1"
+  high: "1.76323"
+  low: "1.57503"
