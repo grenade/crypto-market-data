@@ -1515,11 +1515,6 @@
   high: "0.00246551"
   low: "0.00185341"
 - date: 2018-08-26
-  id: bittwatt
-  cap: "-1"
-  high: "0.0275244"
-  low: "0.0236243"
-- date: 2018-08-26
   id: content-and-ad-network
   cap: "-1"
   high: "0.00763792"
@@ -1674,3 +1669,8 @@
   cap: "-1"
   high: "0.000110098"
   low: "0.0000687588"
+- date: 2018-08-26
+  id: bittwatt
+  cap: "-1"
+  high: "0.0275244"
+  low: "0.0236243"
