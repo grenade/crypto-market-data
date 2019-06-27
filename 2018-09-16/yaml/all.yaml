@@ -1175,11 +1175,6 @@
   high: "0.00209349"
   low: "0.0020565"
 - date: 2018-09-16
-  id: bettex-coin
-  cap: "-1"
-  high: "0.219044"
-  low: "0.18938"
-- date: 2018-09-16
   id: bingocoin
   cap: "-1"
   high: "0.0706292"
@@ -1289,3 +1284,8 @@
   cap: "-1"
   high: "8.1489"
   low: "7.46982"
+- date: 2018-09-16
+  id: bettex-coin
+  cap: "-1"
+  high: "0.219044"
+  low: "0.18938"
