@@ -495,6 +495,11 @@
   high: "0.0266924"
   low: "0.0235295"
 - date: 2018-08-30
+  id: gonetwork
+  cap: "6384094.82483"
+  high: "0.130487"
+  low: "0.11836"
+- date: 2018-08-30
   id: banca
   cap: "6087308.70248"
   high: "0.00038644"
@@ -924,6 +929,11 @@
   cap: "1233588.79339"
   high: "0.0000698941"
   low: "0.0000499878"
+- date: 2018-08-30
+  id: universal-currency
+  cap: "1177657.72391"
+  high: "0.0849654"
+  low: "0.0762472"
 - date: 2018-08-30
   id: guaranteed-ethurance-token-extra
   cap: "1144716.0"
@@ -1730,11 +1740,6 @@
   high: "0.00644834"
   low: "0.00483087"
 - date: 2018-08-30
-  id: ipchain
-  cap: "-1"
-  high: "0.205524"
-  low: "0.176701"
-- date: 2018-08-30
   id: futurocoin
   cap: "-1"
   high: "9.33738"
@@ -1924,3 +1929,8 @@
   cap: "-1"
   high: "0.00250321"
   low: "0.00144156"
+- date: 2018-08-30
+  id: ipchain
+  cap: "-1"
+  high: "0.205524"
+  low: "0.176701"

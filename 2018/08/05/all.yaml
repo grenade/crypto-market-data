@@ -390,6 +390,11 @@
   high: "0.0211624"
   low: "0.0189469"
 - date: 2018-08-05
+  id: gonetwork
+  cap: "16192343.5183"
+  high: "0.337871"
+  low: "0.294414"
+- date: 2018-08-05
   id: cryptaur
   cap: "16182081.5972"
   high: "0.00242512"
@@ -804,6 +809,11 @@
   cap: "2497422.0"
   high: "0.034744"
   low: "0.0340445"
+- date: 2018-08-05
+  id: universal-currency
+  cap: "2491347.14048"
+  high: "0.186907"
+  low: "0.168107"
 - date: 2018-08-05
   id: guaranteed-ethurance-token-extra
   cap: "2360862.0"
@@ -1585,11 +1595,6 @@
   high: "0.00755975"
   low: "0.00699052"
 - date: 2018-08-05
-  id: ipchain
-  cap: "-1"
-  high: "0.379524"
-  low: "0.336163"
-- date: 2018-08-05
   id: futurocoin
   cap: "-1"
   high: "8.94017"
@@ -1729,3 +1734,8 @@
   cap: "-1"
   high: "0.00446708"
   low: "0.003201"
+- date: 2018-08-05
+  id: ipchain
+  cap: "-1"
+  high: "0.379524"
+  low: "0.336163"
