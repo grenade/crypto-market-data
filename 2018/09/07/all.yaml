@@ -2640,11 +2640,6 @@
   high: "0.00215147"
   low: "0.00198664"
 - date: 2018-09-07
-  id: content-and-ad-network
-  cap: "-1"
-  high: "0.0080036"
-  low: "0.00652336"
-- date: 2018-09-07
   id: vipstar-coin
   cap: "-1"
   high: "0.000523253"
@@ -3099,3 +3094,8 @@
   cap: "-1"
   high: "0.0941993"
   low: "0.0730212"
+- date: 2018-09-07
+  id: content-and-ad-network
+  cap: "-1"
+  high: "0.0080036"
+  low: "0.00652336"
