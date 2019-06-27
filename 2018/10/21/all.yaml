@@ -2905,11 +2905,6 @@
   high: "0.00262748"
   low: "0.00152221"
 - date: 2018-10-21
-  id: atheios
-  cap: "-1"
-  high: "0.0125808"
-  low: "0.0109174"
-- date: 2018-10-21
   id: atlantis-blue-digital-token
   cap: "-1"
   high: "0.0170946"
@@ -3444,3 +3439,8 @@
   cap: "-1"
   high: "0.00431357"
   low: "0.00384654"
+- date: 2018-10-21
+  id: atheios
+  cap: "-1"
+  high: "0.0125808"
+  low: "0.0109174"
