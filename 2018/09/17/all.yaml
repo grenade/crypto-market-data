@@ -1625,11 +1625,6 @@
   high: "0.00885646"
   low: "0.00670491"
 - date: 2018-09-17
-  id: aegeus
-  cap: "-1"
-  high: "0.01237"
-  low: "0.0100447"
-- date: 2018-09-17
   id: alchemint-standards
   cap: "-1"
   high: "0.00945276"
@@ -1939,3 +1934,8 @@
   cap: "-1"
   high: "0.23629"
   low: "0.166816"
+- date: 2018-09-17
+  id: aegeus
+  cap: "-1"
+  high: "0.01237"
+  low: "0.0100447"
