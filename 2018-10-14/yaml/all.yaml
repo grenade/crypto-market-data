@@ -1295,11 +1295,6 @@
   high: "0.0265413"
   low: "0.0233901"
 - date: 2018-10-14
-  id: buggyra-coin-zero
-  cap: "-1"
-  high: "0.015535"
-  low: "0.0140809"
-- date: 2018-10-14
   id: lightning-bitcoin
   cap: "-1"
   high: "5.08137"
@@ -1359,3 +1354,8 @@
   cap: "-1"
   high: "0.172116"
   low: "0.158717"
+- date: 2018-10-14
+  id: buggyra-coin-zero
+  cap: "-1"
+  high: "0.015535"
+  low: "0.0140809"
