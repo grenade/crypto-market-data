@@ -3130,11 +3130,6 @@
   high: "0.0560566"
   low: "0.047837"
 - date: 2018-11-21
-  id: asura-coin
-  cap: "-1"
-  high: "0.000953465"
-  low: "0.000768539"
-- date: 2018-11-21
   id: atlantis-blue-digital-token
   cap: "-1"
   high: "0.0169013"
@@ -3694,3 +3689,8 @@
   cap: "-1"
   high: "0.00256521"
   low: "0.00211683"
+- date: 2018-11-21
+  id: asura-coin
+  cap: "-1"
+  high: "0.000953465"
+  low: "0.000768539"
