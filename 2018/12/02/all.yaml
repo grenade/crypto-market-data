@@ -2660,11 +2660,6 @@
   high: "0.00819320685473"
   low: "0.00687900029296"
 - date: 2018-12-02
-  id: blockchain-certified-data-token
-  cap: "-1"
-  high: "0.00731120295922"
-  low: "0.00640488545603"
-- date: 2018-12-02
   id: clubcoin
   cap: "-1"
   high: "0.477667716324"
@@ -2914,3 +2909,8 @@
   cap: "-1"
   high: "0.00149360098614"
   low: "0.00140541578232"
+- date: 2018-12-02
+  id: blockchain-certified-data-token
+  cap: "-1"
+  high: "0.00731120295922"
+  low: "0.00640488545603"
