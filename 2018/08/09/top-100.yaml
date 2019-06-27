@@ -295,6 +295,11 @@
   high: "0.185999"
   low: "0.166487"
 - date: 2018-08-09
+  id: iht-real-estate-protocol
+  cap: "13712845.7262"
+  high: "0.0268806"
+  low: "0.0238644"
+- date: 2018-08-09
   id: adtoken
   cap: "13593960.0"
   high: "0.0233829"
@@ -494,8 +499,3 @@
   cap: "3651960.2419"
   high: "0.100224"
   low: "0.0945483"
-- date: 2018-08-09
-  id: attention-token-of-media
-  cap: "3648495.54391"
-  high: "0.000821265"
-  low: "0.000615633"
