@@ -1705,11 +1705,6 @@
   high: "0.0892677"
   low: "0.0879093"
 - date: 2018-10-11
-  id: agrolot
-  cap: "-1"
-  high: "0.3938"
-  low: "0.325329"
-- date: 2018-10-11
   id: encryptotel-eth
   cap: "-1"
   high: "0.0217176"
@@ -1759,3 +1754,8 @@
   cap: "-1"
   high: "0.0242034"
   low: "0.0235642"
+- date: 2018-10-11
+  id: agrolot
+  cap: "-1"
+  high: "0.3938"
+  low: "0.325329"
