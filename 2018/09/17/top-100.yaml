@@ -145,6 +145,11 @@
   high: "1.43934"
   low: "1.25698"
 - date: 2018-09-17
+  id: waltonchain
+  cap: "123299389.812"
+  high: "3.6249"
+  low: "3.06738"
+- date: 2018-09-17
   id: golem-network-tokens
   cap: "121155142.326"
   high: "0.140938"
@@ -494,8 +499,3 @@
   cap: "21019999.9702"
   high: "0.770308"
   low: "0.696633"
-- date: 2018-09-17
-  id: raiden-network-token
-  cap: "20645570.7117"
-  high: "0.465689"
-  low: "0.408454"

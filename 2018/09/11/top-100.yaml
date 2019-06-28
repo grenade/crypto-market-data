@@ -145,6 +145,11 @@
   high: "1.41964"
   low: "1.29268"
 - date: 2018-09-11
+  id: waltonchain
+  cap: "124892709.118"
+  high: "3.38845"
+  low: "2.95446"
+- date: 2018-09-11
   id: golem-network-tokens
   cap: "118366625.832"
   high: "0.13209"
@@ -494,8 +499,3 @@
   cap: "21050480.8"
   high: "0.0275225"
   low: "0.0241624"
-- date: 2018-09-11
-  id: streamr-datacoin
-  cap: "20904166.1399"
-  high: "0.0326431"
-  low: "0.0299299"
