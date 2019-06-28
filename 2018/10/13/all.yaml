@@ -4230,11 +4230,6 @@
   high: "0.000751579"
   low: "0.0007461"
 - date: 2018-10-13
-  id: airwire
-  cap: "-1"
-  high: "0.063638"
-  low: "0.0489265"
-- date: 2018-10-13
   id: alchemint-standards
   cap: "-1"
   high: "0.00718284"
@@ -5144,3 +5139,8 @@
   cap: "-1"
   high: "0.00441982"
   low: "0.00427588"
+- date: 2018-10-13
+  id: airwire
+  cap: "-1"
+  high: "0.063638"
+  low: "0.0489265"
