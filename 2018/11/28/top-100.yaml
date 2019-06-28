@@ -60,6 +60,11 @@
   high: "83.7603"
   low: "73.1873"
 - date: 2018-11-28
+  id: tezos
+  cap: "353582921.36"
+  high: "0.596642"
+  low: "0.563259"
+- date: 2018-11-28
   id: bitcoin-gold
   cap: "341077364.741"
   high: "20.8333"
@@ -494,8 +499,3 @@
   cap: "14493545.1"
   high: "0.0823029"
   low: "0.0675319"
-- date: 2018-11-28
-  id: optimal-shelf-availability-token
-  cap: "14417921.9142"
-  high: "0.0516962"
-  low: "0.0370007"
