@@ -190,6 +190,11 @@
   high: "0.115941"
   low: "0.104878"
 - date: 2018-11-05
+  id: iostoken
+  cap: "102566520.0"
+  high: "0.0123986"
+  low: "0.0119723"
+- date: 2018-11-05
   id: maidsafecoin
   cap: "101395725.566"
   high: "0.224858"
@@ -494,8 +499,3 @@
   cap: "26878710.3061"
   high: "0.144277"
   low: "0.13705"
-- date: 2018-11-05
-  id: high-performance-blockchain
-  cap: "25700953.8651"
-  high: "0.704539"
-  low: "0.67619"
