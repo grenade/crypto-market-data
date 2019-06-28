@@ -1040,6 +1040,11 @@
   high: "1.91522"
   low: "1.85094"
 - date: 2018-10-23
+  id: restart-energy-mwat
+  cap: "8217231.4"
+  high: "0.0188155"
+  low: "0.0170589"
+- date: 2018-10-23
   id: qubitica
   cap: "7963553.64306"
   high: "3.21409"

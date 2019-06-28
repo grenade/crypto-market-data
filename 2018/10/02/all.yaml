@@ -1055,6 +1055,11 @@
   high: "0.0729719"
   low: "0.0705478"
 - date: 2018-10-02
+  id: restart-energy-mwat
+  cap: "7102153.425"
+  high: "0.0163834"
+  low: "0.0156804"
+- date: 2018-10-02
   id: halalchain
   cap: "6909555.74684"
   high: "0.0236349"

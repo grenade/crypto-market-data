@@ -1040,6 +1040,11 @@
   high: "0.000162891"
   low: "0.00013637"
 - date: 2018-10-03
+  id: restart-energy-mwat
+  cap: "7040081.4"
+  high: "0.0160832"
+  low: "0.015348"
+- date: 2018-10-03
   id: mercury
   cap: "7001770.0"
   high: "0.0712094"

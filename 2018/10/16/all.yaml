@@ -1080,6 +1080,11 @@
   high: "0.000139826"
   low: "0.000128094"
 - date: 2018-10-16
+  id: restart-energy-mwat
+  cap: "7061768.125"
+  high: "0.0156965"
+  low: "0.0150615"
+- date: 2018-10-16
   id: carvertical
   cap: "6777161.80373"
   high: "0.00111704"
