@@ -3030,11 +3030,6 @@
   high: "0.00745468"
   low: "0.00661703"
 - date: 2018-08-02
-  id: bitrewards
-  cap: "-1"
-  high: "0.00379891"
-  low: "0.00287312"
-- date: 2018-08-02
   id: lightning-bitcoin
   cap: "-1"
   high: "10.0943"
@@ -3654,3 +3649,8 @@
   cap: "-1"
   high: "0.181044"
   low: "0.173955"
+- date: 2018-08-02
+  id: bitrewards
+  cap: "-1"
+  high: "0.00379891"
+  low: "0.00287312"
