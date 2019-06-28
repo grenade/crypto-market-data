@@ -3340,11 +3340,6 @@
   high: "0.00853084"
   low: "0.0069067"
 - date: 2018-08-08
-  id: bitcoin-god
-  cap: "-1"
-  high: "10.4002"
-  low: "9.42018"
-- date: 2018-08-08
   id: bitcoin-one
   cap: "-1"
   high: "0.00632248"
@@ -4074,3 +4069,8 @@
   cap: "-1"
   high: "0.098087"
   low: "0.0870364"
+- date: 2018-08-08
+  id: bitcoin-god
+  cap: "-1"
+  high: "10.4002"
+  low: "9.42018"
