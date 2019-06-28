@@ -3395,11 +3395,6 @@
   high: "0.0663189"
   low: "0.0420151"
 - date: 2018-09-05
-  id: bitcoin-turbo-koin
-  cap: "-1"
-  high: "0.0000830105"
-  low: "0.0000642921"
-- date: 2018-09-05
   id: bitcoinx
   cap: "-1"
   high: "0.00520001"
@@ -4149,3 +4144,8 @@
   cap: "-1"
   high: "0.329813"
   low: "0.311006"
+- date: 2018-09-05
+  id: bitcoin-turbo-koin
+  cap: "-1"
+  high: "0.0000830105"
+  low: "0.0000642921"
