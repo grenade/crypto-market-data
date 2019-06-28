@@ -860,6 +860,11 @@
   high: "0.0215672"
   low: "0.0205696"
 - date: 2018-08-21
+  id: restart-energy-mwat
+  cap: "9960972.4"
+  high: "0.0250282"
+  low: "0.020141"
+- date: 2018-08-21
   id: sureremit
   cap: "9932850.0"
   high: "0.0211478"

@@ -1190,6 +1190,11 @@
   high: "0.0184162"
   low: "0.0168393"
 - date: 2018-08-07
+  id: restart-energy-mwat
+  cap: "6805889.4"
+  high: "0.0176631"
+  low: "0.0161277"
+- date: 2018-08-07
   id: dynamic
   cap: "6761714.24827"
   high: "1.4158"

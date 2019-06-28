@@ -920,6 +920,11 @@
   high: "0.18679"
   low: "0.177745"
 - date: 2018-08-12
+  id: restart-energy-mwat
+  cap: "9182298.0"
+  high: "0.0271023"
+  low: "0.0184241"
+- date: 2018-08-12
   id: silent-notary
   cap: "9007105.09291"
   high: "0.0000660335"

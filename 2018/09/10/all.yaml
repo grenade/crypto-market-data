@@ -880,6 +880,11 @@
   high: "0.0226546"
   low: "0.0213454"
 - date: 2018-09-10
+  id: restart-energy-mwat
+  cap: "8410019.4"
+  high: "0.0213392"
+  low: "0.0175157"
+- date: 2018-09-10
   id: wepower
   cap: "8402922.22232"
   high: "0.0183232"

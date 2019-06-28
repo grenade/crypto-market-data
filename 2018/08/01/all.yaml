@@ -1180,6 +1180,11 @@
   high: "0.00145203"
   low: "0.0013689"
 - date: 2018-08-01
+  id: restart-energy-mwat
+  cap: "7950395.6"
+  high: "0.0200187"
+  low: "0.0172395"
+- date: 2018-08-01
   id: hi-mutual-society
   cap: "7821476.73"
   high: "0.020043"

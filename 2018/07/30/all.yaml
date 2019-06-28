@@ -1175,6 +1175,11 @@
   high: "0.00163772"
   low: "0.00145689"
 - date: 2018-07-30
+  id: restart-energy-mwat
+  cap: "8585598.0"
+  high: "0.021002"
+  low: "0.0195826"
+- date: 2018-07-30
   id: trustnote
   cap: "8568584.47986"
   high: "0.0349318"

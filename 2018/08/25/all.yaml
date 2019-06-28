@@ -730,6 +730,11 @@
   high: "0.035532"
   low: "0.0291745"
 - date: 2018-08-25
+  id: restart-energy-mwat
+  cap: "13468223.15"
+  high: "0.0362375"
+  low: "0.0313305"
+- date: 2018-08-25
   id: spankchain
   cap: "13390036.187"
   high: "0.0468329"

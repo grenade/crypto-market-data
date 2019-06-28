@@ -1220,6 +1220,11 @@
   high: "0.502312"
   low: "0.449339"
 - date: 2018-07-31
+  id: restart-energy-mwat
+  cap: "7548744.0"
+  high: "0.0202986"
+  low: "0.0178204"
+- date: 2018-07-31
   id: bitcoin-atom
   cap: "7304032.75883"
   high: "0.437485"
