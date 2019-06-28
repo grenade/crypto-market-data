@@ -4310,11 +4310,6 @@
   high: "0.114961"
   low: "0.0681372"
 - date: 2018-11-19
-  id: encryptotel-eth
-  cap: "-1"
-  high: "0.0129596"
-  low: "0.00936557"
-- date: 2018-11-19
   id: penta
   cap: "-1"
   high: "0.000843405"
@@ -5014,3 +5009,8 @@
   cap: "-1"
   high: "0.063774"
   low: "0.0391567"
+- date: 2018-11-19
+  id: encryptotel-eth
+  cap: "-1"
+  high: "0.0129596"
+  low: "0.00936557"
