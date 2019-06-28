@@ -185,6 +185,11 @@
   high: "0.108107"
   low: "0.0815258"
 - date: 2018-11-21
+  id: waltonchain
+  cap: "58611696.5582"
+  high: "1.46883"
+  low: "1.3495"
+- date: 2018-11-21
   id: gxchain
   cap: "51934500.0"
   high: "0.894192"
@@ -494,8 +499,3 @@
   cap: "14362013.0688"
   high: "0.294667"
   low: "0.259256"
-- date: 2018-11-21
-  id: high-performance-blockchain
-  cap: "14258410.9311"
-  high: "0.385554"
-  low: "0.349213"
