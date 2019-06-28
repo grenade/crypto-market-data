@@ -1030,6 +1030,11 @@
   high: "1.65641"
   low: "1.53987"
 - date: 2018-11-03
+  id: restart-energy-mwat
+  cap: "8926464.275"
+  high: "0.0199047"
+  low: "0.018677"
+- date: 2018-11-03
   id: dimecoin
   cap: "8756440.53757"
   high: "0.0000216764"

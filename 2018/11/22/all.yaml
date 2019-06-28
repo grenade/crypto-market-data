@@ -1035,6 +1035,11 @@
   high: "1.31441"
   low: "1.23954"
 - date: 2018-11-22
+  id: restart-energy-mwat
+  cap: "4877792.675"
+  high: "0.0117947"
+  low: "0.010767"
+- date: 2018-11-22
   id: 0chain
   cap: "4866200.0"
   high: "0.151668"

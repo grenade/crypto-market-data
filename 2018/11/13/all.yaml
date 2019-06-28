@@ -1040,6 +1040,11 @@
   high: "0.0115875"
   low: "0.0105832"
 - date: 2018-11-13
+  id: restart-energy-mwat
+  cap: "8086024.45"
+  high: "0.0178983"
+  low: "0.0168112"
+- date: 2018-11-13
   id: minexcoin
   cap: "8080099.10358"
   high: "1.92145"

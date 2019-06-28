@@ -1055,6 +1055,11 @@
   high: "0.00673607"
   low: "0.00531614"
 - date: 2018-11-15
+  id: restart-energy-mwat
+  cap: "6670456.3"
+  high: "0.0151814"
+  low: "0.013727"
+- date: 2018-11-15
   id: feathercoin
   cap: "6590527.08214"
   high: "0.0330593"

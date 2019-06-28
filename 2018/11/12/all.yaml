@@ -1065,6 +1065,11 @@
   high: "0.0547462"
   low: "0.0345873"
 - date: 2018-11-12
+  id: restart-energy-mwat
+  cap: "7910357.45"
+  high: "0.0177464"
+  low: "0.0169719"
+- date: 2018-11-12
   id: agrello-delta
   cap: "7784733.51072"
   high: "0.0922812"
