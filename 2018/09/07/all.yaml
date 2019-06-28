@@ -3630,11 +3630,6 @@
   high: "0.00425802"
   low: "0.00375317"
 - date: 2018-09-07
-  id: bitcoin-god
-  cap: "-1"
-  high: "19.5957"
-  low: "14.0272"
-- date: 2018-09-07
   id: bitcoin-incognito
   cap: "-1"
   high: "0.0482532"
@@ -4374,3 +4369,8 @@
   cap: "-1"
   high: "0.00179338"
   low: "0.00149374"
+- date: 2018-09-07
+  id: bitcoin-god
+  cap: "-1"
+  high: "19.5957"
+  low: "14.0272"
