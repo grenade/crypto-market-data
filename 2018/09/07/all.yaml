@@ -3540,11 +3540,6 @@
   high: "0.00548078"
   low: "0.00485166"
 - date: 2018-09-07
-  id: encryptotel-eth
-  cap: "-1"
-  high: "0.0168439"
-  low: "0.0162979"
-- date: 2018-09-07
   id: chatcoin
   cap: "-1"
   high: "0.0235749"
@@ -4189,3 +4184,8 @@
   cap: "-1"
   high: "0.0585415"
   low: "0.0313973"
+- date: 2018-09-07
+  id: encryptotel-eth
+  cap: "-1"
+  high: "0.0168439"
+  low: "0.0162979"
