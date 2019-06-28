@@ -4640,11 +4640,6 @@
   high: "0.00570909"
   low: "0.00494707"
 - date: 2018-11-24
-  id: davinci-coin
-  cap: "-1"
-  high: "0.0137631"
-  low: "0.0111041"
-- date: 2018-11-24
   id: bitcoin-zero
   cap: "-1"
   high: "0.0753962"
@@ -5459,3 +5454,8 @@
   cap: "-1"
   high: "0.0058913"
   low: "0.00481065"
+- date: 2018-11-24
+  id: davinci-coin
+  cap: "-1"
+  high: "0.0137631"
+  low: "0.0111041"
