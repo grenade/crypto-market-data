@@ -3245,11 +3245,6 @@
   high: "0.000645975"
   low: "0.00062933"
 - date: 2018-08-22
-  id: acchain
-  cap: "-1"
-  high: "0.0684455"
-  low: "0.060056"
-- date: 2018-08-22
   id: alchemint-standards
   cap: "-1"
   high: "0.0137226"
@@ -4079,3 +4074,8 @@
   cap: "-1"
   high: "5.3209"
   low: "4.49951"
+- date: 2018-08-22
+  id: acchain
+  cap: "-1"
+  high: "0.0684455"
+  low: "0.060056"
